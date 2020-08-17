@@ -1,8 +1,8 @@
-# Lesson 5.2: The problem with metrics 
+# Lesson 5.2: Our Ecosystem, Venture Capital, & Hypergrowth
 
 News stories understandably often focus on one instance of a particular ethics issue at a particular company.  Here, I want us to step back and consider some of the broader trends and factors that have resulted in the types of issues we are seeing.  These include our over-emphasis on metrics, the inherent design of many of the platforms, venture capital’s focus on hypergrowth, and more.
 
-In this video, we focus on how overemphasizing metrics leads to manipulation, gaming, myopic focus on short-term goals, and unexpected negative consequences, with lots of concrete examples.
+In this video, we discuss how the influences of venture capital and hypergrowth incentivize many negative outcomes. 
 
 ## Required Reading:
 Zeynep Tufekci, [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)

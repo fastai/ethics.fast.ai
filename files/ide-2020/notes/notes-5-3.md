@@ -1,8 +1,6 @@
-# Lesson 5: How did we get here? Our Ecosystem
+# Lesson 5.3: Losing the Forest for the Trees, guest lecture by Ali Alkhatib
 
-News stories understandably often focus on one instance of a particular ethics issue at a particular company.  Here, I want us to step back and consider some of the broader trends and factors that have resulted in the types of issues we are seeing.  These include our over-emphasis on metrics, the inherent design of many of the platforms, venture capital’s focus on hypergrowth, and more.
-
-In this video, we discuss how the influences of venture capital and hypergrowth incentivize many negative outcomes. 
+We turn our messy world into data to reason about it and to inform actions. That's become a growing problem as we build systems directly out of that data. People respond and begin performing for the algorithms that dictate our lives. CADE Research Fellow Ali Alkhatib draws on the history of HCI, James Scott's Seeing Like a State, and current issues in data ethics in discussing the issues that arise when we uncritically build algorithmic systems on historical foundations of greed exploitation, and harm.
 
 ## Required Reading:
 Zeynep Tufekci, [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)
