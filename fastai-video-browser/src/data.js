@@ -1,25 +1,25 @@
 export const TRANSCRIPT_URLS = {
-  1: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/transcripts/transcript-1-1.json',
-  2: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/transcripts/transcript-2-1.json',
-  3: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/transcripts/transcript-3-1.json',
-  4: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/transcripts/transcript-4-1.json',
-  5: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/transcripts/transcript-4-2.json',
-  6: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/transcripts/transcript-5-1.json',
-  7: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/transcripts/transcript-5-2.json',
-  7: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/transcripts/transcript-5-3.json',
-  7: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/transcripts/transcript-6-1.json',
+  1: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-1-1.json',
+  2: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-2-1.json',
+  3: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-3-1.json',
+  4: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-4-1.json',
+  5: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-4-2.json',
+  6: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-5-1.json',
+  7: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-5-2.json',
+  7: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-5-3.json',
+  7: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-6-1.json',
 };
 
 export const NOTES_URLS = {
-  1: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/notes/notes-1-1.md',
-  2: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/notes/notes-2-1.md',
-  3: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/notes/notes-3-1.md',
-  4: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/notes/notes-4-1.md',
-  5: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/notes/notes-4-2.md',
-  6: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/notes/notes-5-1.md',
-  7: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/notes/notes-5-2.md',
-  8: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/notes/notes-5-3.md',
-  9: 'https://raw.githubusercontent.com/fastai/course-ethics/master/files/ide-2020/notes/notes-6-1.md',
+  1: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/notes/notes-1-1.md',
+  2: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/notes/notes-2-1.md',
+  3: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/notes/notes-3-1.md',
+  4: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/notes/notes-4-1.md',
+  5: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/notes/notes-4-2.md',
+  6: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/notes/notes-5-1.md',
+  7: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/notes/notes-5-2.md',
+  8: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/notes/notes-5-3.md',
+  9: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/notes/notes-6-1.md',
 }
  
 export const VIDEO_SOURCES = {
