@@ -1,0 +1,5298 @@
+0:00:00.000,0:00:04.140
+and I'm gonna start by going through a
+
+0:00:01.650,0:00:05.940
+few different case studies of bias to
+
+0:00:04.140,0:00:08.929
+kind of ground what we're talking and in
+
+0:00:05.940,0:00:11.759
+some practical real-world examples and
+
+0:00:08.929,0:00:14.250
+these also will illustrate some of the
+
+0:00:11.759,0:00:18.090
+different types of bias from the Hirini
+
+0:00:14.250,0:00:20.939
+Suresh and John Guttag paper and the
+
+0:00:18.090,0:00:22.289
+first is gender shades which I would
+
+0:00:20.939,0:00:25.380
+imagine many people are familiar with
+
+0:00:22.289,0:00:27.599
+this has received a lot of a lot of
+
+0:00:25.380,0:00:29.130
+media attention which is good and this
+
+0:00:27.599,0:00:32.219
+was a study from joy ballon weeny
+
+0:00:29.130,0:00:35.520
+intimidate gabru evaluating commercial
+
+0:00:32.219,0:00:37.860
+computer vision products from Microsoft
+
+0:00:35.520,0:00:39.840
+IBM and face plus plus and then they did
+
+0:00:37.860,0:00:42.329
+a follow-up study that looked at Amazon
+
+0:00:39.840,0:00:45.120
+Kairos and a few other companies and
+
+0:00:42.329,0:00:49.050
+they kind of consistently found that
+
+0:00:45.120,0:00:51.420
+these news classifiers had significantly
+
+0:00:49.050,0:00:54.149
+worse performance on dark skinned women
+
+0:00:51.420,0:00:56.309
+and here it's really significant that
+
+0:00:54.149,0:00:59.010
+they didn't just look at light skinned
+
+0:00:56.309,0:01:01.199
+versus dark skinned or women versus men
+
+0:00:59.010,0:01:04.189
+but kind of broke it out into
+
+0:01:01.199,0:01:07.140
+subcategories to kind of capture that
+
+0:01:04.189,0:01:08.790
+for instance IBM's product was ninety
+
+0:01:07.140,0:01:11.070
+nine point seven percent accurate on
+
+0:01:08.790,0:01:12.930
+light skinned men and then only sixty
+
+0:01:11.070,0:01:15.960
+five point three percent accurate on
+
+0:01:12.930,0:01:17.850
+dark skinned women and again this these
+
+0:01:15.960,0:01:20.240
+were commercial products that had been
+
+0:01:17.850,0:01:20.240
+released
+
+0:01:21.409,0:01:27.330
+so yeah the follow-up found found
+
+0:01:24.060,0:01:30.479
+something similar with Amazon a separate
+
+0:01:27.330,0:01:32.549
+study from the ACLU found that Amazon's
+
+0:01:30.479,0:01:34.439
+facial recognition in correctly matched
+
+0:01:32.549,0:01:37.220
+twenty eight members of Congress to
+
+0:01:34.439,0:01:39.180
+criminal mug shots and this
+
+0:01:37.220,0:01:43.920
+disproportionately included people of
+
+0:01:39.180,0:01:45.780
+color who are wrongly matched and this
+
+0:01:43.920,0:01:50.250
+technology is already in use even though
+
+0:01:45.780,0:01:52.979
+it's virtually unregulated and so this
+
+0:01:50.250,0:01:57.659
+is this is I think pretty concerning and
+
+0:01:52.979,0:01:59.880
+alarming and so I like I like this
+
+0:01:57.659,0:02:03.320
+really like this paper that I assigned
+
+0:01:59.880,0:02:05.430
+on a framework for understanding
+
+0:02:03.320,0:02:07.290
+unintended consequences of machine
+
+0:02:05.430,0:02:09.959
+learning because it kind of breaks down
+
+0:02:07.290,0:02:12.420
+bias into different sources have
+
+0:02:09.959,0:02:13.560
+different causes which is helpful for
+
+0:02:12.420,0:02:16.800
+addressing it
+
+0:02:13.560,0:02:18.810
+and that kind of pretty quickly you know
+
+0:02:16.800,0:02:20.670
+it's helpful to to know that bias is an
+
+0:02:18.810,0:02:23.099
+issue and exist but you kind of need to
+
+0:02:20.670,0:02:25.500
+to move beyond that surface level
+
+0:02:23.099,0:02:28.680
+understanding to think about how how to
+
+0:02:25.500,0:02:30.530
+address it and where it's coming from so
+
+0:02:28.680,0:02:34.470
+in this case this is representation bias
+
+0:02:30.530,0:02:36.959
+where the kind of data that you've
+
+0:02:34.470,0:02:40.310
+trained on is not representative of the
+
+0:02:36.959,0:02:42.780
+data that this is being deployed on
+
+0:02:40.310,0:02:46.380
+however because this was a problem kind
+
+0:02:42.780,0:02:50.100
+of not just for one company it's also an
+
+0:02:46.380,0:02:52.470
+example of evaluation bias and so in
+
+0:02:50.100,0:02:54.930
+machine learning benchmark data sets per
+
+0:02:52.470,0:02:57.709
+on a lot of research which in some ways
+
+0:02:54.930,0:03:00.569
+is a positive but it also means that
+
+0:02:57.709,0:03:02.730
+biases in those benchmark data sets end
+
+0:03:00.569,0:03:04.200
+up kind of being replicated at scale and
+
+0:03:02.730,0:03:08.510
+that you have like a whole body of
+
+0:03:04.200,0:03:13.319
+research kind of on top of those biases
+
+0:03:08.510,0:03:15.870
+and so a lot of the popular data sets of
+
+0:03:13.319,0:03:18.450
+faces primarily included light-skinned
+
+0:03:15.870,0:03:19.769
+men up until kind of just in the last
+
+0:03:18.450,0:03:22.680
+year or two where people are starting to
+
+0:03:19.769,0:03:26.549
+address this and so for instance I GPA
+
+0:03:22.680,0:03:28.440
+was a data set of faces and only four
+
+0:03:26.549,0:03:32.160
+percent of the images or of dark-skinned
+
+0:03:28.440,0:03:34.049
+women we also see this with image net
+
+0:03:32.160,0:03:36.170
+which is I think probably the best
+
+0:03:34.049,0:03:38.579
+studied computer vision set out there
+
+0:03:36.170,0:03:43.380
+two-thirds of image net images are from
+
+0:03:38.579,0:03:44.160
+the West and so an image net is for kind
+
+0:03:43.380,0:03:46.310
+of classifying
+
+0:03:44.160,0:03:48.900
+all sorts of different you know types of
+
+0:03:46.310,0:03:51.959
+animals and household appliances and
+
+0:03:48.900,0:03:53.670
+vehicles and so it's not not people for
+
+0:03:51.959,0:03:55.440
+for the most part but kind of all these
+
+0:03:53.670,0:03:58.350
+different things but which look
+
+0:03:55.440,0:04:00.319
+different in different cultures and so
+
+0:03:58.350,0:04:03.600
+as a result there are higher error rates
+
+0:04:00.319,0:04:06.150
+kind of a few one example that is of a
+
+0:04:03.600,0:04:08.880
+person is bridegroom so me I'm getting
+
+0:04:06.150,0:04:11.130
+married and this study found that there
+
+0:04:08.880,0:04:14.519
+was a much higher error rate identifying
+
+0:04:11.130,0:04:18.470
+bridegroom's from like Egypt and India
+
+0:04:14.519,0:04:18.470
+and countries outside the West
+
+0:04:19.350,0:04:24.900
+and so a way to address kind of
+
+0:04:22.950,0:04:28.410
+representation data is creating more
+
+0:04:24.900,0:04:30.480
+representative datasets and joy
+
+0:04:28.410,0:04:32.280
+intimidate did that as part of gender
+
+0:04:30.480,0:04:35.310
+shades it's really important to keep in
+
+0:04:32.280,0:04:37.470
+mind consent when building datasets and
+
+0:04:35.310,0:04:39.360
+not taking people's images without their
+
+0:04:37.470,0:04:41.160
+consent and so this was a well-built
+
+0:04:39.360,0:04:44.730
+data set but there are examples that
+
+0:04:41.160,0:04:47.820
+were not and I will I will come back
+
+0:04:44.730,0:04:49.920
+because this is not the full answer and
+
+0:04:47.820,0:04:54.480
+there's more more to this so we'll kind
+
+0:04:49.920,0:04:57.960
+of return to this example later any any
+
+0:04:54.480,0:05:15.780
+questions on on that Oh Lauren and who
+
+0:04:57.960,0:05:25.410
+has the catch box where especially with
+
+0:05:15.780,0:05:28.610
+my Covina nonprofit challenge sources is
+
+0:05:25.410,0:05:31.610
+there way like ask a go whore own
+
+0:05:28.610,0:05:31.610
+organizations
+
+0:05:33.470,0:05:37.500
+that's it that's a good question I'll
+
+0:05:35.520,0:05:40.710
+get some I have a section on kind of
+
+0:05:37.500,0:05:42.630
+towards solutions later on but the kind
+
+0:05:40.710,0:05:44.970
+of brief answer and I actually don't
+
+0:05:42.630,0:05:48.240
+know about Hagler I'm Dena in particular
+
+0:05:44.970,0:05:50.550
+but kind of being very thoughtful about
+
+0:05:48.240,0:05:54.240
+how you construct the data set which is
+
+0:05:50.550,0:05:57.330
+in general machine learning has often
+
+0:05:54.240,0:05:59.340
+kind of just focused on gathering huge
+
+0:05:57.330,0:06:00.540
+amounts of data efficiently and not as
+
+0:05:59.340,0:06:02.220
+much about kind of how that data is
+
+0:06:00.540,0:06:04.770
+structured or what sort of risk might be
+
+0:06:02.220,0:06:06.720
+in there but I will come back to that
+
+0:06:04.770,0:06:07.520
+into the later section any other
+
+0:06:06.720,0:06:12.080
+questions
+
+0:06:07.520,0:06:12.080
+okay further down the fourth row
+
+0:06:15.420,0:06:20.460
+it would seem to me that as the
+
+0:06:17.670,0:06:22.500
+population that it's being used on
+
+0:06:20.460,0:06:25.620
+changes we should be adjusting the
+
+0:06:22.500,0:06:28.500
+Concord historical data to match the
+
+0:06:25.620,0:06:32.390
+populations as its throwing and changing
+
+0:06:28.500,0:06:36.000
+do we see that or how could that be I
+
+0:06:32.390,0:06:39.360
+mean so it depends how your populations
+
+0:06:36.000,0:06:40.770
+changing it maybe it depends on that
+
+0:06:39.360,0:06:42.570
+also the type of data may be hard to
+
+0:06:40.770,0:06:44.370
+change the date I like I think it's
+
+0:06:42.570,0:06:45.900
+easier to realize that your data is no
+
+0:06:44.370,0:06:48.240
+longer representative of what you need
+
+0:06:45.900,0:06:49.500
+in many cases then to actually generate
+
+0:06:48.240,0:06:53.700
+the data that would be more
+
+0:06:49.500,0:06:54.840
+representative but we will talk about it
+
+0:06:53.700,0:06:56.460
+because I think that relates some to
+
+0:06:54.840,0:06:58.670
+historical bias which I'll talk about in
+
+0:06:56.460,0:06:58.670
+a moment
+
+0:06:59.450,0:07:06.870
+all right next next step is and the
+
+0:07:04.260,0:07:08.550
+compass recidivism algorithm used in
+
+0:07:06.870,0:07:11.400
+prison sentencing this is another kind
+
+0:07:08.550,0:07:14.190
+of very famous and well studied example
+
+0:07:11.400,0:07:17.460
+but in 2016 Pro Publica did an
+
+0:07:14.190,0:07:19.830
+investigation real inspecting the
+
+0:07:17.460,0:07:23.280
+software that is sold by a for-profit
+
+0:07:19.830,0:07:26.250
+company it's in use in many states in
+
+0:07:23.280,0:07:29.490
+the US and it can be used for pretrial
+
+0:07:26.250,0:07:33.540
+decisions so this is deciding who has to
+
+0:07:29.490,0:07:35.850
+pay bail prior to even having a trial
+
+0:07:33.540,0:07:37.850
+and many people in the US are in jail
+
+0:07:35.850,0:07:40.590
+because they're too poor to afford bail
+
+0:07:37.850,0:07:43.320
+it's also used in sentencing decisions
+
+0:07:40.590,0:07:45.660
+and in parole decisions so having a very
+
+0:07:43.320,0:07:49.050
+significant impact on people's lives and
+
+0:07:45.660,0:07:50.940
+what they found is looking at kind of a
+
+0:07:49.050,0:07:54.680
+county in Florida that the false
+
+0:07:50.940,0:07:57.120
+positive rate for black defendants was
+
+0:07:54.680,0:07:59.070
+almost twice as high as for white
+
+0:07:57.120,0:08:01.140
+defendants and so this is people being
+
+0:07:59.070,0:08:04.740
+labeled as high risk of committing
+
+0:08:01.140,0:08:06.420
+another crime or of being really
+
+0:08:04.740,0:08:08.880
+arrested and the false positive rate was
+
+0:08:06.420,0:08:11.730
+forty five percent which is also just a
+
+0:08:08.880,0:08:14.220
+really terribly high well it's positive
+
+0:08:11.730,0:08:18.870
+rate when you're labeling people as just
+
+0:08:14.220,0:08:22.380
+a binary high risk or low risk there was
+
+0:08:18.870,0:08:24.030
+a study from Dartmouth that came out a I
+
+0:08:22.380,0:08:26.940
+remember a year or two ago that found
+
+0:08:24.030,0:08:29.310
+that the software is no more accurate
+
+0:08:26.940,0:08:31.740
+than Amazon Mechanical Turk workers
+
+0:08:29.310,0:08:33.180
+so random people on the internet we're
+
+0:08:31.740,0:08:34.710
+kind of just as accurate and their
+
+0:08:33.180,0:08:37.350
+judgments of whether someone was high
+
+0:08:34.710,0:08:41.010
+risk or low risk another another thing
+
+0:08:37.350,0:08:43.860
+this Dartmouth study found was that so
+
+0:08:41.010,0:08:46.920
+the compass recidivism software is a
+
+0:08:43.860,0:08:50.730
+black box that takes it see there 130 or
+
+0:08:46.920,0:08:52.770
+140 inputs and it was not any more
+
+0:08:50.730,0:08:55.620
+accurate than a linear classifier on
+
+0:08:52.770,0:08:57.720
+three variables so it's also just not
+
+0:08:55.620,0:09:00.360
+not particularly accurate yet the
+
+0:08:57.720,0:09:02.430
+Wisconsin Supreme Court upheld its use
+
+0:09:00.360,0:09:04.950
+and it's used in states other than
+
+0:09:02.430,0:09:08.610
+Wisconsin but this is one place where it
+
+0:09:04.950,0:09:11.640
+was challenged and this is a kind of a
+
+0:09:08.610,0:09:13.260
+in Iran Iran Yuans twenty-one
+
+0:09:11.640,0:09:15.120
+definitions of fairness talk a lot of
+
+0:09:13.260,0:09:17.520
+that is kind of based off of kind of
+
+0:09:15.120,0:09:19.500
+going deeper around around compass and
+
+0:09:17.520,0:09:21.960
+it is true that the company was using
+
+0:09:19.500,0:09:24.240
+this different definition of fairness
+
+0:09:21.960,0:09:32.280
+that is not about false positives that
+
+0:09:24.240,0:09:36.150
+it does satisfy and so one one key thing
+
+0:09:32.280,0:09:38.460
+to really highlight is that race is not
+
+0:09:36.150,0:09:40.350
+an input to the software and so even
+
+0:09:38.460,0:09:43.410
+though there was this huge discrepancy
+
+0:09:40.350,0:09:46.050
+in the false positive rates race was not
+
+0:09:43.410,0:09:48.630
+an explicit input and it's important to
+
+0:09:46.050,0:09:50.430
+remember that machine learning is kind
+
+0:09:48.630,0:09:52.350
+of largely about identifying latent
+
+0:09:50.430,0:09:55.170
+variables which is you know a variable
+
+0:09:52.350,0:09:57.660
+you haven't explicitly named or recorded
+
+0:09:55.170,0:10:01.200
+in your data set and so you can still
+
+0:09:57.660,0:10:03.270
+have these kind of hugely different
+
+0:10:01.200,0:10:04.800
+results on different groups even when
+
+0:10:03.270,0:10:08.340
+you're not using that input and this is
+
+0:10:04.800,0:10:10.290
+a really common misconception a lot of
+
+0:10:08.340,0:10:12.150
+companies when they're accused of bias
+
+0:10:10.290,0:10:13.800
+are like no you know we swear we're not
+
+0:10:12.150,0:10:16.230
+using gender as an input or we're not
+
+0:10:13.800,0:10:17.850
+using races and input but you can still
+
+0:10:16.230,0:10:23.850
+be very biased and have very different
+
+0:10:17.850,0:10:26.030
+results even if you're not questions on
+
+0:10:23.850,0:10:26.030
+that
+
+0:10:28.519,0:10:33.959
+all right this is also an example of a
+
+0:10:32.069,0:10:35.910
+feedback loop which we talked about a
+
+0:10:33.959,0:10:38.910
+little bit last week in the context of
+
+0:10:35.910,0:10:41.040
+recommendation systems and a feedback
+
+0:10:38.910,0:10:42.690
+loop is kind of whenever your model is
+
+0:10:41.040,0:10:45.420
+controlling the next round of data you
+
+0:10:42.690,0:10:47.190
+get and the data that is returned
+
+0:10:45.420,0:10:50.279
+quickly becomes flawed by the software
+
+0:10:47.190,0:10:51.750
+itself so in the case of predictive
+
+0:10:50.279,0:10:54.149
+policing so this is a slightly different
+
+0:10:51.750,0:10:55.589
+case but where you're trying to predict
+
+0:10:54.149,0:10:57.449
+which neighborhoods are gonna have the
+
+0:10:55.589,0:10:59.610
+most crime so you can send more police
+
+0:10:57.449,0:11:02.339
+to those neighborhoods having more
+
+0:10:59.610,0:11:03.810
+police in a neighborhood may also result
+
+0:11:02.339,0:11:06.029
+in more arrests just because they're
+
+0:11:03.810,0:11:07.860
+more police around to to see something
+
+0:11:06.029,0:11:09.870
+or to arrest someone which could then
+
+0:11:07.860,0:11:11.579
+you know feed back into your algorithm
+
+0:11:09.870,0:11:15.569
+and say let's send even more police to
+
+0:11:11.579,0:11:17.910
+that neighborhood one researcher who
+
+0:11:15.569,0:11:20.310
+works on this suresh Pinkett TAS
+
+0:11:17.910,0:11:22.560
+Subramanian says predictive policing is
+
+0:11:20.310,0:11:25.560
+aptly named it is predicting future
+
+0:11:22.560,0:11:28.259
+policing not future crime as I liked
+
+0:11:25.560,0:11:32.300
+liked that quote as an example of kind
+
+0:11:28.259,0:11:32.300
+of how how a feedback loop can happen
+
+0:11:34.730,0:11:41.670
+and this this is an example of
+
+0:11:38.069,0:11:43.680
+historical bias and historical bias is a
+
+0:11:41.670,0:11:45.209
+fundamental structural issue with the
+
+0:11:43.680,0:11:47.639
+first step of the data generation
+
+0:11:45.209,0:11:50.250
+process and can exist even given perfect
+
+0:11:47.639,0:11:52.680
+sampling and feature selection so this
+
+0:11:50.250,0:11:56.009
+is a case where going out and saying
+
+0:11:52.680,0:11:58.740
+like oh let's get crime data for more US
+
+0:11:56.009,0:12:00.540
+Jewish York jurisdictions is not
+
+0:11:58.740,0:12:02.430
+necessarily going to remove the it's not
+
+0:12:00.540,0:12:04.259
+gonna remove the racial bias because
+
+0:12:02.430,0:12:06.120
+this is really kind of present in the
+
+0:12:04.259,0:12:08.939
+data and it's really true because of
+
+0:12:06.120,0:12:11.399
+because of our history and unfortunately
+
+0:12:08.939,0:12:13.199
+historical bias is I think very hard to
+
+0:12:11.399,0:12:17.279
+address and it's also a very common type
+
+0:12:13.199,0:12:22.110
+of bias yes and who has the catch box
+
+0:12:17.279,0:12:24.540
+okay pass it to the front so I might not
+
+0:12:22.110,0:12:28.399
+be phrasing this question accurately but
+
+0:12:24.540,0:12:31.139
+I'm curious about how it seems like the
+
+0:12:28.399,0:12:32.970
+biases that's come up in these examples
+
+0:12:31.139,0:12:35.699
+are most frequently race and gender
+
+0:12:32.970,0:12:38.910
+which are characteristics their physical
+
+0:12:35.699,0:12:40.110
+attributes are their biases that have
+
+0:12:38.910,0:12:43.160
+shown up
+
+0:12:40.110,0:12:45.329
+um that are less physical but still I
+
+0:12:43.160,0:12:47.370
+guess I'm trying to ask around the
+
+0:12:45.329,0:12:48.990
+latent variables are there things that
+
+0:12:47.370,0:12:52.589
+have shown up that are not necessarily
+
+0:12:48.990,0:12:54.630
+physical in a data set I am sure that
+
+0:12:52.589,0:12:55.829
+there are because it like in machine
+
+0:12:54.630,0:12:58.260
+learning like whatever you're trying to
+
+0:12:55.829,0:12:59.459
+predict it's you can describe as a
+
+0:12:58.260,0:13:01.680
+latent variable because that's something
+
+0:12:59.459,0:13:03.750
+that's not in the data set I think why
+
+0:13:01.680,0:13:05.579
+so many of the examples on bias are
+
+0:13:03.750,0:13:08.010
+around race and gender just because
+
+0:13:05.579,0:13:15.510
+they're easy to easy er to spot when
+
+0:13:08.010,0:13:18.019
+they happen whereas some things and I
+
+0:13:15.510,0:13:20.160
+mean you can I guess like education or
+
+0:13:18.019,0:13:23.339
+socioeconomic status or country of
+
+0:13:20.160,0:13:26.790
+origin or language there has been some
+
+0:13:23.339,0:13:28.260
+some research around language so yeah
+
+0:13:26.790,0:13:31.339
+bias definitely exists on other
+
+0:13:28.260,0:13:34.290
+variables and then things that are also
+
+0:13:31.339,0:13:36.660
+more seemingly neutral I don't know if
+
+0:13:34.290,0:13:39.000
+you were identifying species of a tree
+
+0:13:36.660,0:13:40.740
+or something like you could have bias
+
+0:13:39.000,0:13:42.420
+but in this context we're kind of
+
+0:13:40.740,0:13:43.860
+talking about I should I should have
+
+0:13:42.420,0:13:45.570
+made that clear bias has multiple
+
+0:13:43.860,0:13:47.370
+definitions which can be confusing and
+
+0:13:45.570,0:13:49.019
+so here I'm not talking about the
+
+0:13:47.370,0:14:03.899
+statistical term but I'm talking about
+
+0:13:49.019,0:14:05.579
+kind of unjust bias arguably like race
+
+0:14:03.899,0:14:07.649
+and gender are actually socially
+
+0:14:05.579,0:14:10.320
+constructed and they're not really
+
+0:14:07.649,0:14:11.610
+representative of an exact biological
+
+0:14:10.320,0:14:14.850
+thing in particular when you think about
+
+0:14:11.610,0:14:17.010
+like what is white what has qualified as
+
+0:14:14.850,0:14:19.800
+white has changed over the years and
+
+0:14:17.010,0:14:20.940
+hundred years ago people that we would
+
+0:14:19.800,0:14:22.320
+now consider to be quiet
+
+0:14:20.940,0:14:24.089
+based on their country of origin or
+
+0:14:22.320,0:14:26.100
+whatever would not have been considered
+
+0:14:24.089,0:14:28.800
+that's so like it there is actually this
+
+0:14:26.100,0:14:29.940
+strongly is socially constructed and I
+
+0:14:28.800,0:14:32.579
+realize that's kind of a cop-out to your
+
+0:14:29.940,0:14:34.589
+question but is sort of worth I guess
+
+0:14:32.579,0:14:36.839
+like you know to say like oh actually a
+
+0:14:34.589,0:14:38.130
+lot of the stuff that it's picking up on
+
+0:14:36.839,0:14:42.120
+are things that we've socially
+
+0:14:38.130,0:14:44.480
+instructed already yeah yeah that's a
+
+0:14:42.120,0:14:44.480
+good point
+
+0:14:45.350,0:14:50.430
+maybe someday we like to add that it's
+
+0:14:47.850,0:14:52.980
+like I think basically this bias things
+
+0:14:50.430,0:14:53.400
+that people is intentionally growing for
+
+0:14:52.980,0:14:55.470
+right
+
+0:14:53.400,0:14:58.290
+so it's not like somehow you have the
+
+0:14:55.470,0:14:59.820
+model and the model will tell you can I
+
+0:14:58.290,0:15:01.920
+wear this tie as poor as people cannot
+
+0:14:59.820,0:15:04.170
+breaking up this laptop these categories
+
+0:15:01.920,0:15:07.290
+and then finding this imbalance right so
+
+0:15:04.170,0:15:10.470
+for sure probably there's bias even many
+
+0:15:07.290,0:15:12.720
+in spy squad people can I will be
+
+0:15:10.470,0:15:17.610
+willing to check for okay interspace or
+
+0:15:12.720,0:15:19.560
+not right and yeah and I don't know
+
+0:15:17.610,0:15:21.510
+really about probably there's some ways
+
+0:15:19.560,0:15:24.090
+to try to do some unsupervised manner
+
+0:15:21.510,0:15:26.310
+where you see someone in a shoes I'm
+
+0:15:24.090,0:15:28.380
+trying to find clusters and then you had
+
+0:15:26.310,0:15:30.840
+a gig in which that the phone is
+
+0:15:28.380,0:15:32.880
+associated those classic no way and then
+
+0:15:30.840,0:15:34.800
+you do the other way around but yeah
+
+0:15:32.880,0:15:37.170
+there is a paper on that topic I can
+
+0:15:34.800,0:15:38.610
+find the link of because like Elise said
+
+0:15:37.170,0:15:41.040
+because these are kind of are these are
+
+0:15:38.610,0:15:44.970
+socially constructed categories there is
+
+0:15:41.040,0:15:47.190
+something that can be you know if he
+
+0:15:44.970,0:15:49.290
+about like assigning I think this person
+
+0:15:47.190,0:15:51.390
+is this race or something around this
+
+0:15:49.290,0:15:53.460
+you know socially constructed category
+
+0:15:51.390,0:15:56.210
+and so there there was a paper last year
+
+0:15:53.460,0:15:58.530
+I know I'm trying to unstructured
+
+0:15:56.210,0:16:00.810
+approach in an unstructured way and look
+
+0:15:58.530,0:16:03.270
+looking for categories there's also a
+
+0:16:00.810,0:16:04.950
+talk from our tech policy workshop and
+
+0:16:03.270,0:16:07.590
+we'll be hopefully releasing those in
+
+0:16:04.950,0:16:09.660
+the next month that Christiane LOM who
+
+0:16:07.590,0:16:11.420
+works for the human rights data analysis
+
+0:16:09.660,0:16:14.790
+group and she does a lot of work with
+
+0:16:11.420,0:16:18.210
+kind of a how data is used in our
+
+0:16:14.790,0:16:20.040
+criminal justice system and she kind of
+
+0:16:18.210,0:16:22.860
+talked about inspecting this a lot of
+
+0:16:20.040,0:16:24.630
+data from police it's just the police
+
+0:16:22.860,0:16:27.270
+are assigning what race that they think
+
+0:16:24.630,0:16:28.980
+the person is without asking them and so
+
+0:16:27.270,0:16:30.600
+you know they're like there's I mean
+
+0:16:28.980,0:16:32.040
+this is like a kind of problem with the
+
+0:16:30.600,0:16:35.190
+data source but then it's also like
+
+0:16:32.040,0:16:38.970
+that's the data we have to look at so
+
+0:16:35.190,0:16:42.840
+it's definitely imperfect and there are
+
+0:16:38.970,0:16:44.760
+kind of issues around it although I do I
+
+0:16:42.840,0:16:46.350
+do think it is like you know you want to
+
+0:16:44.760,0:16:47.490
+be looking for racial bias and so
+
+0:16:46.350,0:16:50.490
+sometimes you are having to kind of work
+
+0:16:47.490,0:16:52.830
+with the data you have even when it's
+
+0:16:50.490,0:16:54.390
+going to contain inaccuracies and is
+
+0:16:52.830,0:16:57.920
+around this yeah kind of socially
+
+0:16:54.390,0:16:57.920
+constructed categorization
+
+0:17:07.020,0:17:13.140
+ktd discovery databases I didn't know
+
+0:17:10.530,0:17:15.059
+around since 1989 and I was thinking
+
+0:17:13.140,0:17:16.890
+about like why only now is ethics coming
+
+0:17:15.059,0:17:19.050
+up as an issue even though we've had
+
+0:17:16.890,0:17:20.490
+this you know sort of like practitioners
+
+0:17:19.050,0:17:23.040
+in the field who think considering in
+
+0:17:20.490,0:17:25.520
+this is it only because I don't know an
+
+0:17:23.040,0:17:29.010
+overreaction from like the 2016 election
+
+0:17:25.520,0:17:30.929
+is it because we're understanding mom
+
+0:17:29.010,0:17:35.640
+more deeply now is she learning and
+
+0:17:30.929,0:17:37.440
+practice is biased so I was briefly it's
+
+0:17:35.640,0:17:38.760
+so I think there were people like there
+
+0:17:37.440,0:17:40.410
+are people that have been considering
+
+0:17:38.760,0:17:44.640
+ethics for longer and often in these
+
+0:17:40.410,0:17:47.309
+kind of adjacent fields of like STS or
+
+0:17:44.640,0:17:50.910
+library science I think have more of a
+
+0:17:47.309,0:17:52.679
+history of thinking about ethics but I
+
+0:17:50.910,0:17:55.470
+think right now what we've seen is kind
+
+0:17:52.679,0:17:57.330
+of the explosion of these of machine
+
+0:17:55.470,0:17:59.010
+learning a different algorithm ated
+
+0:17:57.330,0:18:02.040
+decision systems being used much more
+
+0:17:59.010,0:18:04.170
+widely in practice and so it's I think a
+
+0:18:02.040,0:18:06.330
+lot of why we're seeing kind of more
+
+0:18:04.170,0:18:10.050
+ethical alarm is the the widespread use
+
+0:18:06.330,0:18:12.840
+and there is I will note that like many
+
+0:18:10.050,0:18:15.390
+many fields have had to deal with kind
+
+0:18:12.840,0:18:18.120
+of the ethical quandary of their field
+
+0:18:15.390,0:18:19.500
+and actually Alley has a great essay
+
+0:18:18.120,0:18:21.870
+that will read later on kind of
+
+0:18:19.500,0:18:23.850
+anthropology dealing with ethical issues
+
+0:18:21.870,0:18:25.920
+but people have talked about you know
+
+0:18:23.850,0:18:28.740
+physics and the atomic bomb and how that
+
+0:18:25.920,0:18:30.690
+raised ethical issues and so it's also
+
+0:18:28.740,0:18:32.400
+kind of not you know we are kind of
+
+0:18:30.690,0:18:33.960
+experiencing like a major kind of
+
+0:18:32.400,0:18:35.760
+reckoning for the field but we're not
+
+0:18:33.960,0:18:38.130
+the first field to go through that as
+
+0:18:35.760,0:18:39.809
+well well I'll keep moving we'll come
+
+0:18:38.130,0:18:45.090
+back to I think some kind of related
+
+0:18:39.809,0:18:46.500
+things on all of this as we go so what
+
+0:18:45.090,0:18:48.870
+and I'm here's no kind of one
+
+0:18:46.500,0:18:52.140
+recommendation of something you can do
+
+0:18:48.870,0:18:54.900
+towards towards trying to address this
+
+0:18:52.140,0:18:59.520
+and that is speaking with domain experts
+
+0:18:54.900,0:19:04.880
+and people impacted and so at the fat
+
+0:18:59.520,0:19:07.290
+star conference I think in 2019
+
+0:19:04.880,0:19:08.970
+Christian Lomb Elizabeth bender and
+
+0:19:07.290,0:19:12.690
+Terrance Wilkerson hosted a really great
+
+0:19:08.970,0:19:15.330
+workshop and it's available online and
+
+0:19:12.690,0:19:16.559
+so christian lamb is the statistician i
+
+0:19:15.330,0:19:19.380
+mentioned who works with human rights
+
+0:19:16.559,0:19:20.400
+data analysis group and then elizabeth
+
+0:19:19.380,0:19:22.980
+bender as a former
+
+0:19:20.400,0:19:25.530
+public defender and Terrence Wilkerson
+
+0:19:22.980,0:19:27.750
+is an innocent man who is wrongly
+
+0:19:25.530,0:19:30.180
+accused of of committing a crime and
+
+0:19:27.750,0:19:31.350
+couldn't afford bail and Elizabeth and
+
+0:19:30.180,0:19:33.420
+Terrence were able to give a lot of
+
+0:19:31.350,0:19:35.850
+insight into how the criminal justice
+
+0:19:33.420,0:19:39.600
+system works in practice and it's things
+
+0:19:35.850,0:19:41.700
+that I wouldn't necessarily know as a as
+
+0:19:39.600,0:19:43.620
+a computer scientist and coming from a
+
+0:19:41.700,0:19:45.740
+more technical background and it's
+
+0:19:43.620,0:19:48.270
+really important to get those kind of
+
+0:19:45.740,0:19:50.100
+implementation and human details of how
+
+0:19:48.270,0:19:53.630
+how things actually work so Elizabeth
+
+0:19:50.100,0:19:56.460
+talked about when she would go to visit
+
+0:19:53.630,0:19:58.110
+one of her defendants on Rikers Island
+
+0:19:56.460,0:20:01.440
+she was having to take a bus like two
+
+0:19:58.110,0:20:03.150
+hours each way and only getting like 30
+
+0:20:01.440,0:20:05.460
+minutes with the defendant if the guards
+
+0:20:03.150,0:20:07.470
+brought brought them in on time and kind
+
+0:20:05.460,0:20:09.900
+of all these limitations and Terence
+
+0:20:07.470,0:20:12.660
+talked about a lot of the just how kind
+
+0:20:09.900,0:20:15.300
+of terrible it is to be in prison and
+
+0:20:12.660,0:20:17.130
+the pressure to take a guilty plea
+
+0:20:15.300,0:20:20.970
+bargain and to get out quicker and also
+
+0:20:17.130,0:20:22.590
+how it can kind of impact how you appear
+
+0:20:20.970,0:20:26.550
+before the judge when you've been in
+
+0:20:22.590,0:20:27.810
+prison and so is a really helpful
+
+0:20:26.550,0:20:30.150
+session and those sorts of
+
+0:20:27.810,0:20:31.140
+collaborations of talking closely with
+
+0:20:30.150,0:20:33.630
+the people that have the domain
+
+0:20:31.140,0:20:35.720
+knowledge and are impacted is really
+
+0:20:33.630,0:20:37.830
+crucial and I think one step towards
+
+0:20:35.720,0:20:40.050
+towards trying to address this type of
+
+0:20:37.830,0:20:42.600
+bias or at least towards trying to
+
+0:20:40.050,0:20:45.900
+address the harms from it all right the
+
+0:20:42.600,0:20:47.850
+next so the third a third case study
+
+0:20:45.900,0:20:50.910
+I'll talk about is online ad delivery
+
+0:20:47.850,0:20:53.100
+and I shared this shared this last week
+
+0:20:50.910,0:20:54.990
+so we'll just briefly go go over it
+
+0:20:53.100,0:20:56.760
+again but we talked about Latanya
+
+0:20:54.990,0:20:59.580
+Sweeney computer science professor at
+
+0:20:56.760,0:21:02.820
+Harvard who was getting these ads saying
+
+0:20:59.580,0:21:03.930
+Latanya Sweeney arrested she had never
+
+0:21:02.820,0:21:06.030
+been arrested
+
+0:21:03.930,0:21:07.980
+she found names like Kirsten Lindquist
+
+0:21:06.030,0:21:10.380
+who has been arrested three times got
+
+0:21:07.980,0:21:11.820
+more neutral language just saying we
+
+0:21:10.380,0:21:14.310
+found Kirsten Lindquist
+
+0:21:11.820,0:21:16.560
+she studied over 2000 names and
+
+0:21:14.310,0:21:18.840
+confirmed this pattern the
+
+0:21:16.560,0:21:21.030
+disproportionately African American
+
+0:21:18.840,0:21:23.850
+names we're getting the ads suggesting
+
+0:21:21.030,0:21:26.400
+they'd been arrested and then this kind
+
+0:21:23.850,0:21:28.170
+of discrimination and advertising has
+
+0:21:26.400,0:21:31.050
+continued to show up in a lot of
+
+0:21:28.170,0:21:33.669
+different forms there was a paper last
+
+0:21:31.050,0:21:36.070
+year of even when advertisers
+
+0:21:33.669,0:21:39.099
+are trying to discriminate their ads get
+
+0:21:36.070,0:21:41.049
+shown to very different audiences and so
+
+0:21:39.099,0:21:42.849
+the researchers found that a job ad
+
+0:21:41.049,0:21:45.399
+depending on what the job was could be
+
+0:21:42.849,0:21:48.519
+shown to an audience of 90 percent men
+
+0:21:45.399,0:21:49.899
+or 90 percent women this is on Facebook
+
+0:21:48.519,0:21:54.909
+although I think this is true on many
+
+0:21:49.899,0:21:56.739
+platforms housing ads changing the
+
+0:21:54.909,0:21:59.019
+picture between a white family and a
+
+0:21:56.739,0:22:00.489
+black family they got very different
+
+0:21:59.019,0:22:03.519
+audiences even when the text was
+
+0:22:00.489,0:22:06.339
+identical and that this is this is an
+
+0:22:03.519,0:22:08.169
+issue because things like housing and
+
+0:22:06.339,0:22:13.200
+jobs really relate to kind of our civil
+
+0:22:08.169,0:22:16.450
+rights and this is just a series of
+
+0:22:13.200,0:22:19.209
+ProPublica is a pro public as fantastic
+
+0:22:16.450,0:22:22.119
+it does fantastic work but they found
+
+0:22:19.209,0:22:24.969
+that facebook dozens of companies were
+
+0:22:22.119,0:22:27.179
+using Facebook to only show job ads to
+
+0:22:24.969,0:22:30.070
+young people
+
+0:22:27.179,0:22:32.829
+Facebook was letting was also letting
+
+0:22:30.070,0:22:35.139
+housing advertisers explicitly exclude
+
+0:22:32.829,0:22:37.289
+users by race and actually should update
+
+0:22:35.139,0:22:39.789
+this so there was an initial this
+
+0:22:37.289,0:22:41.950
+discovery in 2016 that they were doing
+
+0:22:39.789,0:22:43.389
+this and Facebook apologized and then
+
+0:22:41.950,0:22:45.729
+over a year later they were still doing
+
+0:22:43.389,0:22:47.529
+this and so as you could place a housing
+
+0:22:45.729,0:22:51.249
+ad and say you know I don't want to show
+
+0:22:47.529,0:22:52.719
+this to Latin X people or I don't want
+
+0:22:51.249,0:22:53.739
+to show it to there was like you I don't
+
+0:22:52.719,0:22:57.839
+want to show this to wheelchair users
+
+0:22:53.739,0:22:59.829
+and the kind of very very discriminatory
+
+0:22:57.839,0:23:01.899
+so then they were still doing it over a
+
+0:22:59.829,0:23:04.509
+year later and then they did reach a
+
+0:23:01.899,0:23:06.609
+settlement last year and implemented
+
+0:23:04.509,0:23:08.619
+this new system that is supposed to
+
+0:23:06.609,0:23:10.509
+limit this and then ProPublica did
+
+0:23:08.619,0:23:12.969
+another investigation how their their
+
+0:23:10.509,0:23:16.679
+new platform is not not actually
+
+0:23:12.969,0:23:18.820
+effective and then we saw Amazon
+
+0:23:16.679,0:23:22.659
+matching members of Congress to criminal
+
+0:23:18.820,0:23:25.059
+mug shots there's also the Amazon resume
+
+0:23:22.659,0:23:27.519
+screening tool that penalized resumes
+
+0:23:25.059,0:23:29.529
+with the word women's and them so this
+
+0:23:27.519,0:23:31.929
+shows up lots of places kind of this
+
+0:23:29.529,0:23:34.749
+bias I mean so I do want to highlight
+
+0:23:31.929,0:23:36.579
+that many AI ethics concerns are about
+
+0:23:34.749,0:23:39.789
+human rights and civil rights
+
+0:23:36.579,0:23:42.879
+I like there's an article from a Neil -
+
+0:23:39.789,0:23:44.739
+where he says there is no tech industry
+
+0:23:42.879,0:23:46.779
+anymore tech is used in every industry
+
+0:23:44.739,0:23:47.450
+and so this term has kind of become
+
+0:23:46.779,0:23:49.370
+meaningless
+
+0:23:47.450,0:23:51.139
+it's important to really think about the
+
+0:23:49.370,0:23:55.340
+particular verticals that you're talking
+
+0:23:51.139,0:23:57.649
+about and so others have proposed and I
+
+0:23:55.340,0:23:59.059
+agree with kind of one one way to when
+
+0:23:57.649,0:24:01.370
+people talk about the idea of regulating
+
+0:23:59.059,0:24:02.929
+AI is to really think about kind of what
+
+0:24:01.370,0:24:04.190
+human rights and civil rights were
+
+0:24:02.929,0:24:06.500
+trying to protect in four different
+
+0:24:04.190,0:24:08.919
+particular areas whether that is housing
+
+0:24:06.500,0:24:11.090
+or education employment criminal justice
+
+0:24:08.919,0:24:15.080
+so going out are kind of going back to
+
+0:24:11.090,0:24:17.510
+this paper by Suresh and GU tagged this
+
+0:24:15.080,0:24:21.519
+concept of biased data has is often too
+
+0:24:17.510,0:24:26.149
+generic to really be useful and so
+
+0:24:21.519,0:24:28.870
+another another paper I like from Cindy
+
+0:24:26.149,0:24:31.880
+el milena --then and I had Overmeyer
+
+0:24:28.870,0:24:34.490
+looked at historical electronic health
+
+0:24:31.880,0:24:38.840
+record data and asked what factors are
+
+0:24:34.490,0:24:41.269
+most predictive of stroke and so they
+
+0:24:38.840,0:24:43.309
+found and they're saying you know this
+
+0:24:41.269,0:24:45.830
+could be useful in prioritizing patients
+
+0:24:43.309,0:24:47.929
+at the ER and so they found the number
+
+0:24:45.830,0:24:49.760
+one most predictive factor was having
+
+0:24:47.929,0:24:50.919
+had a prior stroke which totally makes
+
+0:24:49.760,0:24:53.809
+sense
+
+0:24:50.919,0:24:54.860
+second was cardiovascular disease which
+
+0:24:53.809,0:24:58.750
+also makes sense
+
+0:24:54.860,0:25:03.220
+and then next was accidental injury a
+
+0:24:58.750,0:25:06.590
+benign breast lump colonoscopy and
+
+0:25:03.220,0:25:08.269
+sinusitis and so you don't have to be a
+
+0:25:06.590,0:25:10.279
+medical doctor to say why those
+
+0:25:08.269,0:25:14.120
+something seems wrong why would those
+
+0:25:10.279,0:25:16.299
+things be predictive of of having a
+
+0:25:14.120,0:25:23.419
+stroke
+
+0:25:16.299,0:25:25.880
+does anyone want to guess why up here oh
+
+0:25:23.419,0:25:34.820
+can someone patches past the catch box
+
+0:25:25.880,0:25:36.320
+forward so the guess was older person
+
+0:25:34.820,0:25:44.080
+that's not what they found but good
+
+0:25:36.320,0:25:44.080
+guess and then here oh okay over here
+
+0:25:51.710,0:25:59.659
+we are so close
+
+0:25:56.659,0:26:02.840
+so I'll what one more guess behind you
+
+0:25:59.659,0:26:04.909
+from Colin but then someone who wasn't
+
+0:26:02.840,0:26:08.360
+in the hospital for something else you
+
+0:26:04.909,0:26:10.250
+can found the bias no that's also a good
+
+0:26:08.360,0:26:12.799
+guy so I like how you're thinking and
+
+0:26:10.250,0:26:22.640
+this oh claudia has a guest in the back
+
+0:26:12.799,0:26:24.860
+that corner it could be part of their
+
+0:26:22.640,0:26:29.919
+health history that may be self
+
+0:26:24.860,0:26:33.169
+reporting yes that's it so it's well
+
+0:26:29.919,0:26:35.000
+they classify it as who utilizes health
+
+0:26:33.169,0:26:36.770
+care versus not so they're basically
+
+0:26:35.000,0:26:38.390
+people that utilize health care a lot
+
+0:26:36.770,0:26:40.309
+and people that don't and there are a
+
+0:26:38.390,0:26:42.830
+number of factors that can contribute to
+
+0:26:40.309,0:26:45.470
+this of who even has access to health
+
+0:26:42.830,0:26:47.510
+care who can afford their copay who can
+
+0:26:45.470,0:26:50.179
+take time off of work there may be
+
+0:26:47.510,0:26:51.620
+cultural factors there's racial and
+
+0:26:50.179,0:26:54.620
+gender bias and the types of treatment
+
+0:26:51.620,0:26:56.059
+that people receive and so actually I
+
+0:26:54.620,0:26:58.520
+guess this goes back to your earlier
+
+0:26:56.059,0:26:59.870
+question of picking up late and bias of
+
+0:26:58.520,0:27:02.270
+something they found here they're
+
+0:26:59.870,0:27:04.190
+picking up bias basically of high
+
+0:27:02.270,0:27:06.529
+utility versus low utility for health
+
+0:27:04.190,0:27:11.059
+care which is yeah not a physical
+
+0:27:06.529,0:27:13.130
+characteristic but is making a
+
+0:27:11.059,0:27:16.510
+significant difference and so if you're
+
+0:27:13.130,0:27:19.220
+someone who is gonna go to the ER when
+
+0:27:16.510,0:27:21.860
+when you have an accidental inter injury
+
+0:27:19.220,0:27:23.179
+or sinusitis then you also are gonna go
+
+0:27:21.860,0:27:26.270
+to the ER when you're having a stroke
+
+0:27:23.179,0:27:27.950
+and so they said you know we haven't we
+
+0:27:26.270,0:27:30.740
+haven't measured stroke we've measured
+
+0:27:27.950,0:27:32.539
+who had symptoms went to the doctor got
+
+0:27:30.740,0:27:35.390
+the correct test and then received the
+
+0:27:32.539,0:27:38.330
+diagnosis of stroke and so this is one
+
+0:27:35.390,0:27:40.549
+type of measurement bias and there are
+
+0:27:38.330,0:27:42.230
+there many kind of many types of
+
+0:27:40.549,0:27:43.549
+measurement bias but it's a way that
+
+0:27:42.230,0:27:46.490
+you're kind of measurements aren't
+
+0:27:43.549,0:27:49.309
+capturing exactly exactly what you think
+
+0:27:46.490,0:27:52.490
+they are and you know and even kind of
+
+0:27:49.309,0:27:54.559
+more biologically stroke is about region
+
+0:27:52.490,0:27:56.480
+of the brain being denied oxygen and
+
+0:27:54.559,0:27:57.740
+that's something we don't have we don't
+
+0:27:56.480,0:27:58.940
+even have the data for you know that'd
+
+0:27:57.740,0:28:01.909
+be like we would need everyone wearing
+
+0:27:58.940,0:28:03.980
+brain monitors to to know who has had
+
+0:28:01.909,0:28:04.519
+stroke we have these other things you
+
+0:28:03.980,0:28:05.869
+know in medicine
+
+0:28:04.519,0:28:09.709
+it often ends up being about kind of
+
+0:28:05.869,0:28:11.359
+like a billing code in a chart and so
+
+0:28:09.709,0:28:16.119
+this is yeah I think I kind of subtle
+
+0:28:11.359,0:28:16.119
+form of bias that that could show up a
+
+0:28:17.830,0:28:23.419
+question in the second row and this is
+
+0:28:21.559,0:28:25.849
+ed this is also another example we're
+
+0:28:23.419,0:28:27.469
+gathering more of the same type of data
+
+0:28:25.849,0:28:29.209
+you already have it's not going to help
+
+0:28:27.469,0:28:30.499
+you I mean if you're able to gather kind
+
+0:28:29.209,0:28:33.169
+of a different type of data that better
+
+0:28:30.499,0:28:34.639
+butter gets at your question but just
+
+0:28:33.169,0:28:39.289
+gathering more of the same won't help
+
+0:28:34.639,0:28:40.849
+here and then a fifth type of bias that
+
+0:28:39.289,0:28:44.899
+they talked about in the paper is
+
+0:28:40.849,0:28:47.239
+aggregation bias and they give the
+
+0:28:44.899,0:28:48.769
+example of diabetes patients having
+
+0:28:47.239,0:28:51.259
+different complications across
+
+0:28:48.769,0:28:54.799
+ethnicities and also kind of some of
+
+0:28:51.259,0:28:56.779
+these blood markers used to diagnose and
+
+0:28:54.799,0:28:59.869
+monitor diabetes differing across
+
+0:28:56.779,0:29:01.999
+ethnicities and gender and so this this
+
+0:28:59.869,0:29:06.320
+could combine with other biases if you
+
+0:29:01.999,0:29:08.029
+have so this suggests that maybe one one
+
+0:29:06.320,0:29:11.119
+model is not going to do a great job of
+
+0:29:08.029,0:29:13.909
+representing representing people from
+
+0:29:11.119,0:29:16.519
+different ethnicities or genders also if
+
+0:29:13.909,0:29:18.079
+your dataset had representation bias you
+
+0:29:16.519,0:29:19.849
+could then end up kind of drowning out a
+
+0:29:18.079,0:29:22.219
+certain group and you would have a
+
+0:29:19.849,0:29:28.849
+higher error rate for that group so this
+
+0:29:22.219,0:29:32.239
+is another another type of bias and so
+
+0:29:28.849,0:29:34.940
+they they look at five and the paper but
+
+0:29:32.239,0:29:36.019
+I think it's helpful to see that I think
+
+0:29:34.940,0:29:38.229
+what's most talked about of kind of
+
+0:29:36.019,0:29:40.450
+gathering a more diverse dataset is
+
+0:29:38.229,0:29:43.309
+really only going to help for
+
+0:29:40.450,0:29:46.009
+representation and evaluation bias but
+
+0:29:43.309,0:29:47.539
+most likely not the other three then I
+
+0:29:46.009,0:29:51.829
+want to talk a little bit more about
+
+0:29:47.539,0:29:53.659
+kind of where where racial bias is found
+
+0:29:51.829,0:29:55.999
+in all the studies I'm going to cite
+
+0:29:53.659,0:29:57.859
+here are from a New York Times article
+
+0:29:55.999,0:29:59.749
+that Cindy Ulm Elena thought and wrote
+
+0:29:57.859,0:30:03.049
+but these are all from kind of
+
+0:29:59.749,0:30:06.019
+peer-reviewed academic research and this
+
+0:30:03.049,0:30:07.639
+is just a sample of what's out there but
+
+0:30:06.019,0:30:11.149
+when doctors were shown identical files
+
+0:30:07.639,0:30:13.940
+they make they make are much less likely
+
+0:30:11.149,0:30:17.030
+to recommend a helpful cardiac procedure
+
+0:30:13.940,0:30:19.190
+to black patients than to white patients
+
+0:30:17.030,0:30:21.710
+when bargaining for a used car black
+
+0:30:19.190,0:30:23.750
+people were offered initial prices $700
+
+0:30:21.710,0:30:27.320
+higher and received faller far smaller
+
+0:30:23.750,0:30:29.150
+concessions responding to apartment
+
+0:30:27.320,0:30:31.460
+rental ads on Craigslist with a black
+
+0:30:29.150,0:30:34.610
+name elicited fewer responses than with
+
+0:30:31.460,0:30:36.230
+a white name an all-white jury with 16
+
+0:30:34.610,0:30:37.940
+points more likely to convict a black
+
+0:30:36.230,0:30:40.040
+defendant than a white one but when a
+
+0:30:37.940,0:30:43.520
+jury had one black member it convicted
+
+0:30:40.040,0:30:46.040
+both at the same rate and actually I
+
+0:30:43.520,0:30:47.360
+think I had more in shorten debt and so
+
+0:30:46.040,0:30:50.240
+I just say just share this to show that
+
+0:30:47.360,0:30:53.570
+kind of an a wide variety of types of
+
+0:30:50.240,0:30:56.210
+data whether you're looking at medical
+
+0:30:53.570,0:30:59.660
+data or sales data or housing data or
+
+0:30:56.210,0:31:01.370
+political data that it is if it involves
+
+0:30:59.660,0:31:02.990
+human it's quite humans it's quite
+
+0:31:01.370,0:31:08.690
+likely that there's racial bias in it
+
+0:31:02.990,0:31:11.210
+that this is very very pervasive however
+
+0:31:08.690,0:31:13.280
+this raises the question that I that I
+
+0:31:11.210,0:31:15.860
+hear sometimes which is that you know
+
+0:31:13.280,0:31:18.680
+humans are really biased this is well
+
+0:31:15.860,0:31:21.440
+documented so why kind of why is there
+
+0:31:18.680,0:31:26.240
+so much concern about algorithmic bias
+
+0:31:21.440,0:31:29.090
+given this that humans are so biased and
+
+0:31:26.240,0:31:30.710
+I have a kind of four reasons that I
+
+0:31:29.090,0:31:32.780
+think algorithmic bias still really
+
+0:31:30.710,0:31:34.880
+matters and the first is machine
+
+0:31:32.780,0:31:37.610
+learning can amplify bias so in many
+
+0:31:34.880,0:31:39.730
+cases it's not just encoding kind of
+
+0:31:37.610,0:31:43.760
+existing human bias but it can also be
+
+0:31:39.730,0:31:46.640
+amplifying the magnitude so this is some
+
+0:31:43.760,0:31:50.210
+research from Maria de Arteaga at all
+
+0:31:46.640,0:31:52.280
+that looked at LinkedIn kind of how
+
+0:31:50.210,0:31:57.500
+people describe their job description
+
+0:31:52.280,0:32:00.950
+and in their data set they described it
+
+0:31:57.500,0:32:03.530
+as imbalances being compounded only 14%
+
+0:32:00.950,0:32:07.580
+of the surgeons were female and then in
+
+0:32:03.530,0:32:09.620
+their true positives only 11% of the
+
+0:32:07.580,0:32:11.390
+surgeons were female and so basically
+
+0:32:09.620,0:32:15.020
+there's kind of this asymmetric a
+
+0:32:11.390,0:32:17.420
+symmetry around false negatives and
+
+0:32:15.020,0:32:21.160
+false positives when you have kind of a
+
+0:32:17.420,0:32:21.160
+very unbalanced data set to begin with
+
+0:32:22.580,0:32:27.479
+second a second reason that I think we
+
+0:32:25.799,0:32:29.309
+really need to take algorithmic bias
+
+0:32:27.479,0:32:30.779
+seriously is because algorithms are
+
+0:32:29.309,0:32:33.539
+often used differently than human
+
+0:32:30.779,0:32:35.429
+decision-makers in practice and so this
+
+0:32:33.539,0:32:37.229
+is something where people will often
+
+0:32:35.429,0:32:38.129
+kind of talk about them as though
+
+0:32:37.229,0:32:44.039
+they're plug-and-play
+
+0:32:38.129,0:32:46.259
+interchangeable but in in kind of in use
+
+0:32:44.039,0:32:48.539
+it's not the case people are more likely
+
+0:32:46.259,0:32:51.179
+to assume algorithms are objective or
+
+0:32:48.539,0:32:53.159
+airfry this is also true even if you
+
+0:32:51.179,0:32:56.549
+portray you know I'm just giving this
+
+0:32:53.159,0:32:58.289
+human a recommendation or a guide people
+
+0:32:56.549,0:33:02.190
+often kind of take that as more of an
+
+0:32:58.289,0:33:04.259
+authority algorithms are more likely to
+
+0:33:02.190,0:33:07.109
+be implemented with no appeals process
+
+0:33:04.259,0:33:09.509
+in place and I think this comes because
+
+0:33:07.109,0:33:11.450
+often algorithmic or automated decision
+
+0:33:09.509,0:33:14.749
+systems are being implemented as a
+
+0:33:11.450,0:33:18.239
+cost-cutting measure and allowing
+
+0:33:14.749,0:33:20.639
+appeals or recourse is more expensive
+
+0:33:18.239,0:33:22.440
+and so the motivation when it's around
+
+0:33:20.639,0:33:24.690
+cost-cutting and not around improving
+
+0:33:22.440,0:33:28.139
+accuracy is often not going to include a
+
+0:33:24.690,0:33:29.940
+process for recourse algorithms are more
+
+0:33:28.139,0:33:32.840
+likely to be used at scale so they can
+
+0:33:29.940,0:33:35.849
+be replicating identical biases at scale
+
+0:33:32.840,0:33:37.200
+and algorithmic systems are cheap and I
+
+0:33:35.849,0:33:40.859
+think there's a lot of interplay kind of
+
+0:33:37.200,0:33:42.210
+between between these factors kathy
+
+0:33:40.859,0:33:44.429
+o'neill wrote in weapons of mass
+
+0:33:42.210,0:33:45.809
+destruction that the privileged are
+
+0:33:44.429,0:33:47.580
+processed by people the poor are
+
+0:33:45.809,0:33:51.179
+processed by algorithms
+
+0:33:47.580,0:33:53.159
+alright so kind of in summary humans are
+
+0:33:51.179,0:33:55.679
+biased why does algorithmic bias matter
+
+0:33:53.159,0:33:57.509
+and the reasons for that are machine
+
+0:33:55.679,0:33:59.460
+learning can create feedback loops as we
+
+0:33:57.509,0:34:02.940
+saw before so when it's help creating
+
+0:33:59.460,0:34:04.859
+outcomes can amplify bias it's used
+
+0:34:02.940,0:34:06.629
+differently and then also that I think
+
+0:34:04.859,0:34:09.240
+technology is very powerful and that
+
+0:34:06.629,0:34:12.839
+there's a responsibility with that I'll
+
+0:34:09.240,0:34:14.040
+start a starting next session so now I
+
+0:34:12.839,0:34:16.530
+want to talk about it's not just the
+
+0:34:14.040,0:34:18.659
+data and so this was kind of a focus on
+
+0:34:16.530,0:34:21.569
+okay this is ways bias can appear in the
+
+0:34:18.659,0:34:23.760
+data so something important to
+
+0:34:21.569,0:34:25.319
+understand so there's a joke you know
+
+0:34:23.760,0:34:26.879
+the the good thing about computers is
+
+0:34:25.319,0:34:28.980
+they do exactly what people tell them to
+
+0:34:26.879,0:34:31.889
+the bad thing is they do exactly what
+
+0:34:28.980,0:34:33.329
+people tell them to and often you you
+
+0:34:31.889,0:34:34.000
+know may mean something in your head
+
+0:34:33.329,0:34:35.590
+that
+
+0:34:34.000,0:34:39.460
+not what makes it into what you what you
+
+0:34:35.590,0:34:42.700
+type and in machine learning in
+
+0:34:39.460,0:34:45.220
+particular you know a person is the one
+
+0:34:42.700,0:34:47.860
+that is defining what is success and
+
+0:34:45.220,0:34:50.790
+that typically takes the form of we're
+
+0:34:47.860,0:34:54.970
+minimizing an error function or
+
+0:34:50.790,0:34:56.409
+maximizing some sort of score but who
+
+0:34:54.970,0:34:59.290
+gets defined to define that error
+
+0:34:56.409,0:35:01.570
+function and what the the.21 definitions
+
+0:34:59.290,0:35:03.790
+talk was kind of touching on was also
+
+0:35:01.570,0:35:05.890
+that that's not not necessarily kind of
+
+0:35:03.790,0:35:11.920
+straightforward what what error function
+
+0:35:05.890,0:35:14.680
+you choose and so arvind shared this
+
+0:35:11.920,0:35:19.720
+chart from wikipedia on ways to evaluate
+
+0:35:14.680,0:35:23.260
+binary classifiers and so here kind of
+
+0:35:19.720,0:35:26.500
+the the top left is giving this notion
+
+0:35:23.260,0:35:29.380
+of true positive true negative a false
+
+0:35:26.500,0:35:31.090
+positive and a false negative and then
+
+0:35:29.380,0:35:34.930
+there are all these different ways to
+
+0:35:31.090,0:35:36.430
+combine these into accuracy and negative
+
+0:35:34.930,0:35:38.830
+predictive value and false discovery
+
+0:35:36.430,0:35:40.360
+rate and f1 score and different
+
+0:35:38.830,0:35:42.550
+different scores you can make to
+
+0:35:40.360,0:35:45.030
+evaluate how good is your classifier and
+
+0:35:42.550,0:35:47.890
+so to give an example if you were using
+
+0:35:45.030,0:35:50.380
+if you're doing a medical diagnosis
+
+0:35:47.890,0:35:52.990
+maybe something like a mammogram trying
+
+0:35:50.380,0:35:57.520
+to identify you know is there cancerous
+
+0:35:52.990,0:35:59.950
+tumor here what this is this is kind of
+
+0:35:57.520,0:36:01.360
+a value judgment but how how does a
+
+0:35:59.950,0:36:07.540
+false negative compare to a false
+
+0:36:01.360,0:36:09.280
+positive in this instance yes I would
+
+0:36:07.540,0:36:11.560
+agree with that so false negative is
+
+0:36:09.280,0:36:14.230
+you're telling someone you don't have
+
+0:36:11.560,0:36:16.810
+cancer and they do which is which is bad
+
+0:36:14.230,0:36:19.360
+a a false positive in that case is
+
+0:36:16.810,0:36:20.950
+telling someone hey you may have cancer
+
+0:36:19.360,0:36:23.140
+and they don't and presumably they're
+
+0:36:20.950,0:36:24.790
+gonna go then get a biopsy and find out
+
+0:36:23.140,0:36:26.650
+they don't and there there is still some
+
+0:36:24.790,0:36:29.050
+cost to that you've caused stress for a
+
+0:36:26.650,0:36:31.810
+person this is another procedure they
+
+0:36:29.050,0:36:33.190
+have to have done but yeah I'm on the
+
+0:36:31.810,0:36:34.450
+whole that definitely seems less bad
+
+0:36:33.190,0:36:38.500
+than telling someone they don't have
+
+0:36:34.450,0:36:41.980
+cancer when they do how about a spam so
+
+0:36:38.500,0:36:43.630
+you're identifying if an email a spam or
+
+0:36:41.980,0:36:45.220
+not and if it is you're gonna put it in
+
+0:36:43.630,0:36:46.020
+their spam fold or not even show it to
+
+0:36:45.220,0:36:50.310
+them this is
+
+0:36:46.020,0:36:51.900
+you know your email server what do you
+
+0:36:50.310,0:36:57.210
+think is worse here or false positive or
+
+0:36:51.900,0:36:58.860
+false negative I think so yeah so this
+
+0:36:57.210,0:37:05.400
+is a false positive
+
+0:36:58.860,0:37:17.490
+oh okay and what what was the email if
+
+0:37:05.400,0:37:19.980
+you want to you'll have to say yeah so
+
+0:37:17.490,0:37:22.080
+yeah it's an email from a loved one or
+
+0:37:19.980,0:37:23.369
+about a job offer something important
+
+0:37:22.080,0:37:26.640
+you don't want it going to your
+
+0:37:23.369,0:37:27.960
+promotions tab or your spam folder and
+
+0:37:26.640,0:37:29.310
+with and with all these so you can also
+
+0:37:27.960,0:37:31.290
+think about the trade off so I would I
+
+0:37:29.310,0:37:33.840
+would totally agree on that but there's
+
+0:37:31.290,0:37:36.390
+a point where you know getting one spam
+
+0:37:33.840,0:37:39.450
+email and your regular inbox like hey
+
+0:37:36.390,0:37:41.190
+that's okay but if you get ten spam
+
+0:37:39.450,0:37:42.390
+emails in your regular inbox you know
+
+0:37:41.190,0:37:44.280
+there's probably some tipping point
+
+0:37:42.390,0:37:45.780
+where you're like this is stop cutting
+
+0:37:44.280,0:37:50.130
+the spam phishing emails in my regular
+
+0:37:45.780,0:37:53.850
+inbox and ditto with the cancer
+
+0:37:50.130,0:37:56.160
+screaming screaming example right
+
+0:37:53.850,0:37:57.660
+another another case how about going
+
+0:37:56.160,0:38:01.170
+back to this criminal recidivism
+
+0:37:57.660,0:38:03.600
+algorithm so predicting if a defendant
+
+0:38:01.170,0:38:06.080
+is low risk or high risk for committing
+
+0:38:03.600,0:38:06.080
+another crime
+
+0:38:06.470,0:38:09.869
+when I say committing another crime but
+
+0:38:08.670,0:38:12.470
+this includes people that haven't even
+
+0:38:09.869,0:38:12.470
+had a trial
+
+0:38:12.950,0:38:17.660
+so what's worse false positive or false
+
+0:38:15.390,0:38:17.660
+negative
+
+0:38:19.609,0:38:30.920
+so mostly here false positives you know
+
+0:38:24.960,0:38:36.300
+if you pass this case today again
+
+0:38:30.920,0:38:39.000
+basically for don't get the person to
+
+0:38:36.300,0:38:41.070
+say that basically we can try and say
+
+0:38:39.000,0:38:43.680
+you have to come back to jail because
+
+0:38:41.070,0:38:46.200
+you don't get paid it was too high
+
+0:38:43.680,0:38:48.570
+likely to commit a crime obviously and
+
+0:38:46.200,0:38:50.609
+you would obviously person is the other
+
+0:38:48.570,0:38:52.080
+way around is you're releasing people by
+
+0:38:50.609,0:38:53.850
+submitting crimes then they have
+
+0:38:52.080,0:38:57.020
+actually invited their victims of the
+
+0:38:53.850,0:39:00.710
+crime right so who who you ask there
+
+0:38:57.020,0:39:02.330
+pensive yes yes who you ask will
+
+0:39:00.710,0:39:13.010
+definitely vary your answer I see
+
+0:39:02.330,0:39:14.960
+another hand in the fourth row pass the
+
+0:39:13.010,0:39:16.880
+idea of a system of justice having its
+
+0:39:14.960,0:39:19.130
+own moral Center so if you have a
+
+0:39:16.880,0:39:20.840
+Jeffersonian statement like it's better
+
+0:39:19.130,0:39:22.430
+to let ten guilty people go them and
+
+0:39:20.840,0:39:24.590
+said well put one innocent person in
+
+0:39:22.430,0:39:27.290
+jail and you come up with systems where
+
+0:39:24.590,0:39:29.660
+you can simply undercut that principle
+
+0:39:27.290,0:39:32.030
+because it's profitable for you to
+
+0:39:29.660,0:39:33.950
+imprison more people or so on then the
+
+0:39:32.030,0:39:35.660
+idea there is no moral center to begin
+
+0:39:33.950,0:39:38.330
+with and we have to redefine it I think
+
+0:39:35.660,0:39:41.030
+boils back to no there it is we're just
+
+0:39:38.330,0:39:42.920
+ignoring it and so in that case all
+
+0:39:41.030,0:39:46.360
+positives are clearly bad unless you
+
+0:39:42.920,0:39:48.770
+disagree with the system I mean I think
+
+0:39:46.360,0:39:51.710
+so you're kind of saying that like with
+
+0:39:48.770,0:39:54.020
+a for-profit prison system you're not
+
+0:39:51.710,0:39:57.380
+even trying to hold to an idea of it's
+
+0:39:54.020,0:40:00.370
+better to what ten guilty people go free
+
+0:39:57.380,0:40:02.570
+then put one innocent person in prison I
+
+0:40:00.370,0:40:05.360
+think that I don't know that everyone
+
+0:40:02.570,0:40:07.010
+would agree with that statement though I
+
+0:40:05.360,0:40:08.510
+mean I agree that there's a lot of
+
+0:40:07.010,0:40:11.470
+problems with a for-profit prophet
+
+0:40:08.510,0:40:15.130
+prison system but I think even in a
+
+0:40:11.470,0:40:17.240
+healthier system I think there are
+
+0:40:15.130,0:40:19.880
+people that would say like law and order
+
+0:40:17.240,0:40:24.470
+is a high ideal and might not agree with
+
+0:40:19.880,0:40:25.730
+the letting ten guilty people go free so
+
+0:40:24.470,0:40:28.310
+I think there is still something of a
+
+0:40:25.730,0:40:29.870
+value judgment there although I do think
+
+0:40:28.310,0:40:40.790
+it's definitely clouded by kind of other
+
+0:40:29.870,0:40:42.410
+factors is that they're so fast specific
+
+0:40:40.790,0:40:45.620
+what was the crime is it a misdemeanor
+
+0:40:42.410,0:40:48.200
+versus like in yeah everything is so
+
+0:40:45.620,0:40:50.270
+fact specific as to the the false
+
+0:40:48.200,0:40:51.830
+negative and then the criminal goes and
+
+0:40:50.270,0:40:54.200
+is a recidivist and murders another
+
+0:40:51.830,0:40:56.150
+person yeah it's very difficult to just
+
+0:40:54.200,0:40:59.450
+container these and in general all of
+
+0:40:56.150,0:41:01.340
+these so much spam you know ya know
+
+0:40:59.450,0:41:04.690
+there is a lot of yeah nuance that is
+
+0:41:01.340,0:41:07.460
+not going to necessarily be captured
+
+0:41:04.690,0:41:09.420
+yeah so this was to kind of to highlight
+
+0:41:07.460,0:41:11.970
+that there's not
+
+0:41:09.420,0:41:14.520
+that your perspective does matter and
+
+0:41:11.970,0:41:19.230
+that I mean what when some of these we
+
+0:41:14.520,0:41:20.190
+had more agreement then then others
+
+0:41:19.230,0:41:22.230
+aren't you know some of these I think
+
+0:41:20.190,0:41:24.930
+it's possible to reach broader consensus
+
+0:41:22.230,0:41:27.270
+than others that there's not necessarily
+
+0:41:24.930,0:41:28.950
+a clear-cut answer and then even more so
+
+0:41:27.270,0:41:31.890
+there's not necessarily a clear cut this
+
+0:41:28.950,0:41:37.829
+is the best way to evaluate the the
+
+0:41:31.890,0:41:39.660
+error rate for for a given scenario all
+
+0:41:37.829,0:41:43.230
+right then it's about a seven o'clock so
+
+0:41:39.660,0:41:46.049
+let's stop here for our seven minute
+
+0:41:43.230,0:41:49.530
+break and then we'll resume back let's
+
+0:41:46.049,0:41:50.910
+start back up I want to check if there
+
+0:41:49.530,0:41:55.380
+are any questions about the twenty one
+
+0:41:50.910,0:41:57.569
+definitions video or any thoughts that I
+
+0:41:55.380,0:42:01.500
+wanted to move on to the problem
+
+0:41:57.569,0:42:04.740
+formulation and fairness paper and so
+
+0:42:01.500,0:42:06.900
+this was a ethnographic field study
+
+0:42:04.740,0:42:08.839
+where they followed this team of kind of
+
+0:42:06.900,0:42:13.349
+data scientist and product managers
+
+0:42:08.839,0:42:17.430
+business analyst product managers and so
+
+0:42:13.349,0:42:22.829
+on a company that was working with car
+
+0:42:17.430,0:42:25.049
+companies to pass on leads to kind of
+
+0:42:22.829,0:42:27.150
+two otter auto dealers and the initial
+
+0:42:25.049,0:42:29.970
+project goal was to improve the quality
+
+0:42:27.150,0:42:31.109
+of the leads actually curious what did
+
+0:42:29.970,0:42:35.490
+what do people think of this paper
+
+0:42:31.109,0:42:36.930
+there's any thoughts or reactions oh ok
+
+0:42:35.490,0:42:38.640
+so I'll repeat it for the microphones
+
+0:42:36.930,0:42:46.770
+one said they were mad they care so much
+
+0:42:38.640,0:42:49.319
+about their score any other thoughts hey
+
+0:42:46.770,0:42:52.109
+and I'll say like I thought it was kind
+
+0:42:49.319,0:42:53.849
+of interesting to see having worked as a
+
+0:42:52.109,0:42:56.549
+data scientist someone described the
+
+0:42:53.849,0:42:59.790
+process of what to me felt very familiar
+
+0:42:56.549,0:43:02.520
+in this kind of academic and studied way
+
+0:42:59.790,0:43:04.440
+but I thought that was helpful and it
+
+0:43:02.520,0:43:08.040
+started out with this question of what
+
+0:43:04.440,0:43:09.809
+makes a lead high-quality and there were
+
+0:43:08.040,0:43:12.000
+various answers from various people in
+
+0:43:09.809,0:43:14.940
+the project you know it could be the
+
+0:43:12.000,0:43:16.859
+buyer salary whether the car the car
+
+0:43:14.940,0:43:19.920
+they want is in stock which is neat kind
+
+0:43:16.859,0:43:22.710
+of thinking about from the buyers
+
+0:43:19.920,0:43:25.170
+perspective what they're looking for
+
+0:43:22.710,0:43:26.310
+dealer specific finance abilities so
+
+0:43:25.170,0:43:31.170
+different dealers have different
+
+0:43:26.310,0:43:32.820
+financing processes and so they kind of
+
+0:43:31.170,0:43:34.890
+you know started out with this broad
+
+0:43:32.820,0:43:36.000
+brainstorm of like oh these are the
+
+0:43:34.890,0:43:38.130
+things that could make a lead
+
+0:43:36.000,0:43:40.260
+high-quality and then ran into
+
+0:43:38.130,0:43:43.050
+difficulties the dealers won't share
+
+0:43:40.260,0:43:45.030
+that data the credit scores were
+
+0:43:43.050,0:43:46.589
+segmented into different ranges so they
+
+0:43:45.030,0:43:50.130
+kind of had these coarse ranges that
+
+0:43:46.589,0:43:51.990
+didn't really align and so they end up
+
+0:43:50.130,0:43:54.930
+reducing the problem to predicting the
+
+0:43:51.990,0:43:57.450
+credit score below 500 versus above 500
+
+0:43:54.930,0:43:59.220
+and so it's kind of an disappointing but
+
+0:43:57.450,0:44:00.960
+it's a trajectory I have been on where
+
+0:43:59.220,0:44:02.400
+they I feel like start with this you
+
+0:44:00.960,0:44:05.070
+know broader and more interesting
+
+0:44:02.400,0:44:07.560
+question about high quality leads and
+
+0:44:05.070,0:44:08.760
+then they have to boil it down to well
+
+0:44:07.560,0:44:11.040
+we kind of don't really have any data
+
+0:44:08.760,0:44:15.900
+other than these big buckets for credit
+
+0:44:11.040,0:44:17.339
+score so let's go with that they did
+
+0:44:15.900,0:44:19.500
+talk about you know should they try to
+
+0:44:17.339,0:44:22.010
+purchase higher quality data sets but
+
+0:44:19.500,0:44:25.740
+ruled that those were too expensive and
+
+0:44:22.010,0:44:27.270
+the project ended up failing and so it
+
+0:44:25.740,0:44:28.770
+was I thought kind of helpful to go on
+
+0:44:27.270,0:44:33.869
+this trajectory and it's one that I have
+
+0:44:28.770,0:44:36.780
+witnessed firsthand that yeah that often
+
+0:44:33.869,0:44:38.490
+I think projects are kind of limited by
+
+0:44:36.780,0:44:40.500
+the the data that you have and I think
+
+0:44:38.490,0:44:42.089
+that's important to keep in mind and
+
+0:44:40.500,0:44:44.430
+keep in mind also these like business
+
+0:44:42.089,0:44:47.400
+constraints that that really matter in
+
+0:44:44.430,0:44:48.869
+the workplace when discussing these
+
+0:44:47.400,0:44:52.070
+problems because I think it can be easy
+
+0:44:48.869,0:44:54.839
+to kind of focus on you know a more
+
+0:44:52.070,0:44:56.520
+academic or idealize like oh it'd be
+
+0:44:54.839,0:44:58.410
+great if we had you know this type of
+
+0:44:56.520,0:45:03.470
+data or could do this sort of process
+
+0:44:58.410,0:45:03.470
+but that may often not work out
+
+0:45:03.920,0:45:08.190
+different people gave different reasons
+
+0:45:06.119,0:45:10.619
+that the project failed whether it was
+
+0:45:08.190,0:45:14.060
+the data quality the expectations the
+
+0:45:10.619,0:45:16.619
+the nature of what they are trying to do
+
+0:45:14.060,0:45:19.349
+so something I want to ask you is what
+
+0:45:16.619,0:45:21.720
+and for this week I want you to try
+
+0:45:19.349,0:45:24.720
+talking in groups of three or four again
+
+0:45:21.720,0:45:28.320
+and so yeah you can pair up with people
+
+0:45:24.720,0:45:30.119
+near you or you can also cross rows and
+
+0:45:28.320,0:45:33.030
+we'll just take maybe seven minutes to
+
+0:45:30.119,0:45:34.109
+discuss just if what if anything do you
+
+0:45:33.030,0:45:36.340
+think this team could have done
+
+0:45:34.109,0:45:37.720
+differently to consider bias and fair
+
+0:45:36.340,0:45:40.030
+I mean do you think they should have
+
+0:45:37.720,0:45:42.450
+done it anything differently and if so
+
+0:45:40.030,0:45:45.880
+what and if not why not
+
+0:45:42.450,0:45:47.530
+kind of curious to hear well does anyone
+
+0:45:45.880,0:45:51.490
+wanna does anyone want to share
+
+0:45:47.530,0:45:53.020
+something that their group discussed the
+
+0:45:51.490,0:45:54.250
+catch box is sitting on the third row I
+
+0:45:53.020,0:45:56.350
+don't know if anyone on the third row
+
+0:45:54.250,0:46:00.730
+wants to say anything or pass it forward
+
+0:45:56.350,0:46:02.380
+to the second yeah so we were just
+
+0:46:00.730,0:46:03.850
+discussing that it's kind of a question
+
+0:46:02.380,0:46:06.220
+of alignment where when you're saying
+
+0:46:03.850,0:46:07.750
+you're looking for quality that can kind
+
+0:46:06.220,0:46:09.910
+of you can have these fuzzy beliefs
+
+0:46:07.750,0:46:10.660
+about what quantity man and that be but
+
+0:46:09.910,0:46:12.940
+when you don't kind of other
+
+0:46:10.660,0:46:14.290
+company-wide alignment when everyone
+
+0:46:12.940,0:46:16.300
+agrees what it means that when you vote
+
+0:46:14.290,0:46:18.430
+I'm telling you what a machine what
+
+0:46:16.300,0:46:20.710
+quality means that's kind of when it
+
+0:46:18.430,0:46:22.630
+gets reductive and bias almost a sort of
+
+0:46:20.710,0:46:24.280
+the mission so you can't really
+
+0:46:22.630,0:46:25.900
+eliminate the bias cuz they're trying is
+
+0:46:24.280,0:46:28.870
+how can we figure out the credit score's
+
+0:46:25.900,0:46:30.460
+for cheaper and there's this quote from
+
+0:46:28.870,0:46:32.050
+ma che sick mouse key that machine
+
+0:46:30.460,0:46:35.500
+learning is just money laundering for
+
+0:46:32.050,0:46:37.600
+bias that bias laundering because
+
+0:46:35.500,0:46:39.730
+quality wasn't defined what it ended up
+
+0:46:37.600,0:46:42.370
+being is just saying well let's try to
+
+0:46:39.730,0:46:45.070
+do bias but with this machine so nobody
+
+0:46:42.370,0:46:47.170
+knows so we kind of had the pessimistic
+
+0:46:45.070,0:46:50.290
+view that you couldn't really eliminate
+
+0:46:47.170,0:46:52.090
+bias from it because unless quality sort
+
+0:46:50.290,0:46:54.190
+of had a rigorous definition before they
+
+0:46:52.090,0:46:55.770
+started this project then bias is kind
+
+0:46:54.190,0:46:58.560
+of what they were trying to achieve oh
+
+0:46:55.770,0:47:02.140
+one thing that came to mind for me was
+
+0:46:58.560,0:47:03.820
+just changing the business model to
+
+0:47:02.140,0:47:06.160
+accommodate the idea of selling more
+
+0:47:03.820,0:47:08.290
+cars more people buy the modern maid
+
+0:47:06.160,0:47:10.420
+leasing model we have today is some
+
+0:47:08.290,0:47:12.640
+perversion of the initial model but it
+
+0:47:10.420,0:47:14.920
+was all aimed at depreciating the value
+
+0:47:12.640,0:47:17.920
+of the car and looking at the secondary
+
+0:47:14.920,0:47:19.480
+market before you sold that car and the
+
+0:47:17.920,0:47:21.940
+end result was you could go to any
+
+0:47:19.480,0:47:24.280
+particular customer say do you have X
+
+0:47:21.940,0:47:26.500
+amount down down payment and can you
+
+0:47:24.280,0:47:28.210
+afford $380 a month that they could
+
+0:47:26.500,0:47:29.590
+answer that knowing full well that the
+
+0:47:28.210,0:47:31.330
+consequences or lying were immediate
+
+0:47:29.590,0:47:32.980
+repossession they automatically
+
+0:47:31.330,0:47:36.700
+qualified themselves out from the stress
+
+0:47:32.980,0:47:38.470
+of losing a car that they just got so
+
+0:47:36.700,0:47:40.210
+just changing the model to address your
+
+0:47:38.470,0:47:42.280
+market rather than trying to figure out
+
+0:47:40.210,0:47:43.660
+you you know your customer your
+
+0:47:42.280,0:47:45.700
+potential customer by data you can't
+
+0:47:43.660,0:47:47.440
+have or don't want to pay for see like
+
+0:47:45.700,0:47:47.900
+one way to go about that yeah and that's
+
+0:47:47.440,0:47:49.910
+it that's
+
+0:47:47.900,0:47:52.700
+good point also about just when you have
+
+0:47:49.910,0:47:54.650
+clear simple rules as opposed to you
+
+0:47:52.700,0:47:57.140
+know even the credit score itself is
+
+0:47:54.650,0:48:00.680
+kind of this opaque system but you're
+
+0:47:57.140,0:48:02.299
+suggesting something with clear rules of
+
+0:48:00.680,0:48:04.609
+if you have this much money and can pay
+
+0:48:02.299,0:48:07.700
+this much money per month then you can
+
+0:48:04.609,0:48:09.380
+get actor well thank you all that was
+
+0:48:07.700,0:48:10.490
+interesting I didn't have like a I was
+
+0:48:09.380,0:48:12.559
+actually not sure what you would come up
+
+0:48:10.490,0:48:15.230
+with but I appreciated those answers and
+
+0:48:12.559,0:48:17.690
+and thinking about it and and some of
+
+0:48:15.230,0:48:19.430
+this stuff um check us in the privacy
+
+0:48:17.690,0:48:24.079
+and surveillance lesson we'll talk a
+
+0:48:19.430,0:48:26.329
+little bit more about financing both the
+
+0:48:24.079,0:48:32.500
+big three in the US as well as some kind
+
+0:48:26.329,0:48:32.500
+of micro financing projects as well
+
+0:48:33.849,0:48:39.319
+alright so hopefully so I kind of in the
+
+0:48:37.190,0:48:42.319
+the first part you know wanted to make a
+
+0:48:39.319,0:48:44.450
+case that algorithmic bias matters and
+
+0:48:42.319,0:48:46.490
+is significant I also want to highlight
+
+0:48:44.450,0:48:48.140
+that bias isn't the whole story or the
+
+0:48:46.490,0:48:50.119
+only issue and some of you have already
+
+0:48:48.140,0:48:53.900
+kind of touched on this and you're kind
+
+0:48:50.119,0:48:56.539
+of in your comments first that I think
+
+0:48:53.900,0:49:00.200
+accuracy is not it's not everything
+
+0:48:56.539,0:49:03.549
+and so referring back to the compass
+
+0:49:00.200,0:49:09.170
+recidivism algorithm point that Abe Gong
+
+0:49:03.549,0:49:11.690
+shared he's a data scientist part of the
+
+0:49:09.170,0:49:14.299
+input to the system is this
+
+0:49:11.690,0:49:17.000
+questionnaire that the defendants fill
+
+0:49:14.299,0:49:18.410
+out and it includes questions such as if
+
+0:49:17.000,0:49:20.630
+you lived with both parents and they
+
+0:49:18.410,0:49:23.630
+later separated how old were you at the
+
+0:49:20.630,0:49:25.160
+time was your father figure or father
+
+0:49:23.630,0:49:27.950
+figure who principally raised you ever
+
+0:49:25.160,0:49:31.520
+arrested that you know of and so keep in
+
+0:49:27.950,0:49:33.020
+mind these questions are then inputs to
+
+0:49:31.520,0:49:37.819
+this algorithm that's helping determine
+
+0:49:33.020,0:49:40.430
+who who has to pay parole or sorry pay
+
+0:49:37.819,0:49:42.079
+bail who might get parole really
+
+0:49:40.430,0:49:44.839
+significantly impacting someone's life
+
+0:49:42.079,0:49:47.180
+and as we saw from the kind of Dartmouth
+
+0:49:44.839,0:49:48.680
+study i en't mentioned this is actually
+
+0:49:47.180,0:49:49.819
+not very accurate and there's not
+
+0:49:48.680,0:49:53.539
+evidence that this makes it more
+
+0:49:49.819,0:49:56.740
+accurate but even if it did I think this
+
+0:49:53.539,0:49:59.240
+is unethical to have these sorts of
+
+0:49:56.740,0:50:01.690
+factors that you used in making such a
+
+0:49:59.240,0:50:02.859
+decision just in that
+
+0:50:01.690,0:50:05.049
+you know people have no control over
+
+0:50:02.859,0:50:06.460
+what happened to them as children or
+
+0:50:05.049,0:50:08.950
+what their parents may have done and it
+
+0:50:06.460,0:50:11.980
+seems me kind of very unethical to use
+
+0:50:08.950,0:50:13.420
+that in someone's prison sentence and so
+
+0:50:11.980,0:50:15.519
+I think it's important to keep in mind
+
+0:50:13.420,0:50:18.009
+that kind of improving accuracy
+
+0:50:15.519,0:50:20.410
+shouldn't be be your only goal but that
+
+0:50:18.009,0:50:22.329
+there may still be types of data or
+
+0:50:20.410,0:50:31.720
+particular factors that are unethical to
+
+0:50:22.329,0:50:45.430
+use I remember reading this and it
+
+0:50:31.720,0:50:47.829
+didn't go into it said well yeah this is
+
+0:50:45.430,0:50:50.200
+the other the other factor is that it
+
+0:50:47.829,0:50:51.579
+said and I actually don't know the
+
+0:50:50.200,0:50:53.559
+answer to this but my understanding is
+
+0:50:51.579,0:50:55.240
+that people could lie on this
+
+0:50:53.559,0:51:05.559
+questionnaire and so then are you yeah
+
+0:50:55.240,0:51:08.650
+rewarding people that lie or write so
+
+0:51:05.559,0:51:10.630
+that yeah so there is a probably
+
+0:51:08.650,0:51:13.180
+significant significant yeah like who
+
+0:51:10.630,0:51:15.099
+knows what people were saying for this I
+
+0:51:13.180,0:51:17.049
+mean I can imagine some people may have
+
+0:51:15.099,0:51:19.599
+felt intimidated and felt like they
+
+0:51:17.049,0:51:23.710
+needed to give correct answers well it's
+
+0:51:19.599,0:51:27.009
+140 inputs they're not all questions and
+
+0:51:23.710,0:51:28.900
+I actually don't know yeah what what
+
+0:51:27.009,0:51:30.430
+else is in the question yeah so this you
+
+0:51:28.900,0:51:32.589
+should raise a lot of issues like yeah
+
+0:51:30.430,0:51:35.009
+this just seems like terrible for many
+
+0:51:32.589,0:51:35.009
+reasons
+
+0:51:38.820,0:51:44.380
+all right so yeah that's one kind of
+
+0:51:41.350,0:51:50.770
+just issue apart from bias but that is
+
+0:51:44.380,0:51:55.060
+relevant yeah then kind of returning to
+
+0:51:50.770,0:51:57.250
+to facial recognition and it's important
+
+0:51:55.060,0:51:59.680
+to think about its uses so it's kind of
+
+0:51:57.250,0:52:04.170
+wrong to have these very very different
+
+0:51:59.680,0:52:07.030
+error rates the same time in in 2015
+
+0:52:04.170,0:52:09.760
+after Freddie gray a black man was
+
+0:52:07.030,0:52:12.640
+killed by police in Baltimore Baltimore
+
+0:52:09.760,0:52:15.610
+police used facial recognition to
+
+0:52:12.640,0:52:20.320
+identify protesters protesting his death
+
+0:52:15.610,0:52:21.820
+and this was specifically to identify
+
+0:52:20.320,0:52:23.740
+people that had existing warrants
+
+0:52:21.820,0:52:25.420
+although there's no information on what
+
+0:52:23.740,0:52:30.490
+these warrants were for if they were for
+
+0:52:25.420,0:52:32.830
+very minor offences or not and this was
+
+0:52:30.490,0:52:36.460
+from this private company and this only
+
+0:52:32.830,0:52:37.660
+came to light because the ACLU ended up
+
+0:52:36.460,0:52:39.760
+obtaining some of its marketing
+
+0:52:37.660,0:52:41.410
+materials and the company was bragging
+
+0:52:39.760,0:52:43.840
+about this is like a successful case
+
+0:52:41.410,0:52:45.400
+study they even I should have included
+
+0:52:43.840,0:52:47.290
+the language but it's like oh it's so
+
+0:52:45.400,0:52:49.510
+great we were able to like arrest these
+
+0:52:47.290,0:52:51.280
+people before they harmed anyone but it
+
+0:52:49.510,0:52:54.370
+was like why why were you arresting them
+
+0:52:51.280,0:52:56.500
+if they if they hadn't done anything and
+
+0:52:54.370,0:53:00.570
+so this is this is really concerning I
+
+0:52:56.500,0:53:00.570
+think the idea of identifying protesters
+
+0:53:00.660,0:53:07.000
+you know if this became widespread or
+
+0:53:03.340,0:53:09.100
+even not widespread if this became you
+
+0:53:07.000,0:53:12.370
+know was being used more I think could
+
+0:53:09.100,0:53:14.530
+really impact civil rights and so it's
+
+0:53:12.370,0:53:16.420
+important to think about applications
+
+0:53:14.530,0:53:19.840
+like this of this is not something we're
+
+0:53:16.420,0:53:21.460
+you know having less biased facial
+
+0:53:19.840,0:53:23.290
+recognition I mean this is you know it'd
+
+0:53:21.460,0:53:24.850
+be bad to be making errors here but it's
+
+0:53:23.290,0:53:27.520
+also bad to be doing this accurately
+
+0:53:24.850,0:53:30.400
+like this is not I think this is a not a
+
+0:53:27.520,0:53:33.600
+good use case at all and so wanted to
+
+0:53:30.400,0:53:33.600
+wanted to highlight that
+
+0:53:33.660,0:53:45.850
+yes a question in particular yeah the
+
+0:53:41.440,0:53:48.820
+police is doing it's like at the end is
+
+0:53:45.850,0:53:50.320
+like they are finding ways to do what
+
+0:53:48.820,0:53:51.940
+they need to do in a cheaper way right
+
+0:53:50.320,0:53:54.130
+and that's I think what pushed them to
+
+0:53:51.940,0:53:58.740
+actually implement this system right
+
+0:53:54.130,0:54:01.570
+because so in general I would say
+
+0:53:58.740,0:54:03.700
+because even for example I don't know
+
+0:54:01.570,0:54:05.500
+all the companies in the US who decide
+
+0:54:03.700,0:54:07.150
+okay yeah no we are not going to develop
+
+0:54:05.500,0:54:09.220
+these technologies because we know all
+
+0:54:07.150,0:54:11.560
+this stuff is going on and there's
+
+0:54:09.220,0:54:13.780
+dieter 360 things and so we are not
+
+0:54:11.560,0:54:15.550
+going to develop technologies right but
+
+0:54:13.780,0:54:18.070
+then I can't break the need or the
+
+0:54:15.550,0:54:19.870
+pressure pattern of the police or the
+
+0:54:18.070,0:54:22.870
+type of organization to provide these
+
+0:54:19.870,0:54:24.520
+technologies because my sister like that
+
+0:54:22.870,0:54:27.130
+I don't know maybe they will start
+
+0:54:24.520,0:54:29.020
+buying can these technologies why are
+
+0:54:27.130,0:54:32.520
+they develop we are there's no this
+
+0:54:29.020,0:54:36.250
+person right so so the question is like
+
+0:54:32.520,0:54:37.990
+there's some Drive so one is how you
+
+0:54:36.250,0:54:41.050
+approach and develop a technology but
+
+0:54:37.990,0:54:42.790
+somehow there's so drive or for
+
+0:54:41.050,0:54:44.830
+forgetting these technologies that are
+
+0:54:42.790,0:54:46.630
+not so clear for me what is the source
+
+0:54:44.830,0:54:47.830
+and so how you need to control that for
+
+0:54:46.630,0:54:50.770
+the people decided to buy these
+
+0:54:47.830,0:54:52.390
+technologies so they don't so I would I
+
+0:54:50.770,0:54:55.330
+would disagree with your original
+
+0:54:52.390,0:54:57.370
+statement that the police are a that
+
+0:54:55.330,0:54:59.680
+they need to do this and that be this is
+
+0:54:57.370,0:55:02.950
+allowing them to do it cheaper there are
+
+0:54:59.680,0:55:06.370
+many things that are very inefficient
+
+0:55:02.950,0:55:08.470
+about the market for technology sold to
+
+0:55:06.370,0:55:09.640
+police so in the and we'll talk more
+
+0:55:08.470,0:55:12.340
+about this in the privacy and
+
+0:55:09.640,0:55:15.160
+surveillance lesson but just briefly so
+
+0:55:12.340,0:55:17.170
+one policing in the u.s. is kind of
+
+0:55:15.160,0:55:19.570
+hyper local so these decisions are kind
+
+0:55:17.170,0:55:22.990
+of made department by Department but
+
+0:55:19.570,0:55:25.800
+often I don't know that tech companies
+
+0:55:22.990,0:55:28.470
+are identifying like hey this is a
+
+0:55:25.800,0:55:30.910
+legitimate and necessary need that were
+
+0:55:28.470,0:55:33.910
+fulfilling they're often kind of pushing
+
+0:55:30.910,0:55:36.160
+like hey isn't this technology cool and
+
+0:55:33.910,0:55:40.480
+selling it there and it can be very
+
+0:55:36.160,0:55:42.040
+expensive in many cases so for many
+
+0:55:40.480,0:55:43.930
+types of technology there's kind of near
+
+0:55:42.040,0:55:44.980
+monopoly so for instance police body
+
+0:55:43.930,0:55:46.470
+cameras
+
+0:55:44.980,0:55:50.490
+taser now
+
+0:55:46.470,0:55:52.470
+axon has virtual monopoly on the market
+
+0:55:50.490,0:55:54.630
+I sell so I'll post an article I wrote
+
+0:55:52.470,0:55:56.099
+with kind of some relevant pieces of
+
+0:55:54.630,0:55:58.829
+information but yeah I would disagree
+
+0:55:56.099,0:56:00.470
+that this was something that needed to
+
+0:55:58.829,0:56:02.970
+happen or that would be done either way
+
+0:56:00.470,0:56:04.260
+and also even that this is lowering the
+
+0:56:02.970,0:56:05.730
+cost because these can be quite
+
+0:56:04.260,0:56:08.250
+expensive and many of these companies
+
+0:56:05.730,0:56:11.670
+are then kind of pushing cloud storage
+
+0:56:08.250,0:56:16.609
+of keeping this data forever but this is
+
+0:56:11.670,0:56:20.099
+I would prefer to wait to the kind of
+
+0:56:16.609,0:56:21.780
+privacy and surveillance and mostly I'm
+
+0:56:20.099,0:56:25.710
+kind of highlighting this to show that
+
+0:56:21.780,0:56:28.140
+even in you know and as we discussed
+
+0:56:25.710,0:56:30.839
+earlier you are probably never going to
+
+0:56:28.140,0:56:32.490
+get the exact same accuracy on different
+
+0:56:30.839,0:56:34.589
+measures across groups but even if you
+
+0:56:32.490,0:56:36.390
+had significantly less biased
+
+0:56:34.589,0:56:37.740
+facial-recognition I think their
+
+0:56:36.390,0:56:39.720
+applications of it that would be very
+
+0:56:37.740,0:56:41.369
+questionable and so it's not just a
+
+0:56:39.720,0:56:42.839
+question of removing bias but also
+
+0:56:41.369,0:56:46.530
+thinking of kind of how how the
+
+0:56:42.839,0:56:49.859
+technology is being used and sorry those
+
+0:56:46.530,0:56:55.020
+I realize more editorializing here if
+
+0:56:49.859,0:56:57.690
+you but yeah so that is my kind of
+
+0:56:55.020,0:57:05.130
+opinion that it is very would be very
+
+0:56:57.690,0:57:06.480
+harmful to be identifying protesters and
+
+0:57:05.130,0:57:11.160
+that this is something that's happened
+
+0:57:06.480,0:57:13.970
+in the United States there was the
+
+0:57:11.160,0:57:16.500
+digital of justice lab hosted a workshop
+
+0:57:13.970,0:57:19.349
+unfortunately in Boston called please
+
+0:57:16.500,0:57:22.140
+don't include us of groups kind of not
+
+0:57:19.349,0:57:25.400
+wanting to be included in kind of
+
+0:57:22.140,0:57:27.720
+creating a more or you know less biased
+
+0:57:25.400,0:57:30.390
+technology because of concerns about how
+
+0:57:27.720,0:57:32.339
+it was being used and so kind of many
+
+0:57:30.390,0:57:36.089
+others have kind of raised these these
+
+0:57:32.339,0:57:37.560
+concerns and this happened this fall and
+
+0:57:36.089,0:57:39.480
+I was not able to find much much
+
+0:57:37.560,0:57:40.680
+information about it but I was very or
+
+0:57:39.480,0:57:41.910
+something where I was like if this was
+
+0:57:40.680,0:57:48.450
+local I would have I would have loved to
+
+0:57:41.910,0:57:49.859
+go another kind of issue and this gets
+
+0:57:48.450,0:57:52.410
+back a little bit to what Aly was saying
+
+0:57:49.859,0:57:54.750
+earlier about kind of race and gender
+
+0:57:52.410,0:57:57.720
+being social constructs these are two
+
+0:57:54.750,0:57:59.180
+papers by trans researchers on the
+
+0:57:57.720,0:58:00.980
+problem with
+
+0:57:59.180,0:58:05.810
+doing gender for gender classification
+
+0:58:00.980,0:58:07.100
+using facial recognition and so so first
+
+0:58:05.810,0:58:08.500
+of all kind of doing gender
+
+0:58:07.100,0:58:11.930
+classification with facial recognition
+
+0:58:08.500,0:58:15.320
+has much higher error rates for for
+
+0:58:11.930,0:58:18.140
+trans and non-binary people but it's not
+
+0:58:15.320,0:58:19.910
+I mean so that that's an example of bias
+
+0:58:18.140,0:58:22.370
+you have you know higher error rates on
+
+0:58:19.910,0:58:27.470
+certain groups however particularly in
+
+0:58:22.370,0:58:29.210
+the AH skis paper they argue that the
+
+0:58:27.470,0:58:31.190
+goal shouldn't be like oh let's just you
+
+0:58:29.210,0:58:33.320
+know improve the air rates on trans and
+
+0:58:31.190,0:58:35.780
+non-binary people it's that the whole
+
+0:58:33.320,0:58:38.840
+premise of you know that gender is
+
+0:58:35.780,0:58:41.980
+something you're assigning to someone
+
+0:58:38.840,0:58:44.300
+externally you know whether that's by a
+
+0:58:41.980,0:58:46.160
+person kind of looking at you or a
+
+0:58:44.300,0:58:48.080
+computer you know taking your image and
+
+0:58:46.160,0:58:50.570
+then determining this for you but that
+
+0:58:48.080,0:58:53.480
+that whole kind of premises is incorrect
+
+0:58:50.570,0:58:54.710
+and not something to be pursuing and so
+
+0:58:53.480,0:58:57.470
+that's kind of another example where
+
+0:58:54.710,0:58:59.750
+it's not just oh let's gather a more
+
+0:58:57.470,0:59:01.850
+diverse data set and then we can can
+
+0:58:59.750,0:59:07.730
+reduce our bias but that the the premise
+
+0:59:01.850,0:59:09.440
+may be incorrect and I joined Balan we
+
+0:59:07.730,0:59:11.840
+need has spoken about this that that
+
+0:59:09.440,0:59:13.340
+algorithmic fairness is not justice and
+
+0:59:11.840,0:59:20.480
+they're kind of many many issues that
+
+0:59:13.340,0:59:23.210
+aren't captured questions kind of on
+
+0:59:20.480,0:59:24.680
+this part of yeah like that they're
+
+0:59:23.210,0:59:26.660
+places that we just shouldn't be using
+
+0:59:24.680,0:59:29.840
+facial recognition and it's not just
+
+0:59:26.660,0:59:32.180
+okay let's get police more accurately
+
+0:59:29.840,0:59:34.480
+identifying black black women but let's
+
+0:59:32.180,0:59:43.550
+really think about how it's being used
+
+0:59:34.480,0:59:46.520
+Ali published paper uh kinda cousins
+
+0:59:43.550,0:59:51.290
+recently that I had the pleasure of
+
+0:59:46.520,0:59:52.460
+presenting critiquing the idea of
+
+0:59:51.290,0:59:55.010
+fairness and even accountability
+
+0:59:52.460,0:59:56.990
+transparency where they were suggesting
+
+0:59:55.010,0:59:58.850
+like let's turn old people into food and
+
+0:59:56.990,1:00:01.390
+let's do it fairly and let's do it
+
+0:59:58.850,1:00:01.390
+accountability
+
+1:00:01.770,1:00:07.060
+they they like provably argue that you
+
+1:00:05.410,1:00:08.890
+can do all of these things fair ways but
+
+1:00:07.060,1:00:11.770
+like if the point of it at the end is to
+
+1:00:08.890,1:00:17.370
+turn people into food then this is like
+
+1:00:11.770,1:00:17.370
+completely misguided in deference yeah
+
+1:00:17.700,1:00:25.300
+yeah but so I like Joyce quite correctly
+
+1:00:23.470,1:00:27.040
+like that was a similar sort of like
+
+1:00:25.300,1:00:29.290
+ethos that she was going for which is
+
+1:00:27.040,1:00:30.550
+that like you can have like fairness of
+
+1:00:29.290,1:00:32.050
+the application of the algorithmic
+
+1:00:30.550,1:00:34.090
+system but if the algorithmic system is
+
+1:00:32.050,1:00:37.270
+there to hurt all of us or to across all
+
+1:00:34.090,1:00:41.770
+of us like it's fair it's oppression I
+
+1:00:37.270,1:00:43.390
+guess but that's awful yeah Thank You
+
+1:00:41.770,1:00:45.190
+Ellie and I'll post a link to the the
+
+1:00:43.390,1:00:47.740
+mulching proposal paper cuz I read that
+
+1:00:45.190,1:01:15.640
+and that is that is a great example hey
+
+1:00:47.740,1:01:21.510
+at the end of end of your row because if
+
+1:01:15.640,1:01:29.950
+you can say to data business sucks Co
+
+1:01:21.510,1:01:51.190
+this guy might be I mean we going to be
+
+1:01:29.950,1:01:54.790
+like if that's the case and I think
+
+1:01:51.190,1:01:56.290
+you're getting a many of kind of
+
+1:01:54.790,1:01:59.260
+concerns around surveillance of
+
+1:01:56.290,1:02:01.570
+collecting a lot of data yeah if we
+
+1:01:59.260,1:02:04.620
+don't have safeguards in place that it
+
+1:02:01.570,1:02:07.360
+could be used in pretty bad ways and
+
+1:02:04.620,1:02:08.110
+yeah we will talk more about that but
+
+1:02:07.360,1:02:12.100
+yeah I think there are definitely
+
+1:02:08.110,1:02:13.390
+concerns of kind of if you you know and
+
+1:02:12.100,1:02:15.280
+a lot of this even just goes into
+
+1:02:13.390,1:02:16.720
+insurance but it's like if we get super
+
+1:02:15.280,1:02:18.910
+accurate and they're correct collecting
+
+1:02:16.720,1:02:22.300
+tons of data yeah like health insurance
+
+1:02:18.910,1:02:25.510
+could become even more inaccessible for
+
+1:02:22.300,1:02:28.690
+people that are predicted to to be on
+
+1:02:25.510,1:02:29.680
+healthier to have issues so so yeah well
+
+1:02:28.690,1:02:39.190
+we'll talk about some of those issues
+
+1:02:29.680,1:02:40.300
+kind of in the privacy week not me we
+
+1:02:39.190,1:02:43.360
+move on but I'll take some more
+
+1:02:40.300,1:02:45.490
+questions kind of in a moment and
+
+1:02:43.360,1:02:48.010
+another paper I thought was really
+
+1:02:45.490,1:02:52.030
+interesting this is from my CML last
+
+1:02:48.010,1:02:55.330
+year and was on a fare washing and here
+
+1:02:52.030,1:02:58.090
+they showed that if you had a unfair
+
+1:02:55.330,1:03:00.220
+algorithm basically you could go back
+
+1:02:58.090,1:03:03.280
+given a fairness definition and make a
+
+1:03:00.220,1:03:05.290
+kind of post-talk justification to make
+
+1:03:03.280,1:03:08.290
+it seem fairer than it was but still
+
+1:03:05.290,1:03:09.760
+come up to the same answers and so this
+
+1:03:08.290,1:03:11.140
+is kind of like from a mathematical
+
+1:03:09.760,1:03:14.530
+perspective but I thought was really
+
+1:03:11.140,1:03:16.360
+interesting and so this also kind of
+
+1:03:14.530,1:03:18.270
+shows that you know meaning some
+
+1:03:16.360,1:03:20.710
+fairness criteria will not be sufficient
+
+1:03:18.270,1:03:24.390
+as you could still be kind of hiding the
+
+1:03:20.710,1:03:24.390
+the real reasons your making decisions
+
+1:03:28.350,1:03:33.400
+okay so then in the kind of the the
+
+1:03:31.120,1:03:36.100
+final section I want to talk about some
+
+1:03:33.400,1:03:38.020
+steps towards solutions and as you as
+
+1:03:36.100,1:03:40.530
+you may have guessed there's no kind of
+
+1:03:38.020,1:03:43.630
+oh the solves it and and now you're done
+
+1:03:40.530,1:03:45.520
+but some of the I think kind of positive
+
+1:03:43.630,1:03:48.340
+steps towards solutions and then also
+
+1:03:45.520,1:03:49.840
+want to note that next week we'll we'll
+
+1:03:48.340,1:03:51.340
+be talking more about kind of processes
+
+1:03:49.840,1:03:54.010
+to implement and thinks that could be
+
+1:03:51.340,1:03:56.890
+helpful kind of practically in in terms
+
+1:03:54.010,1:03:59.050
+of working towards solutions and the
+
+1:03:56.890,1:04:01.090
+first and this is kind of adopted from a
+
+1:03:59.050,1:04:04.060
+talk I gave but I really encourage
+
+1:04:01.090,1:04:07.450
+people to kind of go back and analyze a
+
+1:04:04.060,1:04:09.820
+project at your workplace or in your
+
+1:04:07.450,1:04:13.960
+school as a kind of concrete thing you
+
+1:04:09.820,1:04:17.650
+can do to kind of look for kind of look
+
+1:04:13.960,1:04:20.590
+for types of bias also starting with the
+
+1:04:17.650,1:04:22.570
+the question of should we even be doing
+
+1:04:20.590,1:04:25.120
+this and remembering
+
+1:04:22.570,1:04:26.750
+I think bias in particular because it's
+
+1:04:25.120,1:04:28.880
+getting more attention
+
+1:04:26.750,1:04:30.520
+on the whole is positive and really glad
+
+1:04:28.880,1:04:34.070
+that it's been covered in the news more
+
+1:04:30.520,1:04:35.750
+often leads people to potentially think
+
+1:04:34.070,1:04:39.890
+though that like any project can be d
+
+1:04:35.750,1:04:43.460
+biased and then it's it's good and so a
+
+1:04:39.890,1:04:45.620
+paper that will be will be reading in a
+
+1:04:43.460,1:04:49.400
+later week is when the implication is
+
+1:04:45.620,1:04:50.900
+not to design and this kind of says you
+
+1:04:49.400,1:04:52.610
+know engineers tend to respond to
+
+1:04:50.900,1:04:54.530
+problems with you know like what can I
+
+1:04:52.610,1:04:55.520
+make or build to fix this and I think
+
+1:04:54.530,1:04:57.110
+that can be coming from a really good
+
+1:04:55.520,1:04:59.150
+place of you know like these are the
+
+1:04:57.110,1:05:01.790
+tools I have what can i what can I do
+
+1:04:59.150,1:05:04.850
+but sometimes the answer is to not to
+
+1:05:01.790,1:05:06.950
+not make her build anything and so some
+
+1:05:04.850,1:05:10.850
+examples I think of really troubling
+
+1:05:06.950,1:05:14.420
+technology include the facial
+
+1:05:10.850,1:05:16.310
+recognition for ethnicity recognition
+
+1:05:14.420,1:05:18.320
+and said these were papers that were
+
+1:05:16.310,1:05:21.110
+distinguishing between Chinese we Gers
+
+1:05:18.320,1:05:24.050
+Tibetans and Koreans and the Chinese we
+
+1:05:21.110,1:05:27.040
+are the Muslim minority in western China
+
+1:05:24.050,1:05:29.780
+that are being put in internment camps
+
+1:05:27.040,1:05:32.510
+there's also been at least two research
+
+1:05:29.780,1:05:34.310
+product projects now about trying to
+
+1:05:32.510,1:05:39.560
+identify people's sexuality from their
+
+1:05:34.310,1:05:41.600
+pictures and it's you know it's really
+
+1:05:39.560,1:05:44.330
+what they're doing is identifying kind
+
+1:05:41.600,1:05:45.650
+of cultural differences and in kind of
+
+1:05:44.330,1:05:48.410
+how people are presenting themselves on
+
+1:05:45.650,1:05:50.270
+dating sites I believe for the most part
+
+1:05:48.410,1:05:52.460
+but just that this whole idea is kind of
+
+1:05:50.270,1:05:54.050
+a problem of you know a this could be
+
+1:05:52.460,1:05:57.470
+very dangerous for people in many parts
+
+1:05:54.050,1:05:58.820
+of the world if it was I mean again
+
+1:05:57.470,1:06:00.290
+these are these things are often like
+
+1:05:58.820,1:06:02.540
+they're bad if they're wrong and they're
+
+1:06:00.290,1:06:05.000
+also bad if they if they were to work
+
+1:06:02.540,1:06:07.400
+accurately as well as just the premise
+
+1:06:05.000,1:06:11.270
+that sexuality is something you assign
+
+1:06:07.400,1:06:12.680
+to somebody by by looking at them so
+
+1:06:11.270,1:06:15.200
+those are some kind of examples of
+
+1:06:12.680,1:06:19.100
+things to to not do they're not we'll
+
+1:06:15.200,1:06:20.990
+talk more about those later and so
+
+1:06:19.100,1:06:22.490
+really kind of starting there but from
+
+1:06:20.990,1:06:24.950
+there if you've determined it's you know
+
+1:06:22.490,1:06:27.770
+a project that that is good to be doing
+
+1:06:24.950,1:06:30.500
+looking for what biases and the data and
+
+1:06:27.770,1:06:33.170
+recognizing that all data is biased if
+
+1:06:30.500,1:06:34.510
+there's not kind of unbiased and I think
+
+1:06:33.170,1:06:36.440
+someone said this earlier there's not
+
+1:06:34.510,1:06:38.120
+unbiased data out there but the
+
+1:06:36.440,1:06:39.770
+important thing is to kind of understand
+
+1:06:38.120,1:06:43.900
+it and understand how is
+
+1:06:39.770,1:06:45.800
+they're also looking for kind of what
+
+1:06:43.900,1:06:48.110
+accountability mechanisms are in place
+
+1:06:45.800,1:06:51.110
+you know can the the code and data here
+
+1:06:48.110,1:06:54.590
+be audited what our error rates for
+
+1:06:51.110,1:06:56.950
+different subgroups what is the accuracy
+
+1:06:54.590,1:06:59.780
+of a simple rule based alternative and
+
+1:06:56.950,1:07:01.400
+this is something that I mean this is a
+
+1:06:59.780,1:07:03.740
+good first step kind of friend a machine
+
+1:07:01.400,1:07:06.140
+learning project is just to know what
+
+1:07:03.740,1:07:07.850
+can you get with a simple rule based
+
+1:07:06.140,1:07:08.840
+alternative and you know something we
+
+1:07:07.850,1:07:11.540
+saw with the compass recidivism
+
+1:07:08.840,1:07:13.250
+algorithm where it's not even more more
+
+1:07:11.540,1:07:16.310
+accurate than a linear classifier on
+
+1:07:13.250,1:07:18.740
+three variables but to kind of know you
+
+1:07:16.310,1:07:20.840
+know is my algorithm even that accurate
+
+1:07:18.740,1:07:27.890
+or doing what I think it is question in
+
+1:07:20.840,1:07:29.540
+the fourth row are you aware of any
+
+1:07:27.890,1:07:31.070
+studies comparing like a machine
+
+1:07:29.540,1:07:32.810
+learning based approach against a rules
+
+1:07:31.070,1:07:34.940
+engine and just saying which of these is
+
+1:07:32.810,1:07:36.290
+you know do we have any provable
+
+1:07:34.940,1:07:39.770
+evidence that one can work better than
+
+1:07:36.290,1:07:41.020
+the other for any given data set or any
+
+1:07:39.770,1:07:49.550
+given question
+
+1:07:41.020,1:07:51.740
+Elise Chi yeah so I'm not sure if
+
+1:07:49.550,1:07:55.760
+there's evidence that rule-based systems
+
+1:07:51.740,1:07:57.590
+perform better but there is some a
+
+1:07:55.760,1:07:59.270
+substantial amount of evidence a lot of
+
+1:07:57.590,1:08:01.660
+it coming from Scirocco well who's at
+
+1:07:59.270,1:08:04.310
+Stanford in Management Sciences
+
+1:08:01.660,1:08:05.840
+basically showing that rule based
+
+1:08:04.310,1:08:07.010
+systems like really simple rule based
+
+1:08:05.840,1:08:08.330
+systems where like a judge would like
+
+1:08:07.010,1:08:09.710
+have a scorecard and it would basically
+
+1:08:08.330,1:08:12.320
+say like has this person committed a
+
+1:08:09.710,1:08:14.870
+crime it's like an previously to this
+
+1:08:12.320,1:08:15.950
+bail hearing if so at four points
+
+1:08:14.870,1:08:18.140
+something at the end of that like if
+
+1:08:15.950,1:08:20.150
+it's only this threshold and you know
+
+1:08:18.140,1:08:24.109
+don't get me mail that that performs
+
+1:08:20.150,1:08:26.180
+like so close to as well as the top of
+
+1:08:24.109,1:08:28.940
+the line AI systems that were around at
+
+1:08:26.180,1:08:30.529
+the time that it it was extremely
+
+1:08:28.940,1:08:33.200
+difficult for them to provide any
+
+1:08:30.529,1:08:37.010
+motivated reason for why you'd use a
+
+1:08:33.200,1:08:39.250
+very complex machine learning system I'm
+
+1:08:37.010,1:08:40.850
+not sure whether it's demonstrably
+
+1:08:39.250,1:08:41.630
+possible to say they're like a
+
+1:08:40.850,1:08:44.569
+rule-based system were actually
+
+1:08:41.630,1:08:46.700
+outperformed guys but because they I
+
+1:08:44.569,1:08:49.790
+would just sort of start to kind of
+
+1:08:46.700,1:08:51.680
+consume that but yeah there there's part
+
+1:08:49.790,1:08:53.299
+of it that shows that it's so close and
+
+1:08:51.680,1:08:57.549
+they deleted it
+
+1:08:53.299,1:08:57.549
+in why you came to that conclusion is
+
+1:08:57.670,1:09:01.339
+the notes you kind of from more of a
+
+1:08:59.779,1:09:04.220
+philosophical point I think it can
+
+1:09:01.339,1:09:06.920
+provide a kind of consistency that seems
+
+1:09:04.220,1:09:08.900
+very fair to say I kind of know why I'm
+
+1:09:06.920,1:09:16.940
+doing it for rules that I think are fair
+
+1:09:08.900,1:09:18.589
+and are being applied consistently then
+
+1:09:16.940,1:09:22.040
+as I mentioned before kind of having a
+
+1:09:18.589,1:09:25.310
+place to away to handle appeals and
+
+1:09:22.040,1:09:28.940
+mistakes and recognizing that computers
+
+1:09:25.310,1:09:30.500
+make mistakes data has airs can you
+
+1:09:28.940,1:09:33.770
+catch them before kind of something
+
+1:09:30.500,1:09:36.670
+disastrous happens then can you kind of
+
+1:09:33.770,1:09:39.319
+write things that are that are wrong and
+
+1:09:36.670,1:09:41.180
+then also looking at the the diversity
+
+1:09:39.319,1:09:43.460
+of the team that built it because I
+
+1:09:41.180,1:09:46.940
+believe that's a factor in in kind of
+
+1:09:43.460,1:09:55.820
+creating creating better technology hand
+
+1:09:46.940,1:09:58.130
+in the fourth row historically in
+
+1:09:55.820,1:10:01.550
+technology it's been a lot of primary
+
+1:09:58.130,1:10:04.790
+white males and so seeing something like
+
+1:10:01.550,1:10:08.060
+the compass where it's like down
+
+1:10:04.790,1:10:10.790
+performing african-americans is that
+
+1:10:08.060,1:10:12.650
+maybe because of the inherent bias of
+
+1:10:10.790,1:10:14.810
+the in-group bias and the people that
+
+1:10:12.650,1:10:17.450
+created it yeah I think that's
+
+1:10:14.810,1:10:22.100
+definitely a factor in general and not
+
+1:10:17.450,1:10:24.590
+just I think it also shows up in kind of
+
+1:10:22.100,1:10:26.270
+not always thinking about what can go
+
+1:10:24.590,1:10:30.230
+wrong and how this technology could be
+
+1:10:26.270,1:10:33.140
+applied but I think that the the
+
+1:10:30.230,1:10:37.070
+homogeneity in tack is has played a role
+
+1:10:33.140,1:10:40.160
+and kind of many of the misuses and
+
+1:10:37.070,1:10:43.250
+negative impacts and then another
+
+1:10:40.160,1:10:45.110
+problem that we may get to get to more
+
+1:10:43.250,1:10:47.360
+laters you know often they're tight
+
+1:10:45.110,1:10:48.980
+NDA's and this is an issue and police
+
+1:10:47.360,1:10:50.900
+use of technology as well often there
+
+1:10:48.980,1:10:52.940
+are these very restrictive NDA's and so
+
+1:10:50.900,1:10:55.010
+you don't even know kind of that this
+
+1:10:52.940,1:11:01.820
+technology exists much less how it's
+
+1:10:55.010,1:11:03.830
+being being applied to you and so I mean
+
+1:11:01.820,1:11:06.140
+I guess one here I was kind of trying to
+
+1:11:03.830,1:11:07.120
+get at the responsibility of those kind
+
+1:11:06.140,1:11:09.230
+of
+
+1:11:07.120,1:11:12.890
+working at a company or help making the
+
+1:11:09.230,1:11:15.290
+tech to recognize the the need for for
+
+1:11:12.890,1:11:18.800
+Appeals I'm I guess as an outsider I
+
+1:11:15.290,1:11:21.100
+think this also highlights in some cases
+
+1:11:18.800,1:11:26.030
+the the need for you know do we need
+
+1:11:21.100,1:11:29.500
+policies to restrict or address the the
+
+1:11:26.030,1:11:32.000
+use of some questionable technology
+
+1:11:29.500,1:11:34.760
+although yeah often just even finding
+
+1:11:32.000,1:11:37.760
+out that it exists can be can be really
+
+1:11:34.760,1:11:40.820
+helpful to even start figuring out
+
+1:11:37.760,1:11:43.520
+what's going on so then a paper that I
+
+1:11:40.820,1:11:44.900
+love is data sheets for data sets this
+
+1:11:43.520,1:11:47.720
+is one of the ones that was in the
+
+1:11:44.900,1:11:50.960
+signed reading by Tim Nick Abreu at all
+
+1:11:47.720,1:11:52.940
+and here Tim it's kind of drawing on her
+
+1:11:50.960,1:11:57.950
+past as an electrical engineer and
+
+1:11:52.940,1:11:59.930
+looking at the kind of electronics
+
+1:11:57.950,1:12:01.490
+industry of you know like circuits and
+
+1:11:59.930,1:12:04.490
+resistors and all these electronics
+
+1:12:01.490,1:12:06.500
+pieces and it's very standardized there
+
+1:12:04.490,1:12:09.620
+to have these data sheets that tell you
+
+1:12:06.500,1:12:11.900
+information about how and when and where
+
+1:12:09.620,1:12:15.020
+they were manufactured and under what
+
+1:12:11.900,1:12:17.060
+conditions are they safe to use and so
+
+1:12:15.020,1:12:20.660
+on and this is kind of a totally totally
+
+1:12:17.060,1:12:22.640
+standard process and so this group
+
+1:12:20.660,1:12:25.400
+proposed something similar for datasets
+
+1:12:22.640,1:12:26.810
+of just recording this information and
+
+1:12:25.400,1:12:29.420
+so this is in keeping with this idea
+
+1:12:26.810,1:12:30.800
+that we can't remove bias from datasets
+
+1:12:29.420,1:12:33.560
+but it would be helpful just to
+
+1:12:30.800,1:12:35.780
+understand how the data set was created
+
+1:12:33.560,1:12:38.480
+and so here they listed kind of some
+
+1:12:35.780,1:12:41.630
+sample questions that could be could be
+
+1:12:38.480,1:12:43.970
+potentially included you know what are
+
+1:12:41.630,1:12:45.770
+the instances in this data who wasn't
+
+1:12:43.970,1:12:50.180
+who was involved in the data collection
+
+1:12:45.770,1:12:52.250
+process over what time frame will the
+
+1:12:50.180,1:12:54.740
+data set be updated this gets to an
+
+1:12:52.250,1:12:57.170
+earlier question about the the recency
+
+1:12:54.740,1:12:59.570
+or if it's changed who was supporting
+
+1:12:57.170,1:13:01.220
+hosting maintaining the data set if the
+
+1:12:59.570,1:13:03.820
+data set relates to people or was
+
+1:13:01.220,1:13:05.840
+generated by people were they informed
+
+1:13:03.820,1:13:07.550
+were they told what the data set would
+
+1:13:05.840,1:13:09.710
+be used for and that they can consent
+
+1:13:07.550,1:13:11.180
+and so on is I think these are kind of
+
+1:13:09.710,1:13:12.920
+really interesting and important
+
+1:13:11.180,1:13:15.770
+questions and I like this idea of
+
+1:13:12.920,1:13:17.780
+standardizing what information you have
+
+1:13:15.770,1:13:19.449
+about a data set because a lot of times
+
+1:13:17.780,1:13:20.560
+bias shows up and I think
+
+1:13:19.449,1:13:23.440
+let's talk about this earlier it's not
+
+1:13:20.560,1:13:25.900
+it's not malicious but it's just because
+
+1:13:23.440,1:13:26.980
+people aren't necessarily thinking and
+
+1:13:25.900,1:13:28.600
+there's something that they've missed
+
+1:13:26.980,1:13:30.520
+and that this is kind of one of the risk
+
+1:13:28.600,1:13:31.870
+of homogeneous groups of if everyone has
+
+1:13:30.520,1:13:34.390
+the same background they're just kind of
+
+1:13:31.870,1:13:35.980
+more likely to all have certain areas
+
+1:13:34.390,1:13:40.540
+that they haven't thought about or kind
+
+1:13:35.980,1:13:41.980
+of miss miss particular worries and dig
+
+1:13:40.540,1:13:44.080
+through data sites that's kind of part
+
+1:13:41.980,1:13:47.590
+of there have been many kind of similar
+
+1:13:44.080,1:13:50.890
+or related proposals including one group
+
+1:13:47.590,1:13:52.810
+framed them as nutrition facts and so
+
+1:13:50.890,1:13:54.520
+similar to kind of the nutrition label
+
+1:13:52.810,1:13:56.590
+that you have around food and how that's
+
+1:13:54.520,1:13:58.120
+that standardized that's something we
+
+1:13:56.590,1:14:00.370
+did not always have but you know
+
+1:13:58.120,1:14:02.170
+developed developed kind of as a safety
+
+1:14:00.370,1:14:05.530
+mechanism and part and a transparency
+
+1:14:02.170,1:14:07.239
+mechanism there was an NLP specific
+
+1:14:05.530,1:14:11.620
+version from Emily bender and bhatia
+
+1:14:07.239,1:14:14.560
+Friedman on data statements for NLP and
+
+1:14:11.620,1:14:17.260
+then there's the standardization of data
+
+1:14:14.560,1:14:20.469
+like licenses the Montreal Data license
+
+1:14:17.260,1:14:22.719
+and so that this is kind of a positive
+
+1:14:20.469,1:14:25.480
+sign when you have researchers in a
+
+1:14:22.719,1:14:27.100
+field coming up with related proposals
+
+1:14:25.480,1:14:29.920
+that kind of many experts are seeing
+
+1:14:27.100,1:14:33.880
+this is a as a promising direction to go
+
+1:14:29.920,1:14:36.820
+in and then so we just read this in the
+
+1:14:33.880,1:14:40.030
+last week to MIT together with you and
+
+1:14:36.820,1:14:42.940
+CEO Joe wrote a new paper that just came
+
+1:14:40.030,1:14:44.580
+out on kind of what could machine
+
+1:14:42.940,1:14:48.610
+learning learn about data collection
+
+1:14:44.580,1:14:51.310
+from archives and library sciences and
+
+1:14:48.610,1:14:55.330
+so in the the field of archives and
+
+1:14:51.310,1:14:58.030
+library sciences a lot more kind of
+
+1:14:55.330,1:15:00.910
+thought and consideration has gone into
+
+1:14:58.030,1:15:04.570
+how datasets are collected and
+
+1:15:00.910,1:15:06.400
+constructed whereas in you know data
+
+1:15:04.570,1:15:09.130
+collection in ml is often kind of pretty
+
+1:15:06.400,1:15:10.690
+haphazard and so this was this was an
+
+1:15:09.130,1:15:12.640
+interesting paper and I'll post a link
+
+1:15:10.690,1:15:15.460
+on just what kind of what lessons can we
+
+1:15:12.640,1:15:17.940
+learn about starting to standardize this
+
+1:15:15.460,1:15:21.010
+and seeing this as an area that requires
+
+1:15:17.940,1:15:23.910
+expertise and thoughtfulness and the
+
+1:15:21.010,1:15:23.910
+development of process
+
+1:15:24.840,1:15:30.250
+certainly just check okay two minutes
+
+1:15:28.079,1:15:31.570
+nice I'll pause though and take because
+
+1:15:30.250,1:15:33.789
+we can that we can finish up next time
+
+1:15:31.570,1:15:42.849
+on this there are questions about about
+
+1:15:33.789,1:15:43.989
+these ideas how I really think that
+
+1:15:42.849,1:15:46.360
+approach is really interesting and
+
+1:15:43.989,1:15:49.360
+always something I think it's great but
+
+1:15:46.360,1:15:50.739
+how hardware projects in particularly
+
+1:15:49.360,1:15:52.599
+have such a different cadence and
+
+1:15:50.739,1:15:54.130
+stopped abruptly and so they allow
+
+1:15:52.599,1:15:56.889
+themselves for that type of
+
+1:15:54.130,1:15:58.480
+documentation in it necessitates a
+
+1:15:56.889,1:16:00.849
+little bit more else it is manufacturing
+
+1:15:58.480,1:16:03.699
+all the things are getting into it and
+
+1:16:00.849,1:16:05.139
+just how you can apply this to so much
+
+1:16:03.699,1:16:06.460
+of what we're talking about it just
+
+1:16:05.139,1:16:14.829
+slowing down Katie's the software
+
+1:16:06.460,1:16:16.420
+projects yeah yes yes yeah that's that's
+
+1:16:14.829,1:16:18.369
+a good point yeah no I heard a talk once
+
+1:16:16.420,1:16:20.139
+and this was it was in a closed
+
+1:16:18.369,1:16:22.389
+environment so I won't quote the person
+
+1:16:20.139,1:16:23.980
+but they won't name the company they
+
+1:16:22.389,1:16:25.780
+were talking about one of the kind of
+
+1:16:23.980,1:16:28.090
+ethics practices that their company was
+
+1:16:25.780,1:16:29.380
+building in pauses and it was something
+
+1:16:28.090,1:16:30.969
+that like sounded like revolutionary
+
+1:16:29.380,1:16:34.599
+when I heard it it was like wow like a
+
+1:16:30.969,1:16:35.920
+tech company is pausing to reflect on
+
+1:16:34.599,1:16:37.590
+what they're doing but yeah I think that
+
+1:16:35.920,1:16:40.809
+that can be that can be really helpful
+
+1:16:37.590,1:16:42.969
+alright then kind of referring to
+
+1:16:40.809,1:16:45.190
+earlier this idea of checking on the
+
+1:16:42.969,1:16:47.739
+accuracy on subgroups it's also
+
+1:16:45.190,1:16:50.949
+important to note that gender Shades was
+
+1:16:47.739,1:16:53.230
+very kind of very deliberately designed
+
+1:16:50.949,1:16:56.260
+to be an experiment that would has a
+
+1:16:53.230,1:16:58.719
+kind of this really tangible practical
+
+1:16:56.260,1:17:01.360
+real-world impact and it's not just
+
+1:16:58.719,1:17:02.860
+chance that it has but that it was very
+
+1:17:01.360,1:17:05.139
+kind of thoughtfully designed around
+
+1:17:02.860,1:17:07.690
+what kind of what kind of change they
+
+1:17:05.139,1:17:09.909
+wanted to effect in a Debra Raj he gave
+
+1:17:07.690,1:17:12.489
+a great talk on that that all I'll share
+
+1:17:09.909,1:17:17.460
+the link to she did the follow up work
+
+1:17:12.489,1:17:20.500
+with joy and all I'll talk more about
+
+1:17:17.460,1:17:23.230
+kind of the diversity aspect next time
+
+1:17:20.500,1:17:25.059
+but so kind of in closing although we'll
+
+1:17:23.230,1:17:27.280
+return to this idea of kind of what what
+
+1:17:25.059,1:17:30.610
+practices can can we be doing to kind of
+
+1:17:27.280,1:17:32.739
+to improve our companies our work but
+
+1:17:30.610,1:17:35.500
+here are some suggestions for getting
+
+1:17:32.739,1:17:37.780
+started so just even analyzing a project
+
+1:17:35.500,1:17:39.820
+to see try creating a day
+
+1:17:37.780,1:17:43.390
+about about a data set that you're
+
+1:17:39.820,1:17:46.330
+working with the suggestion earlier that
+
+1:17:43.390,1:17:47.800
+I gave Christian lumps tutorial on the
+
+1:17:46.330,1:17:49.750
+compass recidivism algorithm where she
+
+1:17:47.800,1:17:52.420
+partnered with a public defender and an
+
+1:17:49.750,1:17:54.130
+innocent man who couldn't afford bail to
+
+1:17:52.420,1:17:57.340
+work with domain experts and people
+
+1:17:54.130,1:17:59.650
+impacted increasing diversity in your
+
+1:17:57.340,1:18:01.090
+workplace and then I'll say listen -
+
+1:17:59.650,1:18:02.920
+just to kind of be on the ongoing look
+
+1:18:01.090,1:18:04.840
+out for bias because it's not something
+
+1:18:02.920,1:18:06.220
+where you're like oh okay I've checked
+
+1:18:04.840,1:18:08.350
+for it I'm done I don't have to worry
+
+1:18:06.220,1:18:13.900
+about it but it's kind of an ongoing
+
+1:18:08.350,1:18:16.200
+ongoing issue well thank you it's 8
+
+1:18:13.900,1:18:16.200
+o'clock
+

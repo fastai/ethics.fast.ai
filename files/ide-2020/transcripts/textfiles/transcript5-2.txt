@@ -1,0 +1,1314 @@
+0:00:00.000,0:00:10.349
+Oh Thank You Lee that was fantastic and
+
+0:00:03.600,0:00:15.500
+that's also a good good lead-in I was
+
+0:00:10.349,0:00:18.359
+going to talk about our ecosystem and I
+
+0:00:15.500,0:00:20.550
+think I'm gonna skip ahead to my section
+
+0:00:18.359,0:00:23.880
+on metrics just because that seems like
+
+0:00:20.550,0:00:28.710
+such a kind of natural direction to go
+
+0:00:23.880,0:00:32.700
+in from here and so I'll cover the other
+
+0:00:28.710,0:00:35.430
+material next week since we definitely
+
+0:00:32.700,0:00:38.969
+won't be finishing but so this is this
+
+0:00:35.430,0:00:41.940
+has come up previously in class this
+
+0:00:38.969,0:00:43.950
+idea of good hearts law that we met when
+
+0:00:41.940,0:00:45.559
+a measure becomes a target it ceases to
+
+0:00:43.950,0:00:47.760
+be a good measure
+
+0:00:45.559,0:00:50.539
+another framing and we're about to see
+
+0:00:47.760,0:00:53.190
+several examples of what this means now
+
+0:00:50.539,0:00:55.020
+their framing of it is Campbell's law
+
+0:00:53.190,0:00:57.270
+which is the more any quantitative
+
+0:00:55.020,0:00:59.699
+social indicator is used for social
+
+0:00:57.270,0:01:01.620
+decision making the more subject it will
+
+0:00:59.699,0:01:03.090
+be to corruption pressures and the more
+
+0:01:01.620,0:01:05.700
+apt it will be to distort and corrupt
+
+0:01:03.090,0:01:08.549
+the social processes it is intended to
+
+0:01:05.700,0:01:10.619
+monitor and so this is a little bit kind
+
+0:01:08.549,0:01:15.119
+of more specific than good hearts law it
+
+0:01:10.619,0:01:18.090
+covers some of the same cases and this
+
+0:01:15.119,0:01:19.979
+is a topic that I wrote a blog post
+
+0:01:18.090,0:01:22.590
+about last year and then ended up kind
+
+0:01:19.979,0:01:24.270
+of extending it into a paper if you want
+
+0:01:22.590,0:01:25.560
+want to hear more about this but this is
+
+0:01:24.270,0:01:28.650
+something that I think is a really kind
+
+0:01:25.560,0:01:30.600
+of fundamental challenge for AI but
+
+0:01:28.650,0:01:35.100
+optimizing metrics can lead to
+
+0:01:30.600,0:01:37.439
+manipulation gaming myopic focus on
+
+0:01:35.100,0:01:40.829
+short-term goals unexpected negative
+
+0:01:37.439,0:01:43.619
+consequences and unfortunately much of
+
+0:01:40.829,0:01:45.960
+AI machine learning focuses on
+
+0:01:43.619,0:01:48.750
+optimizing a metric because that's kind
+
+0:01:45.960,0:01:49.770
+of what what most techniques are doing
+
+0:01:48.750,0:01:52.980
+and that's something that we've gotten
+
+0:01:49.770,0:01:54.390
+very very good at is optimizing a metric
+
+0:01:52.980,0:01:57.090
+[Music]
+
+0:01:54.390,0:02:00.390
+so one example that we saw back in week
+
+0:01:57.090,0:02:02.220
+two of something that can go wrong is
+
+0:02:00.390,0:02:04.979
+measurement bias and so we talked about
+
+0:02:02.220,0:02:07.160
+a paper then where the researchers
+
+0:02:04.979,0:02:09.899
+wanted to predict who's most likely to
+
+0:02:07.160,0:02:13.260
+have a stroke and this could be used to
+
+0:02:09.899,0:02:17.450
+prior prioritize patients at the the ER
+
+0:02:13.260,0:02:20.100
+and they found some really surprising
+
+0:02:17.450,0:02:22.310
+predictive risk factors such as
+
+0:02:20.100,0:02:25.560
+accidental injury benign breast lump
+
+0:02:22.310,0:02:27.270
+colonoscopy and sinusitis and it turns
+
+0:02:25.560,0:02:29.670
+out that what they were picking out was
+
+0:02:27.270,0:02:31.739
+just who utilizes healthcare versus who
+
+0:02:29.670,0:02:33.269
+doesn't and they're kind of people that
+
+0:02:31.739,0:02:35.930
+have high utilization of health care
+
+0:02:33.269,0:02:38.310
+others that have low utilization and
+
+0:02:35.930,0:02:41.430
+this is a case where we don't actually
+
+0:02:38.310,0:02:43.769
+have data of stroke which is a region of
+
+0:02:41.430,0:02:46.980
+the brain being denied oxygen from new
+
+0:02:43.769,0:02:49.440
+blood flow the data we have this a proxy
+
+0:02:46.980,0:02:51.269
+it's who had symptoms went to the doctor
+
+0:02:49.440,0:02:53.820
+received the right test got the right
+
+0:02:51.269,0:02:56.940
+diagnosis and there are all sorts of
+
+0:02:53.820,0:02:58.980
+factors that can influence that I have
+
+0:02:56.940,0:03:00.690
+you know including who has access to
+
+0:02:58.980,0:03:03.030
+healthcare who can afford their copay
+
+0:03:00.690,0:03:05.730
+what sort of racial or gender biases
+
+0:03:03.030,0:03:07.739
+might the doctors have cultural
+
+0:03:05.730,0:03:09.390
+influences so a lot of a lot of
+
+0:03:07.739,0:03:13.290
+different things so this is this is one
+
+0:03:09.390,0:03:16.140
+way that metrics can fail another a
+
+0:03:13.290,0:03:20.070
+really interesting paper from the 2000s
+
+0:03:16.140,0:03:22.440
+looking at the UK's health care system
+
+0:03:20.070,0:03:25.459
+where they move to trying to have kind
+
+0:03:22.440,0:03:28.350
+of more metrics and then they found that
+
+0:03:25.459,0:03:31.650
+it's depressing they introduced new
+
+0:03:28.350,0:03:33.900
+targets around ER wait times and this
+
+0:03:31.650,0:03:35.989
+led to people cancelling scheduled
+
+0:03:33.900,0:03:38.070
+operations the hospitals would cancel
+
+0:03:35.989,0:03:40.260
+operations so that they could draft more
+
+0:03:38.070,0:03:43.310
+people into the ER to keep the ER wait
+
+0:03:40.260,0:03:46.170
+time down if it was getting too high
+
+0:03:43.310,0:03:48.329
+requiring patients to wait in lines of
+
+0:03:46.170,0:03:50.040
+ambulances outside the hospital because
+
+0:03:48.329,0:03:52.350
+that didn't count as part of their
+
+0:03:50.040,0:03:56.880
+weight in the ER if they were in a and
+
+0:03:52.350,0:03:58.680
+an ambulance outside the ER they turned
+
+0:03:56.880,0:04:00.299
+stretchers into beds by putting them in
+
+0:03:58.680,0:04:03.000
+hallways because then they could say the
+
+0:04:00.299,0:04:06.060
+person is no longer waiting there in a
+
+0:04:03.000,0:04:08.100
+quote bed and they also found a big
+
+0:04:06.060,0:04:10.260
+discrepancy in numbers reported by
+
+0:04:08.100,0:04:12.270
+fools versus by patience so if they
+
+0:04:10.260,0:04:13.800
+surveyed hospitals on how long people
+
+0:04:12.270,0:04:16.260
+were waiting they're getting different
+
+0:04:13.800,0:04:21.600
+results than if they survey patients on
+
+0:04:16.260,0:04:23.820
+how long did you wait and so this and
+
+0:04:21.600,0:04:26.640
+this is just kind of one of many
+
+0:04:23.820,0:04:28.650
+examples this report gives of how there
+
+0:04:26.640,0:04:31.230
+are unexpected kind of negative
+
+0:04:28.650,0:04:36.000
+consequences of this push to emphasize
+
+0:04:31.230,0:04:37.350
+numbers more and this is a mix of well I
+
+0:04:36.000,0:04:39.420
+guess I say this is a lot of kind of
+
+0:04:37.350,0:04:41.460
+gaming I mean some of the ones about the
+
+0:04:39.420,0:04:43.020
+the discrepancies in numbers some of
+
+0:04:41.460,0:04:46.140
+that can be I think
+
+0:04:43.020,0:04:47.880
+unintentional but people kind of knowing
+
+0:04:46.140,0:04:51.320
+what they need leads them to kind of
+
+0:04:47.880,0:04:53.640
+give answers that will line up with that
+
+0:04:51.320,0:04:56.160
+another example we've seen in the United
+
+0:04:53.640,0:04:57.810
+States of kind of manipulation in gaming
+
+0:04:56.160,0:05:00.060
+is that as more and more emphasis has
+
+0:04:57.810,0:05:02.910
+been put on standardized testing there
+
+0:05:00.060,0:05:05.010
+have been kind of widespread scandals of
+
+0:05:02.910,0:05:07.170
+school districts cheating so this is
+
+0:05:05.010,0:05:10.530
+where teachers or school administrators
+
+0:05:07.170,0:05:13.530
+are altering their students score our
+
+0:05:10.530,0:05:15.600
+answers to get higher scores and this
+
+0:05:13.530,0:05:17.700
+has happened in a number of states now
+
+0:05:15.600,0:05:22.140
+that kind of testing is so high-stakes
+
+0:05:17.700,0:05:23.240
+and I didn't include this and I don't
+
+0:05:22.140,0:05:26.460
+think I talked about this previously
+
+0:05:23.240,0:05:28.320
+there was a case that Cathy O'Neil
+
+0:05:26.460,0:05:30.150
+covers in her book weapons of mass
+
+0:05:28.320,0:05:32.430
+destruction and had been covered in the
+
+0:05:30.150,0:05:37.760
+I believe the Washington Post of a
+
+0:05:32.430,0:05:42.930
+teacher in either Virginia or DC that
+
+0:05:37.760,0:05:44.580
+was fired by an algorithm and her the
+
+0:05:42.930,0:05:46.350
+principal of her school loved her the
+
+0:05:44.580,0:05:48.570
+parents of her students really loved her
+
+0:05:46.350,0:05:51.450
+and she couldn't get a conclusive answer
+
+0:05:48.570,0:05:54.540
+of why she was fired but her suspicion
+
+0:05:51.450,0:05:57.660
+was that her students scores seemed
+
+0:05:54.540,0:05:59.340
+artificially high when the previous year
+
+0:05:57.660,0:06:01.530
+and they had kind of been at a different
+
+0:05:59.340,0:06:03.960
+school and then her students scores
+
+0:06:01.530,0:06:06.870
+dropped a kind of more normal levels
+
+0:06:03.960,0:06:07.830
+after her teaching and her teaching was
+
+0:06:06.870,0:06:10.620
+being evaluated
+
+0:06:07.830,0:06:12.630
+it's believed one of the factors is how
+
+0:06:10.620,0:06:15.090
+the students scores changed while they
+
+0:06:12.630,0:06:17.010
+were in her class and so there I feel
+
+0:06:15.090,0:06:19.470
+like it's kind of an intersection of two
+
+0:06:17.010,0:06:21.810
+negative trends you have the teachers
+
+0:06:19.470,0:06:23.370
+who most likely at the
+
+0:06:21.810,0:06:25.770
+previous school may have cheated because
+
+0:06:23.370,0:06:27.690
+they felt pressured to do so then when
+
+0:06:25.770,0:06:29.250
+she didn't then you have this other
+
+0:06:27.690,0:06:32.580
+algorithmic system that's firing
+
+0:06:29.250,0:06:35.460
+teachers based on these metrics and she
+
+0:06:32.580,0:06:39.980
+kind of ends up fired because of it so
+
+0:06:35.460,0:06:43.230
+that's kind of sobering sobering example
+
+0:06:39.980,0:06:46.020
+there was also an article on essay
+
+0:06:43.230,0:06:47.700
+grading software so there's this
+
+0:06:46.020,0:06:49.950
+software that grades essays is being
+
+0:06:47.700,0:06:55.410
+used and I think at least 22 states now
+
+0:06:49.950,0:06:57.270
+I was found that so the software focuses
+
+0:06:55.410,0:06:58.830
+on what you can measure right and we
+
+0:06:57.270,0:07:00.780
+can't measure everything that you can
+
+0:06:58.830,0:07:04.440
+measure sentence length and vocabulary
+
+0:07:00.780,0:07:06.990
+spelling subject verb agreement however
+
+0:07:04.440,0:07:09.600
+you can't measure creativity or novelty
+
+0:07:06.990,0:07:11.340
+or some more kind of abstract qualities
+
+0:07:09.600,0:07:14.729
+that can still be very important in
+
+0:07:11.340,0:07:17.450
+writing and so there was a computer
+
+0:07:14.729,0:07:20.070
+program that someone created that made
+
+0:07:17.450,0:07:22.200
+gibberish essays with sophisticated
+
+0:07:20.070,0:07:26.930
+words and sophisticated phrasing and
+
+0:07:22.200,0:07:28.890
+that got good scores it found the
+
+0:07:26.930,0:07:30.840
+research found that essays by
+
+0:07:28.890,0:07:33.210
+african-american students received lower
+
+0:07:30.840,0:07:37.110
+grades from the computer than from human
+
+0:07:33.210,0:07:39.419
+graders and essays by students from
+
+0:07:37.110,0:07:41.490
+mainland China received higher scores
+
+0:07:39.419,0:07:44.669
+from the computer than from expert human
+
+0:07:41.490,0:07:47.190
+graders which caused the researchers to
+
+0:07:44.669,0:07:49.530
+suspect that they may be using chunks of
+
+0:07:47.190,0:07:51.270
+pre memorized text so this is kind of
+
+0:07:49.530,0:07:54.690
+now we're combining what we learned
+
+0:07:51.270,0:07:57.780
+about with bias with a kind of this
+
+0:07:54.690,0:07:59.400
+example of overemphasizing metrics and
+
+0:07:57.780,0:08:01.919
+for me this kind of really strikes me
+
+0:07:59.400,0:08:03.419
+and that I I think of writing is
+
+0:08:01.919,0:08:07.830
+something that has a very intrinsically
+
+0:08:03.419,0:08:10.860
+human quality and that it's usually
+
+0:08:07.830,0:08:13.020
+humans communicating with humans but
+
+0:08:10.860,0:08:15.360
+here you know to have an example where a
+
+0:08:13.020,0:08:17.190
+computer program can generate a
+
+0:08:15.360,0:08:19.229
+gibberish essay that then will be
+
+0:08:17.190,0:08:21.360
+evaluated by another computer program
+
+0:08:19.229,0:08:27.020
+and receive you know receive a high
+
+0:08:21.360,0:08:30.360
+score but this also to me illustrates
+
+0:08:27.020,0:08:32.039
+some of the quad qualities that we can't
+
+0:08:30.360,0:08:34.080
+quantify and that we can't measure that
+
+0:08:32.039,0:08:36.919
+those tend to then not kind of be valued
+
+0:08:34.080,0:08:36.919
+if they can't be measured
+
+0:08:37.610,0:08:45.300
+this is an article just from the last
+
+0:08:39.899,0:08:49.500
+week about tik-tok marketing and so the
+
+0:08:45.300,0:08:52.709
+image is from Chipotle's hashtag burrito
+
+0:08:49.500,0:08:55.140
+campaign which was where you got a Half
+
+0:08:52.709,0:08:58.740
+Price burrito if you were a costume on
+
+0:08:55.140,0:09:00.510
+Halloween and tik-tok said hey this had
+
+0:08:58.740,0:09:03.570
+three point nine billion views that
+
+0:09:00.510,0:09:04.560
+sounds amazing that's a ton of use and
+
+0:09:03.570,0:09:07.170
+contrast
+
+0:09:04.560,0:09:09.269
+tik-tok has only been downloaded 145
+
+0:09:07.170,0:09:12.440
+million times in the USA this was a US
+
+0:09:09.269,0:09:17.430
+campaign so what what does this mean for
+
+0:09:12.440,0:09:20.310
+these numbers and tik-tok won't say kind
+
+0:09:17.430,0:09:22.380
+of how it classifies views but you have
+
+0:09:20.310,0:09:24.149
+a lot of a lot of companies put a lot of
+
+0:09:22.380,0:09:26.579
+importance on these metrics and it's
+
+0:09:24.149,0:09:28.950
+often kind of not clear how they're
+
+0:09:26.579,0:09:32.399
+gathered or even kind of what sense they
+
+0:09:28.950,0:09:35.300
+make in terms of impact or even how many
+
+0:09:32.399,0:09:38.670
+people actually saw saw this campaign
+
+0:09:35.300,0:09:43.170
+and so then people said that it reminded
+
+0:09:38.670,0:09:47.060
+them of when Facebook pivoted to video
+
+0:09:43.170,0:09:49.680
+several years but years ago Facebook
+
+0:09:47.060,0:09:52.079
+exaggerated video watch time by as much
+
+0:09:49.680,0:09:54.750
+as nine hundred percent was alleged by
+
+0:09:52.079,0:09:57.329
+one lawsuit so what happened was
+
+0:09:54.750,0:09:59.339
+Facebook said we know we're switching to
+
+0:09:57.329,0:10:01.410
+video and had these really positive
+
+0:09:59.339,0:10:03.980
+numbers of how much video was being
+
+0:10:01.410,0:10:07.020
+watched and so many news organizations
+
+0:10:03.980,0:10:08.310
+laid off journalists in response and
+
+0:10:07.020,0:10:11.760
+said oh you know we want to focus more
+
+0:10:08.310,0:10:13.740
+on our digital are on our video arms and
+
+0:10:11.760,0:10:16.560
+then it turns out that the numbers for
+
+0:10:13.740,0:10:19.410
+video were inflated and misleading there
+
+0:10:16.560,0:10:22.140
+was also kind of an air and and this is
+
+0:10:19.410,0:10:25.160
+something that there was a lawsuit about
+
+0:10:22.140,0:10:27.540
+that Facebook settled for 40 million
+
+0:10:25.160,0:10:29.490
+although that is just that was just
+
+0:10:27.540,0:10:34.019
+advertisers bringing suit so this
+
+0:10:29.490,0:10:35.790
+doesn't even impact all the kind of news
+
+0:10:34.019,0:10:37.709
+agencies and journalists that were
+
+0:10:35.790,0:10:39.839
+impacted because many of these
+
+0:10:37.709,0:10:41.190
+organizations laid off written
+
+0:10:39.839,0:10:43.260
+journalists because they wanted to put
+
+0:10:41.190,0:10:45.329
+more resources into video and then when
+
+0:10:43.260,0:10:47.339
+video turned out to not be as effective
+
+0:10:45.329,0:10:48.870
+than they laid off the video people they
+
+0:10:47.339,0:10:52.860
+had hired
+
+0:10:48.870,0:10:54.630
+it was kind of two rounds of layoffs but
+
+0:10:52.860,0:10:57.690
+capture is kind of how how much metrics
+
+0:10:54.630,0:11:04.529
+can drive kind of drive behavior of
+
+0:10:57.690,0:11:07.529
+organizations so there is an interesting
+
+0:11:04.529,0:11:10.050
+paper on the different failure modes of
+
+0:11:07.529,0:11:14.850
+good hearts law kind of breaking them
+
+0:11:10.050,0:11:16.740
+out into four categories so one is when
+
+0:11:14.850,0:11:18.930
+the difference between the proxy and the
+
+0:11:16.740,0:11:21.029
+goal is important and I think in almost
+
+0:11:18.930,0:11:22.740
+all cases we don't actually have the
+
+0:11:21.029,0:11:25.110
+data that we truly want what we have is
+
+0:11:22.740,0:11:28.589
+a proxy and sometimes that proxy is
+
+0:11:25.110,0:11:30.660
+closer than others but in cases where
+
+0:11:28.589,0:11:32.970
+the difference is significant that has
+
+0:11:30.660,0:11:35.100
+an impact and so that's what we saw was
+
+0:11:32.970,0:11:38.670
+kind of the health data about who had a
+
+0:11:35.100,0:11:40.140
+stroke there's extremel good heart where
+
+0:11:38.670,0:11:42.029
+the relationship between the proxy and
+
+0:11:40.140,0:11:44.880
+the goal is different when taken to an
+
+0:11:42.029,0:11:47.100
+extreme and so sometimes a kind of
+
+0:11:44.880,0:11:49.980
+relationship makes sense but once you
+
+0:11:47.100,0:11:53.190
+emphasize it that sends you kind of more
+
+0:11:49.980,0:11:56.640
+to an extreme where it's less where's
+
+0:11:53.190,0:11:58.740
+just a different relationship there can
+
+0:11:56.640,0:12:01.290
+be a non causal relationship between the
+
+0:11:58.740,0:12:04.850
+proxy and the goal and intervening on
+
+0:12:01.290,0:12:07.800
+one may fail to impact the other and
+
+0:12:04.850,0:12:10.560
+then there's also advert err adversaries
+
+0:12:07.800,0:12:11.880
+attempting to game your chosen proxy as
+
+0:12:10.560,0:12:13.830
+I thought this is kind of interesting as
+
+0:12:11.880,0:12:21.060
+a breakout of different different ways
+
+0:12:13.830,0:12:24.000
+that this can go wrong and we've talked
+
+0:12:21.060,0:12:26.850
+previously about YouTube's recommended
+
+0:12:24.000,0:12:30.779
+recommendation system Guillaume truss a
+
+0:12:26.850,0:12:34.070
+lot has a great post about this former a
+
+0:12:30.779,0:12:37.920
+kind of AI engineer at Google /youtube
+
+0:12:34.070,0:12:41.040
+and he quotes a YouTube blog post from
+
+0:12:37.920,0:12:44.190
+several years ago in which Google
+
+0:12:41.040,0:12:45.990
+Google's YouTube said if viewers are
+
+0:12:44.190,0:12:47.430
+watching more YouTube it signals to us
+
+0:12:45.990,0:12:49.860
+that they're happier with the content
+
+0:12:47.430,0:12:51.600
+they found it means that creators are
+
+0:12:49.860,0:12:53.490
+attracting more engaged audience it
+
+0:12:51.600,0:12:56.279
+opens up more opportunities to generate
+
+0:12:53.490,0:12:57.780
+revenue for our partners and so here
+
+0:12:56.279,0:13:01.430
+they're kind of boiling down that watch
+
+0:12:57.780,0:13:02.970
+time is about happiness and revenue
+
+0:13:01.430,0:13:05.459
+however I think we can
+
+0:13:02.970,0:13:08.189
+I'll think of times that we spend online
+
+0:13:05.459,0:13:09.959
+where we're not exactly happy and not
+
+0:13:08.189,0:13:12.540
+proud of how we've used our time
+
+0:13:09.959,0:13:17.730
+afterwards and I think this is kind of a
+
+0:13:12.540,0:13:19.430
+very very rough proxy and Guillaume does
+
+0:13:17.730,0:13:22.470
+a good job of kind of explaining how
+
+0:13:19.430,0:13:24.899
+also this ends up incentivizing content
+
+0:13:22.470,0:13:26.819
+that says that other platforms are lying
+
+0:13:24.899,0:13:29.420
+to you because you should spend more
+
+0:13:26.819,0:13:37.139
+time on the content from that platform
+
+0:13:29.420,0:13:42.389
+in order to maximize the watch time are
+
+0:13:37.139,0:13:49.019
+there questions so far on metrics Aaron
+
+0:13:42.389,0:13:51.660
+came past the catch box I had a question
+
+0:13:49.019,0:13:59.519
+about tick tock and we had opinions
+
+0:13:51.660,0:14:02.879
+about it and really China small comment
+
+0:13:59.519,0:14:12.750
+I love absolutely love Gary Vaynerchuk
+
+0:14:02.879,0:14:14.730
+because users don't think about the
+
+0:14:12.750,0:14:17.550
+number but it's it's so hard because
+
+0:14:14.730,0:14:20.819
+he's basically don't be a slave to the
+
+0:14:17.550,0:14:22.199
+algorithm but in fact Li like a walking
+
+0:14:20.819,0:14:29.910
+contradiction you're you're still making
+
+0:14:22.199,0:14:32.879
+money from like the the you know it's
+
+0:14:29.910,0:14:35.220
+like a two-sided like the thing that I
+
+0:14:32.879,0:14:38.699
+hear he's promoting take away I don't
+
+0:14:35.220,0:14:40.110
+know if yeah I'll table tick-tock that's
+
+0:14:38.699,0:14:41.730
+something we can discuss on the forums
+
+0:14:40.110,0:14:46.230
+and I don't feel like I've been it kind
+
+0:14:41.730,0:14:48.509
+of informed enough opinion on it yeah
+
+0:14:46.230,0:14:50.910
+and this issue of you know I Instagram
+
+0:14:48.509,0:14:52.649
+removing likes in certain countries I
+
+0:14:50.910,0:14:56.129
+mean there are there's still kind of
+
+0:14:52.649,0:14:58.199
+this asymmetry where Instagram is still
+
+0:14:56.129,0:15:00.809
+using that data on its side to promote
+
+0:14:58.199,0:15:04.079
+things and so then it's impacting people
+
+0:15:00.809,0:15:06.000
+in an opaque way although you also kind
+
+0:15:04.079,0:15:08.550
+of see the impact but I can definitely
+
+0:15:06.000,0:15:11.220
+recognize and myself how it influences
+
+0:15:08.550,0:15:14.639
+what I post on various networks kind of
+
+0:15:11.220,0:15:17.240
+seeing what gets shared and what people
+
+0:15:14.639,0:15:17.240
+respond to
+
+0:15:17.920,0:15:21.740
+yeah and that it actually that's
+
+0:15:19.850,0:15:23.720
+probably good example of what Ali was
+
+0:15:21.740,0:15:25.190
+mentioning of how people perform for
+
+0:15:23.720,0:15:26.720
+algorithms I definitely think there's a
+
+0:15:25.190,0:15:28.880
+sense and kind of in which people you
+
+0:15:26.720,0:15:31.459
+know can tailor tailor their content
+
+0:15:28.880,0:15:32.810
+based on what they think the algorithm
+
+0:15:31.459,0:15:35.240
+is going to reward what they think will
+
+0:15:32.810,0:15:36.680
+get kind of likes or views and I and I
+
+0:15:35.240,0:15:39.860
+think that can be very kind of insidious
+
+0:15:36.680,0:15:41.180
+like it's not necessarily alike no I'm
+
+0:15:39.860,0:15:43.010
+explicitly doing this just for the
+
+0:15:41.180,0:15:52.579
+algorithm but I think it does kind of
+
+0:15:43.010,0:15:54.740
+influence many of us another factor is
+
+0:15:52.579,0:15:58.700
+that our online environments I think are
+
+0:15:54.740,0:16:00.529
+designed to be very addictive the
+
+0:15:58.700,0:16:02.600
+incentives focus on short term metrics
+
+0:16:00.529,0:16:04.579
+and the fundamental business models
+
+0:16:02.600,0:16:06.019
+around manipulating people's behavior
+
+0:16:04.579,0:16:08.120
+and monopolizing their time and I think
+
+0:16:06.019,0:16:11.839
+you know kind of what we click like on
+
+0:16:08.120,0:16:14.120
+or what we retweet or share is often
+
+0:16:11.839,0:16:15.860
+used as this proxy of what we like but
+
+0:16:14.120,0:16:18.769
+it's you know it's what we like in a
+
+0:16:15.860,0:16:21.140
+very constrained and designed in a
+
+0:16:18.769,0:16:23.480
+specific way environment I don't know
+
+0:16:21.140,0:16:24.940
+that it's necessarily or in fact I don't
+
+0:16:23.480,0:16:28.579
+think it's getting it kind of like our
+
+0:16:24.940,0:16:31.160
+purist likes and you know I always think
+
+0:16:28.579,0:16:33.050
+I've kind of the example of reading a
+
+0:16:31.160,0:16:35.329
+long form journalism article that
+
+0:16:33.050,0:16:37.970
+potentially you know is harder to read
+
+0:16:35.329,0:16:40.370
+but months of research went into that
+
+0:16:37.970,0:16:42.740
+I'm gonna it's gonna help shape my
+
+0:16:40.370,0:16:44.300
+thinking on a topic and I may be glad
+
+0:16:42.740,0:16:46.550
+you know in the future that I read it
+
+0:16:44.300,0:16:49.399
+versus kind of the short-term impulse of
+
+0:16:46.550,0:16:51.560
+do I want to read something more catchy
+
+0:16:49.399,0:16:53.720
+and kind of easier to read in the moment
+
+0:16:51.560,0:16:55.279
+and I think we've gone through this with
+
+0:16:53.720,0:16:58.550
+the food industry and are a little bit
+
+0:16:55.279,0:17:00.860
+further along of a lot of junk food is
+
+0:16:58.550,0:17:01.760
+really appealing in the short term if
+
+0:17:00.860,0:17:03.860
+you don't think on a long term
+
+0:17:01.760,0:17:05.900
+perspective and then also depending on
+
+0:17:03.860,0:17:08.410
+how your environments designed as a
+
+0:17:05.900,0:17:10.550
+depth effect she uses the example of
+
+0:17:08.410,0:17:12.919
+cafeteria that's kind of actively
+
+0:17:10.550,0:17:14.510
+shoving junk food in our faces we're not
+
+0:17:12.919,0:17:17.750
+even having to reach for it it's kind of
+
+0:17:14.510,0:17:19.939
+being brought to us and so whenever we
+
+0:17:17.750,0:17:21.559
+think about kind of using metrics about
+
+0:17:19.939,0:17:23.900
+what people prefer to remember that
+
+0:17:21.559,0:17:27.400
+we're in this kind of very constrained
+
+0:17:23.900,0:17:40.480
+and short-term focused environment
+
+0:17:27.400,0:17:45.220
+and in the back corner had any thoughts
+
+0:17:40.480,0:17:50.080
+on the iPhone like stream time like how
+
+0:17:45.220,0:17:56.590
+weak now it's your phone and what the
+
+0:17:50.080,0:17:59.310
+relationship is to your previous the
+
+0:17:56.590,0:18:03.970
+idea of like where that idea came from
+
+0:17:59.310,0:18:05.500
+being receive that's a good yes I'm not
+
+0:18:03.970,0:18:12.300
+them following that closely I know that
+
+0:18:05.500,0:18:15.700
+I will say like the Tristan Harris's
+
+0:18:12.300,0:18:17.680
+time well-spent and totally blanking on
+
+0:18:15.700,0:18:20.050
+the name of Center for Humane technology
+
+0:18:17.680,0:18:22.600
+has promoted a lot of those kind of
+
+0:18:20.050,0:18:25.200
+design fixes of kind of what can we
+
+0:18:22.600,0:18:27.610
+change about design to to help people
+
+0:18:25.200,0:18:30.730
+and so that includes things of yeah like
+
+0:18:27.610,0:18:32.650
+tracking how long you're spending or
+
+0:18:30.730,0:18:34.300
+sending a reminder like hey you've been
+
+0:18:32.650,0:18:35.670
+on Twitter for a half hours it's how you
+
+0:18:34.300,0:18:39.370
+want to spend your time right now
+
+0:18:35.670,0:18:41.200
+another one I know is using black and
+
+0:18:39.370,0:18:43.930
+white screen which was already an
+
+0:18:41.200,0:18:46.410
+accessibility feature but using that to
+
+0:18:43.930,0:18:50.860
+kind of make your attack less
+
+0:18:46.410,0:18:52.830
+stimulating or appealing I think um I
+
+0:18:50.860,0:18:55.420
+think there's value to those efforts I
+
+0:18:52.830,0:18:57.490
+don't think I don't think they get at
+
+0:18:55.420,0:19:00.490
+the fundamental business model and so if
+
+0:18:57.490,0:19:02.440
+the you know the business model is still
+
+0:19:00.490,0:19:05.800
+around advertising and kind of time
+
+0:19:02.440,0:19:07.390
+spent that there's I don't think that's
+
+0:19:05.800,0:19:09.370
+fully gonna solve the problem but I do
+
+0:19:07.390,0:19:11.560
+think that there is some benefit to yeah
+
+0:19:09.370,0:19:12.880
+kind of thinking about that design but
+
+0:19:11.560,0:19:15.250
+it's important to kind of connect that
+
+0:19:12.880,0:19:17.820
+the you know the design didn't come out
+
+0:19:15.250,0:19:19.960
+of nowhere it's very much tied to the
+
+0:19:17.820,0:19:22.720
+business model and a Fender lying
+
+0:19:19.960,0:19:25.330
+business model doesn't change I don't
+
+0:19:22.720,0:19:28.890
+know how much I think they're limits to
+
+0:19:25.330,0:19:28.890
+kind of what design changes can do
+
+0:19:29.950,0:19:35.980
+oh and then okay we're at eight o'clock
+
+0:19:33.029,0:19:38.889
+so we'll we'll put back up here and
+
+0:19:35.980,0:19:40.389
+finish our ecosystem next time so also
+
+0:19:38.889,0:19:43.269
+we'll kind of talk about what are some
+
+0:19:40.389,0:19:47.529
+of the the forces that are kind of
+
+0:19:43.269,0:19:50.500
+acting on entrepreneurs and companies
+
+0:19:47.529,0:19:52.360
+and tack to kind of understand kind of
+
+0:19:50.500,0:19:54.549
+these broader systems that influence us
+
+0:19:52.360,0:19:57.419
+but I will see you back next week for
+
+0:19:54.549,0:19:57.419
+our last class
+

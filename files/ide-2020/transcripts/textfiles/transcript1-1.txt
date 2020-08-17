@@ -1,0 +1,5982 @@
+0:00:00.000,0:00:04.440
+right so first off welcome everyone I'm
+
+0:00:03.149,0:00:06.390
+David Uminsky I'm the executive director
+
+0:00:04.440,0:00:07.890
+of the data Institute if this is your
+
+0:00:06.390,0:00:09.540
+first time in the data Institute welcome
+
+0:00:07.890,0:00:11.190
+there's a ton of things going on here
+
+0:00:09.540,0:00:13.170
+including this class which is what's
+
+0:00:11.190,0:00:16.410
+brought you all in every Friday we have
+
+0:00:13.170,0:00:20.100
+a weekly seminar on all things data
+
+0:00:16.410,0:00:21.330
+science including ethics as well and I'm
+
+0:00:20.100,0:00:23.789
+delighted that this is the inaugural
+
+0:00:21.330,0:00:27.180
+class there's been a tremendous amount
+
+0:00:23.789,0:00:30.810
+of interest in volume as well as thought
+
+0:00:27.180,0:00:32.460
+put into this class and we're excited to
+
+0:00:30.810,0:00:34.410
+launch for the very first time to the
+
+0:00:32.460,0:00:36.750
+public and then we're gonna have other
+
+0:00:34.410,0:00:38.579
+classes for graduate students and
+
+0:00:36.750,0:00:39.989
+undergraduate students eventually but
+
+0:00:38.579,0:00:44.129
+you guys are the first to have Rachel
+
+0:00:39.989,0:00:48.539
+teach a formal class in data ethics I
+
+0:00:44.129,0:00:50.430
+know right so congratulations so if you
+
+0:00:48.539,0:00:52.199
+have any questions around things like
+
+0:00:50.430,0:00:53.399
+Wireless and all that stuff I can't help
+
+0:00:52.199,0:00:55.860
+you but there are people here to help
+
+0:00:53.399,0:00:57.239
+you and Michaela in particular who I
+
+0:00:55.860,0:00:59.039
+think has been your point of contact is
+
+0:00:57.239,0:01:02.250
+gonna be your most useful she's still
+
+0:00:59.039,0:01:04.589
+outside I believe so but without further
+
+0:01:02.250,0:01:06.810
+ado I know why you guys right here
+
+0:01:04.589,0:01:09.119
+Rachel Thomas is the Center for Applied
+
+0:01:06.810,0:01:11.250
+data say that Centre for applied data
+
+0:01:09.119,0:01:13.650
+Ethics director the inaugural director
+
+0:01:11.250,0:01:14.970
+and she was our number one choice as you
+
+0:01:13.650,0:01:16.850
+can imagine for anyone to launch
+
+0:01:14.970,0:01:19.439
+anything in ethics here at the Institute
+
+0:01:16.850,0:01:21.509
+she's got an amazing background and
+
+0:01:19.439,0:01:23.640
+experience and besides being a prolific
+
+0:01:21.509,0:01:26.220
+writer she got her PhD from Duke in
+
+0:01:23.640,0:01:27.930
+mathematics and is the co-founder of
+
+0:01:26.220,0:01:30.450
+fast AI which is also on the side tack
+
+0:01:27.930,0:01:38.100
+so without further ado let's welcome
+
+0:01:30.450,0:01:40.790
+Rachel yeah so welcome everyone it's
+
+0:01:38.100,0:01:44.040
+great to have such a full room for this
+
+0:01:40.790,0:01:45.270
+so data ethics is kind of in the news I
+
+0:01:44.040,0:01:47.750
+would say really pretty much every day
+
+0:01:45.270,0:01:49.649
+now it all starts so kind of really
+
+0:01:47.750,0:01:52.439
+concerning development so I'm gonna
+
+0:01:49.649,0:01:54.600
+start this evening with just three quick
+
+0:01:52.439,0:01:56.070
+examples I kind of want everyone to know
+
+0:01:54.600,0:01:58.020
+about and the types of problems we'll be
+
+0:01:56.070,0:01:59.490
+thinking about in this class and I'll
+
+0:01:58.020,0:02:01.469
+say a little bit about the class and
+
+0:01:59.490,0:02:04.189
+then we'll get into the first topic
+
+0:02:01.469,0:02:04.189
+which is disinformation
+
+0:02:04.230,0:02:12.360
+so one one example that comes up a lot
+
+0:02:08.700,0:02:14.790
+and data ethics is feedback loops and so
+
+0:02:12.360,0:02:17.310
+a feedback loop occurs whenever your
+
+0:02:14.790,0:02:20.340
+model is controlling the next round of
+
+0:02:17.310,0:02:23.190
+data that you get and so your data kind
+
+0:02:20.340,0:02:25.410
+of quickly becomes flawed or at least
+
+0:02:23.190,0:02:27.540
+influenced by the software itself and
+
+0:02:25.410,0:02:28.920
+this is something I think many of us
+
+0:02:27.540,0:02:30.330
+from science backgrounds tend to
+
+0:02:28.920,0:02:31.860
+overlook because you're thinking oh I'm
+
+0:02:30.330,0:02:34.500
+observing the world and kind of seeing
+
+0:02:31.860,0:02:35.790
+seeing what's happening in the data but
+
+0:02:34.500,0:02:37.710
+if you're building any sort of product
+
+0:02:35.790,0:02:39.420
+that's being used you're asked also
+
+0:02:37.710,0:02:40.910
+having kind of this big influence and so
+
+0:02:39.420,0:02:43.650
+one place we see this is with
+
+0:02:40.910,0:02:44.850
+recommendation systems where you know
+
+0:02:43.650,0:02:46.260
+ostensibly they're predicting what
+
+0:02:44.850,0:02:48.300
+content people will like but they're
+
+0:02:46.260,0:02:54.060
+also controlling what content people are
+
+0:02:48.300,0:02:55.620
+exposed to second and I should note I'll
+
+0:02:54.060,0:02:57.360
+be kind of stopping periodically for
+
+0:02:55.620,0:03:00.000
+questions and we will have some time for
+
+0:02:57.360,0:03:02.690
+discussion and the later classes will be
+
+0:03:00.000,0:03:07.340
+a bit kind of more discussion oriented
+
+0:03:02.690,0:03:10.530
+second instance that I think about is
+
+0:03:07.340,0:03:14.280
+when systems are implemented with no way
+
+0:03:10.530,0:03:15.480
+to identify or address mistakes and so
+
+0:03:14.280,0:03:18.000
+this is something that kind of happens
+
+0:03:15.480,0:03:19.530
+you know outside the data itself but
+
+0:03:18.000,0:03:22.410
+thinking about the broader system that
+
+0:03:19.530,0:03:25.560
+it's within and so this is a headline
+
+0:03:22.410,0:03:27.510
+from an article following when new
+
+0:03:25.560,0:03:29.220
+system was implemented in Arkansas for
+
+0:03:27.510,0:03:32.190
+determining people's Medicaid benefits
+
+0:03:29.220,0:03:34.350
+so this was for poor people accessing
+
+0:03:32.190,0:03:37.410
+medical care that they needed and there
+
+0:03:34.350,0:03:39.680
+was a software bug that incorrectly cut
+
+0:03:37.410,0:03:42.270
+the care for people with cerebral palsy
+
+0:03:39.680,0:03:44.459
+including Tammy Dobbs pictured here and
+
+0:03:42.270,0:03:46.380
+so not just for kind of people losing
+
+0:03:44.459,0:03:50.100
+access to care they needed but there was
+
+0:03:46.380,0:03:51.630
+no way to even point out or discover
+
+0:03:50.100,0:03:54.570
+that there was a mistake because there
+
+0:03:51.630,0:03:56.180
+was no system for recourse and nobody
+
+0:03:54.570,0:03:58.110
+was on the lookout for mistakes
+
+0:03:56.180,0:03:59.730
+unfortunately this was eventually kind
+
+0:03:58.110,0:04:02.100
+of surfaced through a lengthy court case
+
+0:03:59.730,0:04:04.440
+but this is another kind of important
+
+0:04:02.100,0:04:06.150
+consideration to have of kind of how you
+
+0:04:04.440,0:04:08.010
+know what what safety mechanisms do you
+
+0:04:06.150,0:04:10.610
+have in place to discover when
+
+0:04:08.010,0:04:10.610
+something's gone wrong
+
+0:04:10.879,0:04:16.680
+and then a kind of third example when
+
+0:04:14.310,0:04:19.410
+everyone to know about is study by
+
+0:04:16.680,0:04:22.229
+Latanya Sweeney who's director of the
+
+0:04:19.410,0:04:24.870
+data privacy lab at Harvard has her PhD
+
+0:04:22.229,0:04:26.850
+in computer science and she discovered
+
+0:04:24.870,0:04:27.660
+several years ago that when you google
+
+0:04:26.850,0:04:29.600
+her name
+
+0:04:27.660,0:04:31.919
+you get ads saying Latanya Sweeney
+
+0:04:29.600,0:04:34.590
+arrested this is for a backed up
+
+0:04:31.919,0:04:36.120
+background check company and she's the
+
+0:04:34.590,0:04:37.139
+only person with that name she's never
+
+0:04:36.120,0:04:39.810
+been arrested
+
+0:04:37.139,0:04:41.220
+she paid $50 and confirmed her
+
+0:04:39.810,0:04:43.770
+background check says that she's never
+
+0:04:41.220,0:04:46.199
+been arrested however when you google
+
+0:04:43.770,0:04:48.240
+other names like kristin Lindquist you
+
+0:04:46.199,0:04:50.190
+get a much more neutral ad saying we
+
+0:04:48.240,0:04:52.800
+found Kristin Lindquist from the same
+
+0:04:50.190,0:04:54.330
+background check company and so being a
+
+0:04:52.800,0:04:56.220
+computer scientist she wanted to
+
+0:04:54.330,0:04:58.919
+approach this systematically she looked
+
+0:04:56.220,0:05:01.669
+at over 2,000 names and confirmed that
+
+0:04:58.919,0:05:04.110
+this pattern held that kind of
+
+0:05:01.669,0:05:06.330
+traditionally african-american names
+
+0:05:04.110,0:05:08.220
+we're getting the ads suggesting that
+
+0:05:06.330,0:05:10.320
+they had a criminal record regardless of
+
+0:05:08.220,0:05:12.120
+whether they did whereas kind of
+
+0:05:10.320,0:05:13.889
+traditionally white or European American
+
+0:05:12.120,0:05:16.880
+names we're getting much more neutral
+
+0:05:13.889,0:05:20.190
+language and this is something that
+
+0:05:16.880,0:05:22.470
+continues to be an issue I mean what was
+
+0:05:20.190,0:05:24.270
+going on in this particular case is the
+
+0:05:22.470,0:05:27.060
+background check company said that they
+
+0:05:24.270,0:05:30.000
+were placing both versions of the ad for
+
+0:05:27.060,0:05:32.550
+each name but Google ads automatically
+
+0:05:30.000,0:05:35.250
+lets you do a/b testing and so people
+
+0:05:32.550,0:05:37.349
+were clicking on the ads suggesting that
+
+0:05:35.250,0:05:39.030
+someone with an african-american name
+
+0:05:37.349,0:05:41.039
+was more likely to have a criminal
+
+0:05:39.030,0:05:43.260
+record and that was kind of what was
+
+0:05:41.039,0:05:45.409
+winning in the a/b testing and kind of
+
+0:05:43.260,0:05:48.270
+similar issues continue to surface
+
+0:05:45.409,0:05:50.310
+research less than a year ago showed
+
+0:05:48.270,0:05:52.470
+that Facebook's ad system seems to
+
+0:05:50.310,0:05:55.590
+discriminate by race and gender even
+
+0:05:52.470,0:05:57.960
+when the advertiser is not trying to for
+
+0:05:55.590,0:05:59.940
+housing ads having the exact same text
+
+0:05:57.960,0:06:01.860
+but switching the picture between a
+
+0:05:59.940,0:06:04.590
+white family and a black family served
+
+0:06:01.860,0:06:08.370
+up very different audiences so these are
+
+0:06:04.590,0:06:11.340
+kind of continuing ongoing and urgent
+
+0:06:08.370,0:06:15.060
+issues a common issue of bias it she'll
+
+0:06:11.340,0:06:16.800
+be talking about more next week so
+
+0:06:15.060,0:06:19.229
+Steven mentioned this is the Center for
+
+0:06:16.800,0:06:22.440
+applied data ethics kind of housed
+
+0:06:19.229,0:06:23.460
+within the USF data Institute if you're
+
+0:06:22.440,0:06:25.800
+interested we have
+
+0:06:23.460,0:06:27.870
+ethics seminars a few times a semester
+
+0:06:25.800,0:06:30.060
+that are open to the public we had a
+
+0:06:27.870,0:06:31.380
+tech policy workshop in November and
+
+0:06:30.060,0:06:35.340
+will be releasing all the videos from
+
+0:06:31.380,0:06:36.930
+that soon and then just briefly some
+
+0:06:35.340,0:06:38.669
+background about me I've worked at the
+
+0:06:36.930,0:06:40.979
+data Institute for three and a half
+
+0:06:38.669,0:06:44.180
+years I've also worked professionally as
+
+0:06:40.979,0:06:47.009
+a data scientist and software engineer
+
+0:06:44.180,0:06:49.229
+if you're kind of interested in some of
+
+0:06:47.009,0:06:51.419
+my other writing or Twitter it tends to
+
+0:06:49.229,0:06:53.460
+mostly be about data ethics so here's my
+
+0:06:51.419,0:06:55.500
+email and feel free to reach out to me
+
+0:06:53.460,0:06:59.789
+with any questions kind of about about
+
+0:06:55.500,0:07:01.979
+the course tour in general so some
+
+0:06:59.789,0:07:05.520
+course logistics my plan is to give a
+
+0:07:01.979,0:07:06.930
+kind of weekly quiz mostly just to check
+
+0:07:05.520,0:07:10.259
+if you've done the reading and also to
+
+0:07:06.930,0:07:12.570
+incentivize doing the reading I also
+
+0:07:10.259,0:07:15.060
+started a spreadsheet of AI ethics
+
+0:07:12.570,0:07:16.949
+issues in the news each week and this is
+
+0:07:15.060,0:07:20.520
+an idea I borrowed from Casey Fiedler
+
+0:07:16.949,0:07:21.449
+who's a another Tech's professor and I
+
+0:07:20.520,0:07:22.979
+thought that could be kind of
+
+0:07:21.449,0:07:24.810
+interesting to see in the hope is that
+
+0:07:22.979,0:07:26.490
+everyone could contribute one article
+
+0:07:24.810,0:07:28.979
+each week and to see what happens over
+
+0:07:26.490,0:07:30.270
+the six weeks of the course and then
+
+0:07:28.979,0:07:31.710
+there'll be an optional writing
+
+0:07:30.270,0:07:34.050
+assignment if you're interested you can
+
+0:07:31.710,0:07:35.880
+research and reflect on the ethics issue
+
+0:07:34.050,0:07:37.590
+of your choice and then happy to give
+
+0:07:35.880,0:07:39.419
+you feedback on a draft if you're
+
+0:07:37.590,0:07:46.259
+interested in posting it as a blog post
+
+0:07:39.419,0:07:49.740
+later I was going to use forums faster I
+
+0:07:46.259,0:07:51.150
+for discussion and this is what we've
+
+0:07:49.740,0:07:53.940
+used with the deep learning corset
+
+0:07:51.150,0:07:57.030
+courses and it's a pretty nice software
+
+0:07:53.940,0:07:58.710
+it's open source discourse in terms of
+
+0:07:57.030,0:08:02.520
+it has great search functionality when
+
+0:07:58.710,0:08:04.680
+you start entering something and so I've
+
+0:08:02.520,0:08:07.020
+started a few threads in particular I
+
+0:08:04.680,0:08:08.150
+started and introduce yourself here if
+
+0:08:07.020,0:08:10.080
+you want to write an introduction
+
+0:08:08.150,0:08:12.719
+because I definitely hope to get to know
+
+0:08:10.080,0:08:14.009
+more about all of you over the course of
+
+0:08:12.719,0:08:15.270
+the course and I hope that you get to
+
+0:08:14.009,0:08:16.889
+know each other and couldn't kind of
+
+0:08:15.270,0:08:19.130
+build some community around people that
+
+0:08:16.889,0:08:21.509
+are interested in data ethics
+
+0:08:19.130,0:08:23.729
+um and so this will be a great place to
+
+0:08:21.509,0:08:25.380
+kind of keep the discussion going I did
+
+0:08:23.729,0:08:27.150
+want to let you know I have this set to
+
+0:08:25.380,0:08:29.490
+private right now just four people in
+
+0:08:27.150,0:08:32.520
+the course but I was planning to open it
+
+0:08:29.490,0:08:34.289
+to public after the course ends let me
+
+0:08:32.520,0:08:34.900
+know if you have concerns about that I
+
+0:08:34.289,0:08:37.870
+was
+
+0:08:34.900,0:08:40.090
+are ultimately and also recording the
+
+0:08:37.870,0:08:41.950
+course right now to to share but I hope
+
+0:08:40.090,0:08:44.470
+to get kind of more people involved in
+
+0:08:41.950,0:08:46.060
+discussing discussing data ethics and
+
+0:08:44.470,0:08:51.760
+I'll let you know before before I do
+
+0:08:46.060,0:08:55.210
+that so I always interested to read
+
+0:08:51.760,0:08:57.820
+other tech ethics syllabi and have spent
+
+0:08:55.210,0:08:59.440
+a lot of time doing that and kaci feeler
+
+0:08:57.820,0:09:01.420
+who's a professor at the university of
+
+0:08:59.440,0:09:05.350
+colorado created a crowdsource
+
+0:09:01.420,0:09:08.440
+spreadsheet of over 200 syllabi for tech
+
+0:09:05.350,0:09:12.250
+ethics courses this is a year or two ago
+
+0:09:08.440,0:09:14.290
+and then she did a meta-analysis on what
+
+0:09:12.250,0:09:16.710
+do we teach when we teach tech ethics
+
+0:09:14.290,0:09:19.990
+which I thought was really interesting
+
+0:09:16.710,0:09:22.960
+and she highlighted there kind of a
+
+0:09:19.990,0:09:24.550
+number of open questions or
+
+0:09:22.960,0:09:26.650
+controversies about how to best teach
+
+0:09:24.550,0:09:28.630
+tech epics you know should it be a
+
+0:09:26.650,0:09:32.290
+standalone course or integrated into
+
+0:09:28.630,0:09:34.030
+every course in a curriculum who should
+
+0:09:32.290,0:09:35.590
+teach it so it resides in a lot of
+
+0:09:34.030,0:09:37.330
+different departments if you look across
+
+0:09:35.590,0:09:42.240
+schools you know should it be a computer
+
+0:09:37.330,0:09:42.240
+scientist a philosopher or sociologist
+
+0:09:43.680,0:09:49.180
+this is a chart kind of just showing the
+
+0:09:47.110,0:09:50.770
+discipline of what what department these
+
+0:09:49.180,0:09:53.560
+courses were taught in of the one she
+
+0:09:50.770,0:09:55.660
+looked at what topics to cover is a huge
+
+0:09:53.560,0:09:58.150
+question and there was kind of a lengthy
+
+0:09:55.660,0:10:00.970
+list lawn policy privacy and
+
+0:09:58.150,0:10:03.880
+surveillance philosophy justice and
+
+0:10:00.970,0:10:06.430
+human rights civic responsibilities a I
+
+0:10:03.880,0:10:08.470
+and robots and the list goes on and so
+
+0:10:06.430,0:10:11.020
+this is a far more than you can fit in
+
+0:10:08.470,0:10:12.910
+any course even if we had twice as long
+
+0:10:11.020,0:10:16.170
+as we do we would not be able to cover
+
+0:10:12.910,0:10:18.940
+kind of more than a fraction of this oh
+
+0:10:16.170,0:10:20.110
+and then what learning outcomes and this
+
+0:10:18.940,0:10:23.020
+is something where there is a little bit
+
+0:10:20.110,0:10:26.590
+more of consistency that kind of one of
+
+0:10:23.020,0:10:28.870
+the top top goals of tech efex courses
+
+0:10:26.590,0:10:31.570
+to teach the skill of critique and
+
+0:10:28.870,0:10:33.460
+spotting issues also making arguments
+
+0:10:31.570,0:10:37.090
+some so hopefully we'll get to some of
+
+0:10:33.460,0:10:38.890
+that but yeah so I share this just to
+
+0:10:37.090,0:10:40.870
+say that we we won't be able to cover
+
+0:10:38.890,0:10:43.150
+everything and that that's kind of a
+
+0:10:40.870,0:10:45.430
+typical of tech ethics courses and that
+
+0:10:43.150,0:10:46.750
+there is this huge variety but hopefully
+
+0:10:45.430,0:10:48.520
+some of the skills around kind of
+
+0:10:46.750,0:10:50.710
+discussion and spotting issues and
+
+0:10:48.520,0:10:56.830
+thinking about them well will transfer
+
+0:10:50.710,0:10:58.510
+even to other areas so the syllabus and
+
+0:10:56.830,0:11:00.670
+hopefully you receive this Michaela sent
+
+0:10:58.510,0:11:03.400
+it out I also have it posted in the
+
+0:11:00.670,0:11:06.100
+forums if you have any trouble accessing
+
+0:11:03.400,0:11:08.380
+the forums or creating account feel free
+
+0:11:06.100,0:11:09.880
+to to email me and that's something
+
+0:11:08.380,0:11:12.400
+where I have to add you and so I've
+
+0:11:09.880,0:11:14.080
+added tried adding everyone's email for
+
+0:11:12.400,0:11:15.760
+the email you used to sign up for the
+
+0:11:14.080,0:11:17.140
+course but if you haven't created an
+
+0:11:15.760,0:11:19.330
+account yet then I have to kind of go
+
+0:11:17.140,0:11:22.660
+back and add it to just let me know when
+
+0:11:19.330,0:11:24.580
+you do I would one other note that I
+
+0:11:22.660,0:11:28.000
+forgot earlier but I want to introduce a
+
+0:11:24.580,0:11:30.070
+special not really guest but new
+
+0:11:28.000,0:11:32.770
+resident and this is ally al-khatib and
+
+0:11:30.070,0:11:34.180
+he's joining us as well part of our kind
+
+0:11:32.770,0:11:36.610
+of first class of we haven't officially
+
+0:11:34.180,0:11:38.530
+announced this yet but data ethics
+
+0:11:36.610,0:11:41.290
+fellows here at the Center for Applied
+
+0:11:38.530,0:11:46.780
+data ethics so he'll be he'll be here
+
+0:11:41.290,0:11:48.760
+and and so briefly so I'm gonna kind of
+
+0:11:46.780,0:11:50.650
+I want to start with kind of - so this
+
+0:11:48.760,0:11:54.400
+week disinformation and next week bias
+
+0:11:50.650,0:11:55.750
+kind of - really in-depth Kate or
+
+0:11:54.400,0:11:57.100
+they're more than a case study but kind
+
+0:11:55.750,0:11:58.570
+of like an issue and really kind of
+
+0:11:57.100,0:12:00.910
+thinking about the issue in depth and
+
+0:11:58.570,0:12:02.170
+then kind of circling back to more just
+
+0:12:00.910,0:12:04.240
+even talking about what our ethical
+
+0:12:02.170,0:12:06.070
+frames we can use what our tools we can
+
+0:12:04.240,0:12:07.570
+use to address these but I think it'll
+
+0:12:06.070,0:12:09.790
+help ground us to kind of first have
+
+0:12:07.570,0:12:11.650
+these issues so I'm just gonna briefly
+
+0:12:09.790,0:12:13.540
+say this evening that ethics is the
+
+0:12:11.650,0:12:18.330
+discipline dealing with what's good and
+
+0:12:13.540,0:12:22.720
+bad or a set of moral principles I
+
+0:12:18.330,0:12:24.310
+linked to or assigned to this article
+
+0:12:22.720,0:12:25.840
+from the Markkula Center and then
+
+0:12:24.310,0:12:28.300
+there's another great one of just kind
+
+0:12:25.840,0:12:30.520
+of overview of ethics and ethics it's
+
+0:12:28.300,0:12:32.140
+not the same as religion law social
+
+0:12:30.520,0:12:35.920
+norms or feelings although it does have
+
+0:12:32.140,0:12:39.270
+overlap with all those things to varying
+
+0:12:35.920,0:12:42.280
+degrees it's not a fixed set of rules
+
+0:12:39.270,0:12:44.620
+ethics is well founded standards of
+
+0:12:42.280,0:12:46.450
+right and wrong and if also the study
+
+0:12:44.620,0:12:47.920
+and development of your ethical
+
+0:12:46.450,0:12:50.650
+standards and that kind of needs to be a
+
+0:12:47.920,0:12:54.960
+continuous and ongoing process I'm kind
+
+0:12:50.650,0:12:57.400
+of as we encounter new new situations
+
+0:12:54.960,0:12:58.600
+actually I'll stop and pause are there
+
+0:12:57.400,0:13:00.670
+any questions just about the class
+
+0:12:58.600,0:13:13.900
+before we launch into disinformation
+
+0:13:00.670,0:13:16.390
+tonight yes at least today but are you
+
+0:13:13.900,0:13:19.600
+trying to have something more practical
+
+0:13:16.390,0:13:21.490
+than ended that's a good question the
+
+0:13:19.600,0:13:24.130
+got I'm gonna use the catch box in
+
+0:13:21.490,0:13:25.720
+general but so the question was is there
+
+0:13:24.130,0:13:28.630
+gonna be a supplemental kind of coding
+
+0:13:25.720,0:13:30.810
+lab at the end of each lesson the answer
+
+0:13:28.630,0:13:33.670
+is probably not I had wanted to but I
+
+0:13:30.810,0:13:36.850
+kind of with time and with some of the
+
+0:13:33.670,0:13:37.960
+topics I don't think that'll happen but
+
+0:13:36.850,0:13:40.840
+I would love to do that kind of in
+
+0:13:37.960,0:13:43.480
+future iterations yeah and this course
+
+0:13:40.840,0:13:45.490
+has essentially no prerequisites I want
+
+0:13:43.480,0:13:46.720
+this to be open to everyone but I also
+
+0:13:45.490,0:13:48.580
+hope you can use kind of whatever
+
+0:13:46.720,0:13:58.690
+particular skills you have from your
+
+0:13:48.580,0:14:00.730
+background yes so it's something we'll
+
+0:13:58.690,0:14:05.280
+come back to in lesson three we'll talk
+
+0:14:00.730,0:14:07.960
+about a few different ethical frames and
+
+0:14:05.280,0:14:09.850
+deontological ethics consequentialist
+
+0:14:07.960,0:14:12.130
+ethics and virtue ethics that can
+
+0:14:09.850,0:14:15.220
+potentially be used and we'll also talk
+
+0:14:12.130,0:14:18.370
+about a kind of toolkit of processes you
+
+0:14:15.220,0:14:20.290
+can implement although on the whole the
+
+0:14:18.370,0:14:24.030
+focus of the course will be on kind of
+
+0:14:20.290,0:14:24.030
+the applied side in particular cases
+
+0:14:25.800,0:14:30.820
+Thanks so let's say let's dive into two
+
+0:14:28.510,0:14:36.340
+disinformation which i think is very
+
+0:14:30.820,0:14:38.950
+very kind of relevant an urgent issue so
+
+0:14:36.340,0:14:42.670
+in 2016 a group called the heart of
+
+0:14:38.950,0:14:45.130
+Texas posted on Facebook about a protest
+
+0:14:42.670,0:14:48.280
+to be held outside in Islamic Center in
+
+0:14:45.130,0:14:50.980
+Houston and then another group called
+
+0:14:48.280,0:14:54.400
+for a counter protest so people kind of
+
+0:14:50.980,0:14:55.990
+showed up on both sides you had kind of
+
+0:14:54.400,0:15:00.400
+the counter protest supporting freedom
+
+0:14:55.990,0:15:01.890
+of religion and inclusivity and a
+
+0:15:00.400,0:15:05.050
+reporter from the Houston Chronicle
+
+0:15:01.890,0:15:07.370
+noticed notice something unusual which
+
+0:15:05.050,0:15:09.790
+is that he was not able to get in
+
+0:15:07.370,0:15:12.790
+with the organizers for either side and
+
+0:15:09.790,0:15:16.250
+it came out kind of only months later
+
+0:15:12.790,0:15:19.279
+that actually both sides were organized
+
+0:15:16.250,0:15:23.240
+by Russian trolls and so this is
+
+0:15:19.279,0:15:25.730
+something that is kind of captures how
+
+0:15:23.240,0:15:29.210
+how real people can really get caught up
+
+0:15:25.730,0:15:32.360
+in disinformation and this is also
+
+0:15:29.210,0:15:35.150
+different than the idea of quote fake
+
+0:15:32.360,0:15:37.339
+news in that you know the people on both
+
+0:15:35.150,0:15:39.410
+sides kind of we're acting on beliefs
+
+0:15:37.339,0:15:42.589
+they had but they were doing it in a way
+
+0:15:39.410,0:15:45.500
+that was framed kind of very deceptively
+
+0:15:42.589,0:15:48.290
+by by foreign operatives who who weren't
+
+0:15:45.500,0:15:49.790
+who they claimed so I think this is kind
+
+0:15:48.290,0:15:51.470
+of an important important example to
+
+0:15:49.790,0:15:53.270
+keep in mind and also just how kind of
+
+0:15:51.470,0:15:55.339
+tangible this is in the real world that
+
+0:15:53.270,0:15:57.800
+these are kind of real people protesting
+
+0:15:55.339,0:16:05.000
+again in this frame that was created in
+
+0:15:57.800,0:16:06.740
+a deceptive way so this information has
+
+0:16:05.000,0:16:09.050
+been in the news a lot I think
+
+0:16:06.740,0:16:11.779
+particularly with respect to too deep
+
+0:16:09.050,0:16:13.760
+fakes videos but that's just one form of
+
+0:16:11.779,0:16:18.170
+of disinformation and we'll talk about
+
+0:16:13.760,0:16:19.930
+talked about many others and tonight
+
+0:16:18.170,0:16:23.600
+when I get a bit into what isn't
+
+0:16:19.930,0:16:26.300
+disinformation how do the tech platforms
+
+0:16:23.600,0:16:30.730
+make it worse how will new advances in
+
+0:16:26.300,0:16:30.730
+AI make it worse and what should we do
+
+0:16:31.480,0:16:38.150
+so this this is a site called radio
+
+0:16:34.970,0:16:41.450
+Africa purporting to the local news
+
+0:16:38.150,0:16:43.279
+source in Khartoum Sudan Sudan and it
+
+0:16:41.450,0:16:49.640
+came out this fall that this was set up
+
+0:16:43.279,0:16:51.230
+by Russians as part of a influence
+
+0:16:49.640,0:16:53.300
+operation in six different African
+
+0:16:51.230,0:16:56.089
+countries where they created kind of
+
+0:16:53.300,0:16:58.190
+what seemed to be local news sources and
+
+0:16:56.089,0:17:03.050
+in some cases hired locals as
+
+0:16:58.190,0:17:05.990
+journalists and they had 73 Facebook
+
+0:17:03.050,0:17:09.410
+pages with over 9 million interactions
+
+0:17:05.990,0:17:10.850
+on them and they used whatsapp and
+
+0:17:09.410,0:17:12.439
+telegram as well so this was kind of
+
+0:17:10.850,0:17:16.370
+multi-platform they're encouraging
+
+0:17:12.439,0:17:17.780
+people to join groups and it wasn't you
+
+0:17:16.370,0:17:18.990
+know it wasn't just kind of false
+
+0:17:17.780,0:17:21.900
+stories or even
+
+0:17:18.990,0:17:23.370
+and stories promoting Russia and also
+
+0:17:21.900,0:17:25.110
+included the type of thing you that you
+
+0:17:23.370,0:17:27.449
+would see kind of you know promoting
+
+0:17:25.110,0:17:29.910
+local tourism there was kind of stories
+
+0:17:27.449,0:17:35.490
+about sports and culture and a wide
+
+0:17:29.910,0:17:40.140
+variety of stories so disinformation is
+
+0:17:35.490,0:17:42.210
+a lot more than just fake news and in
+
+0:17:40.140,0:17:43.309
+fact Claire Wardle who's a kind of
+
+0:17:42.210,0:17:46.320
+excellent expert in this area
+
+0:17:43.309,0:17:48.809
+discourages the use of the term fake
+
+0:17:46.320,0:17:53.690
+news because it's not just news it's
+
+0:17:48.809,0:17:56.580
+memes and videos and social media post
+
+0:17:53.690,0:17:59.730
+another article that I included actually
+
+0:17:56.580,0:18:01.740
+curious who did the reading for this
+
+0:17:59.730,0:18:10.590
+week Oh awesome
+
+0:18:01.740,0:18:15.300
+okay great job everyone so the this was
+
+0:18:10.590,0:18:18.480
+about a kind of campaign in 2014 as you
+
+0:18:15.300,0:18:20.700
+probably read where some trolls on 4chan
+
+0:18:18.480,0:18:23.040
+said that they wanted to get the hashtag
+
+0:18:20.700,0:18:24.840
+canceled father's day trending they
+
+0:18:23.040,0:18:27.510
+wanted to pretend to be black women to
+
+0:18:24.840,0:18:29.700
+do this as an effort to kind of make
+
+0:18:27.510,0:18:31.650
+make feminists look bad and they were
+
+0:18:29.700,0:18:33.980
+successful in getting this hashtag
+
+0:18:31.650,0:18:36.809
+picked up and then several kind of
+
+0:18:33.980,0:18:39.050
+far-right media outlets you know picked
+
+0:18:36.809,0:18:41.940
+up like oh look at this hashtag trending
+
+0:18:39.050,0:18:45.750
+and so this is so they create accounts
+
+0:18:41.940,0:18:47.250
+like accounts like Nene can't stop much
+
+0:18:45.750,0:18:48.900
+again is a totally kind of fraudulent
+
+0:18:47.250,0:18:51.750
+account and this was something because
+
+0:18:48.900,0:18:53.250
+it was posted on 4chan was well it was
+
+0:18:51.750,0:18:56.850
+discovered because the accounts were not
+
+0:18:53.250,0:18:57.870
+that convincing particularly to the kind
+
+0:18:56.850,0:18:59.309
+of black women that were in the same
+
+0:18:57.870,0:19:02.970
+community that the trolls were
+
+0:18:59.309,0:19:04.679
+ostensibly trying to imitate and then
+
+0:19:02.970,0:19:07.740
+was confirmed that it was that it was
+
+0:19:04.679,0:19:09.840
+fake and so and this also kind of
+
+0:19:07.740,0:19:11.460
+captures that with disinformation people
+
+0:19:09.840,0:19:13.500
+can have very different motives I think
+
+0:19:11.460,0:19:16.230
+in some cases there are people that
+
+0:19:13.500,0:19:18.690
+maybe think that they're being ironic in
+
+0:19:16.230,0:19:20.429
+kind of promoting something that's
+
+0:19:18.690,0:19:23.040
+offensive or kind of enjoying the the
+
+0:19:20.429,0:19:24.720
+kind of hoax aspect of wanting to trick
+
+0:19:23.040,0:19:26.520
+others there are other people though
+
+0:19:24.720,0:19:28.650
+that may be outraged by it and take it
+
+0:19:26.520,0:19:31.440
+very seriously and so you tend to have
+
+0:19:28.650,0:19:31.830
+kind of a range of motivations and also
+
+0:19:31.440,0:19:34.740
+a mo
+
+0:19:31.830,0:19:37.409
+that may be kind of a vote by various
+
+0:19:34.740,0:19:39.799
+materials and you've got this whole mix
+
+0:19:37.409,0:19:44.510
+of rumors and hoaxes propaganda
+
+0:19:39.799,0:19:48.120
+misleading content misleading context
+
+0:19:44.510,0:19:50.850
+most of it is misleading not fake so a
+
+0:19:48.120,0:19:52.799
+lot of people refer to fabricated news
+
+0:19:50.850,0:19:55.350
+it's something that is is totally
+
+0:19:52.799,0:19:57.750
+made-up but a lot of it you know this is
+
+0:19:55.350,0:19:59.669
+kind of the spectrum of if you think of
+
+0:19:57.750,0:20:02.039
+how to lie with statistics you know you
+
+0:19:59.669,0:20:04.860
+can give a statistic that is technically
+
+0:20:02.039,0:20:06.360
+true in a particular context but which
+
+0:20:04.860,0:20:09.470
+has been presented in a way that's super
+
+0:20:06.360,0:20:12.059
+misleading and that's that's often used
+
+0:20:09.470,0:20:14.429
+and then also the term fake news has
+
+0:20:12.059,0:20:16.320
+been co-opted and is being used to to
+
+0:20:14.429,0:20:18.570
+attack the press and so this is kind of
+
+0:20:16.320,0:20:20.490
+why Claire Ward I'll recommend staying
+
+0:20:18.570,0:20:27.710
+away from this term which I mostly try
+
+0:20:20.490,0:20:27.710
+to do any questions so far
+
+0:20:28.490,0:20:35.970
+okay this information also includes
+
+0:20:33.289,0:20:37.740
+orchestrated campaigns of manipulation
+
+0:20:35.970,0:20:39.870
+so it's not necessarily you know just
+
+0:20:37.740,0:20:43.260
+like a single post but this kind of
+
+0:20:39.870,0:20:45.149
+entire campaign and network and so we
+
+0:20:43.260,0:20:48.539
+kind of saw that with this example of
+
+0:20:45.149,0:20:51.000
+the Russian operations in six countries
+
+0:20:48.539,0:20:52.679
+that was uncovered this fall and that
+
+0:20:51.000,0:20:56.490
+was uncovered by the Stanford Internet
+
+0:20:52.679,0:21:00.899
+Observatory this information is an
+
+0:20:56.490,0:21:03.510
+ecosystem and so Kate Starbird of the
+
+0:21:00.899,0:21:06.809
+University of Washington has done a lot
+
+0:21:03.510,0:21:09.179
+of work kind of looking at both Twitter
+
+0:21:06.809,0:21:14.070
+and web sites of kind of who links to
+
+0:21:09.179,0:21:15.929
+who and so this is a kind of diagram of
+
+0:21:14.070,0:21:21.149
+people tweeting about the Syrian white
+
+0:21:15.929,0:21:22.919
+helmets and blue is kind of supportive
+
+0:21:21.149,0:21:26.460
+or positive towards them and pink is
+
+0:21:22.919,0:21:30.409
+negative or opposed to and she in this
+
+0:21:26.460,0:21:33.360
+example found that most of the people
+
+0:21:30.409,0:21:35.909
+tweeting about this seem to be kind of
+
+0:21:33.360,0:21:38.669
+sincere genuine people and not
+
+0:21:35.909,0:21:41.460
+operatives but if you looked at kind of
+
+0:21:38.669,0:21:43.139
+what sites they were linking to there
+
+0:21:41.460,0:21:45.090
+were a few sites that showed up over and
+
+0:21:43.139,0:21:45.750
+over so you see YouTube was a huge one
+
+0:21:45.090,0:21:49.740
+here
+
+0:21:45.750,0:21:51.180
+also Russia today Sputnik news and so
+
+0:21:49.740,0:21:53.280
+this is something where you kind of have
+
+0:21:51.180,0:21:54.900
+to think about this you know it's not
+
+0:21:53.280,0:21:58.850
+just within Twitter but kind of who's
+
+0:21:54.900,0:22:01.530
+being linked to and again you can have
+
+0:21:58.850,0:22:03.210
+genuine people perhaps sharing
+
+0:22:01.530,0:22:09.300
+information from from questionable
+
+0:22:03.210,0:22:10.440
+sources and Claire Ward all talks about
+
+0:22:09.300,0:22:15.180
+this idea of the trumpet of
+
+0:22:10.440,0:22:18.660
+amplification and it's how how ideas or
+
+0:22:15.180,0:22:21.690
+her means can make it from 4chan or a
+
+0:22:18.660,0:22:25.830
+Chan eventually into our kind of
+
+0:22:21.690,0:22:28.530
+mainstream media conversation and one
+
+0:22:25.830,0:22:32.520
+common path is kind of to first be
+
+0:22:28.530,0:22:35.400
+picked up by closed messaging groups
+
+0:22:32.520,0:22:37.440
+such as on whatsapp telegram or Facebook
+
+0:22:35.400,0:22:39.420
+messenger where things are widely shared
+
+0:22:37.440,0:22:41.730
+then they may jump into kind of
+
+0:22:39.420,0:22:44.490
+conspiracy communities on reddit or
+
+0:22:41.730,0:22:45.930
+YouTube from there to social media and
+
+0:22:44.490,0:22:48.450
+then are often covered kind of by
+
+0:22:45.930,0:22:50.310
+professional media or politicians
+
+0:22:48.450,0:22:52.140
+although we have seen examples where
+
+0:22:50.310,0:22:54.840
+it's a much shorter chain and things
+
+0:22:52.140,0:22:56.310
+kind of jump jump there sooner and so
+
+0:22:54.840,0:22:59.070
+this this makes it though it's like it's
+
+0:22:56.310,0:23:00.480
+a very difficult problem to to even
+
+0:22:59.070,0:23:03.470
+study your address because you're
+
+0:23:00.480,0:23:06.330
+looking at kind of so many different
+
+0:23:03.470,0:23:08.760
+companies and sites and organizations
+
+0:23:06.330,0:23:10.550
+and because this can move very quickly
+
+0:23:08.760,0:23:13.140
+between between sites
+
+0:23:10.550,0:23:15.050
+people can also or at least the
+
+0:23:13.140,0:23:17.820
+phenomena can kind of leverage
+
+0:23:15.050,0:23:24.900
+inconsistencies in the the rules or
+
+0:23:17.820,0:23:26.220
+enforcement of different sites and one
+
+0:23:24.900,0:23:28.530
+of the reasons I think that this is
+
+0:23:26.220,0:23:30.510
+really important to kind of be thinking
+
+0:23:28.530,0:23:36.000
+about and working on is that
+
+0:23:30.510,0:23:39.330
+disinformation undermines democracy a
+
+0:23:36.000,0:23:42.890
+lot of sloths bit men who was used to
+
+0:23:39.330,0:23:45.690
+work for a kind of Soviet disinformation
+
+0:23:42.890,0:23:48.090
+office I believe in the 60s and then
+
+0:23:45.690,0:23:50.630
+defected to the United States and later
+
+0:23:48.090,0:23:53.220
+became a professor of disinformation
+
+0:23:50.630,0:23:55.880
+said most campaigns are a carefully
+
+0:23:53.220,0:23:59.140
+designed mixture of facts half-truths
+
+0:23:55.880,0:24:02.600
+exaggerations and deliberate lies
+
+0:23:59.140,0:24:04.670
+I've heard other people say that you
+
+0:24:02.600,0:24:06.890
+know good propaganda contains seeds of
+
+0:24:04.670,0:24:08.540
+truth so again there's not you know
+
+0:24:06.890,0:24:10.880
+necessarily kind of a clear clear
+
+0:24:08.540,0:24:13.940
+distinction of true or false
+
+0:24:10.880,0:24:16.520
+Kate Starbird said disinformation is not
+
+0:24:13.940,0:24:18.140
+just about BOTS and trolls it targets
+
+0:24:16.520,0:24:20.570
+cultivate shapes and ultimately
+
+0:24:18.140,0:24:23.450
+leverages unwitting crowds to further
+
+0:24:20.570,0:24:25.040
+spread and achieve its objectives and we
+
+0:24:23.450,0:24:28.870
+saw that kind of with that first example
+
+0:24:25.040,0:24:28.870
+of people actually attending protests
+
+0:24:29.320,0:24:33.650
+totally unwittingly you know when I saw
+
+0:24:31.610,0:24:35.300
+the protesters that support freedom of
+
+0:24:33.650,0:24:37.940
+religion and diversity and I like so
+
+0:24:35.300,0:24:39.620
+many other signs I can relate but
+
+0:24:37.940,0:24:43.100
+they're you know being leveraged kind of
+
+0:24:39.620,0:24:48.020
+as part of a part of this campaign and
+
+0:24:43.100,0:24:50.930
+so we saw that here and then
+
+0:24:48.020,0:24:55.190
+disinformation pollutes our information
+
+0:24:50.930,0:24:56.360
+environment and so saying up to facti
+
+0:24:55.190,0:24:59.000
+who's kind of one of the foremost
+
+0:24:56.360,0:25:00.050
+experts in this area and has also really
+
+0:24:59.000,0:25:02.720
+studied you kind of the role of
+
+0:25:00.050,0:25:05.240
+Technology in protests around the world
+
+0:25:02.720,0:25:07.190
+says when I talked to dissidents around
+
+0:25:05.240,0:25:09.590
+the world they rarely asked me how they
+
+0:25:07.190,0:25:11.270
+can post information anonymously but
+
+0:25:09.590,0:25:14.390
+they do often ask me how to authenticate
+
+0:25:11.270,0:25:16.100
+the information they post dissidents can
+
+0:25:14.390,0:25:18.590
+end up putting their lives on the line
+
+0:25:16.100,0:25:21.020
+to post a picture documenting wrongdoing
+
+0:25:18.590,0:25:23.780
+only to be faced with an endless stream
+
+0:25:21.020,0:25:26.060
+of deliberately misleading claims that
+
+0:25:23.780,0:25:28.070
+the picture was taken 10 years ago that
+
+0:25:26.060,0:25:31.870
+it's from somewhere else that it's been
+
+0:25:28.070,0:25:33.920
+doctored and zeyneb definitely supports
+
+0:25:31.870,0:25:36.260
+that there are people that need to post
+
+0:25:33.920,0:25:39.230
+anonymously particularly whistleblowers
+
+0:25:36.260,0:25:41.240
+may need to have you know kind of stable
+
+0:25:39.230,0:25:43.220
+pseudonyms that they can they can use in
+
+0:25:41.240,0:25:45.770
+sharing I thought this was really kind
+
+0:25:43.220,0:25:48.140
+of interesting perspective about how how
+
+0:25:45.770,0:25:50.240
+often people can be discredited and
+
+0:25:48.140,0:25:52.280
+people want a way to authenticate what
+
+0:25:50.240,0:25:54.500
+they're sharing because the problem with
+
+0:25:52.280,0:25:56.240
+disinformation is not just that we may
+
+0:25:54.500,0:25:58.910
+believe things that are not true but
+
+0:25:56.240,0:26:01.940
+that we may not believe things that are
+
+0:25:58.910,0:26:03.370
+true and that's a kind of a real a real
+
+0:26:01.940,0:26:06.910
+risk and something that's already
+
+0:26:03.370,0:26:06.910
+already happening
+
+0:26:06.940,0:26:13.610
+and kind of related issue that saying up
+
+0:26:10.970,0:26:15.800
+has spoken about is how the nature of
+
+0:26:13.610,0:26:20.030
+censorship has really changed and
+
+0:26:15.800,0:26:22.640
+censorship now works by flooding people
+
+0:26:20.030,0:26:25.610
+with information by causing distraction
+
+0:26:22.640,0:26:28.010
+causing confusion creating doubts and
+
+0:26:25.610,0:26:29.210
+just this question mark and shadow so
+
+0:26:28.010,0:26:32.060
+that you can't really figure out what's
+
+0:26:29.210,0:26:35.330
+going on and so she was in particular
+
+0:26:32.060,0:26:37.850
+talking about kind of the WikiLeaks dump
+
+0:26:35.330,0:26:39.410
+method and saying that just kind of
+
+0:26:37.850,0:26:41.780
+releasing things isn't necessarily
+
+0:26:39.410,0:26:44.060
+whistleblowing she refers it refers to
+
+0:26:41.780,0:26:46.790
+it as whistle drowning although this
+
+0:26:44.060,0:26:50.030
+happens kind of even more broadly than
+
+0:26:46.790,0:26:52.430
+just document dumps but that kind of
+
+0:26:50.030,0:26:54.380
+we're just flooded and inundated with
+
+0:26:52.430,0:26:56.480
+information and can drown out really
+
+0:26:54.380,0:27:03.170
+important kind of important news that we
+
+0:26:56.480,0:27:05.330
+need to hear and so kind of in the
+
+0:27:03.170,0:27:07.490
+context of releasing large troves of
+
+0:27:05.330,0:27:10.850
+documents this is referred to as hack
+
+0:27:07.490,0:27:14.210
+and leak includes Climategate and
+
+0:27:10.850,0:27:15.260
+Hillary Clinton's emails and what
+
+0:27:14.210,0:27:17.870
+happens is something called narrative
+
+0:27:15.260,0:27:20.150
+laundering where people can build
+
+0:27:17.870,0:27:22.130
+stories on top of real documents and so
+
+0:27:20.150,0:27:24.080
+kind of taking real documents but then
+
+0:27:22.130,0:27:27.800
+using them towards kind of certain ends
+
+0:27:24.080,0:27:30.800
+to try to create a narrative something
+
+0:27:27.800,0:27:32.860
+that experts such as Renee de Resta have
+
+0:27:30.800,0:27:36.260
+warned about is that we may see more
+
+0:27:32.860,0:27:40.820
+mixing faked documents in with real
+
+0:27:36.260,0:27:44.740
+documents and so there was a set of
+
+0:27:40.820,0:27:47.690
+cyber attacks on anti-doping agencies
+
+0:27:44.740,0:27:49.220
+sometime last year and people say that
+
+0:27:47.690,0:27:55.100
+there were kind of some fake documents
+
+0:27:49.220,0:28:02.030
+mixed in mixed into that we paws are
+
+0:27:55.100,0:28:05.000
+there any question can you hold that
+
+0:28:02.030,0:28:07.100
+catch box a little bit closer like our
+
+0:28:05.000,0:28:08.310
+using narrative laundering especially is
+
+0:28:07.100,0:28:09.810
+something like
+
+0:28:08.310,0:28:11.640
+National Geographic and stuff where
+
+0:28:09.810,0:28:13.350
+they're filming animals and then come up
+
+0:28:11.640,0:28:14.520
+with a story I have a friend who's
+
+0:28:13.350,0:28:16.740
+actually filming for National Geographic
+
+0:28:14.520,0:28:18.420
+and say we took months and months of
+
+0:28:16.740,0:28:20.310
+filming and then sensitive and they
+
+0:28:18.420,0:28:22.290
+completely moved everything around and
+
+0:28:20.310,0:28:23.670
+like the clips are not actually in the
+
+0:28:22.290,0:28:25.680
+order that things take place and the
+
+0:28:23.670,0:28:27.810
+story is totally written afterwards oh
+
+0:28:25.680,0:28:30.600
+yeah that's an interesting example I
+
+0:28:27.810,0:28:33.210
+think that also gets set that there I'm
+
+0:28:30.600,0:28:34.920
+sure this happens with you know any
+
+0:28:33.210,0:28:37.470
+documentary is gonna have to like cut
+
+0:28:34.920,0:28:39.090
+down the material and is imposing some
+
+0:28:37.470,0:28:41.640
+sort of kind of frame on what gets
+
+0:28:39.090,0:28:43.950
+chosen and I think there ways to do that
+
+0:28:41.640,0:28:45.600
+ethically and then also ways where
+
+0:28:43.950,0:28:47.270
+you've become deceptive with what you're
+
+0:28:45.600,0:28:49.410
+doing and I don't know that it's always
+
+0:28:47.270,0:28:51.660
+I'm sure there are a lot of in-between
+
+0:28:49.410,0:28:53.430
+instances where it may not be clear of
+
+0:28:51.660,0:28:56.160
+like okay this is an acceptable amount
+
+0:28:53.430,0:28:57.840
+of editing and shaping and okay now
+
+0:28:56.160,0:29:01.590
+you've definitely crossed over and are
+
+0:28:57.840,0:29:03.330
+misleading people and I think that's
+
+0:29:01.590,0:29:05.970
+also kind of an example where you have
+
+0:29:03.330,0:29:08.010
+just this huge volume of material that
+
+0:29:05.970,0:29:09.660
+you have to kind of cut down because
+
+0:29:08.010,0:29:18.360
+volume is one of the things that I think
+
+0:29:09.660,0:29:21.300
+enables this I mean so anything like
+
+0:29:18.360,0:29:23.100
+definitely like with Climategate and you
+
+0:29:21.300,0:29:25.740
+know that's something we're kind of all
+
+0:29:23.100,0:29:28.380
+these emails from climate scientist were
+
+0:29:25.740,0:29:29.730
+were hacked and released and really the
+
+0:29:28.380,0:29:32.480
+discussions they were having were
+
+0:29:29.730,0:29:36.630
+completely reasonable like there was not
+
+0:29:32.480,0:29:39.210
+I don't think any scientist thinks there
+
+0:29:36.630,0:29:40.590
+was like a controversy there about what
+
+0:29:39.210,0:29:43.230
+they were doing or how they were doing
+
+0:29:40.590,0:29:45.120
+it but it was used to kind of things
+
+0:29:43.230,0:29:46.950
+were taken out of context and kind of
+
+0:29:45.120,0:29:48.630
+put together to be like look these
+
+0:29:46.950,0:29:50.520
+climate scientists are lying to us
+
+0:29:48.630,0:29:52.890
+they're kind of doing unethical things
+
+0:29:50.520,0:29:55.860
+to make it seem like climate change is
+
+0:29:52.890,0:29:58.350
+happening when it's not and so that kind
+
+0:29:55.860,0:30:01.500
+of created this whole narrative that was
+
+0:29:58.350,0:30:03.900
+was not accurate but it's it's something
+
+0:30:01.500,0:30:05.610
+we're kind of if you have enough volume
+
+0:30:03.900,0:30:08.430
+of documents and I think it gets easier
+
+0:30:05.610,0:30:10.340
+and easier to do that so do we also see
+
+0:30:08.430,0:30:12.519
+this type of pattern where you have like
+
+0:30:10.340,0:30:16.479
+highly
+
+0:30:12.519,0:30:18.309
+I did like field-specific so the
+
+0:30:16.479,0:30:21.549
+scientific papers were medical papers
+
+0:30:18.309,0:30:24.159
+that take very specific clips out and
+
+0:30:21.549,0:30:26.559
+then turn it into a form of language as
+
+0:30:24.159,0:30:30.549
+much more easily consumed so you know
+
+0:30:26.559,0:30:33.399
+less like you know area specific
+
+0:30:30.549,0:30:35.649
+language just common language that masks
+
+0:30:33.399,0:30:39.399
+the masses can kind of pursue them and
+
+0:30:35.649,0:30:41.619
+understand that uh does it make sense so
+
+0:30:39.399,0:30:44.080
+I'm reading a medical PDF maybe like 20
+
+0:30:41.619,0:30:45.820
+pages long I'm probably not gonna read
+
+0:30:44.080,0:30:47.259
+the whole thing right you can take a
+
+0:30:45.820,0:30:48.940
+couple sentences out of there they're
+
+0:30:47.259,0:30:51.369
+true and then build a story on top of
+
+0:30:48.940,0:30:54.070
+that that can be put into 140 characters
+
+0:30:51.369,0:30:56.320
+or having yes yeah this is what it says
+
+0:30:54.070,0:30:59.709
+typical a typical pattern that we see
+
+0:30:56.320,0:31:01.299
+with narrative laundering so so like
+
+0:30:59.709,0:31:03.009
+what you're describing I think often
+
+0:31:01.299,0:31:04.209
+would not be narrative laundering
+
+0:31:03.009,0:31:05.799
+because someone I think could be right
+
+0:31:04.209,0:31:07.709
+making a story that even though it's
+
+0:31:05.799,0:31:10.959
+oversimplified could be very accurate
+
+0:31:07.709,0:31:12.579
+and this I should check but like this
+
+0:31:10.959,0:31:14.379
+definition was in the context of kind of
+
+0:31:12.579,0:31:16.869
+I think like a massive volume of
+
+0:31:14.379,0:31:20.259
+documents but you're right about the
+
+0:31:16.869,0:31:24.339
+kind of the dynamic of yeah if you have
+
+0:31:20.259,0:31:25.869
+a 20-page highly specialized paper for
+
+0:31:24.339,0:31:27.190
+most people to understand it we do need
+
+0:31:25.869,0:31:29.499
+someone to come along and give us kind
+
+0:31:27.190,0:31:31.299
+of a simpler story about it although
+
+0:31:29.499,0:31:32.889
+ideally that someone would be
+
+0:31:31.299,0:31:35.049
+trustworthy and would produce the story
+
+0:31:32.889,0:31:38.919
+that was kind of accurate and in keeping
+
+0:31:35.049,0:31:41.769
+with what was there all right another
+
+0:31:38.919,0:31:48.609
+question oh wait can you send it back
+
+0:31:41.769,0:31:51.219
+just for the recording I guess my answer
+
+0:31:48.609,0:31:53.559
+that was yes I was a psychology major
+
+0:31:51.219,0:31:56.259
+undergrad with so many psych papers and
+
+0:31:53.559,0:31:58.469
+one of the pieces of every publish psych
+
+0:31:56.259,0:32:01.479
+papers there has to be a conclusion and
+
+0:31:58.469,0:32:03.549
+so many psychologists take the study
+
+0:32:01.479,0:32:05.169
+that they did and as part of the
+
+0:32:03.549,0:32:07.269
+conclusion they have to draw real world
+
+0:32:05.169,0:32:09.399
+applications real world how do you apply
+
+0:32:07.269,0:32:11.950
+it and even though so many of the
+
+0:32:09.399,0:32:14.679
+studies are just done at colleges mainly
+
+0:32:11.950,0:32:16.389
+female participants they generalize it
+
+0:32:14.679,0:32:18.369
+to everyone in the world even though
+
+0:32:16.389,0:32:20.820
+it's done in the US and make only five
+
+0:32:18.369,0:32:22.620
+Americans and so they do a lot of this
+
+0:32:20.820,0:32:24.360
+kind of creating a story for the whole
+
+0:32:22.620,0:32:27.000
+world where that may not be really where
+
+0:32:24.360,0:32:28.980
+it applies ya know so and I think that
+
+0:32:27.000,0:32:30.960
+this is gets it broader issues with
+
+0:32:28.980,0:32:32.220
+scientific communication although I do
+
+0:32:30.960,0:32:35.220
+want to bring us back to kind of
+
+0:32:32.220,0:32:38.730
+disinformation specifically but yeah
+
+0:32:35.220,0:32:40.590
+they're all kind of perhaps similar
+
+0:32:38.730,0:32:45.480
+issues that show up in other forms of of
+
+0:32:40.590,0:32:47.190
+scientific communication all right I'll
+
+0:32:45.480,0:32:51.030
+keep going well we'll have more time for
+
+0:32:47.190,0:32:52.170
+for questions later as we go on it so
+
+0:32:51.030,0:32:55.410
+now I'm going to talk a little bit about
+
+0:32:52.170,0:32:58.230
+how the the kind of the role of the tech
+
+0:32:55.410,0:33:01.020
+platforms and incentivizing and
+
+0:32:58.230,0:33:02.790
+promoting disinformation so this is and
+
+0:33:01.020,0:33:08.850
+I'm not something that that happens in a
+
+0:33:02.790,0:33:10.770
+vacuum and so this is this is mostly
+
+0:33:08.850,0:33:12.840
+unintentional but it shows up in their
+
+0:33:10.770,0:33:15.870
+design and architecture and their
+
+0:33:12.840,0:33:18.330
+recommendation systems in their business
+
+0:33:15.870,0:33:23.370
+models around kind of what what gets
+
+0:33:18.330,0:33:24.720
+incentivized and so this is you know and
+
+0:33:23.370,0:33:26.820
+a lot of these choices when they were
+
+0:33:24.720,0:33:28.110
+originally being made probably people
+
+0:33:26.820,0:33:30.090
+weren't thinking about just information
+
+0:33:28.110,0:33:34.680
+at all but they do kind of help create
+
+0:33:30.090,0:33:37.890
+the ecosystem that we're in and so
+
+0:33:34.680,0:33:39.570
+Guillaume Chaz Lotte is former Google
+
+0:33:37.890,0:33:42.030
+engineer who worked on YouTube's
+
+0:33:39.570,0:33:44.730
+recommendation algorithm rockin like
+
+0:33:42.030,0:33:48.150
+2013 and has been very vocal about it
+
+0:33:44.730,0:33:51.990
+since leaving he's also founder of algo
+
+0:33:48.150,0:33:55.200
+watt or algo transparency group so this
+
+0:33:51.990,0:33:56.700
+is a chart so he kind of monitors kind
+
+0:33:55.200,0:33:58.290
+of YouTube's recommendation system from
+
+0:33:56.700,0:33:59.940
+the outside now this is a chart he
+
+0:33:58.290,0:34:03.240
+created that was picked up by The
+
+0:33:59.940,0:34:05.550
+Washington Post and here the x-axis is
+
+0:34:03.240,0:34:09.600
+the number of channels recommending a
+
+0:34:05.550,0:34:12.210
+video and the y-axis is the log of the
+
+0:34:09.600,0:34:14.580
+number of views and you see there's this
+
+0:34:12.210,0:34:17.820
+extreme outlier that was Russia today's
+
+0:34:14.580,0:34:21.120
+take on the Mueller Report something
+
+0:34:17.820,0:34:22.470
+that was being recommended a ton even
+
+0:34:21.120,0:34:25.169
+though it was actually not ending up
+
+0:34:22.470,0:34:27.600
+kind of more popular like you might
+
+0:34:25.169,0:34:30.419
+expect and I think this is kind of
+
+0:34:27.600,0:34:32.640
+potential evidence that that the
+
+0:34:30.419,0:34:34.700
+recommendation system can be gamed there
+
+0:34:32.640,0:34:36.690
+has been gamed which i think is a
+
+0:34:34.700,0:34:39.119
+really kind of anytime that you're
+
+0:34:36.690,0:34:40.800
+really relying on metrics wrote a post
+
+0:34:39.119,0:34:43.619
+about this in the fall the problem with
+
+0:34:40.800,0:34:45.240
+metrics is a big problem for AI that
+
+0:34:43.619,0:34:47.909
+kind of whenever you put a lot of
+
+0:34:45.240,0:34:49.940
+emphasis on a metric people can and will
+
+0:34:47.909,0:34:52.260
+try to game it you'll also see maybe
+
+0:34:49.940,0:34:57.420
+unexpected kind of behavior or side
+
+0:34:52.260,0:34:59.640
+effects to what you're doing so this is
+
+0:34:57.420,0:35:01.200
+a one frame for kind of for thinking
+
+0:34:59.640,0:35:02.940
+about disinformation and this has gotten
+
+0:35:01.200,0:35:04.230
+all kind of a lot more media attention I
+
+0:35:02.940,0:35:05.880
+would say in the last six months to a
+
+0:35:04.230,0:35:10.020
+year about the the role of
+
+0:35:05.880,0:35:13.320
+recommendation systems another
+
+0:35:10.020,0:35:19.410
+interesting study from this fall looked
+
+0:35:13.320,0:35:21.359
+at basically how people if so they asked
+
+0:35:19.410,0:35:24.180
+people you know do you think this story
+
+0:35:21.359,0:35:26.040
+is credible and they kind of balance for
+
+0:35:24.180,0:35:28.109
+getting Republicans and Democrats and
+
+0:35:26.040,0:35:30.000
+found that people could identify kind of
+
+0:35:28.109,0:35:32.550
+whether a story was credible or not even
+
+0:35:30.000,0:35:34.800
+across their political lines but then
+
+0:35:32.550,0:35:36.599
+they also kind of a separate large group
+
+0:35:34.800,0:35:37.349
+of people asked would you share this
+
+0:35:36.599,0:35:39.690
+story or not
+
+0:35:37.349,0:35:41.430
+and that was basically completely
+
+0:35:39.690,0:35:44.670
+disconnected from whether it was
+
+0:35:41.430,0:35:47.970
+credible and was very tied to political
+
+0:35:44.670,0:35:49.470
+ties and so so this kind of suggests
+
+0:35:47.970,0:35:51.630
+that when people are deciding whether to
+
+0:35:49.470,0:35:53.130
+share something they're not they're not
+
+0:35:51.630,0:35:54.540
+even thinking like is this credible
+
+0:35:53.130,0:35:56.700
+there are a lot of other kind of
+
+0:35:54.540,0:36:00.089
+emotions and factors that go into kind
+
+0:35:56.700,0:36:02.250
+of what gets gets shared and I liked in
+
+0:36:00.089,0:36:04.589
+the paper they they highlighted that
+
+0:36:02.250,0:36:07.109
+social media platforms may tilt users
+
+0:36:04.589,0:36:09.599
+away from considering accuracy for
+
+0:36:07.109,0:36:12.450
+instance they encourage users to rapidly
+
+0:36:09.599,0:36:13.530
+scroll and spontaneously engage so
+
+0:36:12.450,0:36:15.420
+they're not necessarily kind of
+
+0:36:13.530,0:36:17.880
+encouraging people to to spend a long
+
+0:36:15.420,0:36:19.770
+time thinking about a particular post or
+
+0:36:17.880,0:36:22.830
+a particular article before before they
+
+0:36:19.770,0:36:24.810
+share it they also mix very serious news
+
+0:36:22.830,0:36:26.609
+content with emotionally engaging
+
+0:36:24.810,0:36:29.400
+content so often kind of we're really
+
+0:36:26.609,0:36:32.400
+engaging in this emotional way and then
+
+0:36:29.400,0:36:34.200
+also you know you've got a cat video or
+
+0:36:32.400,0:36:36.060
+a baby picture and then kind of some
+
+0:36:34.200,0:36:37.950
+very like serious or devastating
+
+0:36:36.060,0:36:41.720
+political news or enraging political
+
+0:36:37.950,0:36:43.430
+news and it's all all mixed together
+
+0:36:41.720,0:36:45.470
+and unless we get this immediate
+
+0:36:43.430,0:36:47.420
+quantified feedback and the number of
+
+0:36:45.470,0:36:50.960
+likes it really kind of influences
+
+0:36:47.420,0:36:53.330
+people to kind of be getting that that
+
+0:36:50.960,0:36:55.700
+response and so none of this is
+
+0:36:53.330,0:36:58.580
+particularly conducive to getting people
+
+0:36:55.700,0:37:02.050
+to to stop and ask is this is this
+
+0:36:58.580,0:37:04.880
+credible so in the in this study they
+
+0:37:02.050,0:37:08.240
+they did so they're kind of a few parts
+
+0:37:04.880,0:37:10.520
+to it but in one part they deemed people
+
+0:37:08.240,0:37:12.710
+a question and they said we're doing a
+
+0:37:10.520,0:37:14.690
+survey do you think the following link
+
+0:37:12.710,0:37:17.180
+is credible and what they said them was
+
+0:37:14.690,0:37:18.560
+politically neutral so it wasn't wasn't
+
+0:37:17.180,0:37:20.900
+something that should follow along party
+
+0:37:18.560,0:37:25.250
+lines and they found that people that
+
+0:37:20.900,0:37:27.700
+received this seem to tweet more
+
+0:37:25.250,0:37:30.140
+credible links for 24 hours afterwards
+
+0:37:27.700,0:37:32.480
+that just even kind of prompting people
+
+0:37:30.140,0:37:33.619
+to be like is this credible as a
+
+0:37:32.480,0:37:37.550
+question that you should potentially
+
+0:37:33.619,0:37:39.260
+think about potentially got them to kind
+
+0:37:37.550,0:37:41.300
+of think about that more and they only
+
+0:37:39.260,0:37:42.440
+looked it for 24 hours afterwards but I
+
+0:37:41.300,0:37:44.330
+thought that was that was interesting
+
+0:37:42.440,0:37:48.369
+and so that's you know a small study and
+
+0:37:44.330,0:37:48.369
+kind of one piece of one piece of data
+
+0:37:48.970,0:37:53.690
+and then also sure there's some research
+
+0:37:51.470,0:37:56.000
+from Becca Lewis who's a PhD student at
+
+0:37:53.690,0:37:58.220
+Stanford and she highlights that it's
+
+0:37:56.000,0:38:00.050
+more than just the algorithm and this is
+
+0:37:58.220,0:38:04.700
+not kind of incompatible with the the
+
+0:38:00.050,0:38:06.770
+algorithm playing a role that she she
+
+0:38:04.700,0:38:10.310
+looks at various kind of other dynamics
+
+0:38:06.770,0:38:13.040
+of celebrity culture on YouTube and so
+
+0:38:10.310,0:38:16.640
+the paper I have listed here she kind of
+
+0:38:13.040,0:38:18.859
+does it's a qualitative case study kind
+
+0:38:16.640,0:38:20.630
+of looking at a few YouTube influencers
+
+0:38:18.859,0:38:23.900
+in the way that they have kind of
+
+0:38:20.630,0:38:25.369
+positioned themselves as you know the
+
+0:38:23.900,0:38:27.260
+mainstream media is not telling you the
+
+0:38:25.369,0:38:29.599
+truth but I'm a lot more authentic and
+
+0:38:27.260,0:38:32.000
+credible and then also kind of the
+
+0:38:29.599,0:38:33.830
+mainstream media is overly pushing kind
+
+0:38:32.000,0:38:35.720
+of liberal ideals but I'm gonna be
+
+0:38:33.830,0:38:38.599
+authentic incredible and kind of tell
+
+0:38:35.720,0:38:40.730
+you these all old right ideals and have
+
+0:38:38.599,0:38:43.700
+kind of been effective at aligning these
+
+0:38:40.730,0:38:45.680
+two different axes and so that's
+
+0:38:43.700,0:38:49.430
+interesting to also kind of keep in mind
+
+0:38:45.680,0:38:53.710
+these other other social and cultural
+
+0:38:49.430,0:38:57.040
+dynamics that impact impact this
+
+0:38:53.710,0:38:59.420
+so summary kind of our online
+
+0:38:57.040,0:39:01.970
+environments are designed to be
+
+0:38:59.420,0:39:05.119
+addictive in many cases so kind of the
+
+0:39:01.970,0:39:07.880
+the reading so I had an article from
+
+0:39:05.119,0:39:09.859
+from Guillaume test lot in the assigned
+
+0:39:07.880,0:39:12.349
+reading and he talked about how and
+
+0:39:09.859,0:39:14.359
+YouTube has updated its algorithm but in
+
+0:39:12.349,0:39:16.369
+the early days it was about maximizing
+
+0:39:14.359,0:39:17.839
+watch time which i think is true of many
+
+0:39:16.369,0:39:21.710
+platforms they want to keep people on
+
+0:39:17.839,0:39:23.450
+the platforms longer the incentives tend
+
+0:39:21.710,0:39:25.550
+to really focus on short term metrics
+
+0:39:23.450,0:39:27.829
+it's and some of this is it's much
+
+0:39:25.550,0:39:32.390
+harder to measure long term quantities
+
+0:39:27.829,0:39:36.470
+of you know what is your long term kind
+
+0:39:32.390,0:39:38.119
+of trust in trust in the platform or you
+
+0:39:36.470,0:39:40.030
+know even just like what's the long term
+
+0:39:38.119,0:39:42.349
+health of the information being shared
+
+0:39:40.030,0:39:44.690
+these are tough things to measure and so
+
+0:39:42.349,0:39:48.619
+I think that short term incentives tend
+
+0:39:44.690,0:39:50.420
+to get over emphasized and then finally
+
+0:39:48.619,0:39:52.490
+like the fundamental business model is
+
+0:39:50.420,0:39:55.310
+around manipulating people's behavior
+
+0:39:52.490,0:39:58.069
+and monopolizing their time and not
+
+0:39:55.310,0:40:01.550
+something that I think is it's okay in
+
+0:39:58.069,0:40:03.800
+limited doses but that ultimately kind
+
+0:40:01.550,0:40:06.050
+of doesn't lead for a great alignment of
+
+0:40:03.800,0:40:11.329
+incentives with the well-being of
+
+0:40:06.050,0:40:14.119
+society and this is a slide that renamed
+
+0:40:11.329,0:40:15.440
+at rest and so Rene is kind of one of
+
+0:40:14.119,0:40:17.480
+the top experts on computational
+
+0:40:15.440,0:40:22.609
+propaganda and she led one of the teams
+
+0:40:17.480,0:40:24.920
+that analyzed the the Russian materials
+
+0:40:22.609,0:40:29.540
+for the Senate House Committee she was
+
+0:40:24.920,0:40:31.430
+also kind of very involved in studying
+
+0:40:29.540,0:40:34.390
+that the anti-vaxxer movement kind of
+
+0:40:31.430,0:40:36.440
+years ago shared it our political
+
+0:40:34.390,0:40:37.940
+conversations are happening on an
+
+0:40:36.440,0:40:40.069
+infrastructure built for viral
+
+0:40:37.940,0:40:43.490
+advertising and so here there's kind of
+
+0:40:40.069,0:40:45.109
+this real real mismatch so let me pause
+
+0:40:43.490,0:40:48.170
+for a moment are there questions on this
+
+0:40:45.109,0:40:52.359
+kind of this component of the role that
+
+0:40:48.170,0:40:55.900
+that the type of tech platforms play
+
+0:40:52.359,0:40:58.400
+question in the back and let me Oh
+
+0:40:55.900,0:41:00.799
+perfect
+
+0:40:58.400,0:41:03.339
+I think it's more of an observation is
+
+0:41:00.799,0:41:06.200
+employed for all of these points I'm
+
+0:41:03.339,0:41:08.569
+particularly back to rest as article and
+
+0:41:06.200,0:41:11.000
+the shifts in technology radio to
+
+0:41:08.569,0:41:14.470
+television and television is my very
+
+0:41:11.000,0:41:17.750
+broad unqualified observation is that
+
+0:41:14.470,0:41:19.640
+the technology has simply arrived to
+
+0:41:17.750,0:41:21.349
+make this scale out in the way it was
+
+0:41:19.640,0:41:24.589
+intended I don't know that I see much
+
+0:41:21.349,0:41:29.500
+difference in media i justi difference
+
+0:41:24.589,0:41:32.089
+in the efficacy of this delivery system
+
+0:41:29.500,0:41:33.890
+yeah and he said this definitely is more
+
+0:41:32.089,0:41:35.299
+effective and some of the yeah I mean
+
+0:41:33.890,0:41:37.220
+there's writing that was done on
+
+0:41:35.299,0:41:38.420
+television in the 80s that you read in
+
+0:41:37.220,0:41:39.380
+it's like oh that sounds like they're
+
+0:41:38.420,0:41:42.770
+talking about the internet and the
+
+0:41:39.380,0:41:47.569
+problems were facing now I mean the the
+
+0:41:42.770,0:41:50.210
+scale is so like the scale is
+
+0:41:47.569,0:41:52.789
+significant that it is so so big I mean
+
+0:41:50.210,0:41:55.700
+I think that they're around the
+
+0:41:52.789,0:41:58.010
+incentives like I think that I don't
+
+0:41:55.700,0:42:00.020
+know if we didn't have kind of
+
+0:41:58.010,0:42:01.520
+personalized ad targeting I do think we
+
+0:42:00.020,0:42:02.930
+would be in a different ecosystem and I
+
+0:42:01.520,0:42:05.000
+think we would still have problems but
+
+0:42:02.930,0:42:06.349
+they would probably be different
+
+0:42:05.000,0:42:09.170
+problems and there'd be a different
+
+0:42:06.349,0:42:11.359
+nature to the ecosystem but I think that
+
+0:42:09.170,0:42:15.140
+these are kind of particular choices you
+
+0:42:11.359,0:42:16.880
+know like we could there could be a
+
+0:42:15.140,0:42:18.470
+world where we we have the Internet and
+
+0:42:16.880,0:42:20.230
+kind of mass communication but where
+
+0:42:18.470,0:42:21.920
+it's funneling in very different ways
+
+0:42:20.230,0:42:23.890
+and I do think like in particular
+
+0:42:21.920,0:42:28.099
+personalized ad targeting has kind of
+
+0:42:23.890,0:42:30.680
+put us down a very circular path and I'm
+
+0:42:28.099,0:42:32.960
+a more serious part and so it's also
+
+0:42:30.680,0:42:34.520
+important to note that humans really
+
+0:42:32.960,0:42:38.510
+have kind of evolved as social beings
+
+0:42:34.520,0:42:40.339
+and to have our our opinions it
+
+0:42:38.510,0:42:41.690
+influenced by others
+
+0:42:40.339,0:42:44.299
+that we kind of consider part of our in
+
+0:42:41.690,0:42:45.940
+group and often kind of in an opposition
+
+0:42:44.299,0:42:49.220
+to people we think are in our out group
+
+0:42:45.940,0:42:51.380
+that we're very we are influenced by
+
+0:42:49.220,0:42:53.480
+others and it can be hard to recognize
+
+0:42:51.380,0:42:56.000
+because I think many of us think of
+
+0:42:53.480,0:42:58.760
+ourselves as independent minded but but
+
+0:42:56.000,0:43:02.299
+the society plays plays a role and
+
+0:42:58.760,0:43:04.010
+people have have a lot of different kind
+
+0:43:02.299,0:43:08.200
+of discussions online that can help form
+
+0:43:04.010,0:43:12.170
+opinions and so this is a discussion
+
+0:43:08.200,0:43:14.420
+reddit someone saying I believe the US
+
+0:43:12.170,0:43:16.700
+should cut all defense spending and
+
+0:43:14.420,0:43:18.559
+instead spend money on the military I
+
+0:43:16.700,0:43:20.180
+know there's a lot of money in the
+
+0:43:18.559,0:43:22.730
+defense budget but if you take the money
+
+0:43:20.180,0:43:24.619
+we have somebody else says you're wrong
+
+0:43:22.730,0:43:26.029
+the defense budget is a good example of
+
+0:43:24.619,0:43:28.849
+how badly the u.s. spends on the
+
+0:43:26.029,0:43:30.020
+military so it all says yeah but that's
+
+0:43:28.849,0:43:32.839
+already happening there's a huge
+
+0:43:30.020,0:43:34.309
+increase in the military budget I didn't
+
+0:43:32.839,0:43:36.410
+mean to sound like stop paying for the
+
+0:43:34.309,0:43:38.089
+military I'm not saying that we cannot
+
+0:43:36.410,0:43:41.599
+pay the bills but I think it makes sense
+
+0:43:38.089,0:43:43.369
+to cut defense spending and so does does
+
+0:43:41.599,0:43:47.900
+anyone want to guess what subreddit this
+
+0:43:43.369,0:43:50.450
+is from that's right so subreddit
+
+0:43:47.900,0:43:54.410
+simulator which is the GPT 2 subreddit
+
+0:43:50.450,0:43:55.910
+so these were all computer generated and
+
+0:43:54.410,0:43:57.140
+they're I think if you read these
+
+0:43:55.910,0:43:59.359
+closely you can tell that they're a
+
+0:43:57.140,0:44:02.420
+little bit a little bit off but I think
+
+0:43:59.359,0:44:05.150
+they are close to being compelling of
+
+0:44:02.420,0:44:07.369
+how of how people might discuss or argue
+
+0:44:05.150,0:44:09.890
+about a topic and this is something that
+
+0:44:07.369,0:44:13.880
+I think is and this is clearly marked as
+
+0:44:09.890,0:44:15.680
+having been generated by an algorithm so
+
+0:44:13.880,0:44:18.140
+it's kind of in good fun but it's
+
+0:44:15.680,0:44:24.589
+alarming to think about how this how
+
+0:44:18.140,0:44:27.010
+this could be used so yeah GPT - and
+
+0:44:24.589,0:44:30.289
+it's it's all marked
+
+0:44:27.010,0:44:32.720
+so just in raise your hand who who's
+
+0:44:30.289,0:44:35.059
+heard about GP and GPT - is just part of
+
+0:44:32.720,0:44:38.660
+this whole kind of family of research
+
+0:44:35.059,0:44:41.299
+and so it wasn't this is a model from
+
+0:44:38.660,0:44:43.670
+open AI and it was kind of along the
+
+0:44:41.299,0:44:48.079
+trajectory of how natural language
+
+0:44:43.670,0:44:49.819
+research and in AI has been going but it
+
+0:44:48.079,0:44:51.650
+can produce stories that are quite
+
+0:44:49.819,0:44:53.839
+compelling so this is one that they
+
+0:44:51.650,0:44:56.990
+share and when they when they've kind of
+
+0:44:53.839,0:44:59.299
+first first published about it and so
+
+0:44:56.990,0:45:02.420
+here the the human written system prompt
+
+0:44:59.299,0:45:04.700
+that was given said in a shocking
+
+0:45:02.420,0:45:06.859
+finding scientists discovered a herd of
+
+0:45:04.700,0:45:09.410
+unicorns living in a remote previously
+
+0:45:06.859,0:45:11.720
+unexplored valley in the Andes Mountains
+
+0:45:09.410,0:45:13.640
+even more surprising to the researchers
+
+0:45:11.720,0:45:16.059
+was the fact that the unicorn spoke
+
+0:45:13.640,0:45:17.760
+perfect English so that was written by a
+
+0:45:16.059,0:45:19.680
+human
+
+0:45:17.760,0:45:22.980
+and the response from the algorithm at
+
+0:45:19.680,0:45:25.290
+the algorithm generated said and all
+
+0:45:22.980,0:45:27.300
+just three parts of this to you dr.
+
+0:45:25.290,0:45:29.700
+Jorge Perez an evolutionary biologist
+
+0:45:27.300,0:45:31.740
+from the University of La Paz and
+
+0:45:29.700,0:45:33.480
+several companions were exploring the
+
+0:45:31.740,0:45:35.820
+Andes Mountains when they found a small
+
+0:45:33.480,0:45:38.190
+valley with no other animals or humans
+
+0:45:35.820,0:45:39.720
+Perez noticed that the valley had what
+
+0:45:38.190,0:45:42.090
+appeared to be a natural fountain
+
+0:45:39.720,0:45:45.270
+surrounded by two peaks of rock and
+
+0:45:42.090,0:45:47.370
+silver snow Perez and the others then
+
+0:45:45.270,0:45:49.620
+ventured further into the valley by the
+
+0:45:47.370,0:45:51.390
+time we reached the top of one peak the
+
+0:45:49.620,0:45:54.600
+water looked blue with some crystals on
+
+0:45:51.390,0:45:56.370
+tops of Perez Perez and his friends were
+
+0:45:54.600,0:45:58.890
+astonished to see the Unicorn heard
+
+0:45:56.370,0:46:00.450
+while examining these bizarre creatures
+
+0:45:58.890,0:46:02.280
+the scientists discovered that the
+
+0:46:00.450,0:46:04.860
+creatures also spoke some fairly regular
+
+0:46:02.280,0:46:06.300
+English Perez stated we can see for
+
+0:46:04.860,0:46:08.430
+example that they have a common language
+
+0:46:06.300,0:46:10.530
+something like a dialect or dialectic
+
+0:46:08.430,0:46:12.840
+and so I think that's a really kind of
+
+0:46:10.530,0:46:14.910
+nice story to have been generated by an
+
+0:46:12.840,0:46:17.070
+algorithm and it was a new one cherry
+
+0:46:14.910,0:46:18.960
+picked everything not everything is as
+
+0:46:17.070,0:46:22.680
+the Scoob but this is a really good
+
+0:46:18.960,0:46:25.530
+story and this is computer generated and
+
+0:46:22.680,0:46:26.760
+so this is I think concerning
+
+0:46:25.530,0:46:30.240
+particularly when you think about
+
+0:46:26.760,0:46:34.440
+combining it with with other forms of
+
+0:46:30.240,0:46:37.260
+media so this is Katie Jones who as
+
+0:46:34.440,0:46:38.850
+Russia and Eurasia fellow connected to
+
+0:46:37.260,0:46:42.720
+people from several kind of mainstream
+
+0:46:38.850,0:46:46.380
+think tanks on LinkedIn and it was
+
+0:46:42.720,0:46:47.490
+revealed that she's not a real person so
+
+0:46:46.380,0:46:49.340
+this was discovered by The Associated
+
+0:46:47.490,0:46:51.960
+Press last summer this is a
+
+0:46:49.340,0:46:54.120
+computer-generated photo kind of created
+
+0:46:51.960,0:46:56.340
+by a gang and so again this is a
+
+0:46:54.120,0:46:58.130
+compelling photo and so you can start
+
+0:46:56.340,0:47:00.660
+thinking about putting together
+
+0:46:58.130,0:47:03.120
+compelling text with compelling photos
+
+0:47:00.660,0:47:06.210
+and fake accounts are going to become
+
+0:47:03.120,0:47:08.100
+much much harder to spot and I think
+
+0:47:06.210,0:47:10.890
+sometimes you know in the past but like
+
+0:47:08.100,0:47:12.600
+oh you know somebody who has an egg for
+
+0:47:10.890,0:47:14.700
+their Twitter profile you like you know
+
+0:47:12.600,0:47:16.860
+this is kind of like a troll or not
+
+0:47:14.700,0:47:17.940
+worth responding to but those are
+
+0:47:16.860,0:47:22.470
+accounts are going to get much much
+
+0:47:17.940,0:47:25.140
+harder to spot you can go to this person
+
+0:47:22.470,0:47:28.590
+does not exist calm to see other
+
+0:47:25.140,0:47:29.230
+examples of Gann generated photos so
+
+0:47:28.590,0:47:31.930
+again this is
+
+0:47:29.230,0:47:32.680
+not a real person not a real person not
+
+0:47:31.930,0:47:34.690
+a real person
+
+0:47:32.680,0:47:36.580
+and I like to highlight this because I
+
+0:47:34.690,0:47:38.920
+think you know I think deep fakes and
+
+0:47:36.580,0:47:40.720
+video are getting a lot of a lot of
+
+0:47:38.920,0:47:43.030
+attention but also to think about just
+
+0:47:40.720,0:47:45.760
+the combination of what good profile
+
+0:47:43.030,0:47:48.490
+photos and convincing text will be able
+
+0:47:45.760,0:47:51.160
+to do is alarming
+
+0:47:48.490,0:47:53.859
+I think online discussions will be
+
+0:47:51.160,0:47:56.290
+swamped with fake manipulative agents
+
+0:47:53.859,0:47:58.750
+and also at scale so we've been talking
+
+0:47:56.290,0:48:03.760
+about this idea of volume but what does
+
+0:47:58.750,0:48:06.160
+it mean to kind of have a high volume so
+
+0:48:03.760,0:48:09.220
+something that happened back in 2017
+
+0:48:06.160,0:48:12.369
+which was a long time ago in terms of
+
+0:48:09.220,0:48:16.090
+kind of AI research and developments is
+
+0:48:12.369,0:48:18.940
+that the FCC was considering repealing
+
+0:48:16.090,0:48:21.520
+net neutrality and they opened up for
+
+0:48:18.940,0:48:23.560
+comments so how do people feel about net
+
+0:48:21.520,0:48:26.080
+neutrality and they got a lot of
+
+0:48:23.560,0:48:28.900
+comments that were opposed to net
+
+0:48:26.080,0:48:31.450
+neutrality in favor of the repeal here
+
+0:48:28.900,0:48:33.940
+are a few of them Americans as opposed
+
+0:48:31.450,0:48:35.760
+to Washington bureaucrats deserve to
+
+0:48:33.940,0:48:37.990
+enjoy the services they desire
+
+0:48:35.760,0:48:39.700
+individual citizens as opposed to
+
+0:48:37.990,0:48:41.670
+Washington bureaucrats should be able to
+
+0:48:39.700,0:48:43.780
+select whichever service they desire
+
+0:48:41.670,0:48:45.580
+people like me as opposed to so-called
+
+0:48:43.780,0:48:47.800
+experts should be free to buy whatever
+
+0:48:45.580,0:48:49.270
+products they choose and so you can kind
+
+0:48:47.800,0:48:51.820
+of see a pattern here which has also
+
+0:48:49.270,0:48:54.850
+been hopefully kind of color highlighted
+
+0:48:51.820,0:48:57.160
+but basically this is a kind of mad lib
+
+0:48:54.850,0:48:59.470
+style where you had a few choices for
+
+0:48:57.160,0:49:01.930
+the the green spot in the sentence and
+
+0:48:59.470,0:49:04.960
+then a few choices for the pink spot and
+
+0:49:01.930,0:49:07.869
+so on and this was discovered by Jeff
+
+0:49:04.960,0:49:12.130
+Cao who's now a computational journalist
+
+0:49:07.869,0:49:14.410
+at Pro Publica but he found that there
+
+0:49:12.130,0:49:17.250
+were more than a million Pro repeal net
+
+0:49:14.410,0:49:19.510
+neutrality comments in this cluster and
+
+0:49:17.250,0:49:21.130
+it's not just that they're kind of using
+
+0:49:19.510,0:49:24.190
+this form it's that they were designed
+
+0:49:21.130,0:49:25.390
+to look unique and to be different
+
+0:49:24.190,0:49:28.240
+because they're using kind of all these
+
+0:49:25.390,0:49:29.920
+different combinations and so this is
+
+0:49:28.240,0:49:32.230
+something this was great work on Jeff's
+
+0:49:29.920,0:49:33.670
+part that he discovered this but it was
+
+0:49:32.230,0:49:35.530
+still relatively primitive when you
+
+0:49:33.670,0:49:37.930
+think about that this was kind of mail
+
+0:49:35.530,0:49:40.120
+merge style of just plugging in these
+
+0:49:37.930,0:49:42.250
+these different places
+
+0:49:40.120,0:49:47.590
+and he did you should check out this
+
+0:49:42.250,0:49:50.200
+blog post so he found of over 22 million
+
+0:49:47.590,0:49:53.110
+comments submitted less than four
+
+0:49:50.200,0:49:55.180
+percent were truly unique and that's not
+
+0:49:53.110,0:49:57.130
+all spam like there are you know
+
+0:49:55.180,0:49:59.830
+campaigns that give you a template to
+
+0:49:57.130,0:50:06.100
+email in but that is a really small
+
+0:49:59.830,0:50:08.890
+number of unique comments and more than
+
+0:50:06.100,0:50:10.930
+99% of the truly unique comments wanted
+
+0:50:08.890,0:50:12.820
+to keep net neutrality but that was very
+
+0:50:10.930,0:50:15.220
+different than the overall picture you
+
+0:50:12.820,0:50:18.490
+would get if you included kind of these
+
+0:50:15.220,0:50:22.870
+spam campaigns and this is something
+
+0:50:18.490,0:50:24.850
+that is is concerning and also thinking
+
+0:50:22.870,0:50:27.820
+back to kind of more sophisticated
+
+0:50:24.850,0:50:30.040
+language models would be very very hard
+
+0:50:27.820,0:50:35.440
+to identify now I think if someone did
+
+0:50:30.040,0:50:37.540
+this and so yeah as I've said deep fakes
+
+0:50:35.440,0:50:39.580
+are getting a lot of attention and are
+
+0:50:37.540,0:50:40.900
+something to worry about but also we
+
+0:50:39.580,0:50:43.060
+need to kind of think about all of these
+
+0:50:40.900,0:50:44.770
+things as well as also primitive
+
+0:50:43.060,0:50:47.260
+techniques are still really effective
+
+0:50:44.770,0:50:49.570
+and Photoshop and even just memes on
+
+0:50:47.260,0:50:51.520
+photos are very effective so it's it's
+
+0:50:49.570,0:50:52.390
+not just about the latest technology
+
+0:50:51.520,0:50:56.230
+although I do think the latest
+
+0:50:52.390,0:50:57.730
+technology can can certainly exacerbate
+
+0:50:56.230,0:51:03.850
+these things and make them make them
+
+0:50:57.730,0:51:06.310
+even scarier so my my co-founder Jeremy
+
+0:51:03.850,0:51:08.590
+said last year we have the technology to
+
+0:51:06.310,0:51:11.200
+totally fill Twitter email and the web
+
+0:51:08.590,0:51:13.030
+up with reasonable sounding context
+
+0:51:11.200,0:51:14.770
+appropriate pros which would drown out
+
+0:51:13.030,0:51:17.230
+all other speech and be impossible to
+
+0:51:14.770,0:51:18.970
+filter and this also gets back to this
+
+0:51:17.230,0:51:22.300
+idea of kind of volume and how do we
+
+0:51:18.970,0:51:24.760
+filter through the volume to even know
+
+0:51:22.300,0:51:30.220
+for real people to have a voice as well
+
+0:51:24.760,0:51:33.010
+as kind of fraudulent campaigns and the
+
+0:51:30.220,0:51:34.900
+other kind of very concerning aspect of
+
+0:51:33.010,0:51:37.690
+this is that extreme viewpoints become
+
+0:51:34.900,0:51:39.820
+normalized when we're around others who
+
+0:51:37.690,0:51:41.350
+we think hold those views or if we start
+
+0:51:39.820,0:51:43.530
+thinking that more people hold a certain
+
+0:51:41.350,0:51:45.340
+view it starts seeming more normal
+
+0:51:43.530,0:51:47.050
+actually should have put people in
+
+0:51:45.340,0:51:50.170
+quotes but if we think more more
+
+0:51:47.050,0:51:50.840
+entities hold of view and so kind of on
+
+0:51:50.170,0:51:52.850
+a various
+
+0:51:50.840,0:51:55.010
+note we've seen this rise and
+
+0:51:52.850,0:51:59.720
+white-supremacist shootings in the last
+
+0:51:55.010,0:52:01.670
+year - a kind of mass shootings so there
+
+0:51:59.720,0:52:04.850
+was a kind of the shooting at the
+
+0:52:01.670,0:52:09.650
+Pittsburgh synagogue in 2018 in which 11
+
+0:52:04.850,0:52:12.020
+people were murdered and the the shooter
+
+0:52:09.650,0:52:13.730
+was very active on social media and even
+
+0:52:12.020,0:52:16.940
+posted directly before committing the
+
+0:52:13.730,0:52:20.360
+shooting there was the shooting at to
+
+0:52:16.940,0:52:23.120
+New Zealand mosque last year in which 49
+
+0:52:20.360,0:52:24.860
+people were murdered and the New York
+
+0:52:23.120,0:52:28.220
+Times characterized this as a mass
+
+0:52:24.860,0:52:29.870
+murder oven for the Internet um the
+
+0:52:28.220,0:52:32.660
+attack was teased on Twitter announced
+
+0:52:29.870,0:52:34.280
+on each hand broadcast live on Facebook
+
+0:52:32.660,0:52:36.800
+the footage was then replayed endlessly
+
+0:52:34.280,0:52:39.290
+on YouTube Twitter and reddit and so
+
+0:52:36.800,0:52:40.940
+this is kind of already a very serious
+
+0:52:39.290,0:52:43.160
+problem and we don't need fancy
+
+0:52:40.940,0:52:47.680
+technology to make this work
+
+0:52:43.160,0:52:50.450
+worse but it is a concern that kind of
+
+0:52:47.680,0:52:52.370
+disinformation and kind of more
+
+0:52:50.450,0:52:54.050
+sophisticated language models and
+
+0:52:52.370,0:53:01.010
+fraudulent accounts could amplify this
+
+0:52:54.050,0:53:02.450
+even further all right with that this is
+
+0:53:01.010,0:53:09.560
+actually kind of a good stopping point
+
+0:53:02.450,0:53:12.740
+for our break so we'll take a kind of
+
+0:53:09.560,0:53:14.930
+seven seven minute break and the kind of
+
+0:53:12.740,0:53:16.790
+bathrooms and water fountains are if you
+
+0:53:14.930,0:53:18.770
+kind of turn left towards the end of the
+
+0:53:16.790,0:53:20.420
+hall and then we'll come back we'll have
+
+0:53:18.770,0:53:22.430
+some more time for a kind of discussion
+
+0:53:20.420,0:53:26.570
+and also we'll start talking about
+
+0:53:22.430,0:53:29.590
+solutions more - all right so let's say
+
+0:53:26.570,0:53:32.300
+let's return from return from break I
+
+0:53:29.590,0:53:33.740
+want to start just by taking questions
+
+0:53:32.300,0:53:36.830
+if there are any questions on the last
+
+0:53:33.740,0:53:39.560
+section about this idea of kind of we've
+
+0:53:36.830,0:53:41.000
+seen new technology in text generation
+
+0:53:39.560,0:53:44.120
+so kind of generating compelling
+
+0:53:41.000,0:53:46.940
+language generating photos that look
+
+0:53:44.120,0:53:49.670
+like real people but are not and how
+
+0:53:46.940,0:53:51.320
+this could could be use to really kind
+
+0:53:49.670,0:53:54.010
+of influence or manipulate public
+
+0:53:51.320,0:53:54.010
+discourse
+
+0:53:55.340,0:53:59.320
+any questions or thoughts
+
+0:54:03.589,0:54:14.930
+all right oh and can you and it's fine
+
+0:54:12.229,0:54:17.079
+to throw the catch box I I shouldn't
+
+0:54:14.930,0:54:19.430
+share this I hit that girl in the head
+
+0:54:17.079,0:54:20.959
+and she was like she was fine but I've
+
+0:54:19.430,0:54:33.529
+been more shy about throwing it since
+
+0:54:20.959,0:54:35.900
+then yeah well I'll talk about that a
+
+0:54:33.529,0:54:39.019
+little more later and I will just say
+
+0:54:35.900,0:54:41.599
+now mike caulfield is a great he's kind
+
+0:54:39.019,0:54:43.400
+of an expert and on how digital literacy
+
+0:54:41.599,0:54:44.749
+is taught but he's a great person to
+
+0:54:43.400,0:54:51.319
+look up but I do have a slide about him
+
+0:54:44.749,0:55:05.029
+later it's a good question okay question
+
+0:54:51.319,0:55:06.859
+up here you know learning about throw
+
+0:55:05.029,0:55:08.959
+the arms race around creating this
+
+0:55:06.859,0:55:12.799
+information and help technology to
+
+0:55:08.959,0:55:14.900
+agreeance up my mind goes to will one of
+
+0:55:12.799,0:55:16.759
+the eliminations of fight in with the
+
+0:55:14.900,0:55:21.619
+same technology right like drowning out
+
+0:55:16.759,0:55:23.420
+the disinformation there's like a
+
+0:55:21.619,0:55:25.789
+straightforward answer about how much
+
+0:55:23.420,0:55:28.309
+you can use offensive techniques I think
+
+0:55:25.789,0:55:30.170
+about security this very world ya know
+
+0:55:28.309,0:55:33.949
+in there there are a lot of analogies to
+
+0:55:30.170,0:55:36.589
+security with disinformation yeah in
+
+0:55:33.949,0:55:40.130
+terms of yeah in terms of drowning out I
+
+0:55:36.589,0:55:41.539
+don't know it's an interesting idea but
+
+0:55:40.130,0:55:43.839
+ya know it is and I'll talk a little bit
+
+0:55:41.539,0:55:46.309
+more about this later but yeah like a
+
+0:55:43.839,0:55:47.809
+princess Renee dur esta and my Godwin
+
+0:55:46.309,0:55:49.699
+who is the original legal counsel to the
+
+0:55:47.809,0:55:53.529
+e FF have said you have to think of
+
+0:55:49.699,0:55:53.529
+disinformation as a cybersecurity issue
+
+0:55:53.920,0:56:04.429
+question over here if you can pass past
+
+0:55:57.859,0:56:06.559
+the catch box so the question is so
+
+0:56:04.429,0:56:08.479
+obviously when I turn it if you could
+
+0:56:06.559,0:56:11.539
+thing is like the companies that the
+
+0:56:08.479,0:56:13.549
+path from expose this information could
+
+0:56:11.539,0:56:14.060
+have been set is to actually fill this
+
+0:56:13.549,0:56:15.770
+technique
+
+0:56:14.060,0:56:18.200
+still quarter and five big flakes or
+
+0:56:15.770,0:56:21.200
+select that was obviously a single
+
+0:56:18.200,0:56:22.880
+person as these technologies improve we
+
+0:56:21.200,0:56:25.130
+would be hire a hard at the store
+
+0:56:22.880,0:56:27.350
+what is fake that I'm sure like big
+
+0:56:25.130,0:56:30.110
+companies I'm a trader server Google
+
+0:56:27.350,0:56:33.020
+they can build it lose right but then
+
+0:56:30.110,0:56:34.730
+the problem is I don't even litter when
+
+0:56:33.020,0:56:36.710
+they have to report every quarter how
+
+0:56:34.730,0:56:38.480
+many active users they have really
+
+0:56:36.710,0:56:42.890
+there's a significant number of user
+
+0:56:38.480,0:56:45.920
+that are thank you sir now by the way we
+
+0:56:42.890,0:56:50.030
+have like a 1 million users less than we
+
+0:56:45.920,0:56:51.830
+report so obviously if Canada from
+
+0:56:50.030,0:56:53.390
+moving with the earth there's a more
+
+0:56:51.830,0:56:55.250
+than actually the technical or other
+
+0:56:53.390,0:56:58.430
+ways instead it about how the market
+
+0:56:55.250,0:57:01.070
+actually yes so somehow I don't know the
+
+0:56:58.430,0:57:03.920
+government needs to I don't miss the the
+
+0:57:01.070,0:57:04.940
+downside I don't know yes yeah and so
+
+0:57:03.920,0:57:06.830
+we'll talk more about this later but
+
+0:57:04.940,0:57:09.320
+yeah you're hitting on several things I
+
+0:57:06.830,0:57:11.090
+mean there are there aren't great people
+
+0:57:09.320,0:57:12.770
+at at these companies even though
+
+0:57:11.090,0:57:14.180
+there's a lot I criticize about the the
+
+0:57:12.770,0:57:16.160
+major companies there are people who are
+
+0:57:14.180,0:57:17.810
+working on these problems but yeah I
+
+0:57:16.160,0:57:21.850
+think because of the misaligned
+
+0:57:17.810,0:57:24.020
+incentives and business models that I
+
+0:57:21.850,0:57:25.640
+believe there will be a limit to kind of
+
+0:57:24.020,0:57:27.410
+how much progress we can do and I do
+
+0:57:25.640,0:57:33.260
+think policy is gonna be one component
+
+0:57:27.410,0:57:35.390
+of more effectively addressing them so
+
+0:57:33.260,0:57:36.920
+what what should we do about all of this
+
+0:57:35.390,0:57:41.360
+and so those are those are some good
+
+0:57:36.920,0:57:45.170
+suggestions one one thing I wanted to
+
+0:57:41.360,0:57:47.240
+note first is to recognize that often
+
+0:57:45.170,0:57:50.540
+the goal of distance disinformation is
+
+0:57:47.240,0:57:54.410
+to disorient us until we can our trust
+
+0:57:50.540,0:57:58.520
+in institutions and so this is from a
+
+0:57:54.410,0:58:00.290
+post by Yochai benkler earlier earlier
+
+0:57:58.520,0:58:01.370
+this year that did kind of convince me a
+
+0:58:00.290,0:58:03.380
+little bit because I've definitely been
+
+0:58:01.370,0:58:05.390
+trying to have talked about the the
+
+0:58:03.380,0:58:08.380
+harms of disinformation but remember
+
+0:58:05.390,0:58:11.210
+that kind of overstating the impact will
+
+0:58:08.380,0:58:12.740
+have the same and the same effect of
+
+0:58:11.210,0:58:16.370
+kind of weakening people's trust in
+
+0:58:12.740,0:58:18.800
+institutions or in shared knowledge and
+
+0:58:16.370,0:58:21.590
+so to kind of keep our perspective and
+
+0:58:18.800,0:58:25.250
+recognize the things that that are still
+
+0:58:21.590,0:58:27.590
+working as well as kind of I guess
+
+0:58:25.250,0:58:27.859
+limiting alarmism while taking the the
+
+0:58:27.590,0:58:33.440
+threat
+
+0:58:27.859,0:58:36.079
+seriously so a brief kind of a positive
+
+0:58:33.440,0:58:40.339
+note and this was something kind of
+
+0:58:36.079,0:58:43.130
+pretty simple is last year pinterest so
+
+0:58:40.339,0:58:45.200
+people were sharing a lot of anti-vaxxer
+
+0:58:43.130,0:58:48.099
+propaganda on pinterest and so pinterest
+
+0:58:45.200,0:58:50.329
+made a change that only kind of
+
+0:58:48.099,0:58:52.819
+well-respected health organizations
+
+0:58:50.329,0:58:55.849
+could even create pins about anything
+
+0:58:52.819,0:58:57.349
+related to vaccines or measles or kind
+
+0:58:55.849,0:58:59.299
+of search terms that people were using
+
+0:58:57.349,0:59:02.150
+and so this is like the Center for
+
+0:58:59.299,0:59:05.299
+Disease Control the American Academy of
+
+0:59:02.150,0:59:07.970
+pediatricians and the World Health
+
+0:59:05.299,0:59:10.460
+Organization and so on they can make
+
+0:59:07.970,0:59:12.170
+pins about vaccine safety nobody else
+
+0:59:10.460,0:59:13.880
+can and so this is you know a relatively
+
+0:59:12.170,0:59:15.739
+kind of simple solution but it's
+
+0:59:13.880,0:59:20.299
+something that I think is a really kind
+
+0:59:15.739,0:59:22.640
+of positive step I mean I guess the the
+
+0:59:20.299,0:59:24.739
+kind of the downside when platforms step
+
+0:59:22.640,0:59:26.809
+in like this although I totally kind of
+
+0:59:24.739,0:59:28.759
+agree with this application is it is a
+
+0:59:26.809,0:59:31.029
+lot of a lot of power that the
+
+0:59:28.759,0:59:33.559
+platform's have in terms of how people
+
+0:59:31.029,0:59:36.890
+receive information and kind of which
+
+0:59:33.559,0:59:42.670
+which issues they choose as worth acting
+
+0:59:36.890,0:59:46.789
+on so there was a question earlier about
+
+0:59:42.670,0:59:54.619
+what can Oh and wait let me paint past
+
+0:59:46.789,0:59:57.200
+the catch box the fact that the that
+
+0:59:54.619,1:00:00.380
+Pinterest has the ability to control
+
+0:59:57.200,1:00:01.730
+what users are exposed to like the
+
+1:00:00.380,1:00:04.160
+people who are looking for that
+
+1:00:01.730,1:00:06.529
+information what wouldn't they take that
+
+1:00:04.160,1:00:08.920
+as further proof that they're hiding
+
+1:00:06.529,1:00:10.700
+something that there's sort of
+
+1:00:08.920,1:00:13.819
+institutions that are working together
+
+1:00:10.700,1:00:15.680
+and that anecdotal experiences aren't
+
+1:00:13.819,1:00:18.769
+being shared that there's some value in
+
+1:00:15.680,1:00:20.809
+like just a mom saying hey this thing
+
+1:00:18.769,1:00:23.509
+happened to me and that another parent
+
+1:00:20.809,1:00:25.579
+might want to yeah so that argue that
+
+1:00:23.509,1:00:29.359
+argument is made and that does happen
+
+1:00:25.579,1:00:33.230
+like yes this would absolutely I'm sure
+
+1:00:29.359,1:00:34.999
+it was seen as evidence by anti-vaxxers
+
+1:00:33.230,1:00:38.539
+that there's a conspiracy theory trying
+
+1:00:34.999,1:00:40.460
+to suppress the truth I do think such
+
+1:00:38.539,1:00:40.829
+interventions can and this is also kind
+
+1:00:40.460,1:00:43.910
+of
+
+1:00:40.829,1:00:47.400
+because this is something where it's
+
+1:00:43.910,1:00:51.869
+this is pretty late in terms of the kind
+
+1:00:47.400,1:00:53.910
+of growth of anti-vaccine propaganda
+
+1:00:51.869,1:00:55.829
+which is something that I don't know if
+
+1:00:53.910,1:00:58.079
+you've seen that has been linked to
+
+1:00:55.829,1:01:00.450
+Russia as well that there were Russian
+
+1:00:58.079,1:01:04.130
+campaigns kind of both in the US and
+
+1:01:00.450,1:01:06.989
+Europe promoting anti-vaxxer propaganda
+
+1:01:04.130,1:01:08.880
+it's hard because yeah reacting to it
+
+1:01:06.989,1:01:11.640
+can be seen as further evidence of the
+
+1:01:08.880,1:01:13.680
+conspiracy theory although I think there
+
+1:01:11.640,1:01:15.749
+is also an argument that you limit its
+
+1:01:13.680,1:01:17.910
+reach particularly if you react it's
+
+1:01:15.749,1:01:21.779
+just something earlier that fewer people
+
+1:01:17.910,1:01:24.839
+seeing it it's a good thing and can
+
+1:01:21.779,1:01:26.369
+prevent it from from spreading there's
+
+1:01:24.839,1:01:27.989
+there's an in covering disinformation
+
+1:01:26.369,1:01:32.670
+there's often kind of this double bind
+
+1:01:27.989,1:01:34.529
+and that even even picking up a story
+
+1:01:32.670,1:01:36.930
+just to debunk it and saying you know
+
+1:01:34.529,1:01:40.619
+this is false is kind of giving it more
+
+1:01:36.930,1:01:42.959
+oxygen and so this is an area that's
+
+1:01:40.619,1:01:44.729
+still being studied of kind of there
+
+1:01:42.959,1:01:46.529
+does seem to be some sort of tipping
+
+1:01:44.729,1:01:48.779
+point which i think is hard to recognize
+
+1:01:46.529,1:01:50.940
+of you know if the conspiracy theory is
+
+1:01:48.779,1:01:51.959
+tiny you don't you don't want to pick it
+
+1:01:50.940,1:01:55.529
+up because you don't want to draw more
+
+1:01:51.959,1:01:57.539
+attention to it but then often by the
+
+1:01:55.529,1:01:59.039
+time something is kind of big enough
+
+1:01:57.539,1:02:01.229
+that it's like oh it's clear we need to
+
+1:01:59.039,1:02:03.630
+let people know this is false it's also
+
+1:02:01.229,1:02:05.279
+really big and so that's something where
+
+1:02:03.630,1:02:08.069
+I don't think there's a clear answer I'm
+
+1:02:05.279,1:02:09.660
+kind of when when do you step in there
+
+1:02:08.069,1:02:11.579
+are there are best practices for
+
+1:02:09.660,1:02:13.589
+journalists about how do you debug
+
+1:02:11.579,1:02:16.170
+something in a kind of more responsible
+
+1:02:13.589,1:02:21.390
+way but that is kind of a very fraught
+
+1:02:16.170,1:02:27.119
+area yes and can you pass the catch a
+
+1:02:21.390,1:02:29.489
+row back are there so I can tell myself
+
+1:02:27.119,1:02:34.229
+like what is usually a conspiracy theory
+
+1:02:29.489,1:02:37.199
+versus like research reality or yeah but
+
+1:02:34.229,1:02:40.680
+is there like frameworks or checklist
+
+1:02:37.199,1:02:42.719
+great great questions so Mike Caulfield
+
+1:02:40.680,1:02:45.660
+is who I would recommend on this topic
+
+1:02:42.719,1:02:48.269
+of digital literacy and he has a digital
+
+1:02:45.660,1:02:51.760
+literacy course at lessons check please
+
+1:02:48.269,1:02:55.210
+cc and one of his big ideas
+
+1:02:51.760,1:02:56.590
+that in the past there was a lot of
+
+1:02:55.210,1:02:58.180
+media literacy that was kind of giving
+
+1:02:56.590,1:02:59.940
+people like here's how you can spend a
+
+1:02:58.180,1:03:02.440
+half-hour like researching this topic
+
+1:02:59.940,1:03:03.610
+which and nobody's gonna do you know and
+
+1:03:02.440,1:03:07.420
+like you can't do that for every tweet
+
+1:03:03.610,1:03:09.550
+you see in your Twitter timeline and so
+
+1:03:07.420,1:03:11.470
+he really promotes like things that you
+
+1:03:09.550,1:03:13.420
+can do in under a minute because if it's
+
+1:03:11.470,1:03:19.660
+not fast people are just not going to do
+
+1:03:13.420,1:03:22.840
+it so I had often felt a little bit
+
+1:03:19.660,1:03:24.280
+skeptical of some media literacy efforts
+
+1:03:22.840,1:03:26.680
+just in that so many of these problems
+
+1:03:24.280,1:03:28.810
+are systemic and I don't want to be
+
+1:03:26.680,1:03:30.550
+tasking individuals with you know you
+
+1:03:28.810,1:03:34.290
+have to kind of recognize every false
+
+1:03:30.550,1:03:36.970
+thing this this post from from Mike
+
+1:03:34.290,1:03:39.610
+actually found pretty convincing and he
+
+1:03:36.970,1:03:43.080
+he's very aware like teaching
+
+1:03:39.610,1:03:45.370
+individuals to recognize issues is not
+
+1:03:43.080,1:03:46.960
+it's not gonna solve the systemic
+
+1:03:45.370,1:03:48.100
+problems and it's not a substitute but
+
+1:03:46.960,1:03:50.980
+it could help and it can create more
+
+1:03:48.100,1:03:53.740
+resilient networks and so he gave an
+
+1:03:50.980,1:03:56.710
+example of this tweet that has been
+
+1:03:53.740,1:03:58.870
+retweeted 3,000 times claiming that a
+
+1:03:56.710,1:04:01.990
+husband-and-wife Chinese spy team where
+
+1:03:58.870,1:04:03.970
+ramiz recently removed from a level 4
+
+1:04:01.990,1:04:06.100
+infectious disease facility in Canada
+
+1:04:03.970,1:04:10.660
+for sending pathogens to the wuhan
+
+1:04:06.100,1:04:13.750
+facility so it's making this claim about
+
+1:04:10.660,1:04:15.910
+a conspiracy theory about about spies
+
+1:04:13.750,1:04:17.410
+and it's linking to the Canadian
+
+1:04:15.910,1:04:20.080
+Broadcasting Company which is a very
+
+1:04:17.410,1:04:22.870
+kind of mainstream and respected news
+
+1:04:20.080,1:04:26.250
+outlet and so his recommendation is
+
+1:04:22.870,1:04:30.190
+number one click on the link and then
+
+1:04:26.250,1:04:31.150
+secondly do control-f to search for you
+
+1:04:30.190,1:04:33.340
+know you probably don't even have time
+
+1:04:31.150,1:04:35.650
+to read the full link but just do
+
+1:04:33.340,1:04:38.560
+control ass he also highlight so control
+
+1:04:35.650,1:04:40.240
+a whole search within a web page he
+
+1:04:38.560,1:04:42.820
+highlights a study from google that
+
+1:04:40.240,1:04:45.460
+found that 90% of web users do not know
+
+1:04:42.820,1:04:48.520
+about control f and so they're kind of
+
+1:04:45.460,1:04:51.790
+some kind of basic digital literacy
+
+1:04:48.520,1:04:53.710
+tools that are very kind of useful even
+
+1:04:51.790,1:04:57.790
+though they're they may seem simple and
+
+1:04:53.710,1:05:00.430
+so he did that he goes to this this cbc
+
+1:04:57.790,1:05:02.710
+site he finds that the word spy does not
+
+1:05:00.430,1:05:04.900
+even show up in the article
+
+1:05:02.710,1:05:06.900
+threat only shows up once and saying
+
+1:05:04.900,1:05:09.160
+that there's no threat to public safety
+
+1:05:06.900,1:05:11.800
+and so this is something where the tweet
+
+1:05:09.160,1:05:14.349
+has misrepresented the article to kind
+
+1:05:11.800,1:05:15.970
+of try to weave a conspiracy theory it's
+
+1:05:14.349,1:05:18.160
+perhaps a little bit of an example of
+
+1:05:15.970,1:05:19.480
+what we were talking about earlier and
+
+1:05:18.160,1:05:22.750
+it's also you know it's something that
+
+1:05:19.480,1:05:24.790
+you can check in 30 seconds you know you
+
+1:05:22.750,1:05:26.830
+just click the link and he searched for
+
+1:05:24.790,1:05:28.359
+I think a few other words and then saw
+
+1:05:26.830,1:05:30.690
+like hey this article does not seem to
+
+1:05:28.359,1:05:33.490
+support what was claimed in this tweet
+
+1:05:30.690,1:05:35.020
+he also he makes the point like I mean
+
+1:05:33.490,1:05:38.020
+there are plenty of problems with Google
+
+1:05:35.020,1:05:40.000
+search but doing a Google search of
+
+1:05:38.020,1:05:42.099
+something before you share it is way
+
+1:05:40.000,1:05:46.119
+better than not and in many cases will
+
+1:05:42.099,1:05:48.369
+surface an issue and so actually if we
+
+1:05:46.119,1:05:49.450
+have time all at the end I'll go into
+
+1:05:48.369,1:05:52.180
+this I was going to include it and I
+
+1:05:49.450,1:05:54.310
+wasn't sure about time I guess this game
+
+1:05:52.180,1:05:55.750
+or links to this game called fake out at
+
+1:05:54.310,1:05:58.630
+the beginning where you have to guess of
+
+1:05:55.750,1:06:01.480
+things where fake news or not and it
+
+1:05:58.630,1:06:02.800
+could be harder than you expect but
+
+1:06:01.480,1:06:05.410
+those are those are great questions so I
+
+1:06:02.800,1:06:09.390
+would recommend these materials and Ali
+
+1:06:05.410,1:06:09.390
+can you pass the catch box to the front
+
+1:06:09.750,1:06:14.680
+this is sort of curse to me having been
+
+1:06:13.150,1:06:15.490
+using mobile devices really extensively
+
+1:06:14.680,1:06:18.369
+for the past few weeks
+
+1:06:15.490,1:06:20.530
+there is like no control for let's say a
+
+1:06:18.369,1:06:24.040
+smart phone or at least I caught them
+
+1:06:20.530,1:06:26.230
+the iOS as far as I know and it occurs
+
+1:06:24.040,1:06:29.200
+to me that given how often people use
+
+1:06:26.230,1:06:31.660
+mobile devices to use the Internet in
+
+1:06:29.200,1:06:33.820
+general that could be a challenge of its
+
+1:06:31.660,1:06:36.070
+own but the highlights those sort of
+
+1:06:33.820,1:06:38.619
+moral social imperative to think really
+
+1:06:36.070,1:06:41.140
+deeply about like should Apple implement
+
+1:06:38.619,1:06:42.490
+some sort of way to search for text in
+
+1:06:41.140,1:06:44.109
+the page that you're currently viewing
+
+1:06:42.490,1:06:48.220
+and like that seems like such an
+
+1:06:44.109,1:06:50.200
+esoteric topic until just now oh you
+
+1:06:48.220,1:06:51.880
+should search for the word spy and if it
+
+1:06:50.200,1:06:53.770
+doesn't show up then question the
+
+1:06:51.880,1:06:54.700
+veracity of using that link in that
+
+1:06:53.770,1:07:00.490
+story
+
+1:06:54.700,1:07:01.720
+sort of like that's a great example and
+
+1:07:00.490,1:07:05.170
+as I say a stacy marie
+
+1:07:01.720,1:07:07.000
+ishmael has a talk that kind of on a
+
+1:07:05.170,1:07:09.550
+similar vein talked about some ways that
+
+1:07:07.000,1:07:11.410
+mobile is less conducive to like you
+
+1:07:09.550,1:07:12.910
+don't see as much of the URL in some
+
+1:07:11.410,1:07:15.130
+cases you can't even tell that the URL
+
+1:07:12.910,1:07:17.620
+is clickable like it's not
+
+1:07:15.130,1:07:20.020
+a parent in the design that there are a
+
+1:07:17.620,1:07:22.210
+lot of things about mobile that are way
+
+1:07:20.020,1:07:25.390
+less user friendly to letting users know
+
+1:07:22.210,1:07:26.470
+like you know because for just
+
+1:07:25.390,1:07:28.360
+information if something's from a
+
+1:07:26.470,1:07:31.030
+sketchy URL we know okay that's a bad
+
+1:07:28.360,1:07:33.700
+sign but on a mobile that is way less
+
+1:07:31.030,1:07:35.290
+clear and in some apps like in Facebook
+
+1:07:33.700,1:07:36.790
+it's often not clear like hey what is
+
+1:07:35.290,1:07:39.760
+coming from a link that you can click on
+
+1:07:36.790,1:07:41.500
+can I see that URL and so these are
+
+1:07:39.760,1:07:43.360
+things that yet might seem like esoteric
+
+1:07:41.500,1:07:47.170
+design decisions but have a big impact
+
+1:07:43.360,1:07:48.730
+on kind of how users kind of what clues
+
+1:07:47.170,1:07:53.290
+they get that could tip them off about
+
+1:07:48.730,1:08:01.090
+disinformation can you get that I'm
+
+1:07:53.290,1:08:02.200
+sorry oh okay you can so the comment was
+
+1:08:01.090,1:08:07.000
+just that it was using Twitter for
+
+1:08:02.200,1:08:10.990
+iPhone ask a question to the group
+
+1:08:07.000,1:08:14.730
+really but this is so simple look for
+
+1:08:10.990,1:08:17.620
+keywords control F it or if you're using
+
+1:08:14.730,1:08:20.620
+Chrome on a mobile device they and the
+
+1:08:17.620,1:08:22.270
+version of that but why can't we just
+
+1:08:20.620,1:08:24.520
+automate that why can't Twitter just do
+
+1:08:22.270,1:08:27.430
+this for us and score what it's showing
+
+1:08:24.520,1:08:30.610
+us I will say that I think this is still
+
+1:08:27.430,1:08:32.860
+kind of a sophisticated question of so a
+
+1:08:30.610,1:08:34.510
+lot of people ask so I do a lot of work
+
+1:08:32.860,1:08:36.100
+in deep learning as well with fast AI
+
+1:08:34.510,1:08:37.840
+and people are like oh you know can't
+
+1:08:36.100,1:08:41.800
+you train a deep learning algorithm to
+
+1:08:37.840,1:08:45.340
+identify disinformation a lot of it is
+
+1:08:41.800,1:08:47.290
+very context dependent and I can think
+
+1:08:45.340,1:08:48.970
+of a lot of scenarios where someone
+
+1:08:47.290,1:08:50.980
+could summarize an article and use a new
+
+1:08:48.970,1:08:56.320
+vocabulary word and it would be totally
+
+1:08:50.980,1:08:57.940
+reasonable you know like part of part of
+
+1:08:56.320,1:08:59.410
+what makes this suspicious is also just
+
+1:08:57.940,1:09:02.320
+like hey this does seem like a pretty
+
+1:08:59.410,1:09:05.740
+wild thing potentially a conspiracy
+
+1:09:02.320,1:09:07.720
+theory you know there are other Hughes
+
+1:09:05.740,1:09:09.700
+that were kind of picking up around it
+
+1:09:07.720,1:09:11.800
+and so this sort of kind of very
+
+1:09:09.700,1:09:13.270
+kind of context dependent is pretty
+
+1:09:11.800,1:09:16.060
+tricky so I don't think it's something
+
+1:09:13.270,1:09:19.480
+that could be automated possibly for I
+
+1:09:16.060,1:09:20.770
+don't even know if I don't feel I don't
+
+1:09:19.480,1:09:22.450
+feel comfortable making a prediction
+
+1:09:20.770,1:09:23.770
+that it could be automated because I
+
+1:09:22.450,1:09:25.409
+think it just involves kind of so much
+
+1:09:23.770,1:09:27.640
+context
+
+1:09:25.409,1:09:32.739
+but you're right it's like very simple
+
+1:09:27.640,1:09:35.049
+for a human to do yeah and it's also
+
+1:09:32.739,1:09:36.850
+like with these things the suggestion
+
+1:09:35.049,1:09:38.199
+was that it scores it right so it's not
+
+1:09:36.850,1:09:40.299
+that we're hiding anything right you
+
+1:09:38.199,1:09:42.549
+look you saw have the same access to all
+
+1:09:40.299,1:09:48.100
+the same data you just get like a score
+
+1:09:42.549,1:09:52.299
+that you can choose what to do it I'm
+
+1:09:48.100,1:10:03.190
+just yeah I mean I mean two issues with
+
+1:09:52.299,1:10:04.449
+that is that if you have yeah one thing
+
+1:10:03.190,1:10:06.489
+I'll say I mean I like I like that
+
+1:10:04.449,1:10:08.590
+you're really thinking about this if you
+
+1:10:06.489,1:10:10.840
+have a score though that's accurate like
+
+1:10:08.590,1:10:13.030
+90% of the time people will just start
+
+1:10:10.840,1:10:16.000
+trusting at all of the time and not feel
+
+1:10:13.030,1:10:17.440
+like they need to check the edge cases
+
+1:10:16.000,1:10:21.640
+and the edge cases are going to be very
+
+1:10:17.440,1:10:23.170
+significant here and so I think I think
+
+1:10:21.640,1:10:26.170
+there are a lot of risk to that approach
+
+1:10:23.170,1:10:28.480
+but it probably is worth exploring
+
+1:10:26.170,1:10:32.949
+further and then there's a hand kind of
+
+1:10:28.480,1:10:34.900
+two to your left I guess the question
+
+1:10:32.949,1:10:36.280
+for you it seems also pretty easy to
+
+1:10:34.900,1:10:39.370
+gain and it sort of stay ahead of that
+
+1:10:36.280,1:10:41.110
+metric give you a name yeah I said when
+
+1:10:39.370,1:10:43.600
+you get to kind of yeah algorithm
+
+1:10:41.110,1:10:45.670
+dependent yeah that there is the other
+
+1:10:43.600,1:10:53.679
+risk of gaming or figuring out what kind
+
+1:10:45.670,1:10:56.830
+of what the metrics are also stifle
+
+1:10:53.679,1:10:59.469
+creativity comedy parody you know yes
+
+1:10:56.830,1:11:01.780
+yeah to capture I think all of that and
+
+1:10:59.469,1:11:04.770
+it could also be user unfriendly
+
+1:11:01.780,1:11:09.520
+experience too because so in garage
+
+1:11:04.770,1:11:11.500
+having block to access information as
+
+1:11:09.520,1:11:13.659
+well that's the tricky part right
+
+1:11:11.500,1:11:16.449
+vanilla yes yeah that is a tricky
+
+1:11:13.659,1:11:17.980
+balance okay I'm going to keep going but
+
+1:11:16.449,1:11:19.239
+we'll have more time for questions just
+
+1:11:17.980,1:11:21.699
+because there's a lot more kind of
+
+1:11:19.239,1:11:23.890
+potential approaches so that's a little
+
+1:11:21.699,1:11:28.800
+bit about kind of the role digital
+
+1:11:23.890,1:11:31.390
+literacy could could play some other
+
+1:11:28.800,1:11:33.489
+approaches detecting fakes and
+
+1:11:31.390,1:11:36.040
+disinformation it is important to note
+
+1:11:33.489,1:11:38.080
+that this is always going to be an arms
+
+1:11:36.040,1:11:38.820
+race and so if you're familiar with the
+
+1:11:38.080,1:11:42.070
+idea of
+
+1:11:38.820,1:11:43.360
+it's basically you have kind of two
+
+1:11:42.070,1:11:46.030
+algorithms that are learning from each
+
+1:11:43.360,1:11:47.800
+other and you can use your detection
+
+1:11:46.030,1:11:51.420
+algorithm to make even more compelling
+
+1:11:47.800,1:11:54.400
+fakes responsible development tools
+
+1:11:51.420,1:11:56.170
+addressing the ecosystem treating as a
+
+1:11:54.400,1:11:57.550
+cybersecurity issue and verification
+
+1:11:56.170,1:12:00.790
+tools and I'll get into kind of all of
+
+1:11:57.550,1:12:04.930
+these in the next few slides so Aviv
+
+1:12:00.790,1:12:07.240
+Ovadia is a researcher on kind of how if
+
+1:12:04.930,1:12:09.640
+you are making tools for synthetic media
+
+1:12:07.240,1:12:13.320
+how do you do that responsibly and so
+
+1:12:09.640,1:12:16.480
+keep in mind like Photoshop is a tool to
+
+1:12:13.320,1:12:20.650
+make synthetic media Photoshop has a lot
+
+1:12:16.480,1:12:22.840
+of kind of great and legitimate uses it
+
+1:12:20.650,1:12:24.310
+can be used kind of for for arts and
+
+1:12:22.840,1:12:26.230
+kind of all sorts of legitimate things
+
+1:12:24.310,1:12:28.450
+but Photoshop can also be used to make
+
+1:12:26.230,1:12:30.040
+fake photos and this is only kind of
+
+1:12:28.450,1:12:32.980
+increasing as different tools are
+
+1:12:30.040,1:12:35.590
+developed that often have kind of you
+
+1:12:32.980,1:12:39.460
+know positive uses and have kind of
+
+1:12:35.590,1:12:41.140
+scary potential for misuse and so if
+
+1:12:39.460,1:12:43.510
+you've had an article in the MIT tech
+
+1:12:41.140,1:12:44.800
+review recently with where he kind of
+
+1:12:43.510,1:12:46.900
+goes through what are a few different
+
+1:12:44.800,1:12:50.800
+kind of like categories of how we how we
+
+1:12:46.900,1:12:54.010
+think about this so one is limiting who
+
+1:12:50.800,1:12:56.020
+can use a tool so that could be if
+
+1:12:54.010,1:12:58.390
+you're if you are carefully vetting your
+
+1:12:56.020,1:12:59.320
+clients so you give access to and this
+
+1:12:58.390,1:13:02.320
+would be if you were developing
+
+1:12:59.320,1:13:04.870
+something that let people alter their
+
+1:13:02.320,1:13:07.120
+voices or create fake videos or
+
+1:13:04.870,1:13:09.100
+Photoshop and I know there are people at
+
+1:13:07.120,1:13:12.730
+Adobe that are kind of working on this
+
+1:13:09.100,1:13:16.600
+issue of disinformation discouraging
+
+1:13:12.730,1:13:17.980
+Melissa malicious use consent protection
+
+1:13:16.600,1:13:20.650
+so this would be if you have something
+
+1:13:17.980,1:13:21.910
+that can kind of generate it like make
+
+1:13:20.650,1:13:24.420
+it sound like someone's voice is saying
+
+1:13:21.910,1:13:27.720
+something they didn't say have that
+
+1:13:24.420,1:13:30.010
+person have to like say a few kind of
+
+1:13:27.720,1:13:31.540
+generated keys at the beginning to show
+
+1:13:30.010,1:13:33.430
+that they're consenting to using the
+
+1:13:31.540,1:13:39.570
+tool and having having their voice
+
+1:13:33.430,1:13:41.830
+altered making it easier to detect when
+
+1:13:39.570,1:13:43.540
+when something has been changed or
+
+1:13:41.830,1:13:46.030
+altered one former that would kind of be
+
+1:13:43.540,1:13:47.740
+like water marking it or just making it
+
+1:13:46.030,1:13:49.180
+clear with the you know with an image
+
+1:13:47.740,1:13:50.950
+you might not be able to see but the
+
+1:13:49.180,1:13:51.850
+original image is but just to know like
+
+1:13:50.950,1:13:55.510
+hey this image
+
+1:13:51.850,1:13:58.930
+has been altered usage logs use
+
+1:13:55.510,1:14:01.390
+restrictions and supporting ethical
+
+1:13:58.930,1:14:04.120
+synthetic media tools and so he and he
+
+1:14:01.390,1:14:06.820
+goes into more detail kind of in in this
+
+1:14:04.120,1:14:08.860
+article so this is and this is not gonna
+
+1:14:06.820,1:14:15.910
+solve the problem this is kind of ways
+
+1:14:08.860,1:14:18.370
+to just try to mitigate it so this is an
+
+1:14:15.910,1:14:21.160
+idea about our ecosystem this was an
+
+1:14:18.370,1:14:25.060
+op-ed in the New York Times that I I
+
+1:14:21.160,1:14:28.360
+liked and so here Siva
+
+1:14:25.060,1:14:34.390
+by heinessen who he's written a book on
+
+1:14:28.360,1:14:36.400
+I think on social networks proposes that
+
+1:14:34.390,1:14:38.830
+we need to be limiting data collection
+
+1:14:36.400,1:14:40.780
+and the use of personal data to ferry
+
+1:14:38.830,1:14:43.840
+ads and other content to discrete
+
+1:14:40.780,1:14:46.090
+segments of Facebook users and so kind
+
+1:14:43.840,1:14:47.380
+of one proposal he gives and so this is
+
+1:14:46.090,1:14:50.080
+something where it really gets into kind
+
+1:14:47.380,1:14:51.820
+of the particular laws of a country but
+
+1:14:50.080,1:14:55.030
+in the US and a minimum we could
+
+1:14:51.820,1:14:58.600
+restrict targeting of political ads to
+
+1:14:55.030,1:15:02.410
+the level of the of the district of the
+
+1:14:58.600,1:15:06.250
+race so one problem with personalized ad
+
+1:15:02.410,1:15:08.620
+targeting combined with kind of combined
+
+1:15:06.250,1:15:10.630
+together with disinformation is that
+
+1:15:08.620,1:15:12.310
+disinformation can be shown to just a
+
+1:15:10.630,1:15:16.690
+very kind of narrow segment of the
+
+1:15:12.310,1:15:18.520
+population and so you know you might not
+
+1:15:16.690,1:15:20.440
+have any journalists see it and realize
+
+1:15:18.520,1:15:23.320
+like hey this is being shown to this
+
+1:15:20.440,1:15:25.270
+kind of very narrow demographic and this
+
+1:15:23.320,1:15:27.730
+is I guess this is true both of targeted
+
+1:15:25.270,1:15:29.860
+ads and also just the way that all our
+
+1:15:27.730,1:15:32.380
+kind of timelines and news feeds are so
+
+1:15:29.860,1:15:33.970
+personalized to us we don't know what
+
+1:15:32.380,1:15:35.980
+other people are seeing and so we may
+
+1:15:33.970,1:15:39.550
+not hear about a common conspiracy
+
+1:15:35.980,1:15:40.870
+theorem that others are hearing about so
+
+1:15:39.550,1:15:43.300
+this is kind of one proposal kind of
+
+1:15:40.870,1:15:44.290
+thinking about that targeting there even
+
+1:15:43.300,1:15:46.390
+if people are spreading disinformation
+
+1:15:44.290,1:15:48.130
+if you have to send it to a larger group
+
+1:15:46.390,1:15:51.960
+at least there are more people to like
+
+1:15:48.130,1:15:51.960
+identify it and hopefully debunk it
+
+1:15:52.130,1:15:59.010
+this is a report that came out of John
+
+1:15:55.260,1:16:03.180
+Johns Hopkins and UNC and one of the
+
+1:15:59.010,1:16:05.370
+authors said kind of in studying how to
+
+1:16:03.180,1:16:07.380
+regulate digital ads that they found
+
+1:16:05.370,1:16:09.719
+kind of surprising amount of bipartisan
+
+1:16:07.380,1:16:12.840
+support and some of the ideas were
+
+1:16:09.719,1:16:13.980
+having databases of content and this is
+
+1:16:12.840,1:16:16.410
+something you know we're finding now
+
+1:16:13.980,1:16:18.150
+like we don't even necessarily know all
+
+1:16:16.410,1:16:20.700
+the ads that were shown in the 2016
+
+1:16:18.150,1:16:23.460
+election but just to even like have that
+
+1:16:20.700,1:16:27.780
+content be discoverable of kind of who
+
+1:16:23.460,1:16:29.010
+who is showing you know what ads and
+
+1:16:27.780,1:16:31.650
+describes how many of these are kind of
+
+1:16:29.010,1:16:33.120
+similar to how TV ads are governed and
+
+1:16:31.650,1:16:36.719
+so kind of remembering that we do have
+
+1:16:33.120,1:16:38.100
+other mediums like TV that have even if
+
+1:16:36.719,1:16:42.140
+they have shortcomings at least have
+
+1:16:38.100,1:16:42.140
+kind of more governance of advertising
+
+1:16:43.670,1:16:48.480
+and there's a great article by Rene
+
+1:16:46.739,1:16:49.140
+direst done Mike Godwin that I mentioned
+
+1:16:48.480,1:16:50.940
+earlier
+
+1:16:49.140,1:16:53.100
+the seven step program for fighting
+
+1:16:50.940,1:16:55.800
+disinformation but really thinking about
+
+1:16:53.100,1:16:57.630
+this as a cybersecurity problem and I
+
+1:16:55.800,1:17:02.700
+think there are a lot of parallels with
+
+1:16:57.630,1:17:06.260
+with cybersecurity here Stanford did put
+
+1:17:02.700,1:17:09.480
+out a securing American elections report
+
+1:17:06.260,1:17:12.330
+last year that has a number of proposals
+
+1:17:09.480,1:17:14.160
+in it they are all I would say they are
+
+1:17:12.330,1:17:16.590
+all things that need to happen kind of
+
+1:17:14.160,1:17:18.989
+on a federal government level though and
+
+1:17:16.590,1:17:21.210
+I think they're all kind of good
+
+1:17:18.989,1:17:23.670
+suggestions but of kind of what we need
+
+1:17:21.210,1:17:25.500
+to be doing to countering disinformation
+
+1:17:23.670,1:17:27.750
+and even just to get a good scope of the
+
+1:17:25.500,1:17:30.750
+problem and kind of what sort of
+
+1:17:27.750,1:17:32.760
+interference is happening and I should
+
+1:17:30.750,1:17:34.469
+note it's not just not just an election
+
+1:17:32.760,1:17:36.719
+problem or a political problem but that
+
+1:17:34.469,1:17:39.170
+is kind of one one key Avenue where it
+
+1:17:36.719,1:17:39.170
+shows up
+
+1:17:41.530,1:17:47.890
+and then another other another I don't
+
+1:17:45.370,1:17:50.230
+know another category of of tools or
+
+1:17:47.890,1:17:53.950
+things thinking about giving people ways
+
+1:17:50.230,1:17:55.270
+to verify themselves and so saying it if
+
+1:17:53.950,1:17:58.840
+actually wrote an article for Wired
+
+1:17:55.270,1:18:03.070
+where she used this analogy with Fidel
+
+1:17:58.840,1:18:05.530
+Castro it's like in 2006 he had surgery
+
+1:18:03.070,1:18:08.320
+and are a lot of rumors like is he still
+
+1:18:05.530,1:18:11.140
+alive and so he shared this picture of
+
+1:18:08.320,1:18:13.330
+him holding that day's newspaper to
+
+1:18:11.140,1:18:15.670
+confirm that he was alive and this you
+
+1:18:13.330,1:18:17.290
+know even now like Photoshop is good
+
+1:18:15.670,1:18:20.650
+enough like this wouldn't be convincing
+
+1:18:17.290,1:18:23.200
+but she talks about kind of we need a
+
+1:18:20.650,1:18:26.350
+digital analog for this for for people
+
+1:18:23.200,1:18:28.690
+to to verify themselves if you're
+
+1:18:26.350,1:18:30.640
+familiar with PGP keys that kind of idea
+
+1:18:28.690,1:18:34.870
+of giving people a way to verify like
+
+1:18:30.640,1:18:36.640
+this is from me at this time and she
+
+1:18:34.870,1:18:38.080
+wrote in the past did often made sense
+
+1:18:36.640,1:18:40.240
+to believe something until it was
+
+1:18:38.080,1:18:42.310
+debunked in the future for certain
+
+1:18:40.240,1:18:43.840
+information or claims it will start
+
+1:18:42.310,1:18:46.270
+making sense to assume they're fake
+
+1:18:43.840,1:18:47.950
+unless they are verified and this would
+
+1:18:46.270,1:18:50.620
+require not just kind of whatever
+
+1:18:47.950,1:18:52.960
+verification technology you're using but
+
+1:18:50.620,1:18:56.350
+also a big cultural shift so this would
+
+1:18:52.960,1:18:59.560
+be kind of quite a shift or an FC Ani
+
+1:18:56.350,1:19:02.650
+who's the head of the Allen Institute on
+
+1:18:59.560,1:19:08.170
+AI research made a similar proposal in
+
+1:19:02.650,1:19:10.720
+Harvard Business Review last year so
+
+1:19:08.170,1:19:14.350
+yeah in summary D we have kind of all
+
+1:19:10.720,1:19:16.450
+these different approaches so practicing
+
+1:19:14.350,1:19:17.620
+kind of good social media habits as a as
+
+1:19:16.450,1:19:21.520
+an individual and this kind of digital
+
+1:19:17.620,1:19:22.900
+literacy keeping our perspective I also
+
+1:19:21.520,1:19:24.940
+I'm gonna highlight just strengthening
+
+1:19:22.900,1:19:27.640
+our institutions such as journalism
+
+1:19:24.940,1:19:29.650
+education universities and nonpartisan
+
+1:19:27.640,1:19:32.110
+government departments kind of these
+
+1:19:29.650,1:19:35.410
+these plays such an important role in in
+
+1:19:32.110,1:19:37.510
+society and doing what we can to to try
+
+1:19:35.410,1:19:39.040
+to strengthen them treating
+
+1:19:37.510,1:19:41.950
+disinformation as a cybersecurity
+
+1:19:39.040,1:19:45.070
+problem and developing verification
+
+1:19:41.950,1:19:48.300
+tools and I see a hand back there can
+
+1:19:45.070,1:19:48.300
+you pass the catch
+
+1:19:52.300,1:20:01.429
+so going forward then I I listed some
+
+1:19:56.780,1:20:03.020
+experts to follow and I also and you can
+
+1:20:01.429,1:20:05.690
+so I started a thread about
+
+1:20:03.020,1:20:07.070
+disinformation on the forums but you can
+
+1:20:05.690,1:20:08.719
+definitely share kind of people that you
+
+1:20:07.070,1:20:11.300
+follow on this topic or if you've read
+
+1:20:08.719,1:20:15.199
+articles or have resources that you like
+
+1:20:11.300,1:20:17.840
+on disinformation please please share
+
+1:20:15.199,1:20:21.369
+them with us yeah oh that's it so any
+
+1:20:17.840,1:20:21.369
+any more questions
+
+1:20:28.110,1:20:36.429
+okay there's a question behind you as to
+
+1:20:34.179,1:20:38.020
+comment on cybersecurity okay we have
+
+1:20:36.429,1:20:40.960
+lots of different ways that we think
+
+1:20:38.020,1:20:43.630
+about intrusion of data structure and
+
+1:20:40.960,1:20:45.699
+integrity we don't have that same kind
+
+1:20:43.630,1:20:47.710
+of focus typically on content unless it
+
+1:20:45.699,1:20:48.760
+has some kind of commercial value so I
+
+1:20:47.710,1:20:50.199
+think there's a lot of research that
+
+1:20:48.760,1:20:52.030
+could be immediately applied to just
+
+1:20:50.199,1:20:54.849
+thinking about the corruption of content
+
+1:20:52.030,1:20:58.360
+yeah this information as a way to you
+
+1:20:54.849,1:20:59.619
+abrade the actual content itself but not
+
+1:20:58.360,1:21:01.449
+just the way it's formed or structured
+
+1:20:59.619,1:21:04.239
+let's say in a relational model or some
+
+1:21:01.449,1:21:05.949
+other kind of graph representation yes
+
+1:21:04.239,1:21:08.260
+yeah and actually that reminds me kind
+
+1:21:05.949,1:21:10.449
+of another way that it's just
+
+1:21:08.260,1:21:13.020
+information it's like a cybersecurity
+
+1:21:10.449,1:21:17.050
+problem is thinking about kind of
+
+1:21:13.020,1:21:21.760
+inorganic kind of inauthentic behavior
+
+1:21:17.050,1:21:23.079
+as opposed to I think people have
+
+1:21:21.760,1:21:24.429
+sometimes thought about this information
+
+1:21:23.079,1:21:27.340
+of like oh let me just look at this
+
+1:21:24.429,1:21:29.050
+individual post or something whereas
+
+1:21:27.340,1:21:33.369
+really you need to look like do you have
+
+1:21:29.050,1:21:35.289
+kind of this inorganic activity anomaly
+
+1:21:33.369,1:21:38.889
+detection kind of things that seem and
+
+1:21:35.289,1:21:41.440
+all that authentic even if in isolation
+
+1:21:38.889,1:21:43.510
+any one action or one post may not
+
+1:21:41.440,1:21:47.550
+necessarily be like okay this is
+
+1:21:43.510,1:21:47.550
+definitely fabricated news
+
+1:21:53.030,1:22:00.240
+so you talk a lot about the platform's
+
+1:21:57.780,1:22:01.410
+we're going by rule is thing
+
+1:22:00.240,1:22:04.050
+monetization
+
+1:22:01.410,1:22:06.870
+but what about the more sort of static
+
+1:22:04.050,1:22:08.430
+platforms like Wikipedia which is often
+
+1:22:06.870,1:22:09.960
+like the first go-to in which like
+
+1:22:08.430,1:22:12.630
+especially like the young generations
+
+1:22:09.960,1:22:14.310
+take us like gospel but when you look in
+
+1:22:12.630,1:22:16.440
+the revision history for a lot of the
+
+1:22:14.310,1:22:18.990
+articles you see this separate Mars race
+
+1:22:16.440,1:22:21.180
+and about and forth people like entities
+
+1:22:18.990,1:22:23.850
+leading and yeah just fighting over who
+
+1:22:21.180,1:22:26.130
+gets the posts yeah no that's that's a
+
+1:22:23.850,1:22:27.960
+good comparison because yeah Wikipedia
+
+1:22:26.130,1:22:30.900
+in some ways you know not using kind of
+
+1:22:27.960,1:22:33.900
+ad generated model and not gathering all
+
+1:22:30.900,1:22:36.780
+this user data I would say at least has
+
+1:22:33.900,1:22:38.550
+had fewer problems than many of the
+
+1:22:36.780,1:22:40.830
+major platforms but Wikipedia still has
+
+1:22:38.550,1:22:44.460
+significant in serious problems and
+
+1:22:40.830,1:22:48.570
+there's also I know kind of just you
+
+1:22:44.460,1:22:52.860
+know issues about certain groups kind of
+
+1:22:48.570,1:22:54.780
+getting mass deleted or kind of the back
+
+1:22:52.860,1:22:56.100
+and forth although in the whole I would
+
+1:22:54.780,1:22:58.800
+say most people probably consider
+
+1:22:56.100,1:23:01.740
+Wikipedia to be a healthier information
+
+1:22:58.800,1:23:05.130
+ecosystem then than any of the major
+
+1:23:01.740,1:23:06.540
+tech platforms but you're right you can
+
+1:23:05.130,1:23:09.210
+still definitely get the kind of editing
+
+1:23:06.540,1:23:10.770
+back and forth although in general I
+
+1:23:09.210,1:23:12.240
+think they're things that the the tech
+
+1:23:10.770,1:23:15.870
+platforms could potentially learn from
+
+1:23:12.240,1:23:18.030
+Wikipedia as well okay and can you pass
+
+1:23:15.870,1:23:23.820
+the ketchup ox forward to the second row
+
+1:23:18.030,1:23:25.230
+Oh quick I just wanted to like I was
+
+1:23:23.820,1:23:27.240
+just recently reading a paper about
+
+1:23:25.230,1:23:29.310
+moderation techniques on Wikipedia
+
+1:23:27.240,1:23:31.290
+specifically and I think a lot of the
+
+1:23:29.310,1:23:35.510
+community supported moderation
+
+1:23:31.290,1:23:38.040
+techniques that they have allows for
+
+1:23:35.510,1:23:40.670
+stockades for is specifically what
+
+1:23:38.040,1:23:40.670
+you're referring to
+
+1:23:41.090,1:23:45.380
+yeah and they do like I know like I know
+
+1:23:43.590,1:23:48.239
+what Coupee do like does have ways of
+
+1:23:45.380,1:23:52.950
+freezing posts that are kind of very
+
+1:23:48.239,1:23:54.690
+contentious although I'd also a Casey
+
+1:23:52.950,1:23:57.060
+feeler who I mentioned earlier whose
+
+1:23:54.690,1:23:58.890
+fantastic did have a thread recently
+
+1:23:57.060,1:24:01.230
+about kind of her her experience of
+
+1:23:58.890,1:24:02.820
+creating Wikipedia posts and then having
+
+1:24:01.230,1:24:04.140
+people like getting upset and attacking
+
+1:24:02.820,1:24:06.630
+all her posts and going through her
+
+1:24:04.140,1:24:12.960
+revision history so yeah I know it's a
+
+1:24:06.630,1:24:21.720
+kind of a mixed bag you pass it back two
+
+1:24:12.960,1:24:25.320
+rows on the social media train how do
+
+1:24:21.720,1:24:26.790
+you think about reconciling trying to
+
+1:24:25.320,1:24:28.980
+detect like the companies themselves
+
+1:24:26.790,1:24:30.620
+trying to detect us information and like
+
+1:24:28.980,1:24:33.720
+down rank it or remove it or whatever
+
+1:24:30.620,1:24:35.850
+with the users expectation that their
+
+1:24:33.720,1:24:37.980
+information isn't necessarily all being
+
+1:24:35.850,1:24:39.300
+scrutinized by the company so like I
+
+1:24:37.980,1:24:42.120
+know for example this would be a huge
+
+1:24:39.300,1:24:44.760
+problem for whatsapp because like one of
+
+1:24:42.120,1:24:46.470
+their big assets is that the action but
+
+1:24:44.760,1:24:51.720
+that makes it impossible to really
+
+1:24:46.470,1:24:52.970
+analyze them yeah that's that is a big
+
+1:24:51.720,1:24:55.290
+issue cuz yeah there's definitely
+
+1:24:52.970,1:24:59.370
+serious disinformation happening on
+
+1:24:55.290,1:25:01.770
+whatsapp so you may have seen there's
+
+1:24:59.370,1:25:04.050
+kind of a study of memes being shared
+
+1:25:01.770,1:25:07.200
+and the run-up to the Brazilian election
+
+1:25:04.050,1:25:09.690
+in which a lot of kind of misinformation
+
+1:25:07.200,1:25:11.940
+and misleading things were shared and
+
+1:25:09.690,1:25:14.010
+played at least somewhat of a role and
+
+1:25:11.940,1:25:15.960
+the far-right leader being elected um
+
+1:25:14.010,1:25:18.600
+there's also been this issue in India of
+
+1:25:15.960,1:25:19.800
+people spreading rumors on whatsapp and
+
+1:25:18.600,1:25:25.380
+several people have been murdered as a
+
+1:25:19.800,1:25:28.370
+result yeah it's hard I don't have an
+
+1:25:25.380,1:25:34.230
+answer in a in our last minute of class
+
+1:25:28.370,1:25:38.100
+but yeah if I think I'm or else I'll say
+
+1:25:34.230,1:25:40.470
+more but there is there is I guess in
+
+1:25:38.100,1:25:42.870
+general I will say so yeah thinking
+
+1:25:40.470,1:25:44.880
+about the importance of privacy I guess
+
+1:25:42.870,1:25:48.900
+whatsapp has made some changes though in
+
+1:25:44.880,1:25:50.670
+just of how how many groups you can
+
+1:25:48.900,1:25:51.500
+share something to or I believe like
+
+1:25:50.670,1:25:53.330
+group side
+
+1:25:51.500,1:25:54.910
+so there are still kind of structural
+
+1:25:53.330,1:25:58.400
+changes you can make while protecting
+
+1:25:54.910,1:26:02.690
+protecting privacy of just like how how
+
+1:25:58.400,1:26:04.190
+you let people share things and then I'm
+
+1:26:02.690,1:26:07.580
+sorry we're at 8 o'clock so I'm gonna
+
+1:26:04.190,1:26:12.220
+stop but feel free to either ask next
+
+1:26:07.580,1:26:12.220
+time or to post on the forums
+

@@ -1,0 +1,3477 @@
+0:00:01.669,0:00:07.319
+okay six o'clock thanks for being so
+
+0:00:04.740,0:00:09.840
+functional punctual everyone and so
+
+0:00:07.319,0:00:12.780
+let's get started I also wanted to
+
+0:00:09.840,0:00:14.849
+highlight that on the forums I always
+
+0:00:12.780,0:00:16.949
+post after class with links to
+
+0:00:14.849,0:00:18.869
+additional papers that came up during
+
+0:00:16.949,0:00:21.510
+class so be sure to check that out so
+
+0:00:18.869,0:00:23.760
+even though it's on the so like for
+
+0:00:21.510,0:00:26.910
+fairness last week after class I kind of
+
+0:00:23.760,0:00:28.230
+added a post with even more more papers
+
+0:00:26.910,0:00:30.679
+that have been talked about and I think
+
+0:00:28.230,0:00:34.680
+we have many of them are interesting
+
+0:00:30.679,0:00:37.950
+piece so I wanted to start um with
+
+0:00:34.680,0:00:39.840
+talking about this article um so I don't
+
+0:00:37.950,0:00:41.730
+watch Game of Thrones or the wire but I
+
+0:00:39.840,0:00:43.469
+still really enjoyed it as an article
+
+0:00:41.730,0:00:45.510
+although first I was curious about
+
+0:00:43.469,0:01:07.950
+anyone who does watch the shows whether
+
+0:00:45.510,0:01:10.260
+it resonated thank you everyone
+
+0:01:07.950,0:01:12.479
+I'm glad it resonated with many and
+
+0:01:10.260,0:01:17.400
+since I liked her her kind of tie in
+
+0:01:12.479,0:01:19.380
+with the tech industry on how so many of
+
+0:01:17.400,0:01:21.869
+our narratives in the tech industry are
+
+0:01:19.380,0:01:24.420
+around these kind of you know seemingly
+
+0:01:21.869,0:01:26.310
+larger-than-life personalities and not
+
+0:01:24.420,0:01:30.990
+as much about necessarily kind of the
+
+0:01:26.310,0:01:34.950
+broader sociological forces that that
+
+0:01:30.990,0:01:37.380
+influence people and she lists when the
+
+0:01:34.950,0:01:40.140
+sociological influences are business
+
+0:01:37.380,0:01:42.780
+models the advances in technology the
+
+0:01:40.140,0:01:46.380
+political environment lack of meaningful
+
+0:01:42.780,0:01:49.100
+regulation wealth inequality lack of
+
+0:01:46.380,0:01:50.970
+accountability geopolitical dynamics
+
+0:01:49.100,0:01:53.939
+although I do you know there is
+
+0:01:50.970,0:01:56.280
+something I think human about liking
+
+0:01:53.939,0:01:58.680
+stories about people which can then make
+
+0:01:56.280,0:02:01.560
+communication hard I was she heard
+
+0:01:58.680,0:02:04.380
+people talking this this weekend about
+
+0:02:01.560,0:02:06.689
+kind of the issue with even in science
+
+0:02:04.380,0:02:08.670
+like a lot of kind of getting attention
+
+0:02:06.689,0:02:11.400
+to your science is about crafting it
+
+0:02:08.670,0:02:12.690
+into a good story but that isn't
+
+0:02:11.400,0:02:13.709
+necessarily kind of the most accurate
+
+0:02:12.690,0:02:16.469
+way
+
+0:02:13.709,0:02:19.170
+of doing science but that kind of
+
+0:02:16.469,0:02:20.939
+stories resonate with people although
+
+0:02:19.170,0:02:22.500
+this is I think a kind of neat
+
+0:02:20.939,0:02:26.609
+perspective on how you can make stories
+
+0:02:22.500,0:02:30.209
+more about kind of broader forces any
+
+0:02:26.609,0:02:33.150
+other final final thoughts and this set
+
+0:02:30.209,0:02:35.010
+what kind of return to this way of
+
+0:02:33.150,0:02:36.989
+thinking of it in week five when we talk
+
+0:02:35.010,0:02:41.400
+about our kind of broader ecosystem that
+
+0:02:36.989,0:02:43.560
+we're in I'll have to I like to the line
+
+0:02:41.400,0:02:49.349
+about well-run societies not needing
+
+0:02:43.560,0:02:51.569
+heroes so this evening I'm gonna be
+
+0:02:49.349,0:02:53.159
+drawing very heavily on resources from
+
+0:02:51.569,0:02:56.519
+the Markkula center for applied ethics
+
+0:02:53.159,0:02:58.799
+at Santa Clara University and this is
+
+0:02:56.519,0:03:01.200
+work done by Shannon Valerie Naraku and
+
+0:02:58.799,0:03:03.359
+Brian Greene and I definitely recommend
+
+0:03:01.200,0:03:06.060
+their website as kind of having lots of
+
+0:03:03.359,0:03:07.650
+articles and resources which included
+
+0:03:06.060,0:03:10.980
+several on the syllabus so you've
+
+0:03:07.650,0:03:13.319
+probably noticed and so first I want to
+
+0:03:10.980,0:03:14.430
+kind of talk about so you know in weeks
+
+0:03:13.319,0:03:15.810
+one and two we were looking at these
+
+0:03:14.430,0:03:19.290
+very kind of specific areas of
+
+0:03:15.810,0:03:21.150
+disinformation and bias and fairness and
+
+0:03:19.290,0:03:22.260
+now in a kind of step back a little bit
+
+0:03:21.150,0:03:25.199
+and talk about kind of like the
+
+0:03:22.260,0:03:28.790
+underlying kind of what's the foundation
+
+0:03:25.199,0:03:32.069
+for even asking ethical questions and so
+
+0:03:28.790,0:03:33.659
+there were kind of this is the article
+
+0:03:32.069,0:03:36.090
+by Shannon Fowler there were three
+
+0:03:33.659,0:03:39.479
+different kind of schools of ethics that
+
+0:03:36.090,0:03:41.819
+she that she shared and these kind of go
+
+0:03:39.479,0:03:44.280
+back quite a ways so one is
+
+0:03:41.819,0:03:47.549
+deontological ethics which focuses on
+
+0:03:44.280,0:03:49.949
+rights principles and duties these
+
+0:03:47.549,0:03:52.069
+principles can include autonomy dignity
+
+0:03:49.949,0:03:54.959
+justice fairness transparency
+
+0:03:52.069,0:03:58.259
+consistency and more they may also
+
+0:03:54.959,0:04:03.000
+conflict with one another so in think of
+
+0:03:58.259,0:04:05.189
+situations where I don't like
+
+0:04:03.000,0:04:08.370
+consistency conflicts with with justice
+
+0:04:05.189,0:04:12.870
+or with these other principles a few
+
+0:04:08.370,0:04:15.509
+examples are the Golden Rule not
+
+0:04:12.870,0:04:17.070
+treating people as ends or sorry not
+
+0:04:15.509,0:04:20.220
+treating people as means to an end but
+
+0:04:17.070,0:04:22.469
+considering the mends to themselves the
+
+0:04:20.220,0:04:24.360
+rights approach which is when
+
+0:04:22.469,0:04:27.060
+considering options kind of what what
+
+0:04:24.360,0:04:27.600
+best respects everyone's rights or the
+
+0:04:27.060,0:04:30.660
+justice
+
+0:04:27.600,0:04:32.400
+prose approach which option best
+
+0:04:30.660,0:04:36.690
+represents people equally or
+
+0:04:32.400,0:04:38.010
+proportionally and so the the reading
+
+0:04:36.690,0:04:40.650
+gave some different questions that you
+
+0:04:38.010,0:04:43.860
+can ask you know what rights of others
+
+0:04:40.650,0:04:45.450
+and duties to others must be respect how
+
+0:04:43.860,0:04:48.240
+might the dignity and autonomy of each
+
+0:04:45.450,0:04:50.190
+stakeholder be impacted what
+
+0:04:48.240,0:04:53.220
+considerations of trust and of justice
+
+0:04:50.190,0:04:54.960
+are relevant does this project involve
+
+0:04:53.220,0:04:56.850
+any conflicting moral duties or
+
+0:04:54.960,0:05:00.780
+conflicting stakeholder rights how do we
+
+0:04:56.850,0:05:03.240
+prioritize these so then I was gonna
+
+0:05:00.780,0:05:06.690
+kind of think about a specific example
+
+0:05:03.240,0:05:08.970
+that maybe we can kind of consider so do
+
+0:05:06.690,0:05:12.420
+you remember the unroll me backlash in
+
+0:05:08.970,0:05:16.080
+2017 so enroll me as a service that
+
+0:05:12.420,0:05:18.600
+would it's that you know if you sign up
+
+0:05:16.080,0:05:20.280
+for us will unsubscribe you from all the
+
+0:05:18.600,0:05:21.660
+kind of annoying email lists you're on
+
+0:05:20.280,0:05:23.160
+and it would give you these summaries of
+
+0:05:21.660,0:05:25.460
+like hey it seems like you're on these
+
+0:05:23.160,0:05:28.230
+email list you want to unsubscribe and
+
+0:05:25.460,0:05:30.270
+what people didn't realize is that so it
+
+0:05:28.230,0:05:33.870
+had access to your email inbox and it
+
+0:05:30.270,0:05:35.880
+was then selling that data and this this
+
+0:05:33.870,0:05:39.990
+came out in a kind of roundabout way
+
+0:05:35.880,0:05:42.360
+when uber mentioned oh yeah like we know
+
+0:05:39.990,0:05:45.180
+how lyft is doing because we buy that
+
+0:05:42.360,0:05:46.280
+data from unroll me way I mean I think
+
+0:05:45.180,0:05:49.170
+it actually went through kind of like a
+
+0:05:46.280,0:05:51.060
+company with another name and so there
+
+0:05:49.170,0:05:52.890
+was a lot of backlash particularly
+
+0:05:51.060,0:05:55.530
+because it was I think kind of catching
+
+0:05:52.890,0:05:57.750
+the uber backlash as well oh my goodness
+
+0:05:55.530,0:06:00.210
+they're they're buying email data about
+
+0:05:57.750,0:06:03.870
+about how many people are loop using
+
+0:06:00.210,0:06:07.260
+lyft so there were articles on the
+
+0:06:03.870,0:06:12.120
+unroll me CEO being heartbroken about
+
+0:06:07.260,0:06:13.830
+their their data being sold and so first
+
+0:06:12.120,0:06:15.870
+I kind of want to pause and ask to set
+
+0:06:13.830,0:06:19.620
+how would you kind of look at the story
+
+0:06:15.870,0:06:22.620
+in light of the questions we saw on the
+
+0:06:19.620,0:06:25.550
+previous page I'm kind of how this was
+
+0:06:22.620,0:06:25.550
+impacting people
+
+0:06:28.190,0:06:31.490
+any thoughts
+
+0:06:36.620,0:06:47.940
+and in the fourth row you can pass the
+
+0:06:39.630,0:06:49.800
+catch box back well I don't thought
+
+0:06:47.940,0:06:52.080
+about this enough to like know that I
+
+0:06:49.800,0:06:55.050
+fully get behind it the one thing that
+
+0:06:52.080,0:06:58.590
+like that prompts is do people have like
+
+0:06:55.050,0:07:02.280
+a right to not have their data sold
+
+0:06:58.590,0:07:06.419
+without their knowledge right yeah so
+
+0:07:02.280,0:07:07.919
+there's I think a sense of privacy or
+
+0:07:06.419,0:07:09.990
+maybe this would go under dignity a bed
+
+0:07:07.919,0:07:11.340
+of you know is there something kind of I
+
+0:07:09.990,0:07:15.020
+don't know that interferes with people's
+
+0:07:11.340,0:07:15.020
+dignity actually me look at the list of
+
+0:07:15.080,0:07:20.460
+list of principles yeah so they're
+
+0:07:18.870,0:07:23.370
+questions of kind of is that violating
+
+0:07:20.460,0:07:25.770
+some sort of right right now I hand in
+
+0:07:23.370,0:07:34.380
+the first oh actually there's a hand to
+
+0:07:25.770,0:07:36.210
+over yes the users was to extract
+
+0:07:34.380,0:07:39.300
+themselves for being involved in all of
+
+0:07:36.210,0:07:41.310
+these service providers and to turn
+
+0:07:39.300,0:07:43.349
+around so I think it's it's like insult
+
+0:07:41.310,0:07:48.240
+to injury yeah yeah I think it's even
+
+0:07:43.349,0:07:49.770
+worse just kind of like at a high level
+
+0:07:48.240,0:07:53.340
+of my morals it's like just kind of
+
+0:07:49.770,0:07:54.780
+sleazy yeah I think that they were
+
+0:07:53.340,0:07:56.419
+taking more trust than maybe another
+
+0:07:54.780,0:07:58.530
+service provider who had that same
+
+0:07:56.419,0:08:02.729
+information whether or not they had
+
+0:07:58.530,0:08:05.190
+consent to sell it yeah yeah so it seems
+
+0:08:02.729,0:08:07.650
+to kind of like violate and maybe this
+
+0:08:05.190,0:08:09.630
+is consistency around people seem to
+
+0:08:07.650,0:08:12.060
+value you know like simplicity they're
+
+0:08:09.630,0:08:14.699
+not wanting to be contacted by all these
+
+0:08:12.060,0:08:16.349
+providers and then it's as you said kind
+
+0:08:14.699,0:08:19.710
+of even more insulting that their their
+
+0:08:16.349,0:08:26.669
+data is being sold alright Lauren on the
+
+0:08:19.710,0:08:29.039
+opposite end of the row I think from a
+
+0:08:26.669,0:08:31.979
+business perspective early when these
+
+0:08:29.039,0:08:33.539
+founders you know sit down everyone gets
+
+0:08:31.979,0:08:36.329
+in the room it's a brainstorm possible
+
+0:08:33.539,0:08:38.909
+revenue generation experience I've been
+
+0:08:36.329,0:08:40.950
+in you I think it would have been a game
+
+0:08:38.909,0:08:44.010
+changer if they didn't consider selling
+
+0:08:40.950,0:08:45.990
+data and so at what point should these
+
+0:08:44.010,0:08:47.660
+questions be introduced and like how
+
+0:08:45.990,0:08:50.149
+much weight should they be given because
+
+0:08:47.660,0:08:52.069
+could drastically change the potential
+
+0:08:50.149,0:08:54.800
+revenue streams of a company and their
+
+0:08:52.069,0:08:56.750
+ability to even stay profitable or even
+
+0:08:54.800,0:09:00.440
+like on that tax or operability so
+
+0:08:56.750,0:09:02.690
+really that's true yes and this was
+
+0:09:00.440,0:09:05.180
+unroll me was a free service free
+
+0:09:02.690,0:09:06.610
+service to the users so they were not
+
+0:09:05.180,0:09:09.350
+paying but yeah they were
+
+0:09:06.610,0:09:11.149
+turns out giving their data and then can
+
+0:09:09.350,0:09:17.990
+you pass the ketchup ox forward to the
+
+0:09:11.149,0:09:20.060
+front row the specific use of the term
+
+0:09:17.990,0:09:43.990
+heartbroken sort of speaks to this lack
+
+0:09:20.060,0:09:43.990
+of understanding perhaps auctioned off
+
+0:09:44.439,0:09:48.949
+strange yeah and there was actually I
+
+0:09:47.149,0:09:51.829
+didn't take the headline from this but
+
+0:09:48.949,0:09:53.029
+it was a like a friend of the co-founder
+
+0:09:51.829,0:09:54.740
+or someone who had formerly been
+
+0:09:53.029,0:09:58.220
+involved in the company wrote this
+
+0:09:54.740,0:09:59.540
+medium so stuff kind of justifying why
+
+0:09:58.220,0:10:00.980
+the company and they weren't even like
+
+0:09:59.540,0:10:02.750
+involved with the company more anymore
+
+0:10:00.980,0:10:08.810
+but kind of very defensive and I think
+
+0:10:02.750,0:10:13.519
+took it very personally mercy you can
+
+0:10:08.810,0:10:16.750
+see a lot of these I like three on it
+
+0:10:13.519,0:10:24.439
+and they use it without knowing that the
+
+0:10:16.750,0:10:25.970
+software provider has yes yeah no
+
+0:10:24.439,0:10:31.189
+exactly I think transparency is
+
+0:10:25.970,0:10:33.139
+definitely a big issue here alright and
+
+0:10:31.189,0:10:36.290
+so I'm sorry something that didn't come
+
+0:10:33.139,0:10:38.120
+up but the company's defense was you
+
+0:10:36.290,0:10:39.500
+know if you really read our Terms of
+
+0:10:38.120,0:10:42.800
+Service you should have known that you
+
+0:10:39.500,0:10:44.660
+were giving away all your data and so
+
+0:10:42.800,0:10:46.490
+there was a study and this is from 2008
+
+0:10:44.660,0:10:48.949
+that it would take the average American
+
+0:10:46.490,0:10:51.769
+forty minutes a day to read every
+
+0:10:48.949,0:10:53.750
+privacy policy that they encountered and
+
+0:10:51.769,0:10:55.730
+so this is something it's just kind of
+
+0:10:53.750,0:10:57.559
+absurd we don't all have an extra forty
+
+0:10:55.730,0:11:00.050
+minutes a day and if we did probably
+
+0:10:57.559,0:11:01.070
+wouldn't want to read privacy policies
+
+0:11:00.050,0:11:02.300
+with that
+
+0:11:01.070,0:11:06.920
+it might be even more now because that
+
+0:11:02.300,0:11:09.860
+was that was over ten years ago and so a
+
+0:11:06.920,0:11:13.550
+Casey fee slur who I quote a lot did a
+
+0:11:09.860,0:11:16.700
+study and found that the and so this was
+
+0:11:13.550,0:11:19.040
+for Terms of Service the average reading
+
+0:11:16.700,0:11:22.990
+level is fourteen point eight which is
+
+0:11:19.040,0:11:25.880
+kind of midway through college for a
+
+0:11:22.990,0:11:28.130
+Terms of Service policy and has thirty
+
+0:11:25.880,0:11:31.070
+eight hundred words which is significant
+
+0:11:28.130,0:11:33.560
+yet the average person in the u.s. is at
+
+0:11:31.070,0:11:35.750
+an eighth grade reading level so in many
+
+0:11:33.560,0:11:37.670
+cases these aren't even you know pitched
+
+0:11:35.750,0:11:39.620
+at an appropriate reading level are
+
+0:11:37.670,0:11:43.670
+intended to be kind of readable by the
+
+0:11:39.620,0:11:46.070
+the users and I think this said this
+
+0:11:43.670,0:11:50.570
+also kind of captures the the gap
+
+0:11:46.070,0:11:51.860
+between legality and ethics you know
+
+0:11:50.570,0:11:53.900
+there's something where I think you know
+
+0:11:51.860,0:11:56.860
+companies can use it of like oh no like
+
+0:11:53.900,0:12:03.290
+it's it's fine because they sign this
+
+0:11:56.860,0:12:05.960
+but these aren't intended to be read hi
+
+0:12:03.290,0:12:08.630
+I'm Rachael Thomas I'm gonna talk about
+
+0:12:05.960,0:12:11.210
+some of the foundations for ethics as
+
+0:12:08.630,0:12:13.220
+well as ethical tools you can use in
+
+0:12:11.210,0:12:15.860
+your workplace particularly in the tech
+
+0:12:13.220,0:12:17.540
+industry and this is a continuation from
+
+0:12:15.860,0:12:19.940
+the lecture I started yesterday
+
+0:12:17.540,0:12:22.310
+unfortunately the recording software
+
+0:12:19.940,0:12:24.380
+malfunction part way through through
+
+0:12:22.310,0:12:26.000
+class so I'll be picking up here
+
+0:12:24.380,0:12:27.350
+I'm although it's fine trying to start
+
+0:12:26.000,0:12:31.310
+with this video I'll kind of briefly
+
+0:12:27.350,0:12:33.170
+briefly review I'll be drawing very
+
+0:12:31.310,0:12:35.420
+heavily on new sources from the
+
+0:12:33.170,0:12:38.660
+markoulis Center for Applied ethics at
+
+0:12:35.420,0:12:40.490
+Santa Clara University they've done some
+
+0:12:38.660,0:12:42.320
+great work on ethics and technology
+
+0:12:40.490,0:12:44.270
+practice definitely check out their
+
+0:12:42.320,0:12:46.280
+website they have conceptual frameworks
+
+0:12:44.270,0:12:48.170
+kind of guides for decision making and
+
+0:12:46.280,0:12:51.380
+ethics toolkit that I'll be covering
+
+0:12:48.170,0:12:53.090
+later case studies and so so look at
+
+0:12:51.380,0:12:56.750
+that it's we're very very helpful a
+
+0:12:53.090,0:12:59.630
+collection of resources and so as we
+
+0:12:56.750,0:13:01.910
+talked about previously we're kind of
+
+0:12:59.630,0:13:04.850
+looking at three three different ethical
+
+0:13:01.910,0:13:07.070
+theories tonight one is deontological
+
+0:13:04.850,0:13:09.740
+ethics which focuses on rights
+
+0:13:07.070,0:13:11.000
+principles and duties these principles
+
+0:13:09.740,0:13:14.350
+can include
+
+0:13:11.000,0:13:16.880
+me dignity justice fairness transparency
+
+0:13:14.350,0:13:20.270
+consistency and more they may same time
+
+0:13:16.880,0:13:23.120
+sometimes conflict with one another how
+
+0:13:20.270,0:13:27.010
+we talked earlier about the example of
+
+0:13:23.120,0:13:27.010
+unroll me which was a company that
+
+0:13:27.520,0:13:32.390
+offered a service to people for free
+
+0:13:29.720,0:13:34.100
+where they would unsubscribe you from
+
+0:13:32.390,0:13:36.860
+email list so kind of go through your
+
+0:13:34.100,0:13:38.570
+inbox and see like hey you're subscribed
+
+0:13:36.860,0:13:40.090
+to all these email lists or
+
+0:13:38.570,0:13:43.160
+advertisements do you want us to
+
+0:13:40.090,0:13:46.100
+automatically enroll you unsubscribe you
+
+0:13:43.160,0:13:48.290
+and then it eventually came out in 2017
+
+0:13:46.100,0:13:51.170
+that their business model was selling
+
+0:13:48.290,0:13:53.090
+data from users email and this was
+
+0:13:51.170,0:13:54.890
+revealed when an uber executive
+
+0:13:53.090,0:13:56.390
+mentioned that they had been buying data
+
+0:13:54.890,0:13:59.690
+from unroll me about how many people
+
+0:13:56.390,0:14:01.970
+were using lyft and many many users felt
+
+0:13:59.690,0:14:04.430
+very violated by this and while this was
+
+0:14:01.970,0:14:07.400
+something that may have been legal many
+
+0:14:04.430,0:14:10.340
+people felt that it was unethical and
+
+0:14:07.400,0:14:13.850
+from a deontological kind of viewpoint
+
+0:14:10.340,0:14:19.120
+it would seem to violate principles
+
+0:14:13.850,0:14:21.980
+perhaps of dignity autonomy transparency
+
+0:14:19.120,0:14:24.200
+so that's kind of one one example of how
+
+0:14:21.980,0:14:27.290
+how you can look at this a deontological
+
+0:14:24.200,0:14:29.870
+ethics also include the rights approach
+
+0:14:27.290,0:14:32.660
+which option best respects the rights of
+
+0:14:29.870,0:14:34.280
+everyone who has a stake or the justice
+
+0:14:32.660,0:14:39.890
+approach which option treats people
+
+0:14:34.280,0:14:41.900
+equally or proportionally another kind
+
+0:14:39.890,0:14:44.089
+of school of ethics is consequentialist
+
+0:14:41.900,0:14:47.089
+ethics if you want to know if an action
+
+0:14:44.089,0:14:50.240
+is ethical look at its consequences this
+
+0:14:47.089,0:14:51.740
+includes utilitarianism which ask you
+
+0:14:50.240,0:14:54.320
+know which option will produce the most
+
+0:14:51.740,0:14:56.120
+good and do the least harm as well as
+
+0:14:54.320,0:14:58.010
+the common good approach which asked
+
+0:14:56.120,0:15:02.660
+which option best serves the community
+
+0:14:58.010,0:15:06.410
+as a whole not just some members and I
+
+0:15:02.660,0:15:09.650
+yesterday in class gave the students an
+
+0:15:06.410,0:15:13.130
+exercise - this is modified from Casey
+
+0:15:09.650,0:15:16.940
+feelers a tech ethics scavenger hunt but
+
+0:15:13.130,0:15:19.520
+to try ranking five different kind of
+
+0:15:16.940,0:15:21.440
+ethics scandals from how they thought a
+
+0:15:19.520,0:15:24.350
+utilitarian would see them as what is
+
+0:15:21.440,0:15:26.840
+worst to least bad
+
+0:15:24.350,0:15:29.360
+and how a deontologist would see them
+
+0:15:26.840,0:15:31.490
+again from worse to least bad we had a
+
+0:15:29.360,0:15:33.800
+really interesting discussion on that I
+
+0:15:31.490,0:15:35.390
+think most of which is captured in the
+
+0:15:33.800,0:15:37.550
+previous video this is something you can
+
+0:15:35.390,0:15:39.380
+try it's a it's a little bit absurdist
+
+0:15:37.550,0:15:41.780
+and that Malthus is not really about
+
+0:15:39.380,0:15:43.370
+ranking kind of the terribleness of
+
+0:15:41.780,0:15:45.200
+things but it was useful for
+
+0:15:43.370,0:15:47.360
+highlighting some of the differences
+
+0:15:45.200,0:15:51.410
+between between utilitarianism and
+
+0:15:47.360,0:15:53.600
+deontology and also just kind of how how
+
+0:15:51.410,0:15:57.520
+these philosophies would lead people to
+
+0:15:53.600,0:16:00.500
+think about about problems
+
+0:15:57.520,0:16:02.750
+so while consequentialism and
+
+0:16:00.500,0:16:06.410
+deontological ethics both focus on
+
+0:16:02.750,0:16:08.510
+actions virtue ethics focuses on kind of
+
+0:16:06.410,0:16:11.540
+the person and their character traits so
+
+0:16:08.510,0:16:13.520
+this is a third school of thought and it
+
+0:16:11.540,0:16:16.010
+highlights the need for people with well
+
+0:16:13.520,0:16:18.800
+habituated virtues of moral character
+
+0:16:16.010,0:16:21.800
+and well cultivated practically wise
+
+0:16:18.800,0:16:24.260
+moral judgments and it's kind of about
+
+0:16:21.800,0:16:27.980
+this lifelong process of developing
+
+0:16:24.260,0:16:30.650
+practical wisdom and kind of the virtue
+
+0:16:27.980,0:16:32.570
+approach ask the question which option
+
+0:16:30.650,0:16:37.190
+leads me to act as the sort of person
+
+0:16:32.570,0:16:39.280
+that I want to be some questions from
+
+0:16:37.190,0:16:42.500
+the Markkula Center guide on this ask
+
+0:16:39.280,0:16:45.220
+what design habits are the embodying are
+
+0:16:42.500,0:16:48.050
+they the habits of excellent designers
+
+0:16:45.220,0:16:50.420
+will this project weaken any important
+
+0:16:48.050,0:16:53.240
+human habits skills or virtues that are
+
+0:16:50.420,0:16:55.760
+central to human excellence also will it
+
+0:16:53.240,0:16:57.860
+strengthen any will this design or
+
+0:16:55.760,0:17:00.950
+project incentivize any vicious habits
+
+0:16:57.860,0:17:03.290
+and users or other stakeholders and how
+
+0:17:00.950,0:17:05.420
+confident are that are we that will feel
+
+0:17:03.290,0:17:08.600
+proud to have our names associated with
+
+0:17:05.420,0:17:09.890
+this project in the future and so these
+
+0:17:08.600,0:17:11.840
+are a few questions you can think about
+
+0:17:09.890,0:17:16.070
+I'm kind of asking around work you're
+
+0:17:11.840,0:17:19.400
+doing so there was an optional reading
+
+0:17:16.070,0:17:22.100
+called what would an Avenger do by mark
+
+0:17:19.400,0:17:24.380
+D white and I have to admit I actually
+
+0:17:22.100,0:17:26.570
+am NOT not that familiar with the
+
+0:17:24.380,0:17:29.150
+Avengers but I still still enjoyed
+
+0:17:26.570,0:17:31.940
+reading this and found it helpful and it
+
+0:17:29.150,0:17:35.120
+kind of characterized the Iron Man is a
+
+0:17:31.940,0:17:38.070
+utilitarian who is looking to maximize
+
+0:17:35.120,0:17:40.560
+the good he sometimes is willing to kind
+
+0:17:38.070,0:17:43.530
+let the ends justify the means in that
+
+0:17:40.560,0:17:47.040
+service Captain America was classified
+
+0:17:43.530,0:17:48.690
+as a deontological Epis in terms of kind
+
+0:17:47.040,0:17:51.600
+of having a notion of the right and
+
+0:17:48.690,0:17:53.880
+really adhering to that and then Thor
+
+0:17:51.600,0:18:00.060
+was seen as an example of virtue ethics
+
+0:17:53.880,0:18:02.730
+and living by a code of honor I did want
+
+0:18:00.060,0:18:04.770
+to note that kind of all three of these
+
+0:18:02.730,0:18:07.560
+ethical philosophies we've talked about
+
+0:18:04.770,0:18:08.820
+are kind of Western philosophies and
+
+0:18:07.560,0:18:11.130
+that there were many other ethical
+
+0:18:08.820,0:18:14.190
+lenses out there as well as from other
+
+0:18:11.130,0:18:17.100
+cultures and I recently was reading
+
+0:18:14.190,0:18:18.540
+about New Zealand's algorithmic impact
+
+0:18:17.100,0:18:21.450
+assessment project that they're working
+
+0:18:18.540,0:18:24.180
+on and one aspect of the project is that
+
+0:18:21.450,0:18:27.270
+they are trying to incorporate a Maui
+
+0:18:24.180,0:18:29.820
+Maori worldview as well the Maori or the
+
+0:18:27.270,0:18:31.230
+indigenous people in New Zealand and so
+
+0:18:29.820,0:18:33.720
+then I was kind of doing some reading on
+
+0:18:31.230,0:18:36.420
+the Maori data sovereignty movement and
+
+0:18:33.720,0:18:39.990
+how the Maori view data which in times
+
+0:18:36.420,0:18:43.320
+kind of raises raises as specific
+
+0:18:39.990,0:18:45.120
+concerns about about kind of how data is
+
+0:18:43.320,0:18:48.750
+used what's done with it and how it
+
+0:18:45.120,0:18:52.080
+impacts their community and so I don't I
+
+0:18:48.750,0:18:53.700
+don't feel a sufficiently confident that
+
+0:18:52.080,0:18:55.230
+I could explain this accurately and I
+
+0:18:53.700,0:18:57.000
+don't want to misrepresent someone
+
+0:18:55.230,0:18:58.860
+else's culture I mostly just want to
+
+0:18:57.000,0:19:01.230
+highlight that there are plenty of
+
+0:18:58.860,0:19:03.810
+ethical philosophies outside the West
+
+0:19:01.230,0:19:09.240
+there are kind of other ethical
+
+0:19:03.810,0:19:11.520
+worldviews to consider so in summary the
+
+0:19:09.240,0:19:15.690
+kind of five ethical lenses that we've
+
+0:19:11.520,0:19:17.990
+seen are the rights approach the justice
+
+0:19:15.690,0:19:21.890
+approach these are both deontological
+
+0:19:17.990,0:19:23.550
+ethics approaches then from
+
+0:19:21.890,0:19:25.440
+consequentialism we've seen the
+
+0:19:23.550,0:19:28.890
+utilitarian approached in the common
+
+0:19:25.440,0:19:30.840
+good approach and then finally from
+
+0:19:28.890,0:19:32.700
+virtue ethics the virtue approach and so
+
+0:19:30.840,0:19:35.280
+this is a list of questions that the
+
+0:19:32.700,0:19:38.400
+Markkula Center guide provides that you
+
+0:19:35.280,0:19:39.990
+can consider in kind of looking at a
+
+0:19:38.400,0:19:43.410
+project that might be going on in your
+
+0:19:39.990,0:19:46.410
+workplace and trying to answer ethical
+
+0:19:43.410,0:19:48.330
+questions about it and anticipate how
+
+0:19:46.410,0:19:50.970
+it'll impact people which options may be
+
+0:19:48.330,0:19:54.900
+the best options to take
+
+0:19:50.970,0:19:56.280
+I also note that the I know arena riku
+
+0:19:54.900,0:19:57.870
+from markula Center definitely
+
+0:19:56.280,0:19:59.669
+emphasizes that this is something that's
+
+0:19:57.870,0:20:01.919
+best done in a group it definitely helps
+
+0:19:59.669,0:20:03.600
+to have other people to be discussing
+
+0:20:01.919,0:20:05.760
+this in community you have people who
+
+0:20:03.600,0:20:07.380
+can point out kind of different issues
+
+0:20:05.760,0:20:13.980
+and maybe see things differently from
+
+0:20:07.380,0:20:15.570
+from you all right so that's that kind
+
+0:20:13.980,0:20:18.210
+of in summary just some of kind of
+
+0:20:15.570,0:20:20.010
+what's the the underpinnings for even
+
+0:20:18.210,0:20:22.530
+talking about ethics or weighing
+
+0:20:20.010,0:20:25.530
+weighing the ethics of different
+
+0:20:22.530,0:20:28.289
+different projects next I'm going to get
+
+0:20:25.530,0:20:30.570
+into some practical tools that you can
+
+0:20:28.289,0:20:32.640
+use in the workplace some that you can
+
+0:20:30.570,0:20:35.610
+implement and as we've talked about
+
+0:20:32.640,0:20:37.350
+earlier having good intentions is not
+
+0:20:35.610,0:20:40.890
+necessarily enough to ensure a good
+
+0:20:37.350,0:20:43.500
+outcome in fact people can have good
+
+0:20:40.890,0:20:52.260
+intentions and still really miss major
+
+0:20:43.500,0:20:53.789
+ethical issues so it's helpful it's
+
+0:20:52.260,0:20:57.510
+helpful to really implement processes
+
+0:20:53.789,0:20:59.820
+and operationalize this in a way to kind
+
+0:20:57.510,0:21:01.049
+of make it part of your routine and make
+
+0:20:59.820,0:21:03.780
+it something that the company is doing
+
+0:21:01.049,0:21:05.610
+regularly and we're gonna go through
+
+0:21:03.780,0:21:08.970
+this ethical toolkit there are seven
+
+0:21:05.610,0:21:12.150
+tools or practices in it the first is
+
+0:21:08.970,0:21:14.309
+ethical risk sweet bang and so this is
+
+0:21:12.150,0:21:16.650
+instituting regularly-scheduled
+
+0:21:14.309,0:21:18.600
+risk school sweeps and so kind of
+
+0:21:16.650,0:21:21.929
+similar to the cybersecurity penetration
+
+0:21:18.600,0:21:23.669
+testing regularly looking for risk no
+
+0:21:21.929,0:21:24.929
+vulnerabilities found while that's a
+
+0:21:23.669,0:21:27.240
+good thing that doesn't mean that you
+
+0:21:24.929,0:21:31.350
+stop or consider it a waste you keep
+
+0:21:27.240,0:21:33.299
+doing it and then it's good to assume
+
+0:21:31.350,0:21:35.850
+that you miss some risk initially and so
+
+0:21:33.299,0:21:38.039
+continuing to look it's also important
+
+0:21:35.850,0:21:40.530
+to reward team members for spotting new
+
+0:21:38.039,0:21:42.210
+ethical risk I think sometimes raising
+
+0:21:40.530,0:21:44.880
+an ethical risk can be seen as something
+
+0:21:42.210,0:21:47.220
+that if nothing else kind of slows down
+
+0:21:44.880,0:21:48.780
+slows you down and your speed to get a
+
+0:21:47.220,0:21:50.580
+product to market and that's not always
+
+0:21:48.780,0:21:52.260
+rewarded but it's important to kind of
+
+0:21:50.580,0:21:56.309
+reward this behavior if you want it to
+
+0:21:52.260,0:21:58.500
+be incentivized at this point when
+
+0:21:56.309,0:22:00.870
+student brought up that her friend has
+
+0:21:58.500,0:22:02.970
+been raising ethical issues in his
+
+0:22:00.870,0:22:04.559
+workplace and that he's kind of getting
+
+0:22:02.970,0:22:07.799
+a lot of pushback about it
+
+0:22:04.559,0:22:10.409
+Villar seeing him as it's difficult it's
+
+0:22:07.799,0:22:13.379
+creating friction and she asked how to
+
+0:22:10.409,0:22:16.200
+deal with this and so I do want to
+
+0:22:13.379,0:22:18.179
+acknowledge that depending on the
+
+0:22:16.200,0:22:20.970
+dynamics of your workplace and in many
+
+0:22:18.179,0:22:23.940
+workplaces I think that it can cost you
+
+0:22:20.970,0:22:25.559
+social capital to speak up different
+
+0:22:23.940,0:22:26.299
+people have different amounts of social
+
+0:22:25.559,0:22:29.399
+capital
+
+0:22:26.299,0:22:31.950
+it also can depend on your seniority how
+
+0:22:29.399,0:22:34.259
+seriously you're taking around this and
+
+0:22:31.950,0:22:36.419
+so this can create issues it's not it's
+
+0:22:34.259,0:22:38.519
+definitely not simple particularly when
+
+0:22:36.419,0:22:40.529
+your your company or your team is not
+
+0:22:38.519,0:22:42.809
+aligned on this being an important thing
+
+0:22:40.529,0:22:44.970
+to do so I want to want to acknowledge
+
+0:22:42.809,0:22:46.919
+that and I think that over time it's
+
+0:22:44.970,0:22:49.200
+possible if you're in a workplace where
+
+0:22:46.919,0:22:51.059
+you do worse do experience a lot of
+
+0:22:49.200,0:22:53.549
+friction about bringing up ethical
+
+0:22:51.059,0:22:55.649
+issues that you ultimately may find it
+
+0:22:53.549,0:22:58.230
+like that's not a great fit or is kind
+
+0:22:55.649,0:22:59.820
+of untenable for you to continue so I
+
+0:22:58.230,0:23:02.429
+wanted to acknowledge the difficulty of
+
+0:22:59.820,0:23:05.399
+this if you don't kind of have your
+
+0:23:02.429,0:23:06.960
+whole team on board ideally you know you
+
+0:23:05.399,0:23:08.970
+would have leadership supporting this
+
+0:23:06.960,0:23:12.419
+and have it where there's a kind of more
+
+0:23:08.970,0:23:14.460
+of a more buy-in around the practice at
+
+0:23:12.419,0:23:16.889
+this point another student brought up
+
+0:23:14.460,0:23:20.610
+that he previously worked at epic the
+
+0:23:16.889,0:23:21.929
+makers of electronic health records and
+
+0:23:20.610,0:23:25.019
+he said it epic
+
+0:23:21.929,0:23:27.840
+they have I'm forgetting the name but
+
+0:23:25.019,0:23:29.999
+it's a specific job role of people that
+
+0:23:27.840,0:23:32.789
+it's kind of their whole role to
+
+0:23:29.999,0:23:34.769
+investigate concerns that potentially
+
+0:23:32.789,0:23:36.539
+relate to patient safety and if
+
+0:23:34.769,0:23:38.970
+something's gonna pose a patient safety
+
+0:23:36.539,0:23:41.279
+risk that is something to take very
+
+0:23:38.970,0:23:43.379
+seriously and he said it really helped
+
+0:23:41.279,0:23:46.320
+anyone in the company can and should
+
+0:23:43.379,0:23:48.779
+raise risk that they think may may
+
+0:23:46.320,0:23:50.340
+impact patient safety but from there
+
+0:23:48.779,0:23:52.379
+then they kind of had these specialists
+
+0:23:50.340,0:23:54.779
+who take that over that's their job to
+
+0:23:52.379,0:23:56.879
+do so and that that really helped kind
+
+0:23:54.779,0:23:58.499
+of streamline the process and it was
+
+0:23:56.879,0:24:00.600
+also something where it was fine there
+
+0:23:58.499,0:24:04.049
+to raise an issue that ended up not
+
+0:24:00.600,0:24:06.210
+turning out to the risk to patient
+
+0:24:04.049,0:24:08.399
+safety it was better to raise it and
+
+0:24:06.210,0:24:09.749
+investigate and have it turn out to to
+
+0:24:08.399,0:24:11.220
+be all right than to not say anything
+
+0:24:09.749,0:24:13.049
+and so that was that was kind of an
+
+0:24:11.220,0:24:15.809
+interesting interesting personal
+
+0:24:13.049,0:24:18.169
+experience to hear from from a member of
+
+0:24:15.809,0:24:18.169
+our class
+
+0:24:19.279,0:24:27.359
+so tool to tool to is ethical pre-mortem
+
+0:24:23.819,0:24:29.099
+x' and post-mortems and i had heard of
+
+0:24:27.359,0:24:31.019
+post-mortems before and i think they're
+
+0:24:29.099,0:24:32.939
+at least particularly for kind of
+
+0:24:31.019,0:24:37.109
+technical failures are well-established
+
+0:24:32.939,0:24:38.399
+practice in the tech industry this would
+
+0:24:37.109,0:24:40.379
+be implementing them around ethical
+
+0:24:38.399,0:24:43.199
+failures as well i thought the idea of a
+
+0:24:40.379,0:24:45.299
+pre-mortem was interesting pre-mortem
+
+0:24:43.199,0:24:48.149
+should ask how could this project fail
+
+0:24:45.299,0:24:50.969
+for ethical reasons what blind spots
+
+0:24:48.149,0:24:54.749
+would lead us into why would we fail to
+
+0:24:50.969,0:24:57.509
+act what systems checks or fail safes
+
+0:24:54.749,0:24:59.579
+can we put in place to reduce failure
+
+0:24:57.509,0:25:02.429
+risk and so I thought these were
+
+0:24:59.579,0:25:04.769
+interesting questions and one student in
+
+0:25:02.429,0:25:07.379
+the class raised his hand and shared
+
+0:25:04.769,0:25:09.929
+that he had previously done this not
+
+0:25:07.379,0:25:11.639
+even kind of with an explicit ethical
+
+0:25:09.929,0:25:14.699
+framing but is something that he went
+
+0:25:11.639,0:25:17.549
+through with kind of business
+
+0:25:14.699,0:25:19.139
+development and companies and that for
+
+0:25:17.549,0:25:21.419
+many maybe this would kind of be an
+
+0:25:19.139,0:25:23.099
+entryway into ethics to get them
+
+0:25:21.419,0:25:24.839
+thinking about it and even if it starts
+
+0:25:23.099,0:25:26.549
+as a prisoner's product problem that
+
+0:25:24.839,0:25:32.279
+it's kind of raising raising ethical
+
+0:25:26.549,0:25:35.399
+risk and so something that reading about
+
+0:25:32.279,0:25:37.529
+this tool reminded me of was the kind of
+
+0:25:35.399,0:25:39.209
+school of thought around professors that
+
+0:25:37.529,0:25:43.079
+are using science fiction to teach
+
+0:25:39.209,0:25:44.669
+computer science ethics and so this
+
+0:25:43.079,0:25:47.279
+comes from a wired article that
+
+0:25:44.669,0:25:48.659
+interviewed several different professors
+
+0:25:47.279,0:25:50.669
+and they actually had a different
+
+0:25:48.659,0:25:54.979
+philosophies on how they incorporate
+
+0:25:50.669,0:25:57.629
+science fiction into their courses so
+
+0:25:54.979,0:26:00.389
+some of them are using it more of just a
+
+0:25:57.629,0:26:02.759
+way to kind of think about human
+
+0:26:00.389,0:26:05.159
+characteristics and traits some to kind
+
+0:26:02.759,0:26:07.829
+of look you know little ways into the
+
+0:26:05.159,0:26:09.539
+future and see what could go wrong some
+
+0:26:07.829,0:26:11.699
+feel like the kind of having it in a
+
+0:26:09.539,0:26:13.169
+different world can make it give
+
+0:26:11.699,0:26:15.989
+students at distance that makes it
+
+0:26:13.169,0:26:17.579
+easier to analyze and discuss so it was
+
+0:26:15.989,0:26:18.929
+interesting kind of even within the
+
+0:26:17.579,0:26:20.099
+professors that are doing this there are
+
+0:26:18.929,0:26:22.109
+different thoughts on kind of what's
+
+0:26:20.099,0:26:23.999
+what's the best approach it was
+
+0:26:22.109,0:26:25.259
+something that I consider doing for this
+
+0:26:23.999,0:26:26.759
+course I don't think it's gonna happen
+
+0:26:25.259,0:26:28.649
+in this course but it's definitely kind
+
+0:26:26.759,0:26:30.330
+of at the back of my mind for for future
+
+0:26:28.649,0:26:32.820
+ones
+
+0:26:30.330,0:26:34.470
+there was also a Nietzsche article where
+
+0:26:32.820,0:26:36.510
+they asked I believe six different
+
+0:26:34.470,0:26:38.820
+science fiction writers for their views
+
+0:26:36.510,0:26:41.880
+on kind of what science fiction can tell
+
+0:26:38.820,0:26:43.440
+us and Ken Liu said although science
+
+0:26:41.880,0:26:45.620
+fiction isn't much used for knowing the
+
+0:26:43.440,0:26:49.409
+future it's underrated as a way of
+
+0:26:45.620,0:26:52.019
+reimagining human humanity in the face
+
+0:26:49.409,0:26:53.700
+of ceaseless change so that's that's one
+
+0:26:52.019,0:26:58.080
+aspect of what you can get from science
+
+0:26:53.700,0:27:00.870
+fiction Casey feeler who I mentioned a
+
+0:26:58.080,0:27:03.330
+lot and deeply admire does a black
+
+0:27:00.870,0:27:05.639
+mirror exercise with her students
+
+0:27:03.330,0:27:07.799
+so she actually assigns students to
+
+0:27:05.639,0:27:09.720
+watch an episode of black mirror and
+
+0:27:07.799,0:27:12.299
+then does a project called black mirror
+
+0:27:09.720,0:27:14.039
+writers room I got to participate in
+
+0:27:12.299,0:27:17.159
+this at a workshop or she was she led a
+
+0:27:14.039,0:27:18.990
+session of it and the idea is to kind of
+
+0:27:17.159,0:27:21.750
+get students writing their own episodes
+
+0:27:18.990,0:27:24.360
+of black mirror she says that
+
+0:27:21.750,0:27:27.539
+speculation is a skill that we have to
+
+0:27:24.360,0:27:29.100
+practice and develop and that kind of
+
+0:27:27.539,0:27:30.840
+yeah thinking of your own black me repa
+
+0:27:29.100,0:27:33.630
+sewed is one way to practice this skill
+
+0:27:30.840,0:27:36.240
+of speculation and she thinks it's
+
+0:27:33.630,0:27:38.669
+helpful to kind of keep things in the
+
+0:27:36.240,0:27:40.230
+somewhat near future where we can see
+
+0:27:38.669,0:27:41.820
+them as an extension of our current
+
+0:27:40.230,0:27:43.980
+technology and she's kind of written
+
+0:27:41.820,0:27:47.039
+about about how she implements this in
+
+0:27:43.980,0:27:49.440
+the classroom and so I thought this was
+
+0:27:47.039,0:27:55.320
+this was interesting as a kind of
+
+0:27:49.440,0:27:55.559
+extension of the pre-mortem idea all
+
+0:27:55.320,0:28:04.049
+right
+
+0:27:55.559,0:28:09.450
+12:3 tool 3 is expanding the ethical
+
+0:28:04.049,0:28:11.990
+circle so there's several um have
+
+0:28:09.450,0:28:17.130
+several ways that teams can can fail to
+
+0:28:11.990,0:28:19.409
+see risk one is groupthink which is when
+
+0:28:17.130,0:28:21.389
+you have a very close-knit group people
+
+0:28:19.409,0:28:23.130
+may start kind of thinking thinking
+
+0:28:21.389,0:28:24.990
+similarly due to the dynamics of the
+
+0:28:23.130,0:28:26.760
+group and then as a result may have
+
+0:28:24.990,0:28:29.909
+particular blind spots and things that
+
+0:28:26.760,0:28:31.799
+they miss another thing that can occur
+
+0:28:29.909,0:28:33.539
+is the bubble mentality and this is when
+
+0:28:31.799,0:28:36.539
+you have a lack of sufficient sufficient
+
+0:28:33.539,0:28:37.649
+diversity in your group and again that
+
+0:28:36.539,0:28:41.010
+can lead to people that kind of have
+
+0:28:37.649,0:28:43.900
+very similar worldviews and may miss
+
+0:28:41.010,0:28:45.640
+particular risk and miss the interest
+
+0:28:43.900,0:28:49.240
+of key stakeholders that aren't
+
+0:28:45.640,0:28:52.270
+represented there's also the Friedman
+
+0:28:49.240,0:28:54.370
+fallacy which is a fallacy saying that
+
+0:28:52.270,0:28:56.620
+companies are morally obligated only to
+
+0:28:54.370,0:28:59.470
+maximize shareholder profit even if it's
+
+0:28:56.620,0:29:01.840
+very harmful to the public or that stuff
+
+0:28:59.470,0:29:04.150
+that is harmful to the environment or
+
+0:29:01.840,0:29:05.980
+elicits public outcry at people
+
+0:29:04.150,0:29:08.440
+sometimes trying to use this to justify
+
+0:29:05.980,0:29:11.140
+deliberate or reckless disregard of
+
+0:29:08.440,0:29:13.240
+legitimate moral interest however it is
+
+0:29:11.140,0:29:14.800
+a fallacy this is not the case and the
+
+0:29:13.240,0:29:21.070
+public typically does not respond well
+
+0:29:14.800,0:29:23.620
+to this kind of reckless behavior so
+
+0:29:21.070,0:29:26.080
+some questions you can ask for expanding
+
+0:29:23.620,0:29:28.780
+the ethical circle whose interest
+
+0:29:26.080,0:29:31.330
+desires skills experiences and values
+
+0:29:28.780,0:29:34.360
+have we simply assumed rather than
+
+0:29:31.330,0:29:35.980
+actually consulted who are all the
+
+0:29:34.360,0:29:38.530
+stakeholders will be who will be
+
+0:29:35.980,0:29:41.380
+directly affected by our product how
+
+0:29:38.530,0:29:42.670
+have their interests been protected how
+
+0:29:41.380,0:29:47.470
+do we know what their interests really
+
+0:29:42.670,0:29:49.330
+are have we asked which groups and
+
+0:29:47.470,0:29:51.550
+individuals will be indirectly affected
+
+0:29:49.330,0:29:53.380
+and who might use this product that we
+
+0:29:51.550,0:29:56.860
+didn't expect to use or for purposes
+
+0:29:53.380,0:29:59.110
+that we didn't initially intend later in
+
+0:29:56.860,0:30:01.050
+the class I asked people to kind of
+
+0:29:59.110,0:30:05.010
+reflect on what they thought some of the
+
+0:30:01.050,0:30:08.230
+most useful of the of the tools we are
+
+0:30:05.010,0:30:10.059
+and several people highlighted this as
+
+0:30:08.230,0:30:11.620
+something that they thought was crucial
+
+0:30:10.059,0:30:16.090
+crucial to do in a particularly
+
+0:30:11.620,0:30:18.070
+important tool for the workplace this
+
+0:30:16.090,0:30:20.500
+made me think of some research from a
+
+0:30:18.070,0:30:24.340
+University of Washington tech policy lab
+
+0:30:20.500,0:30:27.160
+by meg young at all and so there they
+
+0:30:24.340,0:30:30.190
+did a project called diverse voices that
+
+0:30:27.160,0:30:33.040
+is around how to create kind of panels
+
+0:30:30.190,0:30:37.090
+of people from different communities
+
+0:30:33.040,0:30:39.160
+I can go to kind of gather them in a
+
+0:30:37.090,0:30:41.260
+systematic way pay them for their
+
+0:30:39.160,0:30:43.870
+expertise and elicit their feedback
+
+0:30:41.260,0:30:46.140
+around proposed tech policy in this case
+
+0:30:43.870,0:30:48.490
+this could also be used though for
+
+0:30:46.140,0:30:51.820
+considering different different products
+
+0:30:48.490,0:30:53.920
+or business practices and so they did
+
+0:30:51.820,0:30:56.110
+two case studies they had an augmented
+
+0:30:53.920,0:30:57.270
+reality white paper and they convened an
+
+0:30:56.110,0:30:59.250
+expert or
+
+0:30:57.270,0:31:01.740
+several expert panels including with
+
+0:30:59.250,0:31:04.410
+people with disabilities people who are
+
+0:31:01.740,0:31:07.080
+formerly are currently incarcerated and
+
+0:31:04.410,0:31:09.500
+women and then they did a separate one
+
+0:31:07.080,0:31:12.330
+on autonomous vehicles strategy document
+
+0:31:09.500,0:31:15.240
+holding expert panels with youth with
+
+0:31:12.330,0:31:18.180
+non car drivers and with people with
+
+0:31:15.240,0:31:19.830
+extremely low incomes and so this is
+
+0:31:18.180,0:31:21.780
+great to check out there's an academic
+
+0:31:19.830,0:31:23.460
+paper about it and then there's also on
+
+0:31:21.780,0:31:26.130
+the website there is a kind of practical
+
+0:31:23.460,0:31:27.900
+guide kind of leading you through how
+
+0:31:26.130,0:31:30.300
+you could do something like this as well
+
+0:31:27.900,0:31:32.900
+so this is a resource I wanted wanted
+
+0:31:30.300,0:31:32.900
+you to know about
+
+0:31:33.860,0:31:40.680
+all right tool for case based analysis
+
+0:31:37.560,0:31:43.590
+so identify similar or paradigm cases
+
+0:31:40.680,0:31:45.570
+that mirror the present case identify
+
+0:31:43.590,0:31:48.390
+relevant parallels between or
+
+0:31:45.570,0:31:49.830
+differences among all the cases so even
+
+0:31:48.390,0:31:51.540
+if a case is not exactly what you're
+
+0:31:49.830,0:31:52.770
+currently working on in the workplace it
+
+0:31:51.540,0:31:54.480
+still may be something you can learn
+
+0:31:52.770,0:31:56.430
+from it it's helpful to be explicit
+
+0:31:54.480,0:31:59.640
+about how it does parallel what you're
+
+0:31:56.430,0:32:01.650
+doing how it's different and then that
+
+0:31:59.640,0:32:05.040
+can help you identify kind of solutions
+
+0:32:01.650,0:32:06.990
+or risk mitigation strategies and at
+
+0:32:05.040,0:32:10.680
+this point one student raised our hand
+
+0:32:06.990,0:32:12.390
+and shared about Harvard has started or
+
+0:32:10.680,0:32:14.670
+so you know there's the Harvard Business
+
+0:32:12.390,0:32:17.040
+Review that often has business case
+
+0:32:14.670,0:32:19.230
+studies a Harvard data science review
+
+0:32:17.040,0:32:20.970
+has been started as well and that can be
+
+0:32:19.230,0:32:22.620
+a good source for data science reviews
+
+0:32:20.970,0:32:23.910
+although that's just within the last
+
+0:32:22.620,0:32:29.700
+year and is still kind of getting
+
+0:32:23.910,0:32:33.240
+getting up and going I kind of been
+
+0:32:29.700,0:32:34.560
+thinking about looking at past cases and
+
+0:32:33.240,0:32:37.350
+this might be going a little bit further
+
+0:32:34.560,0:32:39.750
+into the past than the the authors of
+
+0:32:37.350,0:32:43.260
+the toolkit met but I thought about the
+
+0:32:39.750,0:32:46.290
+course taught at Columbia Data past
+
+0:32:43.260,0:32:48.420
+present and future so this is co taught
+
+0:32:46.290,0:32:51.120
+by Matt Jones who's a history professor
+
+0:32:48.420,0:32:52.920
+and Chris Wiggins who's an applied math
+
+0:32:51.120,0:32:55.290
+professor as well as the chief data
+
+0:32:52.920,0:32:57.180
+scientist for the New York Times and I
+
+0:32:55.290,0:32:58.620
+think this is a fantastic idea for a
+
+0:32:57.180,0:33:00.180
+course this is I believe they're on
+
+0:32:58.620,0:33:02.670
+their fourth year teaching it so it's
+
+0:33:00.180,0:33:05.640
+really been refined to be putting a book
+
+0:33:02.670,0:33:07.560
+out about it next year all the materials
+
+0:33:05.640,0:33:09.030
+are available online so definitely check
+
+0:33:07.560,0:33:10.590
+them out and this course while it
+
+0:33:09.030,0:33:13.140
+involves coding
+
+0:33:10.590,0:33:15.050
+I believe it was I know that it's open
+
+0:33:13.140,0:33:17.760
+to students kind of from across
+
+0:33:15.050,0:33:22.440
+humanities as well as social sciences
+
+0:33:17.760,0:33:24.530
+and and Natural Sciences and what they
+
+0:33:22.440,0:33:28.440
+do is kind of go through a history of
+
+0:33:24.530,0:33:30.990
+data and particularly how new new
+
+0:33:28.440,0:33:34.350
+discoveries and innovations related to
+
+0:33:30.990,0:33:36.540
+data have reconfigured power there's a
+
+0:33:34.350,0:33:39.330
+lot of kind of dark history something I
+
+0:33:36.540,0:33:41.730
+didn't know is that regression was first
+
+0:33:39.330,0:33:44.970
+used to do race science so that was kind
+
+0:33:41.730,0:33:46.530
+of part of why regression was invented
+
+0:33:44.970,0:33:49.080
+was it was doing race science which is
+
+0:33:46.530,0:33:50.670
+terrible and they kind of go through
+
+0:33:49.080,0:33:53.550
+though this history that can really help
+
+0:33:50.670,0:33:55.590
+help us understand kind of our current
+
+0:33:53.550,0:33:57.510
+state and also kind of gaining those
+
+0:33:55.590,0:33:59.700
+tools of looking at this reconfiguration
+
+0:33:57.510,0:34:03.560
+of power so definitely check out their
+
+0:33:59.700,0:34:03.560
+materials online if this interest you
+
+0:34:05.030,0:34:12.330
+all right tool 5 remembering the ethical
+
+0:34:09.360,0:34:13.890
+benefits of creative work and so I think
+
+0:34:12.330,0:34:17.010
+this comes up because ethics can
+
+0:34:13.890,0:34:18.810
+sometimes seem focused on the negatives
+
+0:34:17.010,0:34:21.780
+and you know what terrible things can go
+
+0:34:18.810,0:34:23.340
+can happen what can go wrong but to
+
+0:34:21.780,0:34:25.440
+remember that hopefully we're also
+
+0:34:23.340,0:34:28.500
+trying to do to do good with our work
+
+0:34:25.440,0:34:31.440
+and to look at the positives as well and
+
+0:34:28.500,0:34:33.899
+to remember you know hopefully we are
+
+0:34:31.440,0:34:35.399
+working towards what we see is a greater
+
+0:34:33.899,0:34:39.450
+good are there ways that we can
+
+0:34:35.399,0:34:41.220
+genuinely you know trying to help others
+
+0:34:39.450,0:34:43.260
+through our work as opposed to
+
+0:34:41.220,0:34:48.870
+generating kind of inauthentic needs or
+
+0:34:43.260,0:34:50.669
+manufactured desires ok till 6:00 is
+
+0:34:48.870,0:34:52.620
+another one that really resonates with
+
+0:34:50.669,0:35:01.130
+me and that's think about the terrible
+
+0:34:52.620,0:35:05.280
+people so asking who will went to a
+
+0:35:01.130,0:35:08.370
+beauty Oh misinterpret hack destroyed or
+
+0:35:05.280,0:35:10.710
+weaponize what we build so this is kind
+
+0:35:08.370,0:35:12.420
+of if people are gonna use your products
+
+0:35:10.710,0:35:15.570
+and tools in ways that you really didn't
+
+0:35:12.420,0:35:19.860
+anticipate but can you try to start
+
+0:35:15.570,0:35:22.880
+anticipating those who will use use it
+
+0:35:19.860,0:35:24.570
+with alarming stupidity or a rationality
+
+0:35:22.880,0:35:26.850
+what reward
+
+0:35:24.570,0:35:28.860
+incentives openings has our design and
+
+0:35:26.850,0:35:31.410
+advertently it created for these people
+
+0:35:28.860,0:35:34.380
+or for those people and how can we
+
+0:35:31.410,0:35:36.900
+remove those rewards and at this point
+
+0:35:34.380,0:35:39.720
+one student shared about good hearts law
+
+0:35:36.900,0:35:41.490
+which states that kind of any when the
+
+0:35:39.720,0:35:43.710
+measure becomes the target it ceases to
+
+0:35:41.490,0:35:45.900
+be a good measure and that whenever you
+
+0:35:43.710,0:35:47.670
+have kind of rewards or incentives
+
+0:35:45.900,0:35:50.460
+people will try to game that and you'll
+
+0:35:47.670,0:35:53.790
+get unexpected consequences we're gonna
+
+0:35:50.460,0:35:57.000
+talk more about this in lesson five of
+
+0:35:53.790,0:35:58.890
+this class I wrote a blog post this fall
+
+0:35:57.000,0:36:01.560
+called the problem with metrics it's a
+
+0:35:58.890,0:36:03.480
+big problem with AI and that talks about
+
+0:36:01.560,0:36:09.840
+some of the harms that arise when we
+
+0:36:03.480,0:36:12.690
+overemphasize metrics okay and then 12:7
+
+0:36:09.840,0:36:14.880
+is closing the loop making making sure
+
+0:36:12.690,0:36:18.660
+you have channels to get feedback and to
+
+0:36:14.880,0:36:21.870
+iterate remember that this is never a
+
+0:36:18.660,0:36:23.850
+finished task identify feedback channels
+
+0:36:21.870,0:36:26.040
+that will deliver reliable data on
+
+0:36:23.850,0:36:29.880
+ethical impact so if you remember back
+
+0:36:26.040,0:36:32.910
+at lesson 1 we talked about the health
+
+0:36:29.880,0:36:34.080
+care algorithm that was a health care
+
+0:36:32.910,0:36:36.450
+software that was implemented in
+
+0:36:34.080,0:36:39.720
+Arkansas to determine people's Medicaid
+
+0:36:36.450,0:36:41.910
+benefits there was a bug in it it cut
+
+0:36:39.720,0:36:44.520
+off care that people needed people with
+
+0:36:41.910,0:36:46.590
+cerebral palsy in particular and there
+
+0:36:44.520,0:36:48.870
+was no kind of feedback channel in place
+
+0:36:46.590,0:36:51.470
+to even surface this air other than
+
+0:36:48.870,0:36:54.720
+having to go through like a very formal
+
+0:36:51.470,0:36:55.980
+court case and so this is something you
+
+0:36:54.720,0:36:59.490
+really want to make sure that you have
+
+0:36:55.980,0:37:03.210
+channels to receive face feedback and
+
+0:36:59.490,0:37:07.650
+chains of responsibility as well and so
+
+0:37:03.210,0:37:10.020
+kind of tools 6 and 7 reminded me of
+
+0:37:07.650,0:37:12.030
+this post by Alex spheres who was
+
+0:37:10.020,0:37:15.480
+previously the chief legal officer in
+
+0:37:12.030,0:37:18.480
+media and he interviewed because around
+
+0:37:15.480,0:37:19.800
+15 people that work in trust and safety
+
+0:37:18.480,0:37:21.990
+many of them have been working interest
+
+0:37:19.800,0:37:24.030
+in safety for years across a range of
+
+0:37:21.990,0:37:26.760
+companies including many of the major
+
+0:37:24.030,0:37:30.720
+tech platforms trust and safety includes
+
+0:37:26.760,0:37:32.820
+content moderation Alex described trust
+
+0:37:30.720,0:37:34.980
+and safety is both the the judges and
+
+0:37:32.820,0:37:37.320
+the janitors of the Internet
+
+0:37:34.980,0:37:39.960
+and something that one of the people he
+
+0:37:37.320,0:37:41.970
+interviewed said that struck me was the
+
+0:37:39.960,0:37:44.100
+separation of product people in trust
+
+0:37:41.970,0:37:46.320
+people worries me because in a world
+
+0:37:44.100,0:37:48.270
+where product managers and engineers and
+
+0:37:46.320,0:37:50.220
+visionaries cared about this stuff it
+
+0:37:48.270,0:37:53.070
+would be baked into how things get built
+
+0:37:50.220,0:37:54.900
+if things stay this way the product and
+
+0:37:53.070,0:37:57.359
+engineering are Mozart and everyone else
+
+0:37:54.900,0:37:59.550
+is Alfred the butler the big stuff is
+
+0:37:57.359,0:38:01.170
+not going to change and this is true at
+
+0:37:59.550,0:38:03.450
+many companies they're often kind of
+
+0:38:01.170,0:38:06.150
+siloed you have products and engineering
+
+0:38:03.450,0:38:08.130
+over here and people dealing with trust
+
+0:38:06.150,0:38:10.830
+and safety with abuse that happens on
+
+0:38:08.130,0:38:13.140
+the platform kind of harassment bad
+
+0:38:10.830,0:38:15.780
+actors are kind of totally siloed off in
+
+0:38:13.140,0:38:18.420
+another place there's very important
+
+0:38:15.780,0:38:19.950
+feedback that's not not getting back to
+
+0:38:18.420,0:38:22.859
+the the people that are building the
+
+0:38:19.950,0:38:24.300
+products and so someone else in the
+
+0:38:22.859,0:38:27.390
+article and most of the people in the
+
+0:38:24.300,0:38:29.790
+article we're using pseudonyms talked
+
+0:38:27.390,0:38:32.040
+about a kind of a company where
+
+0:38:29.790,0:38:33.660
+executives were having to spend some
+
+0:38:32.040,0:38:35.250
+time kind of shadowing people and Trust
+
+0:38:33.660,0:38:37.410
+and safety just to see what sort of
+
+0:38:35.250,0:38:39.540
+abuse arises how are people weaponizing
+
+0:38:37.410,0:38:41.670
+the platform which sounded like a
+
+0:38:39.540,0:38:46.680
+promising approach so I thought this was
+
+0:38:41.670,0:38:48.119
+this was an interesting one so now
+
+0:38:46.680,0:38:51.869
+there's a topic I want to talk more
+
+0:38:48.119,0:38:54.510
+about that relates to I guess
+
+0:38:51.869,0:38:57.210
+particularly to tool three around
+
+0:38:54.510,0:38:59.280
+expanding the ethical circle and that's
+
+0:38:57.210,0:39:03.960
+the lack of diversity in tack and
+
+0:38:59.280,0:39:06.240
+particularly in AI less than or only 12%
+
+0:39:03.960,0:39:08.609
+of machine learning researchers are
+
+0:39:06.240,0:39:10.590
+women so this is kind of even worse than
+
+0:39:08.609,0:39:12.570
+the tech industry in general and the
+
+0:39:10.590,0:39:15.690
+statistics are similarly dire when it
+
+0:39:12.570,0:39:18.180
+comes to race to age two other
+
+0:39:15.690,0:39:20.250
+demographic characteristics so we have a
+
+0:39:18.180,0:39:22.770
+very kind of homogeneous group of people
+
+0:39:20.250,0:39:28.830
+building really powerful technology that
+
+0:39:22.770,0:39:31.260
+is impacting pretty much everyone kind
+
+0:39:28.830,0:39:35.100
+of an example of the positive of having
+
+0:39:31.260,0:39:37.650
+a more diverse team Traci Chow was the
+
+0:39:35.100,0:39:40.710
+fourth employee at Quora as well as an
+
+0:39:37.650,0:39:42.540
+early engineer at Pinterest and she
+
+0:39:40.710,0:39:44.280
+wrote how the first features she built
+
+0:39:42.540,0:39:45.580
+when she worked at Quora was the block
+
+0:39:44.280,0:39:47.350
+button
+
+0:39:45.580,0:39:48.730
+and she wrote I was eager to work on the
+
+0:39:47.350,0:39:50.590
+future because I personally felt
+
+0:39:48.730,0:39:52.750
+antagonized and abused on the site
+
+0:39:50.590,0:39:55.150
+gender isn't an unlikely reason as to
+
+0:39:52.750,0:39:56.440
+why and if she had not been there and
+
+0:39:55.150,0:39:58.450
+advocated for this they probably
+
+0:39:56.440,0:40:00.490
+wouldn't have added a block block but
+
+0:39:58.450,0:40:03.970
+until later on so this is kind of one
+
+0:40:00.490,0:40:09.580
+example of the kind of positive aspect
+
+0:40:03.970,0:40:12.700
+of having a diverse team so I am I went
+
+0:40:09.580,0:40:15.160
+through a period where I became very
+
+0:40:12.700,0:40:19.150
+kind of discouraged and disillusioned in
+
+0:40:15.160,0:40:21.400
+the tech industry I I was in my early
+
+0:40:19.150,0:40:22.600
+30s at the time and had been kind of
+
+0:40:21.400,0:40:24.610
+focused on math and computer science
+
+0:40:22.600,0:40:26.650
+since I was a teenager but I was just
+
+0:40:24.610,0:40:30.340
+miserable I'll kind of largely due to
+
+0:40:26.650,0:40:32.890
+the toxic culture and so I hired a
+
+0:40:30.340,0:40:34.870
+career counselor I retook the GREs
+
+0:40:32.890,0:40:36.340
+because it had been 10 years and I was
+
+0:40:34.870,0:40:38.320
+really thinking though like what am I
+
+0:40:36.340,0:40:40.480
+gonna do I just can't can't see myself
+
+0:40:38.320,0:40:42.550
+continuing to do this I wrote a post
+
+0:40:40.480,0:40:44.770
+about my experience and about a lot of
+
+0:40:42.550,0:40:46.060
+the research I ended up doing called if
+
+0:40:44.770,0:40:47.800
+you think women in tech is just a
+
+0:40:46.060,0:40:51.670
+pipeline problem you haven't been paying
+
+0:40:47.800,0:40:53.830
+attention and so kind of one key
+
+0:40:51.670,0:40:57.220
+statistic I want everybody to know is
+
+0:40:53.830,0:40:59.410
+that 41% of women working in tech end up
+
+0:40:57.220,0:41:02.470
+leaving the field compared to just 17%
+
+0:40:59.410,0:41:05.980
+of men this is a very very high number
+
+0:41:02.470,0:41:09.760
+and kind of no matter how many girls you
+
+0:41:05.980,0:41:12.430
+teach to code it's not gonna solve the
+
+0:41:09.760,0:41:15.250
+diversity issues and tack if women
+
+0:41:12.430,0:41:20.890
+continue to leave leave at such a high
+
+0:41:15.250,0:41:24.700
+rate meta-analysis of 200 articles white
+
+0:41:20.890,0:41:26.290
+papers books found that women leave the
+
+0:41:24.700,0:41:28.960
+tech industry because they're treated
+
+0:41:26.290,0:41:30.670
+unfairly underpaid less likely to be
+
+0:41:28.960,0:41:33.340
+fast-tracked than their male colleagues
+
+0:41:30.670,0:41:35.440
+and unable to advance and so I really
+
+0:41:33.340,0:41:38.620
+encourage everyone if you're interested
+
+0:41:35.440,0:41:40.000
+in diversity to focus on the opposite
+
+0:41:38.620,0:41:41.140
+end of the pipeline from what people
+
+0:41:40.000,0:41:43.360
+normally talk about which is the
+
+0:41:41.140,0:41:44.860
+workplace and making sure that the women
+
+0:41:43.360,0:41:48.160
+and people of color in your workplace
+
+0:41:44.860,0:41:50.140
+now are treated well that you can retain
+
+0:41:48.160,0:41:50.970
+them that they have opportunities to
+
+0:41:50.140,0:41:53.790
+advance
+
+0:41:50.970,0:41:56.140
+oops
+
+0:41:53.790,0:41:58.900
+unfortunately often in diversity efforts
+
+0:41:56.140,0:42:01.960
+end up focusing primarily on white women
+
+0:41:58.900,0:42:04.720
+which is wrong women of color are facing
+
+0:42:01.960,0:42:06.970
+many additional obstacles and barriers
+
+0:42:04.720,0:42:14.110
+and it was kind of even more important
+
+0:42:06.970,0:42:16.720
+to focus on them so I then kind of dug
+
+0:42:14.110,0:42:18.960
+into the research on why are women
+
+0:42:16.720,0:42:21.250
+getting fewer fewer chances to advance
+
+0:42:18.960,0:42:24.250
+some of some of the research around that
+
+0:42:21.250,0:42:26.550
+is there's a study that found that men's
+
+0:42:24.250,0:42:29.350
+voices are perceived as more persuasive
+
+0:42:26.550,0:42:31.630
+fact-based and logical than women's
+
+0:42:29.350,0:42:35.590
+voices even when reading identical
+
+0:42:31.630,0:42:37.450
+Scripps researchers found that women
+
+0:42:35.590,0:42:39.340
+received more vague feedback and
+
+0:42:37.450,0:42:41.500
+personality criticism and performance
+
+0:42:39.340,0:42:43.810
+evaluations which is not so helpful
+
+0:42:41.500,0:42:47.860
+whereas men receive actionable advice
+
+0:42:43.810,0:42:49.600
+tied to business outcomes and then when
+
+0:42:47.860,0:42:51.460
+women receive mentorship it's often
+
+0:42:49.600,0:42:53.500
+advice on how they should change and
+
+0:42:51.460,0:42:55.570
+gain more self-knowledge when men
+
+0:42:53.500,0:42:57.850
+received mentorship it's often public
+
+0:42:55.570,0:42:59.920
+endorsement of their authority and so
+
+0:42:57.850,0:43:01.690
+perhaps not surprisingly mentorship for
+
+0:42:59.920,0:43:03.880
+women has not been linked to getting a
+
+0:43:01.690,0:43:07.450
+promotion whereas mentorship for men has
+
+0:43:03.880,0:43:10.090
+been linked to getting a promotion women
+
+0:43:07.450,0:43:12.340
+also experience being excluded for more
+
+0:43:10.090,0:43:14.110
+creative and innovative roles not
+
+0:43:12.340,0:43:16.180
+receiving high visibility stretch
+
+0:43:14.110,0:43:18.880
+assignments which are also often useful
+
+0:43:16.180,0:43:22.300
+for advancing and being channeled into
+
+0:43:18.880,0:43:24.400
+less rewarded execution roles and so I
+
+0:43:22.300,0:43:26.860
+have links to all this research as well
+
+0:43:24.400,0:43:32.290
+as more in my post the real reason women
+
+0:43:26.860,0:43:35.470
+quit tack and how to address it and then
+
+0:43:32.290,0:43:38.230
+just a another aspect of this that I've
+
+0:43:35.470,0:43:40.210
+thought a lot about is how to make tech
+
+0:43:38.230,0:43:42.640
+interviews a little less awful the
+
+0:43:40.210,0:43:45.490
+interview process in tech is terrible
+
+0:43:42.640,0:43:47.440
+for everybody right now there are a lot
+
+0:43:45.490,0:43:49.750
+of problems with it I do think that
+
+0:43:47.440,0:43:51.970
+interviewing and hiring are really
+
+0:43:49.750,0:43:56.860
+difficult problems and they are they are
+
+0:43:51.970,0:43:59.200
+tough to get right but to two pieces of
+
+0:43:56.860,0:44:03.220
+research I wanted to share with you one
+
+0:43:59.200,0:44:05.350
+is a company called triple bite what
+
+0:44:03.220,0:44:06.540
+they what they do is this is
+
+0:44:05.350,0:44:08.160
+specifically its kind of work
+
+0:44:06.540,0:44:11.190
+and company for engineers they have
+
+0:44:08.160,0:44:13.950
+engineers take tests with them and then
+
+0:44:11.190,0:44:16.470
+they have kind of detailed data on where
+
+0:44:13.950,0:44:18.480
+those engineers interviewed where they
+
+0:44:16.470,0:44:20.550
+got offers where they got rejected and
+
+0:44:18.480,0:44:22.110
+they can compare that because they have
+
+0:44:20.550,0:44:25.830
+this kind of standardized test that they
+
+0:44:22.110,0:44:27.600
+gave gave over 300 engineers the number
+
+0:44:25.830,0:44:29.700
+one finding from triple bytes research
+
+0:44:27.600,0:44:32.340
+is that the type of programmers that
+
+0:44:29.700,0:44:34.020
+each company looks for have little to do
+
+0:44:32.340,0:44:36.450
+with what the company needs or does
+
+0:44:34.020,0:44:39.060
+rather they reflect company culture and
+
+0:44:36.450,0:44:41.520
+the backgrounds of the founders and so
+
+0:44:39.060,0:44:43.800
+this is discouraging it's perhaps not
+
+0:44:41.520,0:44:46.590
+surprising people like to hire people
+
+0:44:43.800,0:44:48.300
+like them that triple bite post gives
+
+0:44:46.590,0:44:50.670
+the advice to if you're looking for a
+
+0:44:48.300,0:44:52.170
+job to try to find companies where the
+
+0:44:50.670,0:44:54.810
+founders have a similar background to
+
+0:44:52.170,0:44:56.610
+you but clearly this is going to be much
+
+0:44:54.810,0:44:59.160
+easier for for certain people than for
+
+0:44:56.610,0:45:04.080
+others depending on on your background
+
+0:44:59.160,0:45:06.540
+and on your demographic another another
+
+0:45:04.080,0:45:09.990
+study that I love to tell people about
+
+0:45:06.540,0:45:13.050
+is one where they had people choose
+
+0:45:09.990,0:45:15.300
+between two resumes one had male name
+
+0:45:13.050,0:45:18.140
+one had a female name and one of the
+
+0:45:15.300,0:45:20.220
+resumes the person had more practical
+
+0:45:18.140,0:45:22.890
+experience the other they had more
+
+0:45:20.220,0:45:25.740
+impressive academic credentials and so
+
+0:45:22.890,0:45:27.480
+people typically picked the the man as
+
+0:45:25.740,0:45:30.120
+the candidate and then they would say
+
+0:45:27.480,0:45:31.890
+well I picked him because he had more
+
+0:45:30.120,0:45:34.770
+practical experience or I picked him
+
+0:45:31.890,0:45:36.450
+because he had more you know impressive
+
+0:45:34.770,0:45:40.110
+academic credentials and this was they
+
+0:45:36.450,0:45:42.030
+did both possible pairings and so this
+
+0:45:40.110,0:45:44.670
+is an example humans are great at post
+
+0:45:42.030,0:45:48.330
+hoc justifications it's really important
+
+0:45:44.670,0:45:50.580
+to kind of have formal credentials ahead
+
+0:45:48.330,0:45:52.380
+of time and to know are not credentials
+
+0:45:50.580,0:45:55.410
+but a formal outline of what you're
+
+0:45:52.380,0:45:57.630
+looking for so I linked it to those and
+
+0:45:55.410,0:45:59.160
+a bunch more research in my on my post
+
+0:45:57.630,0:46:02.040
+on tech interviews but I do acknowledge
+
+0:45:59.160,0:46:04.250
+its it is a tough a tough problem and
+
+0:46:02.040,0:46:09.510
+it's very time-intensive to try to
+
+0:46:04.250,0:46:12.510
+create a good interview process alright
+
+0:46:09.510,0:46:14.670
+so in summary we have seen seven
+
+0:46:12.510,0:46:17.640
+practices to implement from the Markkula
+
+0:46:14.670,0:46:19.740
+Center teka thix toolkit
+
+0:46:17.640,0:46:21.900
+in our previous lesson we saw data
+
+0:46:19.740,0:46:24.840
+sheets for data sets by Tim Nick Abreu
+
+0:46:21.900,0:46:28.260
+we also saw model cards for model
+
+0:46:24.840,0:46:30.660
+reporting by Margaret Mitchell at all we
+
+0:46:28.260,0:46:32.880
+also saw the diverse voices that was the
+
+0:46:30.660,0:46:35.820
+framework actually I should say so the
+
+0:46:32.880,0:46:37.740
+idea with data sheets for data sets is
+
+0:46:35.820,0:46:39.240
+you're never gonna eliminate bias from
+
+0:46:37.740,0:46:41.460
+your data set but let's at least be
+
+0:46:39.240,0:46:45.750
+explicit about how this data set was
+
+0:46:41.460,0:46:48.120
+created under what constraints what are
+
+0:46:45.750,0:46:49.830
+its limitations and let's kind of kind
+
+0:46:48.120,0:46:51.210
+of to be explicit with that and not just
+
+0:46:49.830,0:46:54.120
+assume it's kind of some sort of
+
+0:46:51.210,0:46:55.710
+universal ground truth diverse voices
+
+0:46:54.120,0:46:58.470
+what's the work from the University of
+
+0:46:55.710,0:47:00.990
+Washington policy lab about how to
+
+0:46:58.470,0:47:03.360
+create expert panels with people from
+
+0:47:00.990,0:47:05.040
+kind of various you know various
+
+0:47:03.360,0:47:07.550
+stakeholders such as formally
+
+0:47:05.040,0:47:10.830
+incarcerated people who don't have cars
+
+0:47:07.550,0:47:14.790
+to get their feedback about about a
+
+0:47:10.830,0:47:18.690
+paper or project the post that
+
+0:47:14.790,0:47:21.420
+interviewed 15 former or not former and
+
+0:47:18.690,0:47:22.980
+current trust and safety employees in
+
+0:47:21.420,0:47:24.660
+this idea of integrating trust and
+
+0:47:22.980,0:47:28.890
+safety more closely with product and
+
+0:47:24.660,0:47:30.000
+edge and then these tasks of retaining
+
+0:47:28.890,0:47:32.340
+and promoting people from
+
+0:47:30.000,0:47:35.100
+underrepresented groups and overhauling
+
+0:47:32.340,0:47:36.570
+the interview process and so I kind of
+
+0:47:35.100,0:47:38.970
+encouraged everyone in the class and I
+
+0:47:36.570,0:47:41.430
+encourage you to ask which of these
+
+0:47:38.970,0:47:45.390
+tools or practices sounds most helpful
+
+0:47:41.430,0:47:47.370
+to you and then also which do you think
+
+0:47:45.390,0:47:50.760
+would be the most realistic to implement
+
+0:47:47.370,0:47:53.400
+and so kind of looking back at this and
+
+0:47:50.760,0:47:55.500
+many people thought tool 3 seemed
+
+0:47:53.400,0:47:56.880
+particularly crucial although they also
+
+0:47:55.500,0:47:59.940
+thought that was one of I think the
+
+0:47:56.880,0:48:01.320
+harder ones to implement but definitely
+
+0:47:59.940,0:48:02.370
+you definitely think about this and
+
+0:48:01.320,0:48:04.620
+think about it you know is there
+
+0:48:02.370,0:48:06.360
+anything concrete that you can you can
+
+0:48:04.620,0:48:08.840
+take from this kind of back to your
+
+0:48:06.360,0:48:08.840
+workplace
+
+0:48:10.960,0:48:17.950
+and then I want to close now by
+
+0:48:13.960,0:48:21.849
+emphasizing that we need both policy and
+
+0:48:17.950,0:48:24.910
+ethical industry behavior this this
+
+0:48:21.849,0:48:27.190
+lecture has been more focused on ethical
+
+0:48:24.910,0:48:29.050
+behavior in industry what processes can
+
+0:48:27.190,0:48:31.270
+you implement in a company however that
+
+0:48:29.050,0:48:34.420
+is not gonna solve everything we need
+
+0:48:31.270,0:48:36.700
+policy as well policy is the appropriate
+
+0:48:34.420,0:48:41.190
+tool for addressing things like negative
+
+0:48:36.700,0:48:45.010
+externalities so a negative externality
+
+0:48:41.190,0:48:47.470
+shows up the classic example is company
+
+0:48:45.010,0:48:50.230
+you know dumping its waste into a river
+
+0:48:47.470,0:48:52.240
+Bay and that influences everyone around
+
+0:48:50.230,0:48:54.400
+them and so they're kind of offloading
+
+0:48:52.240,0:48:56.859
+their in their cost to society while
+
+0:48:54.400,0:48:58.180
+reaping in the profits and I think we're
+
+0:48:56.859,0:49:00.339
+right now seeing the tech industry
+
+0:48:58.180,0:49:02.940
+offload a lot of cost to society while
+
+0:49:00.339,0:49:05.650
+they well they make mad profits
+
+0:49:02.940,0:49:06.820
+misaligned economic incentives and this
+
+0:49:05.650,0:49:08.830
+is something that I think even when
+
+0:49:06.820,0:49:12.040
+people are well-intentioned if it is
+
+0:49:08.830,0:49:15.310
+really profitable to do something that
+
+0:49:12.040,0:49:17.200
+is is bad for society there's a kind of
+
+0:49:15.310,0:49:19.330
+a misalignment there and policies the
+
+0:49:17.200,0:49:21.640
+appropriate tool for for addressing that
+
+0:49:19.330,0:49:22.869
+also race to the bottom situations
+
+0:49:21.640,0:49:25.450
+sometimes there's something kind of
+
+0:49:22.869,0:49:26.920
+really at the coal and even yeah you
+
+0:49:25.450,0:49:28.570
+know even if you can convince your
+
+0:49:26.920,0:49:30.970
+company not to do it which is great
+
+0:49:28.570,0:49:32.589
+please do that there's still other
+
+0:49:30.970,0:49:34.109
+companies that are gonna do it you kind
+
+0:49:32.589,0:49:36.930
+of get sometimes these look kind of what
+
+0:49:34.109,0:49:39.510
+worse common denominator situations
+
+0:49:36.930,0:49:42.339
+again I think you need policy for that
+
+0:49:39.510,0:49:45.220
+as well as for enforcing accountability
+
+0:49:42.339,0:49:47.950
+kind of enforcing meaningful and
+
+0:49:45.220,0:49:50.760
+significant penalties for companies that
+
+0:49:47.950,0:49:53.650
+that do wrong and harm people
+
+0:49:50.760,0:49:57.460
+however policy would not be sufficient
+
+0:49:53.650,0:49:59.290
+on its own either because the law is not
+
+0:49:57.460,0:50:01.320
+always going to keep up with newest new
+
+0:49:59.290,0:50:04.089
+technology the law is also not always
+
+0:50:01.320,0:50:07.000
+specific enough to kind of capture every
+
+0:50:04.089,0:50:08.530
+every nuance or every edge case and so
+
+0:50:07.000,0:50:10.750
+for this reason it's important to have
+
+0:50:08.530,0:50:12.880
+ethical practitioners in industry as
+
+0:50:10.750,0:50:14.680
+well as I just want to highlight that
+
+0:50:12.880,0:50:16.980
+while we were focused on kind of what
+
+0:50:14.680,0:50:20.680
+you can do kind of assuming you're in a
+
+0:50:16.980,0:50:22.270
+industry workplace I also believe policy
+
+0:50:20.680,0:50:24.910
+is necessary that's something we'll talk
+
+0:50:22.270,0:50:27.099
+more about in week five that was also
+
+0:50:24.910,0:50:28.779
+I organized a tech policy workshop in
+
+0:50:27.099,0:50:31.959
+November here at the Center for Applied
+
+0:50:28.779,0:50:33.699
+data ethics and all kind of in the
+
+0:50:31.959,0:50:38.459
+process of will be releasing all those
+
+0:50:33.699,0:50:38.459
+videos online for you thank you
+

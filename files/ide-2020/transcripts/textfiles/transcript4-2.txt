@@ -1,0 +1,2556 @@
+0:00:00.000,0:00:03.899
+so yeah so we're we're picking up here
+
+0:00:01.829,0:00:07.980
+is privacy and surveillance which we did
+
+0:00:03.899,0:00:09.990
+not finish last week there's a lot of
+
+0:00:07.980,0:00:12.509
+material and even more stuff happened in
+
+0:00:09.990,0:00:14.429
+the past week related to it and so I
+
+0:00:12.509,0:00:18.090
+just kind of briefly wanted to kind of
+
+0:00:14.429,0:00:20.670
+review where we were at and the first is
+
+0:00:18.090,0:00:22.769
+some issues around kind of what can go
+
+0:00:20.670,0:00:24.630
+wrong Dana will be used for other
+
+0:00:22.769,0:00:28.590
+purposes and so this link
+
+0:00:24.630,0:00:31.199
+Amulya posted in the forums about Grindr
+
+0:00:28.590,0:00:34.260
+being owned by a Chinese firm which has
+
+0:00:31.199,0:00:37.320
+created concerns around u.s. national
+
+0:00:34.260,0:00:40.590
+security of could could this be used for
+
+0:00:37.320,0:00:42.660
+for China to get data about military or
+
+0:00:40.590,0:00:44.579
+foreign officials on their sexual
+
+0:00:42.660,0:00:46.800
+preferences or even just location
+
+0:00:44.579,0:00:49.739
+tracking and this is something that
+
+0:00:46.800,0:00:50.879
+couldn't have been foreseen I you know
+
+0:00:49.739,0:00:53.789
+it wasn't obvious that it would happen
+
+0:00:50.879,0:00:55.500
+say five or ten years ago that it would
+
+0:00:53.789,0:00:59.329
+end up being bought by a Chinese company
+
+0:00:55.500,0:01:02.699
+so companies can change can change hands
+
+0:00:59.329,0:01:04.650
+another story from the last last week is
+
+0:01:02.699,0:01:08.580
+that Clearview AI which is the
+
+0:01:04.650,0:01:11.369
+incredibly controversial facial
+
+0:01:08.580,0:01:13.260
+recognition software that kind of
+
+0:01:11.369,0:01:15.299
+violated the terms of service for most
+
+0:01:13.260,0:01:18.210
+major companies to scrape faces from
+
+0:01:15.299,0:01:20.460
+everywhere its entire client list was
+
+0:01:18.210,0:01:25.130
+stolen in a data breach and has since
+
+0:01:20.460,0:01:27.720
+been published and includes a variety of
+
+0:01:25.130,0:01:30.630
+governments also lots of companies I
+
+0:01:27.720,0:01:33.090
+think it's remember definitely over a
+
+0:01:30.630,0:01:36.630
+thousand customers and then also raised
+
+0:01:33.090,0:01:38.939
+security concerns about just the fact
+
+0:01:36.630,0:01:42.390
+that they had this data breach and then
+
+0:01:38.939,0:01:44.159
+there was a separate article forget some
+
+0:01:42.390,0:01:45.570
+journalists were able to access some of
+
+0:01:44.159,0:01:49.290
+their kind of unsecured
+
+0:01:45.570,0:01:51.689
+app on on Amazon s3 I believe and so
+
+0:01:49.290,0:01:53.130
+they didn't have a client login but they
+
+0:01:51.689,0:01:57.750
+could still tell certain things about
+
+0:01:53.130,0:01:59.729
+the app so that's a news story last week
+
+0:01:57.750,0:02:01.799
+I shared about the story about how Saudi
+
+0:01:59.729,0:02:06.329
+Arabia infiltrated Twitter and this was
+
+0:02:01.799,0:02:09.179
+with two twitter employees who kind of
+
+0:02:06.329,0:02:10.670
+ended up being bought by the Saudi
+
+0:02:09.179,0:02:14.100
+Arabian government to pass information
+
+0:02:10.670,0:02:16.320
+the article though mentioned
+
+0:02:14.100,0:02:18.180
+someone on Twitter's team set our
+
+0:02:16.320,0:02:20.420
+formerly on Twitter's team mentioned how
+
+0:02:18.180,0:02:24.630
+it was very common to be approached by
+
+0:02:20.420,0:02:27.300
+governments including the US the CIA the
+
+0:02:24.630,0:02:28.590
+UK government so many governments had
+
+0:02:27.300,0:02:31.070
+approached them so this is another thing
+
+0:02:28.590,0:02:33.720
+that can happen with your data either
+
+0:02:31.070,0:02:35.940
+employees can be secretly sharing it or
+
+0:02:33.720,0:02:39.720
+governments can request request access
+
+0:02:35.940,0:02:42.420
+and in some cases get it and then we
+
+0:02:39.720,0:02:46.560
+also saw the example of police officers
+
+0:02:42.420,0:02:48.600
+widely abusing confidential databases in
+
+0:02:46.560,0:02:51.600
+many cases to stock former romantic
+
+0:02:48.600,0:02:59.340
+partners or to harass people who were
+
+0:02:51.600,0:03:01.050
+protesting police brutality and a common
+
+0:02:59.340,0:03:02.670
+kind of pattern with surveillance is
+
+0:03:01.050,0:03:06.000
+that it disproportionately harms
+
+0:03:02.670,0:03:09.450
+marginalised groups we saw this with
+
+0:03:06.000,0:03:12.390
+India's intrusive biometric ID forcing
+
+0:03:09.450,0:03:13.830
+HIV patients to forgo treatment and so
+
+0:03:12.390,0:03:15.960
+this was an article that interviewed a
+
+0:03:13.830,0:03:18.410
+number of people that were HIV positive
+
+0:03:15.960,0:03:20.310
+and had successfully been getting
+
+0:03:18.410,0:03:22.370
+antiretroviral treatment and then
+
+0:03:20.310,0:03:26.490
+stopped because they were worried about
+
+0:03:22.370,0:03:31.290
+being outed as being HIV positive or sex
+
+0:03:26.490,0:03:33.330
+workers or gay treating privacy for
+
+0:03:31.290,0:03:35.670
+survival is another tax on the poor this
+
+0:03:33.330,0:03:38.730
+is one of the this is one of the
+
+0:03:35.670,0:03:41.160
+articles I linked to last week and then
+
+0:03:38.730,0:03:43.590
+the fact that several states are
+
+0:03:41.160,0:03:46.620
+requiring prisoners to give up their
+
+0:03:43.590,0:03:52.410
+voice biometric ID in order to even be
+
+0:03:46.620,0:03:53.970
+allowed to make phone calls we also saw
+
+0:03:52.410,0:03:57.690
+that there is little evidence that
+
+0:03:53.970,0:03:59.850
+surveillance makes us safer so San
+
+0:03:57.690,0:04:01.020
+Diego's massive seven year experiment
+
+0:03:59.850,0:04:03.060
+with facial recognition technology
+
+0:04:01.020,0:04:05.070
+appears to be a flop this was something
+
+0:04:03.060,0:04:06.810
+in which I think 65,000 images were
+
+0:04:05.070,0:04:11.250
+collected and there was no proof that it
+
+0:04:06.810,0:04:14.160
+led to led to any arrests the
+
+0:04:11.250,0:04:15.990
+investigation with interviews with 40
+
+0:04:14.160,0:04:18.299
+different police departments using ring
+
+0:04:15.990,0:04:24.479
+which again found little evidence that
+
+0:04:18.299,0:04:26.460
+it's effective and then even kind of
+
+0:04:24.479,0:04:27.660
+some of the companies selling facial
+
+0:04:26.460,0:04:29.250
+recognition to
+
+0:04:27.660,0:04:33.870
+schools are admitting that it's not
+
+0:04:29.250,0:04:36.120
+going to stop stop school shootings and
+
+0:04:33.870,0:04:37.620
+then also surveillance is used to
+
+0:04:36.120,0:04:39.480
+suppress dissent and this has been shown
+
+0:04:37.620,0:04:42.330
+kind of throughout history and we have
+
+0:04:39.480,0:04:47.100
+examples happening in Hong Kong and then
+
+0:04:42.330,0:04:50.160
+also in the US and so this is very very
+
+0:04:47.100,0:04:52.530
+concerning so kind of in summary harms
+
+0:04:50.160,0:04:54.060
+the already marginalized data can be
+
+0:04:52.530,0:04:56.010
+used for other purposes whether that's
+
+0:04:54.060,0:05:00.240
+government's requesting it data breaches
+
+0:04:56.010,0:05:01.740
+sale of the company airs and data and it
+
+0:05:00.240,0:05:06.630
+stops dissent which is crucial for
+
+0:05:01.740,0:05:09.780
+social progress and that's something
+
+0:05:06.630,0:05:12.960
+that Ali pointed out last week is that
+
+0:05:09.780,0:05:15.650
+there are concerns either way so when
+
+0:05:12.960,0:05:18.180
+the system is not working properly so
+
+0:05:15.650,0:05:19.830
+the evidence that these products don't
+
+0:05:18.180,0:05:23.460
+even work or the data being full of
+
+0:05:19.830,0:05:25.860
+errors however like if you came to me
+
+0:05:23.460,0:05:28.200
+and had a new an updated study that now
+
+0:05:25.860,0:05:31.650
+ring is really effective at fighting
+
+0:05:28.200,0:05:35.430
+crime I would still think that the risk
+
+0:05:31.650,0:05:37.290
+outweigh the the positives and so my I
+
+0:05:35.430,0:05:39.390
+should say my hesitation is not just
+
+0:05:37.290,0:05:40.680
+that this doesn't work but around these
+
+0:05:39.390,0:05:42.180
+other issues and so I think it's
+
+0:05:40.680,0:05:44.040
+something that it's also bad when the
+
+0:05:42.180,0:05:47.310
+systems do work as intended because many
+
+0:05:44.040,0:05:49.250
+of the bad consequences are are about
+
+0:05:47.310,0:05:52.050
+the system kind of working as intended
+
+0:05:49.250,0:05:54.600
+and I thought the the line between these
+
+0:05:52.050,0:05:56.580
+is a bit blurry some of the examples I
+
+0:05:54.600,0:06:00.540
+wasn't sure exactly is this the system
+
+0:05:56.580,0:06:02.850
+working as intended or not you know for
+
+0:06:00.540,0:06:07.380
+instance like government collecting data
+
+0:06:02.850,0:06:09.720
+from the from a company is that kind of
+
+0:06:07.380,0:06:11.669
+the intention or not since it is such a
+
+0:06:09.720,0:06:14.250
+kind of common pattern and seems built
+
+0:06:11.669,0:06:17.310
+in so I just wanted to note this though
+
+0:06:14.250,0:06:19.710
+that it says quickly for me it's not
+
+0:06:17.310,0:06:21.750
+just that it doesn't work currently but
+
+0:06:19.710,0:06:25.320
+that there are a lot of harms even when
+
+0:06:21.750,0:06:29.000
+the system does work as intended any
+
+0:06:25.320,0:06:29.000
+more thoughts on on this
+
+0:06:30.889,0:06:38.280
+okay so oh and then I also shared the
+
+0:06:35.880,0:06:40.860
+examples this is from two weeks ago of
+
+0:06:38.280,0:06:43.289
+computer vision researchers saying that
+
+0:06:40.860,0:06:45.120
+they were giving up or considering
+
+0:06:43.289,0:06:48.000
+giving up doing computer vision research
+
+0:06:45.120,0:06:49.949
+just because the the negative
+
+0:06:48.000,0:06:52.259
+applications the military applications
+
+0:06:49.949,0:06:54.240
+and privacy concerns we're too hard to
+
+0:06:52.259,0:06:56.669
+ignore and I thought that would be a
+
+0:06:54.240,0:06:58.889
+good segue into discussing the LinkedIn
+
+0:06:56.669,0:07:02.509
+winner's article do artifacts have
+
+0:06:58.889,0:07:05.039
+politics and so this was in the reading
+
+0:07:02.509,0:07:07.169
+believe two weeks ago
+
+0:07:05.039,0:07:10.020
+and we didn't have a chance to discuss
+
+0:07:07.169,0:07:12.360
+it then but this idea of kind of rather
+
+0:07:10.020,0:07:14.400
+than thinking of technology as a neutral
+
+0:07:12.360,0:07:17.370
+tool and it's just about how the the
+
+0:07:14.400,0:07:20.070
+person using it you towards what purpose
+
+0:07:17.370,0:07:21.930
+they use it but is there something about
+
+0:07:20.070,0:07:25.229
+particular technologies that lend
+
+0:07:21.930,0:07:25.680
+themselves to certain uses and actually
+
+0:07:25.229,0:07:27.900
+this issue
+
+0:07:25.680,0:07:29.370
+I thought kind of came up and if you saw
+
+0:07:27.900,0:07:31.940
+I think this was also in the last week
+
+0:07:29.370,0:07:34.080
+the quote from the whatsapp founder
+
+0:07:31.940,0:07:36.330
+explicitly saying like this is just
+
+0:07:34.080,0:07:38.729
+technology doesn't have morals it's just
+
+0:07:36.330,0:07:40.289
+how people use it there's a lot of
+
+0:07:38.729,0:07:43.080
+discussion about that that quote on
+
+0:07:40.289,0:07:45.000
+Twitter so I wanted to ask about kind of
+
+0:07:43.080,0:07:46.770
+your thoughts both on this article and
+
+0:07:45.000,0:07:50.699
+the kind of the more general concept of
+
+0:07:46.770,0:07:52.590
+of whether whether technologies are
+
+0:07:50.699,0:07:54.449
+neutral or inclined towards toward
+
+0:07:52.590,0:07:58.800
+certain uses and sort and certain
+
+0:07:54.449,0:08:00.810
+redistributions of power yeah then the
+
+0:07:58.800,0:08:02.490
+the example the factory example really
+
+0:08:00.810,0:08:04.020
+struck me because it was kind of
+
+0:08:02.490,0:08:05.639
+presented under this veneer of like oh
+
+0:08:04.020,0:08:07.590
+this is about efficiency we're getting
+
+0:08:05.639,0:08:10.380
+these machines when really it was the
+
+0:08:07.590,0:08:12.120
+machines were less efficient than the
+
+0:08:10.380,0:08:17.039
+the workers but it was a valid about
+
+0:08:12.120,0:08:19.440
+unionization or blocking it and I think
+
+0:08:17.039,0:08:21.090
+of the zeynep defect see article from
+
+0:08:19.440,0:08:23.729
+this week kind of talks about that of
+
+0:08:21.090,0:08:25.259
+how you know initially a lot of these
+
+0:08:23.729,0:08:27.870
+technologies were seen as really kind of
+
+0:08:25.259,0:08:30.060
+democratizing or liberating forces and
+
+0:08:27.870,0:08:32.909
+then as people in power learned how to
+
+0:08:30.060,0:08:34.050
+utilize them towards their ends we're
+
+0:08:32.909,0:08:35.070
+seeing kind of the opposite where
+
+0:08:34.050,0:08:37.490
+they're becoming kind of more oppressive
+
+0:08:35.070,0:08:37.490
+forces
+
+0:08:41.990,0:08:49.530
+when reading this I like thinking about
+
+0:08:45.120,0:08:51.630
+like the early days of penny yeah
+
+0:08:49.530,0:08:57.150
+especially with all the conversation
+
+0:08:51.630,0:08:59.220
+about design and is that even if you
+
+0:08:57.150,0:09:01.830
+imagine that if fancy starts on a
+
+0:08:59.220,0:09:04.340
+certain direction the areas the
+
+0:09:01.830,0:09:10.050
+populations and the people who built it
+
+0:09:04.340,0:09:13.170
+like infrastructure or baseline design
+
+0:09:10.050,0:09:21.300
+decisions so in some ways it seems like
+
+0:09:13.170,0:09:24.150
+the whole scaffolding of suit themselves
+
+0:09:21.300,0:09:26.280
+better to be in the environments that
+
+0:09:24.150,0:09:31.640
+they were Melton a simple example could
+
+0:09:26.280,0:09:34.730
+be GPS or a travel app navigation apps
+
+0:09:31.640,0:09:38.940
+were built in cities to support cities
+
+0:09:34.730,0:09:40.770
+and you can imagine that like they
+
+0:09:38.940,0:09:42.300
+didn't work very well the early versions
+
+0:09:40.770,0:09:46.950
+in place like India which were not
+
+0:09:42.300,0:09:48.740
+structured in Japan where it didn't
+
+0:09:46.950,0:09:51.240
+stutter and required a lot of
+
+0:09:48.740,0:09:53.850
+modification in India I think in both
+
+0:09:51.240,0:09:57.840
+directions where cities we started
+
+0:09:53.850,0:10:02.790
+having defined names because people were
+
+0:09:57.840,0:10:37.820
+starting to use that's an interesting
+
+0:10:02.790,0:10:40.470
+point yeah politics I'm sure there's
+
+0:10:37.820,0:10:43.110
+much better studies and like anything I
+
+0:10:40.470,0:10:47.480
+did before but I think like inferring
+
+0:10:43.110,0:10:47.480
+the thing about heart or game uses
+
+0:10:48.019,0:11:06.379
+artifacts do change how things get use
+
+0:10:51.139,0:11:09.100
+and structure that's what you have the
+
+0:11:06.379,0:11:11.869
+rest of the context to be able to uh
+
+0:11:09.100,0:11:13.100
+yeah I think you know that's really
+
+0:11:11.869,0:11:22.910
+helpful to hear about it is about in
+
+0:11:13.100,0:11:25.519
+from archaeology the first one is that
+
+0:11:22.910,0:11:28.670
+in philosophy there's an area called
+
+0:11:25.519,0:11:31.040
+social ontology and so ontology is the
+
+0:11:28.670,0:11:34.610
+being or existence of something and so
+
+0:11:31.040,0:11:37.519
+social ontology is the study of how we
+
+0:11:34.610,0:11:41.929
+as social creatures create meaning out
+
+0:11:37.519,0:11:43.939
+of the objects world I think most social
+
+0:11:41.929,0:11:50.029
+oncologists would say that all objects
+
+0:11:43.939,0:11:52.369
+have some sort of strong meaning so
+
+0:11:50.029,0:11:54.980
+that's just comment and the second one
+
+0:11:52.369,0:11:58.730
+is that whenever you're dealing with an
+
+0:11:54.980,0:12:01.489
+object that or a system that involves
+
+0:11:58.730,0:12:07.369
+corporate profit I think that to look
+
+0:12:01.489,0:12:22.639
+closely really you know what its
+
+0:12:07.369,0:12:30.079
+intentions are well thank you we are you
+
+0:12:22.639,0:12:32.350
+getting right yes yeah yeah and we'll
+
+0:12:30.079,0:12:34.549
+talk even more about that and yeah the
+
+0:12:32.350,0:12:37.419
+ecosystem stuff in the second half of
+
+0:12:34.549,0:12:39.379
+tonight oh thank you
+
+0:12:37.419,0:12:41.269
+and this is a I should say this is
+
+0:12:39.379,0:12:46.040
+something that people kind of disagree
+
+0:12:41.269,0:12:47.959
+about then I in the interest of time I
+
+0:12:46.040,0:12:50.029
+think will not spend too long on the
+
+0:12:47.959,0:12:52.999
+Philip rogue away paper but I really I
+
+0:12:50.029,0:12:55.819
+really liked it and just a few a few
+
+0:12:52.999,0:12:57.999
+points that he makes are that
+
+0:12:55.819,0:13:00.199
+surveillance is an instrument of power
+
+0:12:57.999,0:13:01.130
+mass surveillance tends to produce
+
+0:13:00.199,0:13:03.590
+uniform come
+
+0:13:01.130,0:13:05.180
+client and shallow people privacy is a
+
+0:13:03.590,0:13:07.730
+social good which I'll talk more about
+
+0:13:05.180,0:13:09.380
+in a moment and that creeping
+
+0:13:07.730,0:13:10.820
+surveillance is hard to stop due to
+
+0:13:09.380,0:13:13.190
+interlocking corporate and government
+
+0:13:10.820,0:13:14.630
+interest and something I learned from
+
+0:13:13.190,0:13:16.670
+the paper that I didn't know before is
+
+0:13:14.630,0:13:18.860
+that Eisenhower which originally talked
+
+0:13:16.670,0:13:21.620
+about the military-industrial academic
+
+0:13:18.860,0:13:23.270
+complex in a draft of his speech but
+
+0:13:21.620,0:13:25.970
+then the final speech he just said the
+
+0:13:23.270,0:13:26.990
+military-industrial complex but I
+
+0:13:25.970,0:13:31.120
+thought that was interesting that
+
+0:13:26.990,0:13:31.120
+academia was originally in there as well
+
+0:13:32.740,0:13:44.360
+well doing a photo no yes and now I want
+
+0:13:42.290,0:13:47.690
+to talk about some kind of steps towards
+
+0:13:44.360,0:13:49.820
+solutions and I'm gonna first go through
+
+0:13:47.690,0:13:51.830
+some proposals that I do not think will
+
+0:13:49.820,0:13:55.160
+solve the problem but that come up
+
+0:13:51.830,0:13:57.650
+frequently an example of what motivates
+
+0:13:55.160,0:14:00.140
+companies to change some hope from
+
+0:13:57.650,0:14:02.540
+history the idea of privacy as a public
+
+0:14:00.140,0:14:04.610
+good and then some kind of the specific
+
+0:14:02.540,0:14:09.740
+use cases around regulating data
+
+0:14:04.610,0:14:11.480
+collection and political ads so an idea
+
+0:14:09.740,0:14:13.760
+that comes up a lot is whether we should
+
+0:14:11.480,0:14:16.850
+pay people for their data and most
+
+0:14:13.760,0:14:18.680
+recently Andrew yang announced on
+
+0:14:16.850,0:14:20.540
+Twitter last week that he is going to be
+
+0:14:18.680,0:14:23.000
+discussing this with Kara Swisher at
+
+0:14:20.540,0:14:26.320
+South by Southwest and this was kind of
+
+0:14:23.000,0:14:28.610
+one of his policy proposals and sorry I
+
+0:14:26.320,0:14:30.200
+disagree I think I see it's coming from
+
+0:14:28.610,0:14:32.630
+a good place this idea of wanting
+
+0:14:30.200,0:14:35.060
+wanting people to be compensated because
+
+0:14:32.630,0:14:37.700
+kind of their data is allowing companies
+
+0:14:35.060,0:14:42.680
+to make all this money but I disagree
+
+0:14:37.700,0:14:44.690
+with this kind of one reason is this
+
+0:14:42.680,0:14:48.260
+fails to treat privacy as a public good
+
+0:14:44.690,0:14:51.080
+and so and we saw this in kind of the
+
+0:14:48.260,0:14:53.990
+message cyclists key article last week
+
+0:14:51.080,0:14:56.360
+on kind of making these analogies with
+
+0:14:53.990,0:14:58.910
+the environment of when we had kind of
+
+0:14:56.360,0:15:02.570
+rivers catching on fire because we're so
+
+0:14:58.910,0:15:05.000
+heavily polluted or terrible smog you
+
+0:15:02.570,0:15:08.330
+know this those problems couldn't be
+
+0:15:05.000,0:15:10.880
+solved by kind of companies paying
+
+0:15:08.330,0:15:12.800
+individuals for for how they are being
+
+0:15:10.880,0:15:14.120
+impacted or letting individuals decide
+
+0:15:12.800,0:15:16.610
+like am I
+
+0:15:14.120,0:15:18.730
+okay personally with it with the company
+
+0:15:16.610,0:15:20.720
+dumping dumping this waste in the river
+
+0:15:18.730,0:15:24.230
+nam but that you needed a kind of more
+
+0:15:20.720,0:15:28.070
+collective collective response and to to
+
+0:15:24.230,0:15:30.529
+start kind of reframing privacy as as a
+
+0:15:28.070,0:15:34.190
+public good and so message referred to
+
+0:15:30.529,0:15:38.060
+it as ambient privacy which actually I
+
+0:15:34.190,0:15:39.680
+think have a slide on later the other is
+
+0:15:38.060,0:15:41.990
+that it feels to treat privacy as a
+
+0:15:39.680,0:15:43.940
+human right and so I think that there's
+
+0:15:41.990,0:15:48.320
+a concerning precedent around the idea
+
+0:15:43.940,0:15:52.160
+of kind of paying money and and this is
+
+0:15:48.320,0:15:53.750
+hard because I think how we classify and
+
+0:15:52.160,0:15:54.589
+think about privacy is still being
+
+0:15:53.750,0:15:58.100
+framed
+
+0:15:54.589,0:15:59.750
+and so one article referred to privacy
+
+0:15:58.100,0:16:01.790
+is something that emanates from human
+
+0:15:59.750,0:16:04.520
+rights which I like so even if it's not
+
+0:16:01.790,0:16:06.290
+officially a human right yet but
+
+0:16:04.520,0:16:09.050
+realizing that it's at least kind of
+
+0:16:06.290,0:16:11.210
+related to them that when we start
+
+0:16:09.050,0:16:13.550
+putting a monetary value on that that
+
+0:16:11.210,0:16:15.620
+that is kind of not a great direction to
+
+0:16:13.550,0:16:19.880
+go in because it legitimizes the idea of
+
+0:16:15.620,0:16:22.700
+kind of it not being essential and also
+
+0:16:19.880,0:16:26.089
+it kind of increases the the class
+
+0:16:22.700,0:16:28.520
+issues in which poor people may have no
+
+0:16:26.089,0:16:30.920
+choice but really feel compelled to give
+
+0:16:28.520,0:16:32.600
+up their data for money also you know
+
+0:16:30.920,0:16:34.580
+this could flip and become a scenario
+
+0:16:32.600,0:16:37.130
+more where people are paying to try to
+
+0:16:34.580,0:16:38.779
+get some sort of privacy as opposed to
+
+0:16:37.130,0:16:41.870
+being paid and kind of will exacerbate
+
+0:16:38.779,0:16:46.970
+the the class difference that we already
+
+0:16:41.870,0:16:48.890
+see it's very virtually impossible for
+
+0:16:46.970,0:16:50.060
+individuals to calculate the value of
+
+0:16:48.890,0:16:52.610
+their data this is something that's
+
+0:16:50.060,0:16:54.440
+spread of spread over time and really
+
+0:16:52.610,0:16:56.420
+changes in aggregation and it's hard as
+
+0:16:54.440,0:16:57.410
+an individual to know you know what will
+
+0:16:56.420,0:16:59.029
+happen with your data when it's
+
+0:16:57.410,0:17:04.069
+aggregated with the data of other people
+
+0:16:59.029,0:17:06.530
+and with data from other sources cryptic
+
+0:17:04.069,0:17:08.089
+Ally on Twitter who's that I will I will
+
+0:17:06.530,0:17:09.800
+leave now had a great thread on this
+
+0:17:08.089,0:17:11.510
+highlighting how this really puts the
+
+0:17:09.800,0:17:14.420
+burden of time and education on the
+
+0:17:11.510,0:17:18.829
+consumer not on the firm's that have all
+
+0:17:14.420,0:17:21.050
+the power and then Arvind Rania and also
+
+0:17:18.829,0:17:22.850
+had a great thread on this thing that
+
+0:17:21.050,0:17:24.740
+this would entrench the asymmetric and
+
+0:17:22.850,0:17:26.830
+exploitative relationship between firms
+
+0:17:24.740,0:17:29.500
+and individuals
+
+0:17:26.830,0:17:31.720
+so this is kind of my take on this and
+
+0:17:29.500,0:17:33.760
+not just my take I'm kind of many many
+
+0:17:31.720,0:17:36.910
+other privacy experts have spoken out
+
+0:17:33.760,0:17:39.930
+about this there are thoughts on kind of
+
+0:17:36.910,0:17:42.670
+this proposal or I will say that there's
+
+0:17:39.930,0:17:43.990
+even if an individual's data is not out
+
+0:17:42.670,0:17:46.000
+there there are things that I think we
+
+0:17:43.990,0:17:50.500
+lose as a society when we lose kind of a
+
+0:17:46.000,0:17:56.050
+broader sense of privacy yeah I guess
+
+0:17:50.500,0:17:58.680
+the experience that you were there's
+
+0:17:56.050,0:18:02.020
+like infinite states if you got arrested
+
+0:17:58.680,0:18:05.500
+your mug shot and other informations if
+
+0:18:02.020,0:18:08.140
+I cook online and sometimes like their
+
+0:18:05.500,0:18:09.970
+party companies and organizations will
+
+0:18:08.140,0:18:11.650
+like all think basically we host your
+
+0:18:09.970,0:18:13.810
+photo and information about your arrest
+
+0:18:11.650,0:18:15.460
+notice that before you've been tried
+
+0:18:13.810,0:18:18.550
+before you've been charged before you've
+
+0:18:15.460,0:18:20.470
+been convicted and like it's cause it's
+
+0:18:18.550,0:18:27.940
+like create like this entire industry
+
+0:18:20.470,0:18:29.710
+around like sort of like tying you to
+
+0:18:27.940,0:18:32.800
+some alleged crime that maybe you've
+
+0:18:29.710,0:18:37.390
+been found innocent of then you have to
+
+0:18:32.800,0:18:38.830
+pay like $30 it is and like $30 we may
+
+0:18:37.390,0:18:40.750
+not be a ton of money
+
+0:18:38.830,0:18:42.310
+the practical times but a lot of people
+
+0:18:40.750,0:18:45.130
+when they find out about this find it
+
+0:18:42.310,0:18:47.650
+really impulsive like personal sort of
+
+0:18:45.130,0:18:49.180
+like principal level and I think that's
+
+0:18:47.650,0:18:51.910
+sort of what goes back to this idea that
+
+0:18:49.180,0:18:55.450
+like it's not a finally it's not a
+
+0:18:51.910,0:18:56.800
+property right issue do you like it it's
+
+0:18:55.450,0:19:00.190
+not a reasonable or fair that like
+
+0:18:56.800,0:19:02.950
+somebody can take information and sort
+
+0:19:00.190,0:19:06.760
+of like coerce us into paying for that
+
+0:19:02.950,0:19:09.790
+information to be conforms to our to our
+
+0:19:06.760,0:19:11.110
+consent and the cabin information is
+
+0:19:09.790,0:19:17.770
+treated up some people arrested or
+
+0:19:11.110,0:19:25.630
+whatever but again to see it is a he or
+
+0:19:17.770,0:19:27.430
+we tend to think oh and briefly wanted
+
+0:19:25.630,0:19:30.300
+to say so differential privacy which
+
+0:19:27.430,0:19:32.080
+came up last week although not my name
+
+0:19:30.300,0:19:34.270
+under when we're talking about the
+
+0:19:32.080,0:19:36.220
+census and kind of you know what are
+
+0:19:34.270,0:19:37.360
+ways to kind of help and I think I think
+
+0:19:36.220,0:19:39.430
+that is a use case where differential
+
+0:19:37.360,0:19:40.530
+privacy can be useful I do think
+
+0:19:39.430,0:19:42.960
+differential privacy is off
+
+0:19:40.530,0:19:46.020
+overhyped and so I share some of the
+
+0:19:42.960,0:19:48.270
+critiques that that rogue away included
+
+0:19:46.020,0:19:50.250
+and in his paper that it often
+
+0:19:48.270,0:19:52.590
+implicitly assumes that the database
+
+0:19:50.250,0:19:54.840
+owner is the kind of the good guy and
+
+0:19:52.590,0:19:55.740
+that you're protecting the data from
+
+0:19:54.840,0:19:58.680
+others
+
+0:19:55.740,0:20:00.330
+I need does share a kind of rebuttal to
+
+0:19:58.680,0:20:05.370
+this of kind of more decentralized
+
+0:20:00.330,0:20:08.370
+designs although I think that kind of
+
+0:20:05.370,0:20:10.290
+default is a more centralized version
+
+0:20:08.370,0:20:11.790
+and so you know as we saw kind of with
+
+0:20:10.290,0:20:14.820
+some of the previous examples that is
+
+0:20:11.790,0:20:16.770
+often not necessarily the case it's
+
+0:20:14.820,0:20:18.600
+still kind of framing harm is something
+
+0:20:16.770,0:20:22.020
+that's individual and not necessarily
+
+0:20:18.600,0:20:23.940
+community-wide and rarely considers the
+
+0:20:22.020,0:20:25.260
+alternative of collecting less data and
+
+0:20:23.940,0:20:28.320
+so I think that's kind of a key thing
+
+0:20:25.260,0:20:30.440
+that it's important I think sometimes
+
+0:20:28.320,0:20:32.280
+technical fixes can be very appealing
+
+0:20:30.440,0:20:33.840
+but I think it's really important to
+
+0:20:32.280,0:20:37.230
+consider the kind of less technical
+
+0:20:33.840,0:20:39.180
+could we just collect less data and it
+
+0:20:37.230,0:20:41.370
+also gives corporations potentially a
+
+0:20:39.180,0:20:42.630
+means for whitewashing the risk and so
+
+0:20:41.370,0:20:44.880
+this is not to say that differential
+
+0:20:42.630,0:20:46.740
+privacy is never the answer but that I
+
+0:20:44.880,0:20:49.410
+think it can be overhyped as an answer
+
+0:20:46.740,0:20:54.150
+and I do share these kind of concerns
+
+0:20:49.410,0:20:57.180
+about when it can be misused okay so now
+
+0:20:54.150,0:20:59.660
+on towards towards solutions and so
+
+0:20:57.180,0:21:02.910
+first I'm going to share an example of
+
+0:20:59.660,0:21:06.780
+what motivated a company to do something
+
+0:21:02.910,0:21:10.440
+differently this starts very starkly
+
+0:21:06.780,0:21:12.090
+with Facebook so you know the UN a UN
+
+0:21:10.440,0:21:14.880
+has found that Facebook played a
+
+0:21:12.090,0:21:18.480
+determining role in the Myanmar Myanmar
+
+0:21:14.880,0:21:20.520
+genocide of the row hinga one of the
+
+0:21:18.480,0:21:23.610
+best articles I've read on it is from
+
+0:21:20.520,0:21:26.130
+Timothy McLaughlin and wired and he
+
+0:21:23.610,0:21:30.210
+interviewed people that warned Facebook
+
+0:21:26.130,0:21:31.980
+execs in 2013 and 2014 and 2015 about
+
+0:21:30.210,0:21:35.550
+how the platform is being used to incite
+
+0:21:31.980,0:21:37.890
+violence and the person that warned them
+
+0:21:35.550,0:21:40.020
+in 2015 even said that there was the
+
+0:21:37.890,0:21:41.850
+potential for Facebook to play the role
+
+0:21:40.020,0:21:44.880
+in Myanmar that the radio broadcast
+
+0:21:41.850,0:21:47.670
+played during the Rwandan genocide and
+
+0:21:44.880,0:21:50.580
+yet as of 2015 Facebook only had four
+
+0:21:47.670,0:21:53.400
+contractors that spoke Burmese on staff
+
+0:21:50.580,0:21:54.080
+which is just wild
+
+0:21:53.400,0:21:55.789
+it's the
+
+0:21:54.080,0:21:58.070
+terrible that they really did not take
+
+0:21:55.789,0:21:59.600
+significant action and someone said in
+
+0:21:58.070,0:22:01.370
+the article this is not 20/20 hindsight
+
+0:21:59.600,0:22:04.480
+the scale of this problem was
+
+0:22:01.370,0:22:07.669
+significant and it was already apparent
+
+0:22:04.480,0:22:09.740
+and so this is yeah kind of very tragic
+
+0:22:07.669,0:22:14.440
+and it's just really difficult to read
+
+0:22:09.740,0:22:14.440
+kind of how little action Facebook took
+
+0:22:15.399,0:22:22.220
+so then this might have been 2018 when
+
+0:22:20.269,0:22:24.289
+when Zuckerberg was testifying before
+
+0:22:22.220,0:22:26.389
+Congress and he said okay now we're
+
+0:22:24.289,0:22:28.990
+gonna hire dozens of Burmese language
+
+0:22:26.389,0:22:34.070
+content reviewers to try to address this
+
+0:22:28.990,0:22:36.799
+so in contrast Germany passed a stricter
+
+0:22:34.070,0:22:41.149
+law about hate speech called nets D D G
+
+0:22:36.799,0:22:44.960
+and Facebook hired 1200 people in under
+
+0:22:41.149,0:22:49.539
+a year and so the difference here is
+
+0:22:44.960,0:22:51.799
+that yes that Germany was if Facebook
+
+0:22:49.539,0:22:53.600
+violated the sloth they could have been
+
+0:22:51.799,0:22:56.899
+fined I think I was around 50 million
+
+0:22:53.600,0:22:59.269
+euros so a very significant number and
+
+0:22:56.899,0:23:01.610
+so yes if someone said money is the
+
+0:22:59.269,0:23:03.260
+difference between these examples and so
+
+0:23:01.610,0:23:05.720
+I'm sharing this not to say that kind of
+
+0:23:03.260,0:23:08.570
+the particular Durbin law as a model but
+
+0:23:05.720,0:23:10.190
+just this contrast between kind of being
+
+0:23:08.570,0:23:13.279
+told that you are contributing to an
+
+0:23:10.190,0:23:16.610
+actual genocide versus facing a very
+
+0:23:13.279,0:23:18.380
+hefty penalty and so that shows kind of
+
+0:23:16.610,0:23:20.029
+this is something that got Facebook to
+
+0:23:18.380,0:23:22.340
+take action when they thought there
+
+0:23:20.029,0:23:24.500
+would be a substantial kind of penalty
+
+0:23:22.340,0:23:26.750
+and it's important that the penalty is
+
+0:23:24.500,0:23:29.630
+not just a cost of doing business fine
+
+0:23:26.750,0:23:32.149
+which many end up being but it has to be
+
+0:23:29.630,0:23:34.669
+significant and a credible threat that
+
+0:23:32.149,0:23:36.440
+it's likely to happen and so I always
+
+0:23:34.669,0:23:40.970
+kind of think about this as an example
+
+0:23:36.440,0:23:42.529
+of legislation and the threat of
+
+0:23:40.970,0:23:49.940
+credible and significant financial
+
+0:23:42.529,0:23:52.789
+penalties making an impact yes yeah
+
+0:23:49.940,0:23:54.070
+because gdpr is something that and and
+
+0:23:52.789,0:23:56.870
+some of this is I think there is
+
+0:23:54.070,0:23:59.000
+definitely more up to see kind of how
+
+0:23:56.870,0:24:00.559
+strictly gdpr is enforced and in what
+
+0:23:59.000,0:24:04.039
+cases but yeah that kind of credible
+
+0:24:00.559,0:24:05.789
+threat of a significant penalty can can
+
+0:24:04.039,0:24:09.869
+motivate companies in a way that
+
+0:24:05.789,0:24:12.629
+nothing else does yeah so I wanted to
+
+0:24:09.869,0:24:13.590
+kind of share that I'm some some hope
+
+0:24:12.629,0:24:15.899
+from history
+
+0:24:13.590,0:24:19.519
+so I find I mean I think the problems
+
+0:24:15.899,0:24:19.519
+were facing in many areas are pretty
+
+0:24:19.549,0:24:25.229
+overwhelming and complex and so I know
+
+0:24:22.440,0:24:26.759
+that can feel kind of discouraging of
+
+0:24:25.229,0:24:28.859
+just how can we even tackle this when it
+
+0:24:26.759,0:24:31.440
+seems so complex and so I think it's
+
+0:24:28.859,0:24:33.239
+helpful to remember kind of previous
+
+0:24:31.440,0:24:35.429
+successes but many of which I kind of
+
+0:24:33.239,0:24:37.080
+now take for granted something I really
+
+0:24:35.429,0:24:39.210
+liked about data sheets for data sets
+
+0:24:37.080,0:24:42.840
+which was assigned reading and week two
+
+0:24:39.210,0:24:45.200
+is that they covered three case studies
+
+0:24:42.840,0:24:47.479
+of how standardization and regular as a
+
+0:24:45.200,0:24:51.090
+regulation came to different industries
+
+0:24:47.479,0:24:55.139
+and so one in particular I'll talk about
+
+0:24:51.090,0:24:56.669
+is car safety I also listen to a 99%
+
+0:24:55.139,0:24:58.349
+invisible episode on this that was
+
+0:24:56.669,0:25:02.580
+really fascinating this is a design
+
+0:24:58.349,0:25:04.619
+podcast but early cars had sharp metal
+
+0:25:02.580,0:25:08.159
+knobs on the dashboard that was lodged
+
+0:25:04.619,0:25:09.840
+in people's skulls during crashes non
+
+0:25:08.159,0:25:12.090
+collapsible steering columns would
+
+0:25:09.840,0:25:14.129
+frequently impale drivers and the
+
+0:25:12.090,0:25:16.979
+collapsible steering column was invented
+
+0:25:14.129,0:25:18.499
+but was not implemented for many many
+
+0:25:16.979,0:25:21.749
+years because there was no financial
+
+0:25:18.499,0:25:23.879
+reason to implement it but it's said
+
+0:25:21.749,0:25:26.999
+that the collapsible steering column has
+
+0:25:23.879,0:25:28.200
+saved more lives than related to car
+
+0:25:26.999,0:25:32.759
+safety than anything other than
+
+0:25:28.200,0:25:34.679
+seatbelts there's also this widespread
+
+0:25:32.759,0:25:36.929
+belief that cars were dangerous because
+
+0:25:34.679,0:25:38.840
+of the people driving them and so for
+
+0:25:36.929,0:25:40.950
+really for decades the kind of
+
+0:25:38.840,0:25:42.389
+prevailing sentiment was like you know
+
+0:25:40.950,0:25:44.879
+cars are just the way they are this is
+
+0:25:42.389,0:25:47.279
+how cars are the problem is when we have
+
+0:25:44.879,0:25:50.460
+bad people driving them and so there's
+
+0:25:47.279,0:25:52.619
+nothing we can do there was also the
+
+0:25:50.460,0:25:54.179
+glass they used kind of regular glass
+
+0:25:52.619,0:25:57.059
+that would shatter in very dangerous
+
+0:25:54.179,0:25:59.009
+ways and the car companies were very
+
+0:25:57.059,0:26:00.450
+resistant to people even discussing car
+
+0:25:59.009,0:26:02.220
+safety because they didn't want people
+
+0:26:00.450,0:26:03.659
+you know if people start thinking about
+
+0:26:02.220,0:26:06.299
+car safety they're gonna think about
+
+0:26:03.659,0:26:08.700
+death and accidents and so they really
+
+0:26:06.299,0:26:10.320
+tried to stifle that discussion and kind
+
+0:26:08.700,0:26:12.330
+of advocates and activists had to work
+
+0:26:10.320,0:26:15.269
+for decades to even change the
+
+0:26:12.330,0:26:17.970
+conversation around this GM hired
+
+0:26:15.269,0:26:19.500
+private detectives to shadow Ralph Nader
+
+0:26:17.970,0:26:22.590
+and try to dig up dirt on him
+
+0:26:19.500,0:26:24.000
+discredit him so it was really and I did
+
+0:26:22.590,0:26:25.950
+not know most of this history is
+
+0:26:24.000,0:26:29.520
+something that people worked very hard
+
+0:26:25.950,0:26:31.320
+and now I mean while there are many
+
+0:26:29.520,0:26:32.730
+problems with car culture it is
+
+0:26:31.320,0:26:34.710
+something at least where car companies
+
+0:26:32.730,0:26:37.080
+have acknowledged they can change their
+
+0:26:34.710,0:26:39.390
+designs they even brag about safety as a
+
+0:26:37.080,0:26:40.980
+feature and that is kind of drastically
+
+0:26:39.390,0:26:46.880
+different than the the situation a few
+
+0:26:40.980,0:26:49.950
+decades ago Claudia's got her hand up oh
+
+0:26:46.880,0:26:51.510
+you do or don't okay can you pass the
+
+0:26:49.950,0:26:53.010
+ketchup ox back I'll say one more thing
+
+0:26:51.510,0:26:57.290
+about cars while you're passing it back
+
+0:26:53.010,0:26:59.940
+it was only in 2011 that they may
+
+0:26:57.290,0:27:01.620
+undetected to also represent the average
+
+0:26:59.940,0:27:04.110
+woman's body and not just be
+
+0:27:01.620,0:27:06.870
+representing men and again that's 2011
+
+0:27:04.110,0:27:08.040
+so relatively recently um I think that's
+
+0:27:06.870,0:27:12.240
+also just kind of a very concrete
+
+0:27:08.040,0:27:15.150
+example of kind of the dif difference
+
+0:27:12.240,0:27:16.710
+that the regulation can make I mean
+
+0:27:15.150,0:27:18.990
+something and I don't know what the more
+
+0:27:16.710,0:27:21.420
+recent statistics are but up until that
+
+0:27:18.990,0:27:23.160
+point women were 40% more likely to be
+
+0:27:21.420,0:27:26.370
+injured in a car crash of the same
+
+0:27:23.160,0:27:27.930
+impact compared to a man and kind of
+
+0:27:26.370,0:27:31.700
+very likely due to these differences in
+
+0:27:27.930,0:27:31.700
+testing all right Claudia
+
+0:27:38.060,0:27:52.530
+it just seems so much slower then the
+
+0:27:42.840,0:27:56.910
+rate at which technology yeah you know
+
+0:27:52.530,0:27:58.770
+things have changed dramatically so you
+
+0:27:56.910,0:28:02.580
+know I don't know how to for them to
+
+0:27:58.770,0:28:09.180
+implement seatbelts or car seats for
+
+0:28:02.580,0:28:10.800
+kids but I don't know yeah I know and
+
+0:28:09.180,0:28:12.020
+that is and that is a valid point this
+
+0:28:10.800,0:28:17.240
+was something that took a while
+
+0:28:12.020,0:28:17.240
+technology is rapidly rapidly evolving
+
+0:28:17.600,0:28:22.110
+and it is I mean there are other ways
+
+0:28:19.860,0:28:24.570
+that kind of the the parallels for the
+
+0:28:22.110,0:28:27.150
+other other interesting point they make
+
+0:28:24.570,0:28:29.820
+is just beginning to even collect the
+
+0:28:27.150,0:28:31.980
+kind of data on car crashes was kind of
+
+0:28:29.820,0:28:34.299
+a key key victory to even kind of have
+
+0:28:31.980,0:28:38.140
+that day
+
+0:28:34.299,0:28:42.110
+well I don't even think we've had well
+
+0:28:38.140,0:28:46.630
+yeah we'd have the car crashes data wise
+
+0:28:42.110,0:28:51.110
+but I feel like policymakers don't even
+
+0:28:46.630,0:28:54.679
+get the internet yet so how are they
+
+0:28:51.110,0:28:58.549
+going to get a grip on this in a timely
+
+0:28:54.679,0:29:02.090
+manner yeah and that is a concern about
+
+0:28:58.549,0:29:04.309
+a timely manner another analogy I'm
+
+0:29:02.090,0:29:06.320
+Julia Angwin who was a senior reporter
+
+0:29:04.309,0:29:09.500
+at Pro Publica and now is editor in
+
+0:29:06.320,0:29:12.860
+chief of the markup and I'm gonna ship
+
+0:29:09.500,0:29:14.929
+link to an interview she gave in a few
+
+0:29:12.860,0:29:16.790
+slides but one thing she compared it to
+
+0:29:14.929,0:29:17.750
+the Industrial Revolution and talked
+
+0:29:16.790,0:29:21.110
+about you know with the Industrial
+
+0:29:17.750,0:29:22.700
+Revolution we had a few decades of you
+
+0:29:21.110,0:29:24.740
+know children working in factories
+
+0:29:22.700,0:29:27.200
+12-hour days and incredibly unsafe
+
+0:29:24.740,0:29:30.020
+conditions and she talks about how it
+
+0:29:27.200,0:29:31.880
+just took a while to even kind of gather
+
+0:29:30.020,0:29:33.830
+the language and be able to describe the
+
+0:29:31.880,0:29:36.110
+problem and then journalists kind of had
+
+0:29:33.830,0:29:37.880
+to do a lot of this just even covering
+
+0:29:36.110,0:29:39.380
+what is the problem and how do we talk
+
+0:29:37.880,0:29:42.559
+about this and that you know and then
+
+0:29:39.380,0:29:44.870
+the kind of from there that helps for
+
+0:29:42.559,0:29:47.299
+kind of advocates for organizing around
+
+0:29:44.870,0:29:48.590
+this and activists and organizing but
+
+0:29:47.299,0:29:50.240
+that she says we're kind of still in
+
+0:29:48.590,0:29:51.950
+this phase of just how do we even kind
+
+0:29:50.240,0:29:56.690
+of talk about and describe the problems
+
+0:29:51.950,0:29:58.370
+we're facing which I found both kind of
+
+0:29:56.690,0:30:00.110
+reassuring that it's like okay it's okay
+
+0:29:58.370,0:30:02.179
+that you know we don't have like the
+
+0:30:00.110,0:30:04.040
+this is the exact solution to implement
+
+0:30:02.179,0:30:05.870
+but that we do need to kind of just even
+
+0:30:04.040,0:30:07.400
+talk about the problems and kind of
+
+0:30:05.870,0:30:14.870
+build up our language and understanding
+
+0:30:07.400,0:30:16.520
+of them and then I'll say I'm data
+
+0:30:14.870,0:30:19.400
+sheets for data sets also talked about
+
+0:30:16.520,0:30:21.559
+the pharmaceutical industry and the
+
+0:30:19.400,0:30:23.600
+industry for kind of electronic
+
+0:30:21.559,0:30:28.280
+components like circuits and resistors
+
+0:30:23.600,0:30:31.370
+and transistors so then there is the
+
+0:30:28.280,0:30:34.100
+example from Missy to Klaus keys post
+
+0:30:31.370,0:30:37.460
+that I mentioned earlier of you know
+
+0:30:34.100,0:30:39.470
+just kind of pollution and and again
+
+0:30:37.460,0:30:40.669
+this is an area where it can be
+
+0:30:39.470,0:30:42.799
+discouraging because we are still facing
+
+0:30:40.669,0:30:44.360
+very significant environmental issues
+
+0:30:42.799,0:30:45.410
+but to look back at some of the
+
+0:30:44.360,0:30:47.570
+environmental wins
+
+0:30:45.410,0:30:50.210
+that we that we've had can be helpful to
+
+0:30:47.570,0:30:51.620
+just kind of remember that we have we
+
+0:30:50.210,0:30:53.780
+have made some progress on this issue
+
+0:30:51.620,0:30:59.030
+and kind of what those what those wins
+
+0:30:53.780,0:31:01.160
+can look like he wrote the
+
+0:30:59.030,0:31:03.860
+infrastructure of mass surveillance is
+
+0:31:01.160,0:31:05.540
+too complex and the tech oligopoly too
+
+0:31:03.860,0:31:09.710
+powerful to make it meaningful to talk
+
+0:31:05.540,0:31:11.360
+about individual consent to what extent
+
+0:31:09.710,0:31:13.250
+is living in a surveillance saturated
+
+0:31:11.360,0:31:16.430
+world compatible with pluralism and
+
+0:31:13.250,0:31:18.170
+democracy which is also kind of a I
+
+0:31:16.430,0:31:19.220
+think a big question to consider and get
+
+0:31:18.170,0:31:21.620
+that kind of what we were talking about
+
+0:31:19.220,0:31:24.650
+earlier with public goods but this
+
+0:31:21.620,0:31:27.380
+notion that kind of ambient privacy and
+
+0:31:24.650,0:31:29.540
+having a society where not all our
+
+0:31:27.380,0:31:32.690
+interactions are on the record can have
+
+0:31:29.540,0:31:33.890
+kind of positive positive impacts and I
+
+0:31:32.690,0:31:36.440
+think there I think there are a lot of
+
+0:31:33.890,0:31:42.260
+kind of helpful analogies to me made
+
+0:31:36.440,0:31:43.880
+there what kind of the environment in
+
+0:31:42.260,0:31:45.350
+sorry I'll get to slightly more positive
+
+0:31:43.880,0:31:46.880
+framing in a moment
+
+0:31:45.350,0:31:49.310
+now this is the the towards solutions
+
+0:31:46.880,0:31:50.480
+section but I do I do really think it's
+
+0:31:49.310,0:31:53.240
+helpful to try to kind of learn from
+
+0:31:50.480,0:31:58.250
+history and then look at it victories in
+
+0:31:53.240,0:31:59.870
+history so this I really liked this this
+
+0:31:58.250,0:32:02.540
+was an interview with Julia Angwin and
+
+0:31:59.870,0:32:03.980
+Trevor Paglen and they kind of argue
+
+0:32:02.540,0:32:06.110
+that even privacy they think it's not
+
+0:32:03.980,0:32:09.590
+the right right framing for what we're
+
+0:32:06.110,0:32:12.500
+talking about and so I think this quote
+
+0:32:09.590,0:32:14.860
+was from Trevor who's an artist but he
+
+0:32:12.500,0:32:18.350
+refers to anonymity as a public resource
+
+0:32:14.860,0:32:19.370
+and so kind of thinking about says there
+
+0:32:18.350,0:32:21.170
+you know there are a lot of kind of
+
+0:32:19.370,0:32:23.480
+de-facto rights and liberties that arise
+
+0:32:21.170,0:32:25.700
+from not having every single action in
+
+0:32:23.480,0:32:27.680
+your everyday life having economic and
+
+0:32:25.700,0:32:29.330
+political consequences and that's
+
+0:32:27.680,0:32:30.680
+something that kind of we've been
+
+0:32:29.330,0:32:35.060
+drawing from and not necessarily
+
+0:32:30.680,0:32:37.610
+realizing the the benefit of and Julia
+
+0:32:35.060,0:32:39.290
+said I really like this framing privacy
+
+0:32:37.610,0:32:40.700
+is not about wanting to be alone it's
+
+0:32:39.290,0:32:42.680
+about wanting to be able to participate
+
+0:32:40.700,0:32:44.660
+in the wonderful connectedness that the
+
+0:32:42.680,0:32:46.610
+Internet has brought to the world but
+
+0:32:44.660,0:32:48.350
+without giving everything up kind of
+
+0:32:46.610,0:32:49.340
+recognizing that there are you know is
+
+0:32:48.350,0:32:52.070
+something wonderful about being
+
+0:32:49.340,0:32:54.410
+connected and the privacy is not an
+
+0:32:52.070,0:32:56.000
+anti-social thing but it's about kind of
+
+0:32:54.410,0:33:00.190
+wanting to enjoy some of these benefits
+
+0:32:56.000,0:33:03.559
+without having to sacrifice so much
+
+0:33:00.190,0:33:07.190
+okay so now a kind of a hopeful hopeful
+
+0:33:03.559,0:33:09.620
+story so this is tuwana petit who gave
+
+0:33:07.190,0:33:13.429
+one of the keynotes at our tech policy
+
+0:33:09.620,0:33:15.800
+workshop and she's a director of digital
+
+0:33:13.429,0:33:20.600
+justice for the Detroit tech community
+
+0:33:15.800,0:33:22.040
+or Detroit community tech project and so
+
+0:33:20.600,0:33:23.990
+in Detroit and I think we talked about
+
+0:33:22.040,0:33:25.429
+this last time has this project
+
+0:33:23.990,0:33:27.730
+greenlight that's putting kind of
+
+0:33:25.429,0:33:30.260
+surveillance cameras all over the place
+
+0:33:27.730,0:33:31.400
+and she talked about this program
+
+0:33:30.260,0:33:34.070
+they're doing called green chairs
+
+0:33:31.400,0:33:36.890
+instead of green lights and the idea is
+
+0:33:34.070,0:33:39.110
+to give people free chairs if they'll
+
+0:33:36.890,0:33:41.600
+agree to sit on their porches more and
+
+0:33:39.110,0:33:44.230
+talk to their neighbors and this
+
+0:33:41.600,0:33:48.559
+actually started believe in the 80s in
+
+0:33:44.230,0:33:50.210
+Michigan and they're kind of people were
+
+0:33:48.559,0:33:52.010
+worried about like the safety safety of
+
+0:33:50.210,0:33:53.540
+children walking home from school and so
+
+0:33:52.010,0:33:55.250
+they did this community project of let's
+
+0:33:53.540,0:33:57.080
+have more people sitting outside during
+
+0:33:55.250,0:33:59.690
+the hours that children are walking home
+
+0:33:57.080,0:34:02.030
+from school and get people talking to
+
+0:33:59.690,0:34:04.220
+their neighbors more again and that was
+
+0:34:02.030,0:34:06.380
+kind of successful honest I really liked
+
+0:34:04.220,0:34:12.020
+this and so this is a very like low-tech
+
+0:34:06.380,0:34:13.520
+solution and she contrasted oh it's
+
+0:34:12.020,0:34:15.200
+gonna thought it quoted it I wrote about
+
+0:34:13.520,0:34:18.560
+this and I linked to a source about in a
+
+0:34:15.200,0:34:20.780
+blog post I wrote last month but she
+
+0:34:18.560,0:34:22.340
+said that surveillance is not safety and
+
+0:34:20.780,0:34:24.770
+so kind of making this distinction
+
+0:34:22.340,0:34:27.590
+between kind of surveillance and more
+
+0:34:24.770,0:34:29.419
+cameras and kind of what actually makes
+
+0:34:27.590,0:34:30.980
+people feel safe and potentially having
+
+0:34:29.419,0:34:33.379
+more community and better relationships
+
+0:34:30.980,0:34:37.250
+with their neighbors can contribute to
+
+0:34:33.379,0:34:39.320
+safety roman Chowdhury something she
+
+0:34:37.250,0:34:42.109
+said at the conference that that stood
+
+0:34:39.320,0:34:44.690
+out to me was that how surveillance is
+
+0:34:42.109,0:34:47.840
+often kind of part of increasing
+
+0:34:44.690,0:34:51.139
+militarization and even though it's kind
+
+0:34:47.840,0:34:53.240
+of in the name of increasing safety we
+
+0:34:51.139,0:34:56.629
+think of heavily militarized societies
+
+0:34:53.240,0:34:57.920
+is pretty low trusts or societies and so
+
+0:34:56.629,0:34:59.390
+that the kind of the relationship
+
+0:34:57.920,0:35:02.450
+doesn't seem to hold in terms of
+
+0:34:59.390,0:35:04.460
+militarization doesn't actually make
+
+0:35:02.450,0:35:07.240
+people kind of safe or increased trust
+
+0:35:04.460,0:35:07.240
+in society
+
+0:35:09.529,0:35:14.970
+so okay now I'm gonna talk about some
+
+0:35:13.109,0:35:16.440
+kind of so this is kind of I like this
+
+0:35:14.970,0:35:18.359
+example of just thinking about you know
+
+0:35:16.440,0:35:20.910
+what are some kind of not necessarily
+
+0:35:18.359,0:35:22.559
+even involving technology solutions that
+
+0:35:20.910,0:35:24.329
+could address kind of the the same sort
+
+0:35:22.559,0:35:28.980
+of problems that that surveillance is
+
+0:35:24.329,0:35:30.839
+offering to address on to policy
+
+0:35:28.980,0:35:32.160
+proposals and so these are going to be
+
+0:35:30.839,0:35:37.619
+kind of a little bit more narrow in
+
+0:35:32.160,0:35:41.190
+their focus this was a op-ed in The New
+
+0:35:37.619,0:35:43.289
+York Times by the author of I think
+
+0:35:41.190,0:35:46.950
+since the anti social network is the
+
+0:35:43.289,0:35:49.559
+name of his book but he says the this is
+
+0:35:46.950,0:35:52.140
+seva divide high and high an eighth on
+
+0:35:49.559,0:35:53.880
+the key is to limit data collection and
+
+0:35:52.140,0:35:56.039
+the use of personal data to ferry ads
+
+0:35:53.880,0:35:58.200
+and other content to discrete segments
+
+0:35:56.039,0:36:01.950
+of Facebook users unfortunately that's
+
+0:35:58.200,0:36:04.559
+the core of Facebook's business model so
+
+0:36:01.950,0:36:06.210
+one concrete proposal that could
+
+0:36:04.559,0:36:08.430
+potentially work in the u.s. would be to
+
+0:36:06.210,0:36:10.230
+restrict the targeting of political ads
+
+0:36:08.430,0:36:12.420
+in any medium to the level of the
+
+0:36:10.230,0:36:14.880
+electoral electoral district of the race
+
+0:36:12.420,0:36:16.680
+so kind of not allowing you know this
+
+0:36:14.880,0:36:19.619
+extreme micro targeting but really
+
+0:36:16.680,0:36:21.589
+trying to keep it keep it broader other
+
+0:36:19.619,0:36:23.369
+app kind of proposals around
+
+0:36:21.589,0:36:25.170
+advertisements or you know to have them
+
+0:36:23.369,0:36:27.029
+based on the content of the page you're
+
+0:36:25.170,0:36:31.769
+looking at not so much on this
+
+0:36:27.029,0:36:34.410
+compilation of your personal data this
+
+0:36:31.769,0:36:37.230
+was a report that came from John Hopkins
+
+0:36:34.410,0:36:39.480
+and you'ens UNC and one of the authors
+
+0:36:37.230,0:36:41.339
+said there was even bipartisan agreement
+
+0:36:39.480,0:36:43.799
+on how to regulate digital ads in a
+
+0:36:41.339,0:36:46.170
+basic way similar to how TV ads are
+
+0:36:43.799,0:36:49.529
+governed more transparency databases of
+
+0:36:46.170,0:36:52.259
+content actual government oversight and
+
+0:36:49.529,0:36:54.809
+so this is something that we kind of had
+
+0:36:52.259,0:36:56.759
+for particularly for political ads on TV
+
+0:36:54.809,0:37:03.839
+that we don't yet have for for digital
+
+0:36:56.759,0:37:06.839
+ads and as zeynep defect she wrote an
+
+0:37:03.839,0:37:08.430
+article in 2018 and this is during the
+
+0:37:06.839,0:37:10.019
+Facebook hearings and she actually said
+
+0:37:08.430,0:37:11.609
+you know we don't need to interview mark
+
+0:37:10.019,0:37:13.170
+zuckerberg we already know more than
+
+0:37:11.609,0:37:15.740
+enough about facebook we can just look
+
+0:37:13.170,0:37:18.359
+at their actions for the last 10 years
+
+0:37:15.740,0:37:20.910
+and she proposed that data collection
+
+0:37:18.359,0:37:23.640
+should only be through clear concise and
+
+0:37:20.910,0:37:26.250
+often people should have access to all
+
+0:37:23.640,0:37:27.930
+data collected on them data collection
+
+0:37:26.250,0:37:29.940
+should be limited to specifically
+
+0:37:27.930,0:37:31.620
+enumerated purposes and I think this
+
+0:37:29.940,0:37:34.830
+also includes the time limit that came
+
+0:37:31.620,0:37:36.090
+up in previous a previous class but the
+
+0:37:34.830,0:37:37.830
+idea of you know when data is collected
+
+0:37:36.090,0:37:40.260
+it's we're gonna use it for this purpose
+
+0:37:37.830,0:37:41.580
+for this length of time and that's it as
+
+0:37:40.260,0:37:43.530
+opposed to right now where it's kind of
+
+0:37:41.580,0:37:50.250
+this you know indefinite they have it
+
+0:37:43.530,0:37:53.820
+forever I'm actually I'll pot oh
+
+0:37:50.250,0:37:55.650
+actually you work okay I will finish
+
+0:37:53.820,0:37:57.180
+this I think I just have like two slides
+
+0:37:55.650,0:37:59.120
+left and no it will have our break you
+
+0:37:57.180,0:38:02.640
+know we're running a little bit late so
+
+0:37:59.120,0:38:05.730
+quote I like to remember from Zeynep who
+
+0:38:02.640,0:38:07.890
+I really admire is what we need to fear
+
+0:38:05.730,0:38:10.410
+most is not what AI will do to us on its
+
+0:38:07.890,0:38:12.750
+own but how people in power will use AI
+
+0:38:10.410,0:38:14.430
+to control and manipulate us and so I
+
+0:38:12.750,0:38:16.170
+think that's a kind of important
+
+0:38:14.430,0:38:19.410
+principle to keep in mind when
+
+0:38:16.170,0:38:23.400
+considering how how can and should we
+
+0:38:19.410,0:38:25.830
+regulate and then these are kind of some
+
+0:38:23.400,0:38:30.350
+of the top experts I recommend following
+
+0:38:25.830,0:38:30.350
+on on issues of privacy and surveillance
+
+0:38:34.640,0:38:39.060
+and then with that we'll take we'll take
+
+0:38:37.470,0:38:42.200
+our seven minute break so let's meet
+
+0:38:39.060,0:38:42.200
+back at 7:15
+

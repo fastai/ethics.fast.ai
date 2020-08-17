@@ -1,0 +1,3633 @@
+0:00:00.000,0:00:03.720
+all right so algorithmic colonialism and
+
+0:00:02.040,0:00:05.190
+actually week six is gonna have two
+
+0:00:03.720,0:00:06.299
+separate parts we'll talk some about
+
+0:00:05.190,0:00:08.490
+colonialism
+
+0:00:06.299,0:00:10.440
+and then I want to talk about kind of
+
+0:00:08.490,0:00:14.429
+next steps and where do we go from here
+
+0:00:10.440,0:00:18.090
+or after that so I had some articles
+
+0:00:14.429,0:00:23.970
+about Facebook's internet.org which was
+
+0:00:18.090,0:00:26.730
+later rebranded as free basics and this
+
+0:00:23.970,0:00:27.900
+is something like I definitely remember
+
+0:00:26.730,0:00:30.420
+years ago when I first heard about
+
+0:00:27.900,0:00:35.399
+internet.org assumed it was a non-profit
+
+0:00:30.420,0:00:38.760
+it was not and so in this the Atlantic
+
+0:00:35.399,0:00:42.210
+article by Adrian LaFrance face book in
+
+0:00:38.760,0:00:48.120
+the new colonialism she cites this kind
+
+0:00:42.210,0:00:51.020
+of blow up on Twitter in 2016 where Marc
+
+0:00:48.120,0:00:53.100
+Andreessen kind of famous investor said
+
+0:00:51.020,0:00:55.079
+anti-colonialism has been economically
+
+0:00:53.100,0:00:58.050
+catastrophic for the Indian people for
+
+0:00:55.079,0:01:00.149
+decades why stop now it's a kind of very
+
+0:00:58.050,0:01:03.180
+offensive remark he later deleted this
+
+0:01:00.149,0:01:07.670
+tweet and this was in response to India
+
+0:01:03.180,0:01:10.590
+at the time had voted to not allow
+
+0:01:07.670,0:01:13.290
+Facebook's free basics since it was a
+
+0:01:10.590,0:01:17.430
+violation of net neutrality and the idea
+
+0:01:13.290,0:01:19.979
+of Facebook's free basics is kind of
+
+0:01:17.430,0:01:22.979
+creating this walled garden of people
+
+0:01:19.979,0:01:25.590
+who could access the internet for free
+
+0:01:22.979,0:01:28.290
+that's all in quotation marks because it
+
+0:01:25.590,0:01:30.329
+was they could access Facebook and a
+
+0:01:28.290,0:01:32.579
+select list of kind of white listed
+
+0:01:30.329,0:01:34.799
+sites in which US corporations were
+
+0:01:32.579,0:01:36.810
+over-represented but they would have to
+
+0:01:34.799,0:01:40.560
+pay to access other sites and so for
+
+0:01:36.810,0:01:42.659
+people that couldn't afford data you
+
+0:01:40.560,0:01:44.939
+know this is really kind of steering
+
+0:01:42.659,0:01:47.159
+them into what websites they will they
+
+0:01:44.939,0:01:49.590
+will visit and many of them were you
+
+0:01:47.159,0:01:51.869
+know accessing FIFA accessing the web
+
+0:01:49.590,0:01:54.210
+through Facebook as their as their
+
+0:01:51.869,0:01:56.159
+portal and I forgot to include this but
+
+0:01:54.210,0:01:59.430
+there have been studies and kind of in
+
+0:01:56.159,0:02:02.340
+many many countries in the global south
+
+0:01:59.430,0:02:04.680
+of people use Facebook in the internet
+
+0:02:02.340,0:02:06.329
+interchangeably because when they're
+
+0:02:04.680,0:02:08.729
+accessing the Internet it is through
+
+0:02:06.329,0:02:12.420
+Facebook but that means there are a lot
+
+0:02:08.729,0:02:13.560
+of kind of design decisions and
+
+0:02:12.420,0:02:15.450
+priorities from the
+
+0:02:13.560,0:02:19.830
+that influence kind of one how they
+
+0:02:15.450,0:02:21.780
+access sites and this was actually part
+
+0:02:19.830,0:02:23.750
+of Facebook's business development group
+
+0:02:21.780,0:02:25.590
+so the idea was kind of like oh this
+
+0:02:23.750,0:02:28.290
+potentially will lead us to more
+
+0:02:25.590,0:02:29.720
+customers later but it was pitched as
+
+0:02:28.290,0:02:32.370
+you know we're doing something nice that
+
+0:02:29.720,0:02:34.860
+we can probably profit off of later I
+
+0:02:32.370,0:02:39.120
+mean I guess another note that comes up
+
+0:02:34.860,0:02:41.190
+a lot is that in practice it's I think
+
+0:02:39.120,0:02:42.390
+often is not necessary well it varies
+
+0:02:41.190,0:02:44.940
+from country to country but in many
+
+0:02:42.390,0:02:48.450
+cases the people that are using it are
+
+0:02:44.940,0:02:50.900
+kind of paying for Internet soon after
+
+0:02:48.450,0:02:53.750
+so is it necessarily as much of a
+
+0:02:50.900,0:02:58.560
+gateway as a kind of first first
+
+0:02:53.750,0:03:02.160
+suggested so in the article they quote
+
+0:02:58.560,0:03:03.599
+an English professor at Emory saying I'm
+
+0:03:02.160,0:03:05.880
+loath to toss around words like
+
+0:03:03.599,0:03:09.900
+colonialism but it's hard to ignore the
+
+0:03:05.880,0:03:14.040
+family resemblances and they listed some
+
+0:03:09.900,0:03:17.640
+similarities about using words like
+
+0:03:14.040,0:03:20.940
+equality democracy basic rights masking
+
+0:03:17.640,0:03:23.070
+the long term profit motive justifying
+
+0:03:20.940,0:03:24.810
+the logic of partial dissemination is
+
+0:03:23.070,0:03:25.950
+better than nothing so here you know
+
+0:03:24.810,0:03:27.959
+even though it's not giving people
+
+0:03:25.950,0:03:30.390
+access to the full Internet and it's
+
+0:03:27.959,0:03:33.810
+just this shorter list of sites isn't
+
+0:03:30.390,0:03:36.140
+that better than nothing partner with
+
+0:03:33.810,0:03:43.079
+local elites invested interest and
+
+0:03:36.140,0:03:45.660
+accused critics of ingratitude and then
+
+0:03:43.079,0:03:50.540
+kind of one case study is so free basics
+
+0:03:45.660,0:03:53.609
+was or is present in the Philippines and
+
+0:03:50.540,0:03:57.920
+Facebook play kind of a very crucial
+
+0:03:53.609,0:04:00.239
+role to the election of Duarte there and
+
+0:03:57.920,0:04:02.819
+this article this is a pretty kind of
+
+0:04:00.239,0:04:04.319
+thorough article on it and the platform
+
+0:04:02.819,0:04:05.970
+is a leading provider of news and
+
+0:04:04.319,0:04:07.829
+information and it was a key engine
+
+0:04:05.970,0:04:09.150
+behind the wave of populist anger that
+
+0:04:07.829,0:04:11.549
+carried where to take all the way to the
+
+0:04:09.150,0:04:14.030
+presidency where he's been kind of
+
+0:04:11.549,0:04:16.889
+committing a number of extrajudicial
+
+0:04:14.030,0:04:20.280
+killings in the in the name of kind of a
+
+0:04:16.889,0:04:22.770
+drug war some Filipinos say Facebook
+
+0:04:20.280,0:04:25.740
+treats the Philippines as an absentee
+
+0:04:22.770,0:04:27.030
+landlord might and so it's been and
+
+0:04:25.740,0:04:28.560
+again there was a
+
+0:04:27.030,0:04:30.330
+you know Facebook and I think they did
+
+0:04:28.560,0:04:32.610
+this for many political campaigns where
+
+0:04:30.330,0:04:34.470
+you know they offered kind of help with
+
+0:04:32.610,0:04:36.660
+the campaign but on the whole has not
+
+0:04:34.470,0:04:38.370
+been not been very involved in some of
+
+0:04:36.660,0:04:41.040
+the the negative issues or
+
+0:04:38.370,0:04:52.290
+disinformation campaigns and addressing
+
+0:04:41.040,0:04:55.080
+them any questions or thoughts another
+
+0:04:52.290,0:04:57.450
+and this is a key note that Sarita a
+
+0:04:55.080,0:05:00.320
+marutas a director of research at data
+
+0:04:57.450,0:05:05.300
+and society gave on tech colonialism
+
+0:05:00.320,0:05:08.390
+kind of giving another definition of
+
+0:05:05.300,0:05:12.390
+kind of how how colonialism is is
+
+0:05:08.390,0:05:15.270
+defined and saying that a colonial
+
+0:05:12.390,0:05:18.000
+relationship ultimately is hierarchical
+
+0:05:15.270,0:05:19.950
+extractive and oak exploitative and I
+
+0:05:18.000,0:05:21.660
+thought those three adjectives were very
+
+0:05:19.950,0:05:23.160
+helpful to think about and in thinking
+
+0:05:21.660,0:05:25.979
+about tack and kind of what is the
+
+0:05:23.160,0:05:28.440
+relationship between between tech
+
+0:05:25.979,0:05:31.200
+companies and the people kind of using
+
+0:05:28.440,0:05:34.229
+technology and in which cases is a
+
+0:05:31.200,0:05:36.830
+hierarchical extractive and/or
+
+0:05:34.229,0:05:36.830
+exploitative
+
+0:05:44.889,0:05:50.899
+all right another another assigned
+
+0:05:47.539,0:05:54.289
+reading was this this one by a baby bear
+
+0:05:50.899,0:05:57.469
+hain the algorithmic colonisation of
+
+0:05:54.289,0:05:59.330
+Africa and she writes the the discourse
+
+0:05:57.469,0:06:01.519
+around data mining and a data rich
+
+0:05:59.330,0:06:03.979
+continent common language within
+
+0:06:01.519,0:06:05.929
+africa's tech scene shows the extent to
+
+0:06:03.979,0:06:08.059
+which the individual behind each data
+
+0:06:05.929,0:06:12.619
+point remains inconsequential from their
+
+0:06:08.059,0:06:15.050
+perspective and so kind of focusing you
+
+0:06:12.619,0:06:20.300
+know mining this process that's usually
+
+0:06:15.050,0:06:24.619
+about about kind of hard hard materials
+
+0:06:20.300,0:06:26.839
+not about about people the discourse of
+
+0:06:24.619,0:06:28.639
+mining people for data is reminiscent of
+
+0:06:26.839,0:06:33.009
+the colonizer attitude that declares
+
+0:06:28.639,0:06:33.009
+humans as raw material for the taking
+
+0:06:37.599,0:06:44.089
+there was an article on huawei
+
+0:06:41.779,0:06:47.779
+technicians helping African governments
+
+0:06:44.089,0:06:51.139
+by on political opponents so in Uganda
+
+0:06:47.779,0:06:54.740
+and Zambia the government was able to
+
+0:06:51.139,0:06:57.649
+contact Huawei to intercept encrypted
+
+0:06:54.740,0:06:59.269
+communications to track opponents there
+
+0:06:57.649,0:07:01.579
+was a Wall Street Journal investigation
+
+0:06:59.269,0:07:04.490
+on this I think this is incredibly
+
+0:07:01.579,0:07:08.839
+concerning and this was a map from it of
+
+0:07:04.490,0:07:12.589
+kind of how many how many countries have
+
+0:07:08.839,0:07:17.559
+surveillance projects and again you're
+
+0:07:12.589,0:07:17.559
+kind of I think getting here this weird
+
+0:07:18.009,0:07:25.399
+corporate public partnership that often
+
+0:07:21.969,0:07:28.519
+kind of this is not well not well
+
+0:07:25.399,0:07:31.550
+defined to include accountability Roman
+
+0:07:28.519,0:07:35.089
+Chowdhury talked about this in her talk
+
+0:07:31.550,0:07:36.319
+on algorithmic colonialism she said a
+
+0:07:35.089,0:07:38.779
+lot of this technology
+
+0:07:36.319,0:07:41.419
+lends itself towards the centralization
+
+0:07:38.779,0:07:43.550
+of power efficiency seems to dominate
+
+0:07:41.419,0:07:46.550
+everything but efficiency actually
+
+0:07:43.550,0:07:49.999
+pushes you towards centralization I mean
+
+0:07:46.550,0:07:52.279
+this reminded me a bit of the politics
+
+0:07:49.999,0:07:53.729
+of artifacts article again I was at a
+
+0:07:52.279,0:07:58.110
+hand or
+
+0:07:53.729,0:08:01.020
+and politics of art artifacts article of
+
+0:07:58.110,0:08:03.330
+yeah this idea of are there technologies
+
+0:08:01.020,0:08:05.099
+that lend themselves more to kind of
+
+0:08:03.330,0:08:07.469
+centralization versus versus
+
+0:08:05.099,0:08:10.169
+distribution but right now there is I
+
+0:08:07.469,0:08:16.409
+think a lot of focus on efficiency which
+
+0:08:10.169,0:08:18.120
+has has some downsides another another
+
+0:08:16.409,0:08:20.430
+quote from her talk and that in this
+
+0:08:18.120,0:08:22.860
+talk is available kind of completely as
+
+0:08:20.430,0:08:25.620
+a transcript and I believe I link to it
+
+0:08:22.860,0:08:27.839
+in the optional reading good governance
+
+0:08:25.620,0:08:29.699
+means systems of accountability the
+
+0:08:27.839,0:08:31.589
+privatization of civic digital
+
+0:08:29.699,0:08:33.180
+infrastructure is dangerous because we
+
+0:08:31.589,0:08:35.519
+don't have the same level of redress
+
+0:08:33.180,0:08:52.920
+with private companies that we do with
+
+0:08:35.519,0:08:56.899
+government okay so one question was are
+
+0:08:52.920,0:09:04.230
+there good counter examples for tech
+
+0:08:56.899,0:09:09.630
+colonialism and there was in the same
+
+0:09:04.230,0:09:12.630
+rita am root keynote at the end she does
+
+0:09:09.630,0:09:15.480
+cite some examples I think kind of
+
+0:09:12.630,0:09:19.019
+positive examples of local communities
+
+0:09:15.480,0:09:20.339
+building technology and I'll even maybe
+
+0:09:19.019,0:09:21.810
+I'll pull that up during the break as
+
+0:09:20.339,0:09:25.100
+kind of yeah as a positive counter
+
+0:09:21.810,0:09:30.360
+example that's a good question emolia
+
+0:09:25.100,0:09:33.720
+and then we have a comment oh yeah great
+
+0:09:30.360,0:09:36.959
+comment from aaron that regarding the
+
+0:09:33.720,0:09:38.790
+direct a presidency we also have to
+
+0:09:36.959,0:09:40.649
+remember that in a historical context
+
+0:09:38.790,0:09:44.639
+the Philippines was an American colony
+
+0:09:40.649,0:09:46.230
+and that's I think true of many of these
+
+0:09:44.639,0:09:48.089
+that you know we're talking about kind
+
+0:09:46.230,0:09:51.089
+of this historical definition of
+
+0:09:48.089,0:09:53.870
+colonialism and then you know this kind
+
+0:09:51.089,0:09:56.060
+of more modern technical or data cologne
+
+0:09:53.870,0:09:58.880
+colonialism but these things are not
+
+0:09:56.060,0:10:02.930
+completely separate um there's certainly
+
+0:09:58.880,0:10:02.930
+overlap in relationship there
+
+0:10:07.620,0:10:12.250
+alright then another article that I
+
+0:10:10.390,0:10:14.830
+thought interesting was this one from
+
+0:10:12.250,0:10:17.010
+nature contracting people through phone
+
+0:10:14.830,0:10:19.390
+call data improved their lives
+
+0:10:17.010,0:10:21.340
+researchers have analyzed anonymous
+
+0:10:19.390,0:10:22.780
+phone records of tens of millions of
+
+0:10:21.340,0:10:24.970
+people in low-income countries
+
+0:10:22.780,0:10:28.330
+critics questioned whether the benefits
+
+0:10:24.970,0:10:30.610
+outweigh that risk so for example the
+
+0:10:28.330,0:10:32.650
+UN's World Food Program analyzed
+
+0:10:30.610,0:10:34.030
+anonymized call records to find out
+
+0:10:32.650,0:10:36.070
+where people needed food or cash
+
+0:10:34.030,0:10:40.210
+assistance after an earthquake in Nepal
+
+0:10:36.070,0:10:42.760
+in 2015 in 2012 researchers studied
+
+0:10:40.210,0:10:44.410
+records from nearly 15 million mobile
+
+0:10:42.760,0:10:46.240
+phone subscribers in Kenya and
+
+0:10:44.410,0:10:47.740
+quantified the seasonal migrations of
+
+0:10:46.240,0:10:50.710
+people who travel to work on tea
+
+0:10:47.740,0:10:51.880
+plantations northeast of Lake Victoria
+
+0:10:50.710,0:10:56.230
+where merit
+
+0:10:51.880,0:10:57.640
+malaria is a problem and so I think some
+
+0:10:56.230,0:11:01.870
+of these I think are probably kind of
+
+0:10:57.640,0:11:04.240
+harder projects to evaluate you know are
+
+0:11:01.870,0:11:05.860
+these kind of positive or negative and I
+
+0:11:04.240,0:11:08.980
+I thought this was a very thoughtful
+
+0:11:05.860,0:11:11.920
+article kind of exploring what are some
+
+0:11:08.980,0:11:14.230
+of the downsides I think particularly I
+
+0:11:11.920,0:11:17.110
+know in the past I have not always been
+
+0:11:14.230,0:11:19.810
+critical enough around data for good
+
+0:11:17.110,0:11:22.690
+projects or the idea of the kind of the
+
+0:11:19.810,0:11:26.230
+positive potential there but recognising
+
+0:11:22.690,0:11:28.960
+the the risk and downsides and so here
+
+0:11:26.230,0:11:32.530
+they give kind of an overview of many of
+
+0:11:28.960,0:11:34.660
+the countries that have had various so
+
+0:11:32.530,0:11:37.000
+and this is where kind of cellphone data
+
+0:11:34.660,0:11:39.730
+is collected from the carrier
+
+0:11:37.000,0:11:41.410
+it is technically technically anonymized
+
+0:11:39.730,0:11:45.970
+although as we've kind of seen
+
+0:11:41.410,0:11:48.340
+previously you know their concerns of
+
+0:11:45.970,0:11:54.370
+this data really ever anonymized can it
+
+0:11:48.340,0:11:57.070
+be d anonymized so for a few examples in
+
+0:11:54.370,0:12:00.850
+Turkey international teams tracked
+
+0:11:57.070,0:12:06.610
+Syrian refugees Nepal they tracked
+
+0:12:00.850,0:12:11.200
+people after the 2015 earthquake Sierra
+
+0:12:06.610,0:12:13.210
+Leone they analyzed call records to an
+
+0:12:11.200,0:12:16.930
+examined travel restrictions during the
+
+0:12:13.210,0:12:19.700
+Ebola outbreak of 2014 to 2016
+
+0:12:16.930,0:12:21.620
+and so some of the concerns are there's
+
+0:12:19.700,0:12:23.900
+a lack of consent here this is typically
+
+0:12:21.620,0:12:25.550
+I think something that people do not
+
+0:12:23.900,0:12:28.670
+have any choice about whether whether
+
+0:12:25.550,0:12:30.620
+there are opting in or not there's the
+
+0:12:28.670,0:12:34.220
+potential for breaches of privacy even
+
+0:12:30.620,0:12:36.560
+from anonymize datasets there's the
+
+0:12:34.220,0:12:38.330
+possibility of misuse by a commercial or
+
+0:12:36.560,0:12:41.900
+government entities interested in
+
+0:12:38.330,0:12:43.550
+surveillance and then the kind of this
+
+0:12:41.900,0:12:46.460
+question of are the results even being
+
+0:12:43.550,0:12:48.620
+used in many cases kind of the you know
+
+0:12:46.460,0:12:50.660
+the conclusions may be interesting but
+
+0:12:48.620,0:12:55.370
+are they actually kind of making their
+
+0:12:50.660,0:12:58.010
+way into policy or structural changes
+
+0:12:55.370,0:13:00.920
+and are there other ways to gather this
+
+0:12:58.010,0:13:03.110
+data because in many cases also the data
+
+0:13:00.920,0:13:05.240
+necessarily I think they give an example
+
+0:13:03.110,0:13:08.810
+of you know discovering that refugees
+
+0:13:05.240,0:13:10.070
+were isolated which you know perhaps
+
+0:13:08.810,0:13:12.560
+they didn't need all these phone records
+
+0:13:10.070,0:13:15.230
+to discover would there be ways to kind
+
+0:13:12.560,0:13:18.680
+of survey people in a way where consent
+
+0:13:15.230,0:13:19.790
+is is clearer and more more upfront are
+
+0:13:18.680,0:13:26.530
+there kneeing kind of thoughts or
+
+0:13:19.790,0:13:30.140
+reactions to this article Elise yeah
+
+0:13:26.530,0:13:33.980
+yeah what I was sort of thinking about I
+
+0:13:30.140,0:13:37.400
+said start this thought about so like
+
+0:13:33.980,0:13:38.660
+back in my research group we like we
+
+0:13:37.400,0:13:39.800
+have like this database of all the
+
+0:13:38.660,0:13:41.540
+people that have been affiliated with
+
+0:13:39.800,0:13:43.880
+the group and I realized when I was
+
+0:13:41.540,0:13:45.200
+digging around in the database for some
+
+0:13:43.880,0:13:48.740
+reason that was a column of like gender
+
+0:13:45.200,0:13:50.990
+and it sort of raised all of these kinds
+
+0:13:48.740,0:13:52.850
+of questions which were like gender
+
+0:13:50.990,0:13:55.880
+identity is a really personal thing
+
+0:13:52.850,0:13:58.670
+let's move not totally relevant to the
+
+0:13:55.880,0:14:00.890
+research group and so it's questionable
+
+0:13:58.670,0:14:02.180
+why we were why we even have that column
+
+0:14:00.890,0:14:04.430
+it was like generally empty for
+
+0:14:02.180,0:14:05.600
+everybody but still the implications
+
+0:14:04.430,0:14:08.240
+that we wanted to collect that data
+
+0:14:05.600,0:14:10.640
+forever reason and like part of the
+
+0:14:08.240,0:14:12.500
+results even being used there could be
+
+0:14:10.640,0:14:14.510
+an argument that like we could be using
+
+0:14:12.500,0:14:15.950
+that if we collected it so think about
+
+0:14:14.510,0:14:18.110
+whether we have gender parity in the
+
+0:14:15.950,0:14:20.080
+group or what-have-you but we weren't
+
+0:14:18.110,0:14:22.400
+doing that so it was sort of just like
+
+0:14:20.080,0:14:24.080
+performative Lea sort of setting
+
+0:14:22.400,0:14:26.690
+ourselves up to cut data no don't tend
+
+0:14:24.080,0:14:29.210
+to use it in a useful way or an
+
+0:14:26.690,0:14:30.680
+instructor foot and
+
+0:14:29.210,0:14:31.580
+yeah so the thing there were it sort of
+
+0:14:30.680,0:14:34.790
+raised all these questions like okay
+
+0:14:31.580,0:14:36.560
+well like maybe vaguely you can just
+
+0:14:34.790,0:14:39.230
+search with something useful or positive
+
+0:14:36.560,0:14:42.710
+but this isn't actually happening that
+
+0:14:39.230,0:14:45.800
+way and if somebody's like my Mary or
+
+0:14:42.710,0:14:47.480
+something then like that information
+
+0:14:45.800,0:14:50.810
+particular getting sort of like leaked
+
+0:14:47.480,0:14:52.070
+could be it could major them in a really
+
+0:14:50.810,0:14:54.710
+serious way if they're traveling to
+
+0:14:52.070,0:14:57.410
+another country or have you so like it
+
+0:14:54.710,0:14:59.600
+just raises all of these issues or like
+
+0:14:57.410,0:15:01.790
+and also costs us a lot of energy and
+
+0:14:59.600,0:15:03.590
+effort to maintain this information to
+
+0:15:01.790,0:15:06.170
+say nothing of lighting we're not using
+
+0:15:03.590,0:15:08.030
+a penny constructive positive yes so
+
+0:15:06.170,0:15:10.700
+like what's what was the point of all
+
+0:15:08.030,0:15:13.640
+this at hurt and struggle oh yeah like
+
+0:15:10.700,0:15:15.620
+it it really raised this like sort of it
+
+0:15:13.640,0:15:17.180
+reminds me of that of that issue where
+
+0:15:15.620,0:15:20.450
+it was like there's all of this stuff
+
+0:15:17.180,0:15:24.070
+going on Barbie and all of this cool
+
+0:15:20.450,0:15:24.070
+thank you that's a great example I
+
+0:15:25.510,0:15:29.120
+should highlight something else they
+
+0:15:27.500,0:15:30.710
+talked about the article was in the
+
+0:15:29.120,0:15:32.990
+example of malaria where they were
+
+0:15:30.710,0:15:35.120
+tracking the kind of migration of people
+
+0:15:32.990,0:15:38.030
+to an area where malaria was a bigger
+
+0:15:35.120,0:15:39.380
+risk some people that work on malaria
+
+0:15:38.030,0:15:41.300
+pointed out like we already have all
+
+0:15:39.380,0:15:44.000
+these interventions that we know we work
+
+0:15:41.300,0:15:45.620
+like mosquito nets and pesticide that
+
+0:15:44.000,0:15:48.350
+aren't necessarily getting enough
+
+0:15:45.620,0:15:51.890
+support or funding you know do we need
+
+0:15:48.350,0:15:54.470
+kind of this fancy data project like as
+
+0:15:51.890,0:15:57.050
+this yielding results compared to things
+
+0:15:54.470,0:15:59.060
+that may seem kind of less less exciting
+
+0:15:57.050,0:16:05.360
+but are proven and kind of under
+
+0:15:59.060,0:16:17.080
+underfunded let me check the group chat
+
+0:16:05.360,0:16:17.080
+Oh a lot of a lot of comments
+
+0:16:19.899,0:16:29.389
+all right so I saw a read some of the
+
+0:16:26.930,0:16:31.249
+comments from the the group chat and
+
+0:16:29.389,0:16:34.490
+there's a comment that the live chat is
+
+0:16:31.249,0:16:36.350
+finicky without the growth of AI we
+
+0:16:34.490,0:16:39.709
+wouldn't have Africa's and dhaba acts
+
+0:16:36.350,0:16:45.069
+Latin America's Kapoor yeah so there are
+
+0:16:39.709,0:16:45.069
+some kind of great local movements
+
+0:16:45.399,0:16:49.309
+someone says I'm not surprised its
+
+0:16:47.449,0:16:55.459
+Huawei given the Chinese government
+
+0:16:49.309,0:17:02.720
+effort in monopolizing data yeah sure do
+
+0:16:55.459,0:17:11.959
+what that I was thinking about last week
+
+0:17:02.720,0:17:14.600
+on a CIA cia-backed surveillance by the
+
+0:17:11.959,0:17:17.390
+company that operated from like in a
+
+0:17:14.600,0:17:19.880
+world war 2 through 2018 Wow
+
+0:17:17.390,0:17:22.809
+fascinating and there was a Swiss
+
+0:17:19.880,0:17:26.480
+company there was also a clergy
+
+0:17:22.809,0:17:28.760
+intelligence and so pretty much what
+
+0:17:26.480,0:17:32.659
+they said and it soon felt cyber 8 or
+
+0:17:28.760,0:17:35.299
+crypto 80s porn directly on the detect
+
+0:17:32.659,0:17:38.630
+that we used to you know cryptography in
+
+0:17:35.299,0:17:40.520
+world war ii and and it was it was very
+
+0:17:38.630,0:17:43.070
+similar to what was described not huawei
+
+0:17:40.520,0:17:45.049
+they weren't like to attack and people
+
+0:17:43.070,0:17:46.850
+like Carter during the Egypt and it's
+
+0:17:45.049,0:17:49.429
+really the good peace negotiations was
+
+0:17:46.850,0:17:51.200
+getting direct information about what
+
+0:17:49.429,0:17:55.190
+the difference I was saying it like it
+
+0:17:51.200,0:18:04.970
+continued all wow yeah and I look that
+
+0:17:55.190,0:18:08.000
+up that's interesting thanks yeah let me
+
+0:18:04.970,0:18:10.220
+keep going and the things am route
+
+0:18:08.000,0:18:11.600
+references are in person talks community
+
+0:18:10.220,0:18:12.679
+movements which are great but I'm
+
+0:18:11.600,0:18:14.240
+wondering if there are any tech
+
+0:18:12.679,0:18:17.299
+companies building with these principles
+
+0:18:14.240,0:18:20.539
+in mind that is a good question I don't
+
+0:18:17.299,0:18:22.760
+know of any like there's no company that
+
+0:18:20.539,0:18:24.320
+I am familiar with and think of is like
+
+0:18:22.760,0:18:27.529
+oh there are a great example of
+
+0:18:24.320,0:18:30.020
+anti-colonialism I don't know if anybody
+
+0:18:27.529,0:18:31.940
+has one feel free to to share and that
+
+0:18:30.020,0:18:41.019
+goes for folks in the group chat ok
+
+0:18:31.940,0:18:44.539
+sheriff's are talking quite a bit about
+
+0:18:41.019,0:18:47.210
+when you're greedy assets from your own
+
+0:18:44.539,0:18:49.429
+data about doing direct and dainty we
+
+0:18:47.210,0:18:53.570
+have much accuse into you really want to
+
+0:18:49.429,0:18:54.470
+do that in your in your dataset mmm some
+
+0:18:53.570,0:18:58.250
+of these things that are being talked
+
+0:18:54.470,0:19:00.440
+about here and so i'm not going to have
+
+0:18:58.250,0:19:05.019
+a seven like they were trying to make
+
+0:19:00.440,0:19:07.490
+strides to imposing these very things
+
+0:19:05.019,0:19:11.179
+yeah yeah no that is China also
+
+0:19:07.490,0:19:12.830
+Salesforce doesn't let people use their
+
+0:19:11.179,0:19:15.919
+their databases for facial recognition
+
+0:19:12.830,0:19:18.409
+and I think also for making predictions
+
+0:19:15.919,0:19:24.590
+based on medical data so they do have
+
+0:19:18.409,0:19:27.110
+the accent some constraints there let me
+
+0:19:24.590,0:19:28.909
+keep keep reading it is important to
+
+0:19:27.110,0:19:31.220
+note that Africans start startups are
+
+0:19:28.909,0:19:33.049
+also using data in a way similar to
+
+0:19:31.220,0:19:37.879
+Western tech companies meaning you know
+
+0:19:33.049,0:19:39.980
+in an opaque way regarding a counter
+
+0:19:37.879,0:19:41.779
+examples to tech colonialism Indonesia
+
+0:19:39.980,0:19:43.279
+has done quite well regarding tack it
+
+0:19:41.779,0:19:45.200
+has been open to foreign tech companies
+
+0:19:43.279,0:19:48.440
+while managing to rein them in much
+
+0:19:45.200,0:19:50.419
+better than me and Mar being the fourth
+
+0:19:48.440,0:19:52.580
+largest population in the world and an
+
+0:19:50.419,0:19:54.549
+important growing market plus being a
+
+0:19:52.580,0:19:57.259
+strongest democracy helps I guess
+
+0:19:54.549,0:20:03.649
+Facebook etc has been used to spread
+
+0:19:57.259,0:20:05.149
+extremism however although tracking
+
+0:20:03.649,0:20:07.009
+people through phone call data via
+
+0:20:05.149,0:20:09.080
+endeavors such as data for good for
+
+0:20:07.009,0:20:10.909
+altruistic purposes it does offer the
+
+0:20:09.080,0:20:15.250
+possibility for governments to then use
+
+0:20:10.909,0:20:15.250
+that technology to squash dissent
+
+0:20:19.669,0:20:23.610
+Aaron says I think I think it was more
+
+0:20:21.960,0:20:26.250
+socially acceptable for faith spoke
+
+0:20:23.610,0:20:28.730
+being so widespread as a US company made
+
+0:20:26.250,0:20:32.330
+by the US has seen a superior versus
+
+0:20:28.730,0:20:37.679
+their own companies from the Philippines
+
+0:20:32.330,0:20:42.360
+okay there are a lot of comments okay I
+
+0:20:37.679,0:20:44.070
+may not read them all because I think
+
+0:20:42.360,0:20:45.090
+the most talkative part of the class is
+
+0:20:44.070,0:20:50.789
+all live-streaming
+
+0:20:45.090,0:20:53.340
+as opposed to here in person I think the
+
+0:20:50.789,0:20:56.039
+seeds of the US UK alignment goes back
+
+0:20:53.340,0:20:57.750
+to this affinity for : 't colonialist
+
+0:20:56.039,0:21:04.169
+imperialist views of creating more
+
+0:20:57.750,0:21:05.580
+capital driven markets regarding data
+
+0:21:04.169,0:21:07.440
+providers was also thinking about
+
+0:21:05.580,0:21:09.360
+telecommunications companies that are
+
+0:21:07.440,0:21:11.429
+the dominant force that allow Facebook
+
+0:21:09.360,0:21:13.380
+or other companies to be like this I
+
+0:21:11.429,0:21:16.169
+mean that is the case with Facebook's
+
+0:21:13.380,0:21:20.220
+free basics that they typically partner
+
+0:21:16.169,0:21:24.860
+with the kind of local phone company in
+
+0:21:20.220,0:21:24.860
+a country to kind of provide the service
+
+0:21:27.950,0:21:32.220
+alignment of telcos and Facebook and
+
+0:21:30.299,0:21:33.780
+developing markets in Asia largely has
+
+0:21:32.220,0:21:39.950
+to do with how the majority of telco
+
+0:21:33.780,0:21:42.030
+subscribers in dot P hid etc are prepaid
+
+0:21:39.950,0:21:43.950
+curious regarding the ethics of a
+
+0:21:42.030,0:21:46.140
+company profiting from international
+
+0:21:43.950,0:21:48.000
+customers without sharing profits and
+
+0:21:46.140,0:21:54.440
+target countries I think that's a great
+
+0:21:48.000,0:21:57.090
+point right okay I'm gonna keep going
+
+0:21:54.440,0:21:59.340
+yeah this is this is good discussion
+
+0:21:57.090,0:22:02.580
+another article I wanted to highlight
+
+0:21:59.340,0:22:04.890
+was Sarah hooker who is a researcher at
+
+0:22:02.580,0:22:08.030
+AI but she founded something called
+
+0:22:04.890,0:22:11.220
+Delta analytics which is a data for good
+
+0:22:08.030,0:22:13.500
+organization but she wrote a post on why
+
+0:22:11.220,0:22:15.270
+data for good lacks precision data for
+
+0:22:13.500,0:22:17.520
+good says little about the tools being
+
+0:22:15.270,0:22:19.289
+used the goals of the endeavor who we
+
+0:22:17.520,0:22:22.020
+are serving as I thought that was a
+
+0:22:19.289,0:22:23.820
+helpful helpful point because data for
+
+0:22:22.020,0:22:28.950
+good does get kind of bandied about
+
+0:22:23.820,0:22:31.059
+quite often indiscriminately hey let me
+
+0:22:28.950,0:22:33.580
+pick back up now
+
+0:22:31.059,0:22:36.759
+so when I kind of spend the the last
+
+0:22:33.580,0:22:38.289
+part of class talking about where we go
+
+0:22:36.759,0:22:41.110
+from here and how we can all kind of
+
+0:22:38.289,0:22:46.980
+continue this work related to data
+
+0:22:41.110,0:22:50.889
+ethics and so first I'm gonna address
+
+0:22:46.980,0:22:54.850
+confuse core common common topics that
+
+0:22:50.889,0:22:58.419
+come up and one is the risk of ethics
+
+0:22:54.850,0:23:00.249
+washing which is this is something I
+
+0:22:58.419,0:23:01.870
+think we've seen both with the green and
+
+0:23:00.249,0:23:04.659
+sustainability movement and the
+
+0:23:01.870,0:23:06.159
+diversity and inclusion movement and
+
+0:23:04.659,0:23:08.679
+it's tough because I think there are a
+
+0:23:06.159,0:23:11.379
+lot of people that genuinely can care
+
+0:23:08.679,0:23:13.860
+about about data ethics just like many
+
+0:23:11.379,0:23:16.830
+people generally genuinely care about
+
+0:23:13.860,0:23:19.899
+sustainability and diversity inclusion
+
+0:23:16.830,0:23:22.240
+but these movements can kind of get well
+
+0:23:19.899,0:23:25.749
+you know they can both get co-opted in
+
+0:23:22.240,0:23:27.340
+in ways that are are harmful and
+
+0:23:25.749,0:23:30.070
+sometimes I think it's not even an
+
+0:23:27.340,0:23:32.710
+intentional co-opting but I think there
+
+0:23:30.070,0:23:34.360
+are many people that would kind of say
+
+0:23:32.710,0:23:37.960
+that they care about diversity and
+
+0:23:34.360,0:23:39.220
+inclusion or being green but in a
+
+0:23:37.960,0:23:40.840
+company when they have to make a hard
+
+0:23:39.220,0:23:43.509
+decision that would cost the money are
+
+0:23:40.840,0:23:46.149
+not able to make that decision or see
+
+0:23:43.509,0:23:48.340
+that objectively and so kind of as a
+
+0:23:46.149,0:23:50.110
+result I think we've had a lot more talk
+
+0:23:48.340,0:23:52.629
+about all these topics than we've had in
+
+0:23:50.110,0:23:54.039
+terms of kind of concrete progress which
+
+0:23:52.629,0:23:56.440
+is not to minimize the the progress
+
+0:23:54.039,0:23:58.809
+we've had but I think kind of looking at
+
+0:23:56.440,0:24:01.690
+both of those can be helpful and seeing
+
+0:23:58.809,0:24:03.850
+what some of the pitfalls that we are
+
+0:24:01.690,0:24:07.419
+experiencing in data ethics and we'll
+
+0:24:03.850,0:24:11.049
+probably continue to experience and so
+
+0:24:07.419,0:24:13.419
+in particular I've looked at I called it
+
+0:24:11.049,0:24:15.309
+diversity branding I wrote a post in
+
+0:24:13.419,0:24:17.350
+2015 where I looked at a lot of research
+
+0:24:15.309,0:24:20.619
+on this if I could do it again I would
+
+0:24:17.350,0:24:23.049
+call this diversity washing but research
+
+0:24:20.619,0:24:24.999
+shows that many diversity programs
+
+0:24:23.049,0:24:27.190
+reduce the number of black women and
+
+0:24:24.999,0:24:28.659
+black men in management and they
+
+0:24:27.190,0:24:31.899
+slightly increase the number of white
+
+0:24:28.659,0:24:34.629
+women in management but it's they're not
+
+0:24:31.899,0:24:38.259
+having the kind of desired impact and in
+
+0:24:34.629,0:24:40.179
+fact are making things worse diversity
+
+0:24:38.259,0:24:42.129
+structures cause people to be less
+
+0:24:40.179,0:24:44.190
+likely to believe women in people of
+
+0:24:42.129,0:24:45.960
+color and as this is a
+
+0:24:44.190,0:24:49.350
+I got a really interesting study where
+
+0:24:45.960,0:24:50.700
+they they gave participants two
+
+0:24:49.350,0:24:54.029
+different and it was a it was an actual
+
+0:24:50.700,0:24:57.870
+New York Times article about a class
+
+0:24:54.029,0:25:00.120
+action lawsuit against a company by
+
+0:24:57.870,0:25:03.360
+female employees for discrimination and
+
+0:25:00.120,0:25:04.889
+in one one version they had an extra
+
+0:25:03.360,0:25:07.740
+sentence saying this company was
+
+0:25:04.889,0:25:09.600
+selected by you know working mother is a
+
+0:25:07.740,0:25:11.399
+great place to work and the other they
+
+0:25:09.600,0:25:13.320
+didn't and then they kind of asked
+
+0:25:11.399,0:25:15.059
+people how valid do you think the the
+
+0:25:13.320,0:25:17.669
+woman's complaints are against the
+
+0:25:15.059,0:25:20.279
+company for discrimination and if the
+
+0:25:17.669,0:25:21.600
+company had this you know accolade from
+
+0:25:20.279,0:25:23.899
+working mother even though there was
+
+0:25:21.600,0:25:26.370
+kind of no no detail given about that
+
+0:25:23.899,0:25:28.070
+people were less likely to believe the
+
+0:25:26.370,0:25:31.049
+woman who had experienced discrimination
+
+0:25:28.070,0:25:33.570
+and there was a kind of similar study or
+
+0:25:31.049,0:25:35.070
+similar group where they looked at a
+
+0:25:33.570,0:25:38.909
+company and they kind of added a
+
+0:25:35.070,0:25:41.309
+statement about diversity to its company
+
+0:25:38.909,0:25:43.080
+mission or company value statement and
+
+0:25:41.309,0:25:46.259
+then asked people do you believe this
+
+0:25:43.080,0:25:47.940
+account of a black employee who was
+
+0:25:46.259,0:25:49.500
+discriminated against and people were
+
+0:25:47.940,0:25:52.409
+less likely to believe it
+
+0:25:49.500,0:25:55.379
+if the if the company had diversity is
+
+0:25:52.409,0:25:58.019
+one of its values and so this is uh I
+
+0:25:55.379,0:26:01.169
+think some a way that this can be very
+
+0:25:58.019,0:26:02.549
+harmful and companies claim to care
+
+0:26:01.169,0:26:04.889
+about something or start kind of
+
+0:26:02.549,0:26:07.649
+branding themselves that way without
+
+0:26:04.889,0:26:12.059
+necessarily kind of doing the work to
+
+0:26:07.649,0:26:13.470
+improve their conditions and in some
+
+0:26:12.059,0:26:17.490
+forms of unconscious bias training
+
+0:26:13.470,0:26:19.740
+increased bias as well and so and this
+
+0:26:17.490,0:26:23.039
+is none of this is an argument like
+
+0:26:19.740,0:26:25.440
+blanket argument against diversity
+
+0:26:23.039,0:26:28.799
+programs or bias training but it's that
+
+0:26:25.440,0:26:30.059
+you have to be incredibly thoughtful
+
+0:26:28.799,0:26:31.409
+about it and I think there are people
+
+0:26:30.059,0:26:33.240
+that are doing it well but I think
+
+0:26:31.409,0:26:35.610
+they're also people that kind of not
+
+0:26:33.240,0:26:37.889
+doing it well is worse than not doing it
+
+0:26:35.610,0:26:39.830
+at all because it can have the opposite
+
+0:26:37.889,0:26:43.529
+effect and can also kind of inspire a
+
+0:26:39.830,0:26:45.750
+kind of backlash or retaliation if
+
+0:26:43.529,0:26:47.309
+there's not kind of the right structures
+
+0:26:45.750,0:26:50.399
+in place and kind of like full
+
+0:26:47.309,0:26:52.759
+commitment around it any questions about
+
+0:26:50.399,0:26:52.759
+this
+
+0:26:53.070,0:26:58.750
+and so I think there's a kind of a very
+
+0:26:56.410,0:27:07.690
+real risk that we'll see this with with
+
+0:26:58.750,0:27:09.280
+data ethics issues but again I don't
+
+0:27:07.690,0:27:10.960
+want to kind of undermine the people
+
+0:27:09.280,0:27:16.210
+that are doing good work and and
+
+0:27:10.960,0:27:19.840
+genuinely genuinely care alright so how
+
+0:27:16.210,0:27:23.320
+about ethics principles so there are a
+
+0:27:19.840,0:27:25.540
+huge number of ethics principles and I
+
+0:27:23.320,0:27:27.820
+meant to look up the exact number this
+
+0:27:25.540,0:27:30.550
+was a survey though I think of you over
+
+0:27:27.820,0:27:34.060
+over 30 different sets of AI ethics
+
+0:27:30.550,0:27:36.670
+principles and so I think at this point
+
+0:27:34.060,0:27:38.770
+it's helpful and then this was
+
+0:27:36.670,0:27:39.910
+interesting to look at kind of they're
+
+0:27:38.770,0:27:41.950
+looking at the similarities across
+
+0:27:39.910,0:27:44.140
+different ones and some of these come
+
+0:27:41.950,0:27:47.620
+from civil society some are from
+
+0:27:44.140,0:27:49.810
+governments from companies very so also
+
+0:27:47.620,0:27:51.340
+kind of different how they describe it
+
+0:27:49.810,0:27:53.590
+multi-stakeholder kind of different
+
+0:27:51.340,0:27:57.490
+groups so at this point though I do
+
+0:27:53.590,0:27:59.320
+think we probably have too many
+
+0:27:57.490,0:28:00.580
+different sets of ethics principles I
+
+0:27:59.320,0:28:04.750
+don't know that anyone needs to go and
+
+0:28:00.580,0:28:05.950
+go create their own their own set and I
+
+0:28:04.750,0:28:08.550
+think there is you know there's some
+
+0:28:05.950,0:28:12.250
+potential of how these can be used to
+
+0:28:08.550,0:28:14.230
+potentially create a system for kind of
+
+0:28:12.250,0:28:17.650
+accountability or how you even discuss
+
+0:28:14.230,0:28:19.360
+decision making there are downsides as
+
+0:28:17.650,0:28:23.410
+well though and there was a really
+
+0:28:19.360,0:28:27.940
+interesting paper by this group in AI
+
+0:28:23.410,0:28:29.560
+yes a year or two ago and they they
+
+0:28:27.940,0:28:31.450
+argue that many of the principles
+
+0:28:29.560,0:28:34.450
+proposed in AI ethics are too broad to
+
+0:28:31.450,0:28:36.220
+be useful rather than representing the
+
+0:28:34.450,0:28:37.630
+outcome of a meaningful debate on how AI
+
+0:28:36.220,0:28:38.620
+should be developed they may even
+
+0:28:37.630,0:28:40.720
+postpone it
+
+0:28:38.620,0:28:42.990
+and I think this is a very very valid
+
+0:28:40.720,0:28:46.210
+concern but I think when we have kind of
+
+0:28:42.990,0:28:47.410
+you know broad principles like me look
+
+0:28:46.210,0:28:50.040
+at some of the ones here you know
+
+0:28:47.410,0:28:53.980
+promoting human values being responsible
+
+0:28:50.040,0:28:55.270
+fairness accountability most people are
+
+0:28:53.980,0:28:56.920
+not going to say that they're against
+
+0:28:55.270,0:28:59.860
+these things but then there are all
+
+0:28:56.920,0:29:01.630
+sorts of kind of justifications that you
+
+0:28:59.860,0:29:04.240
+know this hasn't necessarily determined
+
+0:29:01.630,0:29:05.080
+you know should should law enforcement
+
+0:29:04.240,0:29:06.400
+be using face tumor
+
+0:29:05.080,0:29:09.160
+ignition or kind of a more concrete
+
+0:29:06.400,0:29:11.500
+question and that if we kind of spend
+
+0:29:09.160,0:29:13.540
+too long on kind of like the high level
+
+0:29:11.500,0:29:18.040
+or these kind of broader broader
+
+0:29:13.540,0:29:20.350
+principles we may be postponing kind of
+
+0:29:18.040,0:29:22.150
+the nitty-gritty discussion of what does
+
+0:29:20.350,0:29:24.250
+this mean in practice on kind of
+
+0:29:22.150,0:29:26.560
+particular uses and whether they should
+
+0:29:24.250,0:29:28.600
+be allowed or not and so I thought that
+
+0:29:26.560,0:29:32.250
+was kind of a good warning and this is
+
+0:29:28.600,0:29:32.250
+this is an interesting paper to read
+
+0:29:34.290,0:29:42.460
+next let me just check the whoops the
+
+0:29:37.480,0:29:44.170
+group chat so there was a question did I
+
+0:29:42.460,0:29:46.300
+say that diversity and inclusion
+
+0:29:44.170,0:29:48.880
+training can increase conflict or not
+
+0:29:46.300,0:29:52.000
+work and so I know saying is that in
+
+0:29:48.880,0:29:54.370
+some cases it has the opposite impact
+
+0:29:52.000,0:29:58.930
+from desired which is kind of even worse
+
+0:29:54.370,0:30:01.000
+than not working there was also I should
+
+0:29:58.930,0:30:03.940
+have I should have shared it Y Yvonne
+
+0:30:01.000,0:30:07.990
+Hutchinson who does is kind of founder
+
+0:30:03.940,0:30:09.580
+of a she's a former international human
+
+0:30:07.990,0:30:11.170
+rights lawyer and founder of a kind of
+
+0:30:09.580,0:30:14.320
+diversity and inclusion consulting group
+
+0:30:11.170,0:30:16.750
+had a really great thread on situations
+
+0:30:14.320,0:30:18.580
+where she refuses to do diversity
+
+0:30:16.750,0:30:21.280
+inclusion training because she thinks it
+
+0:30:18.580,0:30:23.560
+would make the situation worse and that
+
+0:30:21.280,0:30:25.420
+I will find that and post that in the
+
+0:30:23.560,0:30:28.750
+forums because that was really fantastic
+
+0:30:25.420,0:30:32.340
+on this topic of when DNI training
+
+0:30:28.750,0:30:34.450
+doesn't work and she gave an example of
+
+0:30:32.340,0:30:38.100
+police force where there was kind of
+
+0:30:34.450,0:30:41.170
+well documented issues with racism and
+
+0:30:38.100,0:30:43.090
+somebody did kind of racial unconscious
+
+0:30:41.170,0:30:44.350
+bias training and she points out that a
+
+0:30:43.090,0:30:46.000
+their issues weren't even about
+
+0:30:44.350,0:30:48.340
+unconscious bias they're about kind of
+
+0:30:46.000,0:30:49.660
+very blatant racism also that there was
+
+0:30:48.340,0:30:51.610
+no change to kind of the power
+
+0:30:49.660,0:30:54.070
+structures there's no accountability for
+
+0:30:51.610,0:30:56.670
+the people involved and in that sort of
+
+0:30:54.070,0:30:59.560
+scenario there was actually a lot of
+
+0:30:56.670,0:31:01.780
+vitriol against the person that did the
+
+0:30:59.560,0:31:03.700
+training that that kind of that person
+
+0:31:01.780,0:31:05.260
+had been set up to fail and that was a
+
+0:31:03.700,0:31:07.090
+situation where it really was kind of
+
+0:31:05.260,0:31:08.410
+just gonna increase resentment to not
+
+0:31:07.090,0:31:11.050
+actually address their underlying
+
+0:31:08.410,0:31:12.490
+problems so I'll find that thread and
+
+0:31:11.050,0:31:13.799
+link to it because that was that was
+
+0:31:12.490,0:31:18.450
+great
+
+0:31:13.799,0:31:23.519
+back to principles let's go do a case
+
+0:31:18.450,0:31:26.580
+study and so this is adapted from Chris
+
+0:31:23.519,0:31:28.440
+Wiggins and Matt Jones and so they have
+
+0:31:26.580,0:31:30.629
+mentioned this previously they have a
+
+0:31:28.440,0:31:33.869
+course at Columbia called data past
+
+0:31:30.629,0:31:36.210
+present and future and Chris Wiggins is
+
+0:31:33.869,0:31:38.210
+a applied math professor and chief data
+
+0:31:36.210,0:31:41.340
+scientist of New York Times and
+
+0:31:38.210,0:31:45.320
+Christian or Matt Jones is a history
+
+0:31:41.340,0:31:49.049
+professor and so kind of one of the
+
+0:31:45.320,0:31:51.989
+incidences they look at is the Tuskegee
+
+0:31:49.049,0:31:53.369
+syphilis trial which is just terrible so
+
+0:31:51.989,0:31:55.320
+this was something that went on for 40
+
+0:31:53.369,0:31:58.350
+years of just observing untreated
+
+0:31:55.320,0:32:00.600
+syphilis and african-american men even
+
+0:31:58.350,0:32:04.460
+though penicillin was discovered as an
+
+0:32:00.600,0:32:06.480
+effective treatment in the 40s
+
+0:32:04.460,0:32:07.919
+participants were not we're not even
+
+0:32:06.480,0:32:09.840
+told that they had syphilis and they
+
+0:32:07.919,0:32:14.039
+were not given kind of this well-known
+
+0:32:09.840,0:32:18.289
+effective treatment treatment and in
+
+0:32:14.039,0:32:21.330
+1972 a whistleblower contacted the press
+
+0:32:18.289,0:32:23.159
+in 1974 and response so there's kind of
+
+0:32:21.330,0:32:25.259
+been a big public outcry about just
+
+0:32:23.159,0:32:27.869
+ahead of how horribly unethical this had
+
+0:32:25.259,0:32:31.830
+been Congress passed the National
+
+0:32:27.869,0:32:36.690
+Research Act which led to the Belmont
+
+0:32:31.830,0:32:40.559
+principles and so and this is kind of
+
+0:32:36.690,0:32:43.379
+the the basis for IR B's institutional
+
+0:32:40.559,0:32:47.039
+review boards at universities now and so
+
+0:32:43.379,0:32:49.769
+this I think is a very entire B's are
+
+0:32:47.039,0:32:52.559
+not perfect but they have definitely a
+
+0:32:49.769,0:32:54.419
+big improvement on not having them and
+
+0:32:52.559,0:32:56.789
+this was a really kind of effective I
+
+0:32:54.419,0:33:00.499
+think implementation of moving from
+
+0:32:56.789,0:33:02.820
+principles to a format of accountability
+
+0:33:00.499,0:33:06.590
+and something that Chris highlights is
+
+0:33:02.820,0:33:08.700
+the reason that this worked is because
+
+0:33:06.590,0:33:11.669
+universities were reliant on federal
+
+0:33:08.700,0:33:14.070
+funding and by having the funding tied
+
+0:33:11.669,0:33:17.639
+to kind of following these principles
+
+0:33:14.070,0:33:19.799
+and having an IRB that that that lover
+
+0:33:17.639,0:33:21.320
+of power is what made this possible so
+
+0:33:19.799,0:33:25.740
+it's not something that you could just
+
+0:33:21.320,0:33:28.049
+implement in kind of any situation you
+
+0:33:25.740,0:33:29.820
+need to have the lover of power and
+
+0:33:28.049,0:33:32.129
+accountability to make something like
+
+0:33:29.820,0:33:35.580
+this work this is kind of a positive
+
+0:33:32.129,0:33:37.799
+case study though of of people and
+
+0:33:35.580,0:33:39.029
+people spent years kind of coming up
+
+0:33:37.799,0:33:41.039
+with you know what
+
+0:33:39.029,0:33:43.619
+what should the principles of ethical
+
+0:33:41.039,0:33:45.059
+medical research be and then one of
+
+0:33:43.619,0:33:46.590
+those looks like in practice and then
+
+0:33:45.059,0:33:48.330
+this has been very well studied it was
+
+0:33:46.590,0:33:50.970
+kind of how well is this working when
+
+0:33:48.330,0:33:54.869
+it's been operationalized and time for
+
+0:33:50.970,0:33:57.720
+this is a bit of a successful case study
+
+0:33:54.869,0:34:00.299
+of kind of something terribly unethical
+
+0:33:57.720,0:34:04.740
+but then kind of people people
+
+0:34:00.299,0:34:06.480
+responding any any thoughts or comments
+
+0:34:04.740,0:34:08.159
+on this and then I'm linking to their
+
+0:34:06.480,0:34:10.440
+course again all their materials are
+
+0:34:08.159,0:34:13.319
+online if you wanted to to check out
+
+0:34:10.440,0:34:15.869
+more about about this or other other
+
+0:34:13.319,0:34:18.440
+kind of incidences and advances in
+
+0:34:15.869,0:34:25.020
+history and how they how they related to
+
+0:34:18.440,0:34:29.129
+data and power let me check the the
+
+0:34:25.020,0:34:31.500
+talkative group in the chat as a
+
+0:34:29.129,0:34:33.589
+discussion about D&I training not
+
+0:34:31.500,0:34:36.990
+working
+
+0:34:33.589,0:34:38.970
+yeah eager this.d and I can be used to
+
+0:34:36.990,0:34:42.569
+paper over real ongoing problems with
+
+0:34:38.970,0:34:46.109
+bad actors no one wants to confront this
+
+0:34:42.569,0:34:49.049
+is a great comment dni training centers
+
+0:34:46.109,0:34:50.760
+privileged folk folks experience and
+
+0:34:49.049,0:34:52.169
+discussions and as a person of color it
+
+0:34:50.760,0:34:54.450
+can be precarious to navigate
+
+0:34:52.169,0:34:56.520
+effectively without casting yourself in
+
+0:34:54.450,0:34:59.190
+a negative light or getting saddled with
+
+0:34:56.520,0:35:00.990
+extra unpaid work fixing the problem you
+
+0:34:59.190,0:35:03.329
+bring up in discussion and there is an
+
+0:35:00.990,0:35:07.140
+agreement on that yes I think those are
+
+0:35:03.329,0:35:09.869
+very very valid critiques of of DNI
+
+0:35:07.140,0:35:12.540
+training and I think there are people
+
+0:35:09.869,0:35:14.910
+out there that do it well but you have
+
+0:35:12.540,0:35:17.339
+to also I think really have the people
+
+0:35:14.910,0:35:18.960
+in power on board and be interested in
+
+0:35:17.339,0:35:22.680
+making structural changes and kind of
+
+0:35:18.960,0:35:25.079
+very thoughtful about it and another
+
+0:35:22.680,0:35:26.760
+comment even saying that diversity and
+
+0:35:25.079,0:35:28.940
+inclusion isn't working as a person of
+
+0:35:26.760,0:35:31.940
+color makes one seem like a cantankerous
+
+0:35:28.940,0:35:31.940
+spoilsport
+
+0:35:33.060,0:35:41.490
+yeah so thank you for that everyone on
+
+0:35:35.550,0:35:44.280
+the group chat oh and then I was going
+
+0:35:41.490,0:35:46.740
+to note I did a post on the fast day I
+
+0:35:44.280,0:35:48.960
+blog that I were I interviewed Chris
+
+0:35:46.740,0:35:58.760
+Wiggins and he talked talk some more
+
+0:35:48.960,0:36:00.600
+about this kind of another example of
+
+0:35:58.760,0:36:02.700
+moving towards kind of ethical
+
+0:36:00.600,0:36:04.640
+principles and rights would be the
+
+0:36:02.700,0:36:08.070
+Universal Declaration of Human Rights
+
+0:36:04.640,0:36:10.770
+which was adopted in 1948 by the the
+
+0:36:08.070,0:36:13.620
+United Nations and I should note this is
+
+0:36:10.770,0:36:16.500
+not Universal this was kind of just the
+
+0:36:13.620,0:36:18.750
+countries that were in the UN 48 of the
+
+0:36:16.500,0:36:21.620
+50 country 58 countries in the UN at the
+
+0:36:18.750,0:36:24.630
+time voted in favor men voted against
+
+0:36:21.620,0:36:26.510
+but this has often been elaborated in
+
+0:36:24.630,0:36:29.310
+international treaties and some national
+
+0:36:26.510,0:36:32.310
+constitutions so this is kind of an
+
+0:36:29.310,0:36:35.460
+example of one way of kind of trying to
+
+0:36:32.310,0:36:37.910
+put rights into a format and it's
+
+0:36:35.460,0:36:40.170
+something I think particularly in Europe
+
+0:36:37.910,0:36:43.050
+you know if there's a country that's
+
+0:36:40.170,0:36:45.210
+seen as not or you know seen as
+
+0:36:43.050,0:36:51.530
+violating human rights can be brought up
+
+0:36:45.210,0:36:56.100
+in kind of some international courts any
+
+0:36:51.530,0:36:57.420
+any questions or thoughts Oh Claudia no
+
+0:36:56.100,0:37:02.420
+someone wanted patches the past of the
+
+0:36:57.420,0:37:02.420
+catch box back cool thank you
+
+0:37:06.250,0:37:20.000
+so when is it going to yeah I mean I
+
+0:37:17.900,0:37:21.830
+think it's it's hard that's a great
+
+0:37:20.000,0:37:24.590
+question yeah so when will this be
+
+0:37:21.830,0:37:26.690
+implemented for data can it be
+
+0:37:24.590,0:37:28.880
+I'll see more about this in a moment I
+
+0:37:26.690,0:37:32.620
+do think we're in the kind of earlier
+
+0:37:28.880,0:37:35.720
+phases of even deciding like what are
+
+0:37:32.620,0:37:38.390
+how do we properly kind of frame the the
+
+0:37:35.720,0:37:42.040
+rights that we're trying to protect and
+
+0:37:38.390,0:37:42.040
+then there is also the issue of getting
+
+0:37:42.250,0:37:47.780
+getting the buy-in from countries and
+
+0:37:46.220,0:37:50.810
+kind of the levers of power of how do
+
+0:37:47.780,0:37:53.060
+you go about enforcing this and so like
+
+0:37:50.810,0:37:55.790
+the the Declaration of Human Rights
+
+0:37:53.060,0:37:58.220
+really you know grew very much out of
+
+0:37:55.790,0:38:01.640
+kind of World War two in post-world War
+
+0:37:58.220,0:38:03.740
+two conditions of even to kind of reach
+
+0:38:01.640,0:38:07.010
+this sort of agreement on on what sort
+
+0:38:03.740,0:38:09.770
+of rights do we want to protect and
+
+0:38:07.010,0:38:12.470
+codify so I do think we have a ways to
+
+0:38:09.770,0:38:25.580
+go with with data
+
+0:38:12.470,0:38:27.800
+oh no yeah I think we could implement
+
+0:38:25.580,0:38:29.660
+regulations like I think individual
+
+0:38:27.800,0:38:32.840
+country or even individual states like
+
+0:38:29.660,0:38:36.770
+we're seeing with and someone brought up
+
+0:38:32.840,0:38:39.380
+CCPA the California in California I was
+
+0:38:36.770,0:38:41.600
+kidding me remember what oh you had like
+
+0:38:39.380,0:38:43.460
+downloaded a new app and there was a
+
+0:38:41.600,0:38:45.680
+screen and it was like you know this app
+
+0:38:43.460,0:38:47.930
+is gonna track you unless you live in
+
+0:38:45.680,0:38:50.930
+California you can opt out and that was
+
+0:38:47.930,0:38:52.670
+alike oh this is such a you know this is
+
+0:38:50.930,0:38:54.500
+like nice to have this concrete moment
+
+0:38:52.670,0:38:56.660
+of like I could and it was still kind of
+
+0:38:54.500,0:38:58.580
+annoying to like you go get your device
+
+0:38:56.660,0:39:00.890
+ID that you can enter and submit this
+
+0:38:58.580,0:39:05.090
+form so it is something that I think
+
+0:39:00.890,0:39:10.190
+like states can implement kind of
+
+0:39:05.090,0:39:11.960
+particular localities in terms of and
+
+0:39:10.190,0:39:16.310
+this is in particular talking about the
+
+0:39:11.960,0:39:17.870
+the arm of regulation which is just one
+
+0:39:16.310,0:39:19.220
+way of addressing data ethics although I
+
+0:39:17.870,0:39:22.750
+do think it's a particularly in
+
+0:39:19.220,0:39:22.750
+Fortin way of addressing data ethics
+
+0:39:23.830,0:39:28.930
+yeah I don't have a good answer for that
+
+0:39:26.450,0:39:31.580
+that is a big question that yeah people
+
+0:39:28.930,0:39:33.950
+particularly its kind of a risk needs to
+
+0:39:31.580,0:39:36.619
+seem I think immediate and to be
+
+0:39:33.950,0:39:42.140
+impacting elites often to be taken
+
+0:39:36.619,0:39:43.490
+seriously as a risk yeah I'm gonna keep
+
+0:39:42.140,0:39:45.320
+going but yeah those are I mean those
+
+0:39:43.490,0:39:48.170
+are valid questions that I think don't
+
+0:39:45.320,0:39:50.030
+have don't have the easy answers let me
+
+0:39:48.170,0:39:58.810
+check the the group chat to see if
+
+0:39:50.030,0:39:58.810
+someone else is okay a lot of comments
+
+0:40:04.270,0:40:11.000
+okay so going back to the DNI discussion
+
+0:40:08.230,0:40:12.950
+someone saying that they have gotten
+
+0:40:11.000,0:40:16.490
+heat for being a part of affinity groups
+
+0:40:12.950,0:40:19.150
+like Latin X nai or women women which is
+
+0:40:16.490,0:40:19.150
+women and machine learning
+
+0:40:39.600,0:40:45.700
+yeah I'm gonna I appreciate all the
+
+0:40:42.790,0:40:48.520
+discussion about diversity inclusion all
+
+0:40:45.700,0:40:53.350
+I'm gonna move on with the UM the
+
+0:40:48.520,0:40:55.810
+lecture because I wanted I wanted to
+
+0:40:53.350,0:40:58.690
+spend time for kind of all of you to
+
+0:40:55.810,0:41:02.470
+return to think about what what will you
+
+0:40:58.690,0:41:04.360
+do next and if there are kind of
+
+0:41:02.470,0:41:06.070
+concrete things that you've taken from
+
+0:41:04.360,0:41:07.540
+this course or just or not even
+
+0:41:06.070,0:41:09.900
+necessarily from this course but kind of
+
+0:41:07.540,0:41:13.270
+where you where you want to move next
+
+0:41:09.900,0:41:15.550
+and continuing with this as a few
+
+0:41:13.270,0:41:19.570
+suggestions so there's a post I wrote in
+
+0:41:15.550,0:41:22.000
+2018 on AI ethics resources and a few
+
+0:41:19.570,0:41:23.830
+kind of potential suggestions I have and
+
+0:41:22.000,0:41:27.130
+I'll give you time in a moment to share
+
+0:41:23.830,0:41:29.260
+others if you have them one is to join
+
+0:41:27.130,0:41:34.060
+or start a reading group or meetup
+
+0:41:29.260,0:41:35.950
+around this topic also I like to
+
+0:41:34.060,0:41:39.670
+highlight that I think we need epochs in
+
+0:41:35.950,0:41:40.870
+kind of all workplaces in all roles you
+
+0:41:39.670,0:41:43.240
+can start a lunch group at your
+
+0:41:40.870,0:41:46.090
+workplace but it's not necessarily that
+
+0:41:43.240,0:41:48.190
+you have to be in a role that has you
+
+0:41:46.090,0:41:50.560
+know ethics and the title to be doing
+
+0:41:48.190,0:41:53.140
+ethical work and in fact as we see with
+
+0:41:50.560,0:41:55.330
+DNI diversity inclusion sometimes that's
+
+0:41:53.140,0:41:56.440
+a limitation of when companies have you
+
+0:41:55.330,0:41:58.270
+know some sort of chief diversity
+
+0:41:56.440,0:42:01.270
+officer that ends up just being for show
+
+0:41:58.270,0:42:03.190
+or they they don't have any power but we
+
+0:42:01.270,0:42:08.170
+do we really need kind of ethics in all
+
+0:42:03.190,0:42:10.750
+all roles they're in my post I list to
+
+0:42:08.170,0:42:13.300
+link to some formal programs this is
+
+0:42:10.750,0:42:16.150
+very much an incomplete list but just
+
+0:42:13.300,0:42:18.610
+things to know about the Aspen tech
+
+0:42:16.150,0:42:20.710
+policy hub that's here in San Francisco
+
+0:42:18.610,0:42:23.170
+and it's like a kind of like three
+
+0:42:20.710,0:42:24.730
+months boot boot camp geared towards
+
+0:42:23.170,0:42:26.170
+people that work in tech but are
+
+0:42:24.730,0:42:29.800
+interested in getting involved with
+
+0:42:26.170,0:42:32.410
+policy and they kind of develop a white
+
+0:42:29.800,0:42:35.020
+paper or draft law on a topic of their
+
+0:42:32.410,0:42:36.190
+interest as part of as part of it and I
+
+0:42:35.020,0:42:37.990
+think it seems like a really neat
+
+0:42:36.190,0:42:39.910
+program it just began in the last year
+
+0:42:37.990,0:42:43.360
+but I went to their their kind of
+
+0:42:39.910,0:42:44.770
+equivalent of demo day where you know in
+
+0:42:43.360,0:42:47.500
+graduates are all kind of people who are
+
+0:42:44.770,0:42:49.699
+mid-career in tech spoke about the the
+
+0:42:47.500,0:42:52.949
+problems they've been working on
+
+0:42:49.699,0:42:54.269
+there's Tech Congress i/o which is this
+
+0:42:52.949,0:42:55.229
+has been around for like six or seven
+
+0:42:54.269,0:42:58.319
+years
+
+0:42:55.229,0:43:00.239
+founded by Travis Moore with the goal of
+
+0:42:58.319,0:43:02.609
+putting again people that are mid-career
+
+0:43:00.239,0:43:05.849
+in tech getting them working as
+
+0:43:02.609,0:43:08.009
+congressional staffers and I think he
+
+0:43:05.849,0:43:10.499
+may be planning to try to so that is
+
+0:43:08.009,0:43:12.709
+kind of based in DC but I think he's
+
+0:43:10.499,0:43:15.209
+planning to start a local program
+
+0:43:12.709,0:43:18.690
+centered around a kind of local or state
+
+0:43:15.209,0:43:20.430
+government as well but there the idea is
+
+0:43:18.690,0:43:22.619
+that they're kind of not not enough
+
+0:43:20.430,0:43:24.509
+people in Congress have the technical
+
+0:43:22.619,0:43:27.599
+know-how to understand a lot of the
+
+0:43:24.509,0:43:28.729
+issues we're facing and we really also
+
+0:43:27.599,0:43:32.489
+kind of need people that aren't
+
+0:43:28.729,0:43:36.089
+lobbyists kind of representing technical
+
+0:43:32.489,0:43:37.609
+technical knowledge the Harvard Berkman
+
+0:43:36.089,0:43:40.079
+Cline's Center has a number of programs
+
+0:43:37.609,0:43:41.459
+in particular I think assembly sounds
+
+0:43:40.079,0:43:43.890
+like an interesting program and that's
+
+0:43:41.459,0:43:47.190
+something where I think you do too weeks
+
+0:43:43.890,0:43:49.079
+are in person but then you're mostly
+
+0:43:47.190,0:43:51.619
+working remotely with a team kind of
+
+0:43:49.079,0:43:54.630
+part time on a project
+
+0:43:51.619,0:43:56.849
+Mozilla Media fellowships Mozilla I
+
+0:43:54.630,0:44:00.690
+think finds a lot of great and relevant
+
+0:43:56.849,0:44:02.729
+work to this area the knight foundation
+
+0:44:00.690,0:44:04.339
+tends to have more of a journalism focus
+
+0:44:02.729,0:44:06.329
+but they have a lot of interesting
+
+0:44:04.339,0:44:08.309
+projects kind of the intersection of
+
+0:44:06.329,0:44:09.900
+tack and journalism and also journalism
+
+0:44:08.309,0:44:11.099
+and disinformation and so definitely
+
+0:44:09.900,0:44:13.319
+kind of look at look at what they're
+
+0:44:11.099,0:44:16.019
+funding but I wanted to kind of share
+
+0:44:13.319,0:44:18.690
+those as you move this up if you want to
+
+0:44:16.019,0:44:21.029
+take photos as some kind of particular
+
+0:44:18.690,0:44:23.219
+resources but again you don't have to
+
+0:44:21.029,0:44:26.609
+kind of be in some sort of formal
+
+0:44:23.219,0:44:28.680
+program or formal role involving ethics
+
+0:44:26.609,0:44:37.249
+to be incorporating ethics into your
+
+0:44:28.680,0:44:37.249
+work let me check the the group chat
+
+0:44:41.010,0:44:44.680
+indefinitely everyone who's mentioned
+
+0:44:42.670,0:44:46.900
+kind of interesting studies around
+
+0:44:44.680,0:44:48.490
+diversity and inclusion please post
+
+0:44:46.900,0:45:03.390
+these on the forums because I would love
+
+0:44:48.490,0:45:07.750
+love to see them okay some kind of
+
+0:45:03.390,0:45:09.970
+mentions of Zainab's fxg missy meseta
+
+0:45:07.750,0:45:12.430
+klaus ki and kathy o'neill as being
+
+0:45:09.970,0:45:14.950
+favorite authors yeah and I definitely
+
+0:45:12.430,0:45:17.050
+kind of everyone that I included in the
+
+0:45:14.950,0:45:18.820
+syllabus of course I like their work and
+
+0:45:17.050,0:45:23.050
+encourage you to kind of follow follow
+
+0:45:18.820,0:45:25.180
+them and read more of it so then I went
+
+0:45:23.050,0:45:26.440
+back through and I show you a first talk
+
+0:45:25.180,0:45:28.390
+of a time also does anyone have any
+
+0:45:26.440,0:45:30.580
+other kind of steps they're thinking of
+
+0:45:28.390,0:45:41.590
+taking or or things they would like to
+
+0:45:30.580,0:45:43.690
+do in the workplace based on this okay
+
+0:45:41.590,0:45:46.420
+I'll keep going you feel free to share
+
+0:45:43.690,0:45:48.490
+some later if you think of them um I
+
+0:45:46.420,0:45:52.240
+went back through and so in in all of
+
+0:45:48.490,0:45:54.010
+the lessons I've tried to include some I
+
+0:45:52.240,0:45:56.080
+usually call them steps towards
+
+0:45:54.010,0:45:59.020
+solutions because I do realize that I
+
+0:45:56.080,0:46:00.760
+don't think I'm offering something kind
+
+0:45:59.020,0:46:02.530
+of concrete enough to be a solution
+
+0:46:00.760,0:46:04.720
+usually but what I think are kind of
+
+0:46:02.530,0:46:07.510
+positive steps and so I went back and
+
+0:46:04.720,0:46:09.460
+tried to just pull those from previous
+
+0:46:07.510,0:46:11.350
+lessons so on the topic of
+
+0:46:09.460,0:46:14.080
+disinformation I had encouraged people
+
+0:46:11.350,0:46:15.910
+to to practice good social media habits
+
+0:46:14.080,0:46:17.710
+and I had a link to Mike Caulfield's
+
+0:46:15.910,0:46:19.540
+work which has been great and he's
+
+0:46:17.710,0:46:22.780
+actually started a Twitter account just
+
+0:46:19.540,0:46:24.640
+about kovat 19 and searching for
+
+0:46:22.780,0:46:27.070
+disinformation and how to evaluate the
+
+0:46:24.640,0:46:29.770
+information you're seeing keeping
+
+0:46:27.070,0:46:31.420
+perspective strengthening our
+
+0:46:29.770,0:46:34.630
+institutions such as journalism
+
+0:46:31.420,0:46:37.030
+education universities and nonpartisan
+
+0:46:34.630,0:46:38.260
+government departments treating
+
+0:46:37.030,0:46:41.260
+disinformation as a cybersecurity
+
+0:46:38.260,0:46:45.940
+problem and developing verification
+
+0:46:41.260,0:46:47.950
+tools I offered some steps towards doing
+
+0:46:45.940,0:46:49.930
+better on bias such as analyzing a
+
+0:46:47.950,0:46:52.000
+project out workers school and in
+
+0:46:49.930,0:46:54.369
+particular I wanted to highlight
+
+0:46:52.000,0:46:57.910
+data sheets for data sets and model
+
+0:46:54.369,0:47:00.040
+cards for model reporting as two
+
+0:46:57.910,0:47:02.290
+potential ways to kind of record
+
+0:47:00.040,0:47:05.170
+information about your your data set or
+
+0:47:02.290,0:47:07.300
+your model working with domain experts
+
+0:47:05.170,0:47:10.180
+and those impacted increasing diversity
+
+0:47:07.300,0:47:17.590
+in your workplace advocating for good
+
+0:47:10.180,0:47:20.590
+policy on privacy I talked about kind of
+
+0:47:17.590,0:47:22.720
+the importance of the meaningful
+
+0:47:20.590,0:47:25.930
+incredible financial penalties and
+
+0:47:22.720,0:47:27.490
+actually motivating companies looking at
+
+0:47:25.930,0:47:29.860
+history and some of the kind of big
+
+0:47:27.490,0:47:32.640
+regulatory battles that people have
+
+0:47:29.860,0:47:36.850
+fought in the past around issues such as
+
+0:47:32.640,0:47:41.440
+kind of environmental pollution or car
+
+0:47:36.850,0:47:44.200
+safety and moving towards a frame of
+
+0:47:41.440,0:47:46.180
+treating privacy as a public good and
+
+0:47:44.200,0:47:48.250
+regulating data collection and political
+
+0:47:46.180,0:47:51.490
+ads I shared this ain't up to effect G
+
+0:47:48.250,0:47:53.190
+posts from 2018 where she lays out and
+
+0:47:51.490,0:47:55.300
+this was at the time of the
+
+0:47:53.190,0:47:57.340
+congressional hearings where Zuckerberg
+
+0:47:55.300,0:47:58.240
+was being questioned and she says you
+
+0:47:57.340,0:47:59.770
+know we don't need to ask him any
+
+0:47:58.240,0:48:02.080
+questions we already know enough about
+
+0:47:59.770,0:48:03.460
+Facebook and how they behave and give
+
+0:48:02.080,0:48:08.590
+some recommendations about what we
+
+0:48:03.460,0:48:10.390
+should be doing I wrote post on four
+
+0:48:08.590,0:48:15.280
+principles for responsible government
+
+0:48:10.390,0:48:17.980
+use of technology with some of the kind
+
+0:48:15.280,0:48:19.840
+of themes from our tech policy workshop
+
+0:48:17.980,0:48:22.240
+that we here had here at the Center for
+
+0:48:19.840,0:48:24.070
+Applied data ethics and then this other
+
+0:48:22.240,0:48:26.920
+digital political ethics came from a
+
+0:48:24.070,0:48:34.090
+report around I think political
+
+0:48:26.920,0:48:36.070
+advertising online yeah and so I wanted
+
+0:48:34.090,0:48:38.140
+to kind of encourage you to and I know I
+
+0:48:36.070,0:48:40.450
+asked this is one of the quiz questions
+
+0:48:38.140,0:48:42.670
+but to think about one thing you're
+
+0:48:40.450,0:48:44.080
+taking away from the course or one thing
+
+0:48:42.670,0:48:47.770
+you would like to do or have already
+
+0:48:44.080,0:48:50.940
+begun in response to the course I'll
+
+0:48:47.770,0:48:54.660
+give time if anyone wants to share
+
+0:48:50.940,0:48:54.660
+alright and can
+
+0:49:08.450,0:49:15.330
+yeah some sort of development policy or
+
+0:49:13.350,0:49:17.070
+some sort of committee for citizen
+
+0:49:15.330,0:49:25.410
+review of technology we have some in
+
+0:49:17.070,0:49:26.880
+every level oh great okay either ways
+
+0:49:25.410,0:49:28.980
+and that's awesome
+
+0:49:26.880,0:49:37.890
+yeah keep me posted on how that goes
+
+0:49:28.980,0:49:46.560
+that's cool any others check the chatty
+
+0:49:37.890,0:49:51.260
+online group you see okay so read a few
+
+0:49:46.560,0:49:53.670
+of the comments from the online group
+
+0:49:51.260,0:49:55.500
+just by taking the course opens the
+
+0:49:53.670,0:49:57.600
+opportunity to talk about the topic with
+
+0:49:55.500,0:50:00.390
+friends and co-workers creating space to
+
+0:49:57.600,0:50:03.420
+reflect about the topic that's fantastic
+
+0:50:00.390,0:50:06.780
+yeah I'm happy to hear that I'm hiring
+
+0:50:03.420,0:50:09.780
+hiring more of my minorities consulting
+
+0:50:06.780,0:50:11.280
+and data ethics I will be implementing
+
+0:50:09.780,0:50:13.140
+some of these things in my onboarding
+
+0:50:11.280,0:50:13.790
+program at work that's that's great to
+
+0:50:13.140,0:50:17.900
+hear
+
+0:50:13.790,0:50:22.140
+I'll be educating VCS on what to know
+
+0:50:17.900,0:50:23.910
+that's fantastic want to use some
+
+0:50:22.140,0:50:25.980
+approach that avoids the stigma of
+
+0:50:23.910,0:50:27.990
+program mandates but gives interviewers
+
+0:50:25.980,0:50:29.880
+tools for thinking about hiring and some
+
+0:50:27.990,0:50:31.080
+representative fashion and I just went
+
+0:50:29.880,0:50:32.760
+to highlight and I think I mentioned
+
+0:50:31.080,0:50:35.460
+this in a previous week but I wrote a
+
+0:50:32.760,0:50:38.820
+post on called how to make tech
+
+0:50:35.460,0:50:40.230
+interviews less terrible and that I
+
+0:50:38.820,0:50:41.790
+looked through kind of a lot of the
+
+0:50:40.230,0:50:44.670
+research around interviews and hiring
+
+0:50:41.790,0:50:48.090
+and make some recommendations there in
+
+0:50:44.670,0:50:50.460
+the context of both how much bias there
+
+0:50:48.090,0:50:52.680
+is in the process but also that kind of
+
+0:50:50.460,0:50:55.140
+tech interviews are terrible for pretty
+
+0:50:52.680,0:50:57.330
+much everyone regardless and they are a
+
+0:50:55.140,0:50:58.680
+hard problem but I give kind of several
+
+0:50:57.330,0:51:01.890
+recommendations there so that's a
+
+0:50:58.680,0:51:03.480
+potential resource side note I'm
+
+0:51:01.890,0:51:04.890
+actively working on helping with
+
+0:51:03.480,0:51:06.190
+increased and more accurate data
+
+0:51:04.890,0:51:08.590
+collection on
+
+0:51:06.190,0:51:10.210
+Korona vert coronavirus and the
+
+0:51:08.590,0:51:12.070
+Philippines lots of people who are
+
+0:51:10.210,0:51:14.050
+misreporting under reporting on data
+
+0:51:12.070,0:51:20.350
+related to it that's a great thing to be
+
+0:51:14.050,0:51:21.730
+doing oh I like this one find people
+
+0:51:20.350,0:51:23.500
+with roles in the company that are
+
+0:51:21.730,0:51:25.330
+closest to the channels that users use
+
+0:51:23.500,0:51:28.360
+to complain to find ways for people
+
+0:51:25.330,0:51:31.450
+listening to issues to take more
+
+0:51:28.360,0:51:34.030
+meaningful actions I really like that in
+
+0:51:31.450,0:51:36.730
+a previous week I quoted an Alex first
+
+0:51:34.030,0:51:38.830
+post about kind of trying to have trust
+
+0:51:36.730,0:51:41.920
+and safety better integrated with
+
+0:51:38.830,0:51:45.280
+product and engineering but along those
+
+0:51:41.920,0:51:48.210
+lines of kind of having the complaints
+
+0:51:45.280,0:51:51.820
+and ways that products misfunction
+
+0:51:48.210,0:51:53.500
+making sure that kind of information is
+
+0:51:51.820,0:51:57.690
+getting back more directly to the people
+
+0:51:53.500,0:51:57.690
+that are designing and building products
+
+0:52:05.460,0:52:08.460
+whoops
+
+0:52:16.630,0:52:21.940
+the importance of privacy as a human
+
+0:52:19.600,0:52:26.860
+right and talking about AI I'm glad to
+
+0:52:21.940,0:52:30.280
+hear that message got through and going
+
+0:52:26.860,0:52:34.330
+to pursue AI policy research roles it's
+
+0:52:30.280,0:52:36.250
+great no PhD in cybersecurity a lot law
+
+0:52:34.330,0:52:38.020
+and about to launch a consulting firm
+
+0:52:36.250,0:52:42.340
+and data protection compliance data
+
+0:52:38.020,0:52:47.530
+ethics and privacy law how data
+
+0:52:42.340,0:52:49.450
+shouldn't be monopolized a question I've
+
+0:52:47.530,0:52:51.160
+been cold calling the 50 states and
+
+0:52:49.450,0:52:53.440
+talking with public and private sector
+
+0:52:51.160,0:52:55.540
+committees they're quite lost do you
+
+0:52:53.440,0:52:59.920
+have any key go-to resources for
+
+0:52:55.540,0:53:05.890
+state-level policy makers that's a good
+
+0:52:59.920,0:53:07.780
+question and I am Not sure yes I don't
+
+0:53:05.890,0:53:09.580
+feel that I have kind of go-to resources
+
+0:53:07.780,0:53:12.190
+on this although I do feel like groups
+
+0:53:09.580,0:53:17.080
+are writing them does anyone else want
+
+0:53:12.190,0:53:20.520
+to chime in or or share resources and we
+
+0:53:17.080,0:53:20.520
+can also start a thread around this
+
+0:53:30.000,0:53:37.960
+track that kind of stuff so maybe that's
+
+0:53:32.350,0:53:41.380
+it okay yeah thank you yeah I know I
+
+0:53:37.960,0:53:43.180
+know a Pai Pai partnership on AI does a
+
+0:53:41.380,0:53:45.430
+lot of reports they are such a broad
+
+0:53:43.180,0:53:48.760
+umbrella that I would want to look at
+
+0:53:45.430,0:53:51.040
+the individual report to kind of have a
+
+0:53:48.760,0:53:55.750
+sense of it but then you have some
+
+0:53:51.040,0:53:58.120
+interesting people working there well
+
+0:53:55.750,0:54:00.130
+thank you yeah thanks for everyone on
+
+0:53:58.120,0:54:01.420
+the livestream those are yeah some great
+
+0:54:00.130,0:54:05.430
+comments also thanks to everyone in the
+
+0:54:01.420,0:54:05.430
+classroom here in person
+
+0:54:08.110,0:54:15.560
+hey and so then I wanted to share a
+
+0:54:13.340,0:54:18.770
+quote that I've been thinking about and
+
+0:54:15.560,0:54:20.480
+so I I realized I you know I feel
+
+0:54:18.770,0:54:23.660
+somewhat dissatisfied with the steps
+
+0:54:20.480,0:54:24.740
+that I offer as toward solutions like I
+
+0:54:23.660,0:54:26.930
+would like to have something kind of
+
+0:54:24.740,0:54:28.940
+more concrete and comprehensive of like
+
+0:54:26.930,0:54:30.140
+this is this is what we do and I
+
+0:54:28.940,0:54:32.120
+sometimes talk to people that are I
+
+0:54:30.140,0:54:33.470
+think dissatisfied or you know they're
+
+0:54:32.120,0:54:35.930
+like you know give me something I can
+
+0:54:33.470,0:54:37.970
+you know a checklist that I can follow
+
+0:54:35.930,0:54:41.270
+and you know know that it's everything's
+
+0:54:37.970,0:54:43.940
+ethical then and so something I found
+
+0:54:41.270,0:54:46.940
+really and that does not exist right now
+
+0:54:43.940,0:54:50.270
+I should say to be clear you know these
+
+0:54:46.940,0:54:53.630
+are really complicated problems and it's
+
+0:54:50.270,0:54:55.310
+also kind of newer that they're being
+
+0:54:53.630,0:54:57.140
+studied and talked about in the way that
+
+0:54:55.310,0:54:58.820
+they are even though you know there are
+
+0:54:57.140,0:55:02.090
+fields that have been looking at related
+
+0:54:58.820,0:55:03.140
+work for longer but just kind of seeing
+
+0:55:02.090,0:55:06.860
+the impact of some of these new
+
+0:55:03.140,0:55:09.710
+technologies is a newer area and so this
+
+0:55:06.860,0:55:13.910
+is a quote from Julia Angwin who was a
+
+0:55:09.710,0:55:16.160
+senior reporter at Pro Publica she was
+
+0:55:13.910,0:55:18.650
+one of the investigators on pro-public
+
+0:55:16.160,0:55:21.770
+'has investigation of the compass
+
+0:55:18.650,0:55:23.600
+recidivism algorithm in 2016 which
+
+0:55:21.770,0:55:24.980
+really kind of helped kick off the
+
+0:55:23.600,0:55:28.100
+fairness accountability and transparency
+
+0:55:24.980,0:55:32.030
+field and she's now the chief chief
+
+0:55:28.100,0:55:34.430
+editor at the markup and she she said in
+
+0:55:32.030,0:55:36.290
+an interview last year I strongly
+
+0:55:34.430,0:55:38.720
+believe that in order to solve a problem
+
+0:55:36.290,0:55:42.290
+you have to diagnose it and that we're
+
+0:55:38.720,0:55:44.510
+still in the diagnosis phase of this if
+
+0:55:42.290,0:55:46.910
+you think about the century the turn of
+
+0:55:44.510,0:55:49.330
+the century and industrialization we had
+
+0:55:46.910,0:55:51.740
+I don't know 30 years of child labor
+
+0:55:49.330,0:55:53.330
+unlimited work hours terrible working
+
+0:55:51.740,0:55:55.700
+conditions and it took a lot of
+
+0:55:53.330,0:55:57.890
+journalists muckraking and advocacy to
+
+0:55:55.700,0:56:00.140
+diagnose the problem and have some
+
+0:55:57.890,0:56:06.080
+understanding of what it was and then
+
+0:56:00.140,0:56:07.850
+the activism to get lost changed I see
+
+0:56:06.080,0:56:09.890
+my role as trying to make as clear as
+
+0:56:07.850,0:56:12.230
+possible what the downsides are and
+
+0:56:09.890,0:56:14.360
+diagnosing them really accurately so
+
+0:56:12.230,0:56:16.040
+that they can be solvable that's hard
+
+0:56:14.360,0:56:19.220
+work and lots more people need to be
+
+0:56:16.040,0:56:20.360
+doing it and I really I think I
+
+0:56:19.220,0:56:21.119
+appreciated this work and this
+
+0:56:20.360,0:56:22.589
+recognition
+
+0:56:21.119,0:56:25.109
+or this this quote and kind of this
+
+0:56:22.589,0:56:26.990
+recognition of kind of how complex these
+
+0:56:25.109,0:56:30.269
+problems are and just that the work of
+
+0:56:26.990,0:56:32.609
+continuing to diagnose them is is is
+
+0:56:30.269,0:56:35.809
+valuable and kind of one of the steps
+
+0:56:32.609,0:56:39.569
+towards towards hopefully solution
+
+0:56:35.809,0:56:42.269
+solving them and supporting kind of the
+
+0:56:39.569,0:56:43.829
+the necessary activism to solve them and
+
+0:56:42.269,0:56:46.289
+this comes from an interview called
+
+0:56:43.829,0:56:51.480
+forget about privacy Julia Angwin and
+
+0:56:46.289,0:56:55.230
+Trevor Paglen on our data crisis and I
+
+0:56:51.480,0:56:56.880
+think I think that's all that I have I
+
+0:56:55.230,0:56:59.069
+also just want to thank all of you I've
+
+0:56:56.880,0:57:01.769
+really enjoyed teaching this course this
+
+0:56:59.069,0:57:03.450
+was my first time teaching a course like
+
+0:57:01.769,0:57:05.130
+this I've previously taught kind of much
+
+0:57:03.450,0:57:07.019
+more technical courses and so I was
+
+0:57:05.130,0:57:10.039
+really kind of not sure how it would go
+
+0:57:07.019,0:57:12.029
+to to be doing something more
+
+0:57:10.039,0:57:14.279
+qualitative and more discussion based
+
+0:57:12.029,0:57:16.859
+but I've really enjoyed it I've really
+
+0:57:14.279,0:57:19.079
+appreciated kind of everyone's comments
+
+0:57:16.859,0:57:24.200
+and how much participation and thought
+
+0:57:19.079,0:57:24.200
+you all have given this so thank you
+
