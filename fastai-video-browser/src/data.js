@@ -48,6 +48,7 @@ export const LESSONS_NAMES = [{
 }]
 
 export const quickLinks = [
-  { title: 'FastAI API Docs', href: 'https://docs.fast.ai/' },
-  { title: 'FastAI Course Home', href: 'https://course.fast.ai/' },
+  { title: 'USF Center for Applied Date Ethics', href: 'https://www.usfca.edu/data-institute/initiatives/center-applied-data-ethics' },
+  { title: 'fast.ai', href: 'https://fast.ai/' },
+  { title: 'Course Home', href: 'https://ethics.fast.ai/' },
 ]
