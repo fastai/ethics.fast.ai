@@ -4,23 +4,26 @@ entries:
     - output: web,pdf
       title: Overview
       url: /
+    - output: web, pdf
+      title: Syllabus
+      url /syllabus
     - output: web,pdf
-      title: Lesson 1 - one
+      title: Lesson 1- Disinformation
       url: /videos?lesson=1
     - output: web,pdf
-      title: Lesson 2 - one
+      title: Lesson 2- Bias and Fairness
       url: /videos?lesson=2
     - output: web,pdf
-      title: Lesson 3 - one
+      title: Lesson 3- Foundations of Ethics and Ethics Toolkit
       url: /videos?lesson=3
     - output: web,pdf
-      title: Lesson 4 - one
+      title: Lesson 4- Privacy and Surveillance
       url: /videos?lesson=4
     - output: web,pdf
-      title: Lesson 5 - one
+      title: Lesson 5- Our Ecosystem, Metrics, and Venture Capital
       url: /videos?lesson=5
     - output: web,pdf
-      title: Lesson 6 - one
+      title: Lesson 6- Algorithmic Colonialism
       url: /videos?lesson=6
     output: web
     title: ethics
