@@ -2,7 +2,7 @@
 
 The interesting stuff is in src/components. data.js is what you need to edit.
 
-tools/build-site.sh is used to rebuild the production JS.
+fastai-video-browser/build-site.sh is used to rebuild the production JS.
 
 Sidebar is in `docs/_data/sidebars`
 
