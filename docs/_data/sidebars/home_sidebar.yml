@@ -21,10 +21,10 @@ entries:
       url: /videos?lesson=4
     - output: web,pdf
       title: Lesson 5- Our Ecosystem, Metrics, and Venture Capital
-      url: /videos?lesson=5
+      url: /videos?lesson=6
     - output: web,pdf
       title: Lesson 6- Algorithmic Colonialism
-      url: /videos?lesson=6
+      url: /videos?lesson=9
     output: web
     title: ethics
   output: web
