@@ -8,6 +8,8 @@ There is a ton of great research and writing on the topics below, and it was ver
 
 From deepfakes being used to harass women, widespread misinformation about coronavirus (labeled an "infodemic" by the WHO), fears about the role disinformation could play in the 2020 election, and news of extensive foreign influence operations, disinformation is in the news frequently and is an urgent issue. It is also indicative of the complexity and interdisciplinary nature of so many data ethics issues: disinformation involves tech design choices, bad actors, human psychology, misaligned financial incentives, and more.
 
+### [Lesson 1 video](http://ethics.fast.ai/videos/?lesson=1)
+
 ### Required Reading:
 
 - Will Oremus (covering the work of Mike Caulfield), [The Simplest Way to Spot Coronavirus Misinformation on Social Media](https://onezero.medium.com/the-simplest-way-to-spot-coronavirus-misinformation-on-social-media-4b7995448071)
@@ -25,6 +27,8 @@ From deepfakes being used to harass women, widespread misinformation about coron
 ## Lesson 2: Bias & Fairness
 
 Unjust bias is an increasingly discussed issue in machine learning and has even spawned its own field as the primary focus of Fairness, Accountability, and Transparency (FAccT).  We will go beyond a surface-level discussion and cover questions of how fairness is defined, different types of bias, steps towards mitigating it, and complicating factors.
+
+### [Lesson 2 video](http://ethics.fast.ai/videos/?lesson=2)
 
 ### Required Reading/Watching:
 
@@ -45,6 +49,8 @@ Involves code, but was geared to audience that included beginners:
 
 Now that we’ve seen a number of concrete, real world examples of ethical issues that arise with data, we will step back and learn about some ethical philosophies and lenses to evaluate ethics through, as well as considering how ethical questions are chosen.  We will also cover the Markkula Center’s Tech Ethics Toolkit, a set of concrete practices to be implemented in the workplace.
 
+### [Lesson 3 video](http://ethics.fast.ai/videos/?lesson=3)
+
 ### Required Reading
 - Shannon Vallor et al, [Conceptual Frameworks in Technology and Engineering Practice: Ethical Lenses to Look Through](https://www.scu.edu/ethics-in-technology-practice/conceptual-frameworks/)
 - Ian Bogost, [Enough With the Trolley Problem](https://www.theatlantic.com/technology/archive/2018/03/got-99-problems-but-a-trolley-aint-one/556805/)
@@ -63,6 +69,8 @@ Mark White, [Superhuman Ethics Class With The Avengers Prime](https://media.wile
 
 Huge amounts of data are being collected about us: apps on our phones track our location, dating sites sell intimate details, facial recognition in schools records students, and police use large, unregulated databases of faces.  Here, we discuss real-world examples of how our data is collected, sold, and used.  There are also concerning patterns of how surveillance is used to suppress dissent and to further harm those who are already marginalized.
 
+### [Lesson 4 video](http://ethics.fast.ai/videos/?lesson=4)
+
 ### Required Reading
 - Jennifer Valentino-DeVries et al (NYT), [Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
 - Phillip Rogaway, [The Moral Character of Cryptographic Work](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
@@ -79,6 +87,8 @@ Huge amounts of data are being collected about us: apps on our phones track our 
 ## Lesson 5: How did we get here? Our Ecosystem
 News stories understandably often focus on one instance of a particular ethics issue at a particular company.  Here, I want us to step back and consider some of the broader trends and factors that have resulted in the types of issues we are seeing.  These include our over-emphasis on metrics, the inherent design of many of the platforms, venture capital’s focus on hypergrowth, and more.
 
+### [Lesson 5 video](http://ethics.fast.ai/videos/?lesson=6)
+
 ### Required Reading:
 - Zeynep Tufekci, [How social media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)
 - James Grimmelman, [The Platform is the Message](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3132758)
@@ -90,9 +100,11 @@ News stories understandably often focus on one instance of a particular ethics i
 ## Lesson 6: Algorithmic Colonialism, and Next Steps
 When corporations from one country develop and deploy technology in many other countries, extracting data and profits, often with little awareness of local cultural issues, a number of ethical issues can arise. Here we will explore algorithmic colonialism.  We will also consider next steps for how students can continue to engage around data ethics and take what they’ve learned back to their workplaces.
 
+### [Lesson 6 video](http://ethics.fast.ai/videos/?lesson=9)
+
 ### Required Reading:
 - Abeba Birhane, [The Algorithmic Colonization of Africa](https://reallifemag.com/the-algorithmic-colonization-of-africa/)
-- Amy Maxmen (Nature), [Can tracking people through phone-call data improve lives?](https://www.nature.com/articles/d41586-019-01679-5)
+- Amy Maxmen, [Can tracking people through phone-call data improve lives?](https://www.nature.com/articles/d41586-019-01679-5)
 - Adrienne Lafrance, [Facebook and the New Colonialism](https://www.theatlantic.com/technology/archive/2016/02/facebook-and-the-new-colonialism/462393/)
 
 ### Optional Reading:
