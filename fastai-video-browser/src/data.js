@@ -30,8 +30,8 @@ export const VIDEO_SOURCES = {
   5: "HwfeDeqbmsI",
   6: "US42H1znvKU",
   7: "TKYr4sS1SFw",
-  8: "Nzvoc7aaEzw",
-  9: "upU-_ECq80Y",
+  8: "upU-_ECq80Y",
+  9: "Nzvoc7aaEzw",
 
 };
 
