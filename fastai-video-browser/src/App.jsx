@@ -28,7 +28,7 @@ const App = () => {
     playerRef.current.getInternalPlayer().playVideo()
   }, [playerRef])
 
-  const selectedPart = selectedLesson < 8 ? 0 : 1;
+  const selectedPart = 0;
 
   return (
     <Layout
