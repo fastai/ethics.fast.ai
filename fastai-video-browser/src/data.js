@@ -6,8 +6,8 @@ export const TRANSCRIPT_URLS = {
   5: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-4-2.json',
   6: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-5-1.json',
   7: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-5-2.json',
-  7: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-5-3.json',
-  7: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-6-1.json',
+  8: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-5-3.json',
+  9: 'https://raw.githubusercontent.com/fastai/ethics.fast.ai/master/files/transcripts/transcript-6-1.json',
 };
 
 export const NOTES_URLS = {
