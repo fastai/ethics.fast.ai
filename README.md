@@ -1,4 +1,4 @@
-# The fast.ai ethics book
+# The fast.ai ethics course
 > Coming in July.
 
 
