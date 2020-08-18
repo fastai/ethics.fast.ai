@@ -32,7 +32,6 @@ export const VIDEO_SOURCES = {
   7: "TKYr4sS1SFw",
   8: "upU-_ECq80Y",
   9: "Nzvoc7aaEzw",
-
 };
 
 export const LESSONS_NAMES = [{
@@ -48,7 +47,7 @@ export const LESSONS_NAMES = [{
 }]
 
 export const quickLinks = [
+  { title: 'Course Home', href: 'https://ethics.fast.ai/' },
   { title: 'USF Center for Applied Date Ethics', href: 'https://www.usfca.edu/data-institute/initiatives/center-applied-data-ethics' },
   { title: 'fast.ai', href: 'https://fast.ai/' },
-  { title: 'Course Home', href: 'https://ethics.fast.ai/' },
 ]
