@@ -26,4 +26,4 @@ This class was originally taught in-person at the [University of San Francisco D
 
 Check out the [syllabus and reading list](/syllabus)!
 
-
+Watch the [videos here](http://ethics.fast.ai/videos/?lesson=1)!
