@@ -7,7 +7,7 @@ description: Free, online course from fast.ai and USF Data Institute covering di
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
-google_analytics:
+google_analytics: UA-89522379-2
 # See http://nbdev.fast.ai/search for help with adding Search
 google_search:
 
