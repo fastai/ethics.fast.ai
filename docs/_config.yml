@@ -3,7 +3,7 @@ output: web
 topnav_title: Data ethics
 site_title: Data ethics
 company_name: fast.ai
-description: ethics.fast.ai
+description: Free, online course from fast.ai and USF Data Institute covering disinformation, bias & fairness, ethical foundations, practical tools, privacy & surveillance, the silicon valley ecosystem, and algorithmic colonialism
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
@@ -60,5 +60,7 @@ sidebars:
 - home_sidebar
 permalink: pretty
 
+twitter_username: math_rachel
 theme: jekyll-theme-cayman
 baseurl: 
+

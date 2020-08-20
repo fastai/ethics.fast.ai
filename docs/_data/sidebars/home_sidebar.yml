@@ -6,7 +6,7 @@ entries:
       url: /
     - output: web, pdf
       title: Syllabus
-      url: /syllabus
+      url: /syllabus/
     - output: web,pdf
       title: Lesson 1- Disinformation
       url: /videos?lesson=1

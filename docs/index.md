@@ -1,5 +1,7 @@
 ---
 title: Practical Data Ethics
+author: math_rachel
+image: /images/headlines.jpg
 ---
 
 Data ethics covers an incredibly broad range of topics, many of which are urgent, making headlines daily, and causing harm to real people right now. A meta-analysis of [over 100 syllabi on tech ethics](https://medium.com/@cfiesler/tech-ethics-curricula-a-collection-of-syllabi-3eedfb76be18), titled ["What do we teach when we teach tech ethics?"](https://cmci.colorado.edu/~cafi5706/SIGCSE2020_EthicsSyllabi.pdf) found that there was huge variation in which topics are covered across tech ethics courses (law & policy, privacy & surveillance, philosophy, justice & human rights, environmental impact, civic responsibility, robots, disinformation, work & labor, design, cybersecurity, research ethics, and more-- far more than any one course could cover).  These courses were taught by professors from a variety of fields.  The area where there was more unity was in outcomes, with abilities to critique, spot issues, and make arguments being some of the most common desired outcomes for tech ethics course. 
