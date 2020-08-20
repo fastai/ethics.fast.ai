@@ -4,7 +4,7 @@
 Now that we’ve seen a number of concrete, real world examples of ethical issues that arise with data, we will step back and learn about some ethical philosophies and lenses to evaluate ethics through, as well as considering how ethical questions are chosen.  We will also cover the Markkula Center’s Tech Ethics Toolkit, a set of concrete practices to be implemented in the workplace.
 
 ## Required Reading
-- Shannon Vallor et al, [Conceptual Frameworks in Technology and Engineering Practice: Ethical Lenses to Look Through](https://www.scu.edu/ethics-in-technology-practice/conceptual-frameworks/)
+- Shannon Vallor et al, [Conceptual Frameworks in Technology and Engineering Practice: Ethical Lenses to Look Through](https://www.scu.edu/ethics-in-technology-practice/ethical-lenses/)
 - Ian Bogost, [Enough With the Trolley Problem](https://www.theatlantic.com/technology/archive/2018/03/got-99-problems-but-a-trolley-aint-one/556805/)
 - Zeynep Tufekci, [Sociological Storytelling vs. Psychological Storytelling](https://blogs.scientificamerican.com/observations/the-real-reason-fans-hate-the-last-season-of-game-of-thrones/)
 - Langdon Winner, [Do Artifacts Have Politics?](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)
