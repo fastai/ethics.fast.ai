@@ -59,7 +59,7 @@ Now that we’ve seen a number of concrete, real world examples of ethical issue
 - Shannon Vallor, [An Ethical Toolkit for Engineering/Design Practice](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/)
 
 ### Optional Reading
-- Meg Young et al, [Toward inclusive tech policy design: a method for underrepresented](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/)
+- Meg Young et al, [Toward inclusive tech policy design: a method for underrepresented](https://link.springer.com/article/10.1007/s10676-019-09497-z)
 voices to strengthen tech policy documents
 - Margaret Mitchell et al, [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993)
 - Eric P. S. Baumer and M. Six Silberman, [When the Implication Is Not to Design (Technology)](https://www.ics.uci.edu/~djp3/classes/2011_01_INF134/papers/impl9-rev.pdf)
